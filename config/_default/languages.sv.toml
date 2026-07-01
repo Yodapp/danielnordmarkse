@@ -1,0 +1,8 @@
+label = "Svenska"
+weight = 1
+title = "Daniel Nordmark"
+locale = "sv-SE"
+
+[params]
+  author.name = "Daniel Nordmark"
+  description = "En personlig berättelse om en stroke som missades — och kampen som följt."

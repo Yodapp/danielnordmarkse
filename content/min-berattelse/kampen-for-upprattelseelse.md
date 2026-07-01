@@ -1,0 +1,68 @@
+---
+title: "Kampen för upprättelse"
+description: "LÖF, IVO, polisanmälan och det pågående rättsliga arbetet — och varför det spelar roll."
+date: 2024-09-01
+weight: 6
+---
+
+## Kapitel 6 — Kampen för upprättelse
+
+Det finns ett skede efter stroken som ingen pratar om i de informationsbroschyrer och stödgrupper jag hittat. Det skedet när man inte längre är akut sjuk men inte heller är återställd — och när man börjar förstå att det som hände inte bara var olyckligt, utan faktiskt gick att undvika.
+
+Då börjar en annan sorts arbete.
+
+### LÖF — Patientförsäkringen
+
+Landstingens ömsesidiga försäkringsbolag, LÖF, är det försäkringssystem som hanterar anmälningar om patientskador i svensk vård. Jag anmälde det som hänt.
+
+LÖFs initiala beslut gick emot mig. Bedömningen var att ambulansen hade agerat enligt gällande praxis.
+
+Jag begärde omprövning. Ärendenumret är LOF-1586-7604-8487. Omprövningen pågår.
+
+I mina kompletteringar till LÖF har jag dokumenterat vad ambulansens egna noteringar visar: gul triagering, nytillkommet avvikande beteende, minneslucka, sluddrig tal — och trots det, en utfallskod som innebär "egenvård eller inget kvarstående vårdbehov." Fyra oberoende svenska ambulansorganisationers riktlinjer visar samstämmigt att det finns två tillåtna vägar när en patient inte transporteras till sjukhus. Ingen av dem följdes.
+
+Jag väntar på svar.
+
+### IVO — Inspektionen för vård och omsorg
+
+IVO granskar hur hälso- och sjukvård bedrivs i Sverige. Jag har anmält det som hände till IVO, ärendenummer 3.4.1-17228/2025-8.
+
+Utredningen pågår. Handläggningstiden är uppskattningsvis 24 månader.
+
+IVO har i ett tidigare ärende — dnr 8.2-31859/2017-12 — kritiserat ett ambulansomhändertagande med liknande struktur: en patient vid trafikolycka som inte bedömdes ha stroke trots att omgivningen uppfattade avvikande beteende. IVO bedömde där att vården inte var omsorgsfull.
+
+I mitt fall gick ambulansen ett steg längre: de dokumenterade själva det avvikande beteendet under koden ESS 53 — men det föranledde ändå inte en stroke-riktad bedömning.
+
+### Polisen
+
+Polisens agerande den 25 juni är en separat del av det jag ifrågasätter. Det handlar inte om att ambulansen missade mig — det handlar om att polisen aktivt tog över en gul-triagerad patient utan medicinsk kompetens, körde mig till akuten för en drogscreening i sin brottsutredning, svarade nej på sjuksköterskans fråga om undersökning, och sedan lämnade mig vid tågstationen i 30-gradig värme — trots att Polis T i sitt eget PM dokumenterade att jag var "väldigt förvirrad, stirrig, slö och sluddrig i talet."
+
+Strax därefter hittades jag medvetslös vid Källviksbadet av en andra polispatrull — som kallade ingen ambulans, utan körde mig till en privatbostad.
+
+Jag har begärt ut allmänna handlingar från polisen. Jag inväntar fullständiga händelserapporter, auditrloggar och övrigt material. När det kommit avser jag att anmäla till Avdelningen för särskilda utredningar (SU).
+
+### Hovrättens dom
+
+Rättsväsendet rörde sig också. I februari 2026 meddelade Svea hovrätt dom i mål B 17945-25. Innehållet i den domen är en del av det rättsliga sammanhang som omgärdar händelseförloppet den 25 juni 2024.
+
+### Det pågående arbetet
+
+Utöver LÖF, IVO och polisanmälningar planerar jag:
+
+**JO-anmälan** — för granskning av polisens agerande och strukturella brister i hur strokeutbildning ser ut inom polisen.
+
+**JK-anmälan** — skadeståndsanspråk mot staten.
+
+**Media** — när JO-processer är avslutade.
+
+Det är ett arbete som tar tid. Det är ett arbete som kräver mer energi än jag ibland har. Och det är ett arbete som en strokeöverlevare med kognitiv påverkan inte borde behöva driva ensam — men gör det.
+
+### Varför det spelar roll
+
+Jag vill vara tydlig med vad jag hoppas uppnå.
+
+Inte en dom som bekräftar att jag har rätt. Inte ett skadestånd som kompenserar för allt. Utan förändringar.
+
+Förändringar i hur ambulanspersonal utbildas att hantera ett negativt FAST-test när övriga fynd pekar åt ett annat håll. Förändringar i hur polisen hanterar medicinska nödlägen vid ingripanden. Förändringar i protokoll som tydliggör ansvaret när en gul-triagerad patient lämnar ambulanspersonalens omsorg.
+
+Det jag gick igenom var inte oundvikligt. Det är det enda jag vet med säkerhet.

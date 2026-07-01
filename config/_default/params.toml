@@ -1,0 +1,22 @@
+colorScheme = "congo"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+showAuthor = false
+showDate = false
+showReadingTime = true
+showTableOfContents = true
+
+[homepage]
+  layout = "custom"
+  showRecent = false
+
+[article]
+  showDate = false
+  showAuthor = false
+  showReadingTime = true
+  showTableOfContents = true
+  showPagination = true
+
+[formspree]
+  endpoint = ""
