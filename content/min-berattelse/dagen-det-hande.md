@@ -8,72 +8,78 @@ weight: 1
 ## Kapitel 1 — Dagen det hände
 *25 juni 2024*
 
-Jag minns inte hur det gick till. Det är det konstiga — att den stunden, det ögonblick då allt förändrades, är borta. Inte suddig. Borta.
+Jag minns inte kraschen.
 
-Det jag vet är vad andra såg.
+Jag minns att det flimrade för ögonen. Att det kändes som en migränkänsla som kom på. Jag minns att jag körde vidare och tänkte att jag skulle utvärdera om jag behövde parkera. Jag minns att jag bara ville ta mig hem, lägga mig i ett mörkt rum och vila.
 
-Vittne A stod vid sidan av vägen på Sturegatan i Falun när han såg min bil köra rakt in i ett stillastående fordon. Inte sakta och obeslutsamt, som om jag försökt bromsa och misslyckats. Rakt in. Han gick fram och tittade in genom bilrutan. Jag var "helt borta" — ingen kontakt var möjlig, inget försök att fly undan. Jag satt bara där.
+Därefter har jag en minneslucka.
 
-Vittne B hade dessutom sett bilen köras vingligt längs flera gator alldeles innan — längs Galgbergsleden, Timmervägen och Sturegatan — och hade redan ringt polisen.
+Vad som hände under den tiden är vad vittnen på plats har berättat och som finns dokumenterat i polisrapporter från platsen.
 
-Klockan var ungefär 13:30.
+### Ambulansen
 
-### Ambulansen kommer
+Den första som fick kontakt med mig på platsen var en polis. Polisen var väldigt arg och höjde rösten på ett aggressivt sätt hela tiden. Jag fick blåsa för att bevisa att jag inte hade druckit alkohol. Jag har senare förstått att anledningen till att polisen var så arg på mig var för att jag inte lyckades svara på frågor. I polisrapporten beskrivs jag som slö, att jag pratar sluddrigt, pratar osammanhängande. Allt det är klassiska symptom på en stroke. Att en polis i tjänst inte lyckas behärska sig och blir arg på en person som har en stroke tycker jag är skrämmande.
 
-Ambulansen kvitterade uppdraget klockan 13:46 och var på plats strax efter. De bedömde mig och dokumenterade vad de hittade: nytillkommet avvikande beteende, flimmer för ögonen, minneslucka för hur olyckan gick till, sluddrig tal. I triageringssystemet RETTS sattes jag som gul — det innebär behov av akutsjukvård inom rimlig tid.
+Ambulansen kom från Borlänge och var framme strax efter halv två. Ambulanspersonal M dokumenterade vad vittnen och polis på plats hade berättat för henne: nytillkommet avvikande beteende, flimmer för ögonen, svårt att fokusera, minneslucka för hur olyckan gick till, sluddrig tal. I triageringssystemet RETTS sattes jag som gul — det innebär behov av akutsjukvård inom rimlig tid.
 
-Jag berättade att det kommit en migränkänsla, att det hade flimrat och tagit till på vänster sida. Det är allt jag hade att ge. Minnesluckan börjar exakt vid smällen.
+Vad som noterades på platsen var att jag hade problem med mitt tal. I riktlinjerna för AKUT-testet står det tydligt att det räcker med ett enda symptom för att 112 ska kontaktas omedelbart.
 
-FAST-testet — ett snabbtest för att identifiera stroke — föll ut negativt. Det betyder att jag inte visade de mest uppenbara tecknen. Men testet missar upp till en femtedel av alla strokefall.
+Sedan hände det som ändrade allt.
 
-Sedan hände något som ändrade allt.
-
-Polisen, som också var på plats, meddelade ambulansen att de skulle köra mig till akutmottagningen — innan jag hunnit svara. Ambulansen lämnade i tron att jag skulle undersökas. De noterade i journalen att "polisen tar med patienten för drogscreening."
+Polisen — som också var på plats — meddelade att de skulle köra mig till akutmottagningen. Ambulansen lämnade. I journalen dokumenterade ambulanspersonal M resultatet: *"Patienten känner sig helt återställd och vill inte åka med oss till akutmottagningen. Polisen tar med patienten för drogscreening."*
 
 Drogscreening. Inte medicinsk bedömning. Drogscreening.
 
-### På akuten — men inte för vård
+### På akuten — tre minuter
 
-Polisen körde mig till akutmottagningen på Falu Lasarett. Klockan var någonstans mellan 14:00 och 15:30. Blodprov togs — för polisens räkning, som ett led i brottsutredningen. En sjuksköterska frågade om jag skulle undersökas. Polis T svarade nej.
+Polisen körde mig till Falu Lasarett. Klockan 15:03 togs ett blodprov av en sjuksköterska. Klockan 15:06 var det klart. Tre minuter. Ändamålet stod i polisens protokoll: *"Utröna omständigheter som kan ha betydelse för utredningen."*
 
-Ingen journalanteckning upprättades. Ingen läkare undersökte mig.
+Ingen läkare undersökte mig. Det finns ingen journalanteckning från det besöket — ingen medicinsk dokumentation alls, bara polisens eget protokoll.
 
-Jag var på en akutmottagning. Med en pågående stroke. Och ingen visste om det, för ingen tittade.
+Jag befann mig på en akutmottagning, inom en och en halv timme från det att mina symptom debuterat. Trombolysfönstret — den tid inom vilken blodproppslösande behandling kan ges — är fyra och en halv timme. Jag var på rätt ställe, vid rätt tidpunkt.
+
+Av fel anledning.
+
+### Polisbilen
+
+Det här minns jag.
+
+Jag satt i polisbilen på väg från akuten och poliserna var arga på mig. Riktigt arga. Jag förstod inte varför. Jag tyckte att jag svarade på deras frågor. Jag tyckte att jag var tydlig och begriplig. Det verkade inte som att de höll med om det.
+
+Efteråt har jag läst vad Polis T skrev i sitt PM från den dagen. Att jag *"upplevdes som väldigt förvirrad, stirrig, slö och sluddrig i talet."* Att jag lämnade *"olika uppgifter om vart han kört och vilken väg han åkt."* Beslutet att inte hålla något formellt förhör fattades just för att det inte bedömdes möjligt — mitt tillstånd tillät det inte.
+
+I bilen visste jag ingenting av det. Jag visste bara att de var arga, och att jag inte förstod varför.
+
+Det kallas anosognosi. Det är inte förnekelse och inte en lögn — min skadade hjärna kunde helt enkelt inte uppfatta sin egen skada. Jag upplevde mig som klar och svarade tydligt. Det stämde inte, men det var min verklighet.
 
 ### Lämnad vid tågstationen
 
-Klockan 15:51 skriver Polis T sitt PM från händelsen. Han noterar att jag upplevts som "väldigt förvirrad, stirrig, slö och sluddrig i talet." Han skriver att jag lämnar motstridiga uppgifter. Beslutet blir att delge mig misstankar — men att inte hålla något förhör eftersom det inte bedöms möjligt.
+Klockan 15:51 skriver Polis T sitt PM. Sedan lämnar polisen mig vid tågstationen i Falun.
 
-Sedan lämnar polisen mig vid tågstationen i Falun.
+SMHI har utfärdat varning för värmebölja i Dalarna. Temperaturen stiger mot 30 grader. Det finns foton på min telefon från den eftermiddagen — tidsstämplar och GPS-koordinater som visar var jag var och när. Klockan 16:02 vid Tisken i centrala Falun. Klockan 16:37 vid Källviksvägen. Däremellan SMS som inte hänger ihop, svar som inte stämmer, fel platser angivna.
 
-Det är den 25 juni 2024. SMHI har utfärdat varning för värmebölja i Dalarna. Temperaturerna stiger mot 30 grader.
+Jag vandrade genom Falun i het sommarvärme med en pågående stroke i hjärnan.
 
-Jag har sju dagar kvar innan jag får en diagnos. Just nu vet jag ingenting om det.
+### Källviksbadet
 
-### Timmar ensam i hettan
+Jag vet inte exakt hur jag tog mig dit. Jag vet att jag var överhettad. Att jag behövde svalka mig. Att jag lade mig ner på marken.
 
-Vad som händer härnäst vet jag delvis från bilder och data, delvis från luckor där ingenting finns.
+Det jag minns från det ögonblicket är att jag var fullständigt lugn. Ingen panik, ingen rädsla. Jag accepterade det bara, stilla och tydligt:
 
-Klockan 16:02 tar jag ett foto vid Tisken i centrala Falun. GPS-koordinaterna finns kvar i bilden. Klockan 16:37 tar jag ytterligare ett foto, nu vid Källviksvägen. Emellan de bilderna — och efter — skickar jag SMS som inte hänger ihop. Jag anger fel plats. Svaren saknar logik.
+*Nu kommer jag att dö.*
 
-Runt klockan 17 upphör stegräknaren i min klocka. Inaktiviteten är total.
+Sedan blev det helt svart.
 
-Jag hade tagit mig till Källviksbadet, troligen för att försöka svalka mig. Och sedan föll jag. Jag förlorade medvetandet och låg orörlig på marken i uppskattningsvis fyra till fem timmar. Min telefon och mina solglasögon hittades senare på platsen av en utomstående person — de hade fallit när jag föll.
+Stegräknaren i min klocka upphör att registrera aktivitet runt klockan 17. Min telefon och mina solglasögon hittades senare på platsen av en utomstående — de hade fallit när jag föll. Jag låg orörlig på marken i uppskattningsvis fyra till fem timmar.
 
 Ingen ringde 112. Ingen visste var jag var.
 
-### Den andra polispatrullen
+### Den andra patrullen
 
-Runt klockan 20–21 hittade en andra polispatrull mig vid Källviksbadet. Jag var blöt. Jag berättade om akutbesöket tidigare under dagen — en registersökning bekräftade det. Polisen genomförde en kroppsvisitation. Inget olagligt hittades. Sedan körde de mig till en bekants adress.
+Runt klockan 20–21 hittade en andra polispatrull mig vid Källviksbadet. Jag var blöt. Jag berättade om akutbesöket tidigare under dagen — de sökte i sina register och bekräftade det. En kroppsvisitation genomfördes. Inget olagligt hittades. Sedan körde de mig till en bekants adress.
 
-Ingen ambulans tillkallades. Ingen medicinsk bedömning gjordes.
+Ingen ambulans tillkallades.
 
 Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus. GPS-data visar var jag är. Det är allt jag vet om den natten.
 
-### Det jag förstod senare
-
-Jag förstod ingenting av det som hände den dagen. Det är i sig en del av vad stroke kan göra — framför allt en stroke i höger hjärnhalva. Den typ av skada jag hade orsakade något som kallas neglektsyndrom och anosognosi: jag uppmärksammade inte stimuli från min vänstra sida, och jag märkte inte att jag var sjuk. Min hjärna fyllde ut hålen. Jag upplevde mig återställd.
-
-Min neurolog förklarade det senare: "Hjärnan fyller ut det som fattas, ser inte om något inte stämmer."
-
-Det är det som gör den här typen av stroke så svår att fånga upp. Den ser inte ut som man tror att stroke ser ut. Den ser ut som förvirring. Som berusning. Som ett underligt beteende vid en trafikolycka.
+Sju dagar återstår innan jag får en diagnos.
