@@ -3,8 +3,6 @@ title: "Daniel Nordmark"
 description: "En personlig berättelse om en stroke som missades av ambulans och polis, och kampen som följt."
 ---
 
-Jag hette nästan inte Daniel Nordmark längre.
-
 Den 25 juni 2024 körde jag in i en stillastående bil på Sturegatan i Falun. Det var ingen vanlig trafikolycka. Ambulansen kom, bedömde mig och lämnade. Polisen körde mig till akuten — inte för att jag skulle undersökas, utan för att ta ett blodprov i sin brottsutredning. Ingen läkare tittade på mig. Sedan lämnade polisen mig vid tågstationen.
 
 Jag hade en pågående stroke.
