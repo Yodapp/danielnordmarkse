@@ -21,6 +21,14 @@ En stroke syns inte alltid. Ibland ser den ut som berusning, som förvirring, so
 
 ---
 
+## Vad sju dygn kostar
+
+Vid en stroke dör ungefär 1,9 miljoner hjärnceller varje minut. Det kallas *time is brain*.
+
+Den uppmätta volymen av döda hjärnvävnaden i min högra hjärnhalva blev till slut 119 kubikcentimeter — uppskattningsvis 2 till 5 miljarder permanent förlorade hjärnceller. Det var priset för sju dygns väntan.
+
+---
+
 ## Berättelsen — kapitel för kapitel
 
 - **[Dagen det hände](/min-berattelse/dagen-det-hande/)** — Trafikolyckan, ambulansen, polisen och kollapsen vid Källviksbadet. 25 juni 2024.

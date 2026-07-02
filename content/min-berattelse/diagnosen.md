@@ -53,3 +53,13 @@ Den behandlingen var aldrig ett alternativ för mig. Inte för att den inte fann
 Sju dagars fördröjning av antikoagulation. En väggfast tromb i hjärtat utan behandling. En hel vecka med förhöjd risk för ytterligare strokelarm.
 
 Det var vad diagnosen — äntligen ställd — också innebar: en bild av allt som gått förlorat.
+
+### Vad sju dygn kostar i hjärnceller
+
+Vid en stroke dör ungefär 1,9 miljoner hjärnceller varje minut. Det är bakgrunden till uttrycket *time is brain* — tid är hjärna.
+
+Om man räknar mekaniskt på de sju dygn — 10 080 minuter — som jag lämnades utan diagnos, skulle det innebära en teoretisk förlust på över 19 miljarder hjärnceller. Så fungerar det inte i praktiken eftersom förloppet mattas av. Men skadan i min högra hjärnhalva blev ändå enorm.
+
+Den uppmätta volymen av döda hjärnvävnaden efter min MCA M2-propp blev till slut 119 kubikcentimeter — 10,6 × 6,5 × 3,3 cm. Det motsvarar uppskattningsvis 2 till 5 miljarder permanent förlorade hjärnceller.
+
+Det var priset för sju dygns väntan.
