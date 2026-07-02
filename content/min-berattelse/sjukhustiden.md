@@ -5,7 +5,6 @@ date: 2024-07-03
 weight: 4
 ---
 
-## Kapitel 4 — Sjukhustiden
 *Juli 2024*
 
 Sjukhuset var det första stället på länge där någon faktiskt tittade på mig.

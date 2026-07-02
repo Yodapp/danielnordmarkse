@@ -5,8 +5,6 @@ date: 2024-06-25
 weight: 2
 ---
 
-## Kapitel 2 — En vecka utan vård
-*25 juni – 2 juli 2024*
 
 Jag vet inte hur lång tid jag låg vid Källviksbadet. Stegräknaren slutar visa aktivitet runt klockan 17. Nästa gång jag dyker upp i dokumenten är det runt 20–21 på kvällen, när en polispatrull hittar mig.
 

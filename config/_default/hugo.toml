@@ -1,7 +1,6 @@
 baseURL = "https://danielnordmark.se/"
 defaultContentLanguage = "sv"
 title = "Daniel Nordmark"
-theme = "github.com/jpanther/congo/v2"
 
 enableRobotsTXT = true
 

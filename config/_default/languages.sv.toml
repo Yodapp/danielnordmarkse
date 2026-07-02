@@ -6,3 +6,4 @@ locale = "sv-SE"
 [params]
   author.name = "Daniel Nordmark"
   description = "En personlig berättelse om en stroke som missades — och kampen som följt."
+  images = ["img/social-card.jpg"]

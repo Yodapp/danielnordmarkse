@@ -1,11 +1,10 @@
 ---
 title: "Livet efteråt"
 description: "Vad som förändrats, rehabilitering, post-stroke fatigue och att leva med konsekvenserna."
-date: 2024-08-01
+date: 2026-07-02
 weight: 5
 ---
 
-## Kapitel 5 — Livet efteråt
 
 Det finns en föreställning om att när en akut fas är över — när man kommit hem från sjukhuset, när medicinen är inställd, när man inte längre är ett larm — så börjar återhämtningen. Att det sedan handlar om att arbeta sig tillbaka, steg för steg, mot det som var.
 

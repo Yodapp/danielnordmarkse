@@ -5,8 +5,6 @@ date: 2024-06-25
 weight: 1
 ---
 
-## Kapitel 1 — Dagen det hände
-*25 juni 2024*
 
 Jag minns inte kraschen.
 

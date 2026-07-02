@@ -17,6 +17,8 @@ showTableOfContents = true
   showReadingTime = true
   showTableOfContents = true
   showPagination = true
+  showBreadcrumbs = true
+  sharingLinks = ["facebook", "x-twitter", "linkedin", "email"]
 
 [formspree]
   endpoint = "xzdljoae"

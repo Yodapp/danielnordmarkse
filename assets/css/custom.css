@@ -10,6 +10,12 @@
   margin-bottom: 3rem;
 }
 
+@media (max-width: 640px) {
+  .dn-hero {
+    padding: 2.5rem 0;
+  }
+}
+
 .dark .dn-hero {
   border-bottom-color: #374151;
 }
@@ -109,18 +115,20 @@
   border-bottom-color: #374151;
 }
 
+.dn-stats__item:nth-child(2n) {
+  border-right: none;
+}
+
+.dn-stats__item:nth-child(n+3) {
+  border-bottom: none;
+}
+
 @media (min-width: 640px) {
   .dn-stats__item {
     border-bottom: none;
     padding: 2rem;
   }
-}
 
-.dn-stats__item:nth-child(2n) {
-  border-right: none;
-}
-
-@media (min-width: 640px) {
   .dn-stats__item:nth-child(2n) {
     border-right: 1px solid #e5e7eb;
   }
@@ -132,10 +140,6 @@
   .dn-stats__item:last-child {
     border-right: none;
   }
-}
-
-.dn-stats__item:nth-child(n+3) {
-  border-bottom: none;
 }
 
 .dn-stats__number {

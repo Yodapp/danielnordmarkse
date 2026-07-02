@@ -1,11 +1,10 @@
 ---
 title: "Kampen för upprättelse"
 description: "LÖF, IVO, polisanmälan och det pågående rättsliga arbetet — och varför det spelar roll."
-date: 2024-09-01
+date: 2026-07-02
 weight: 6
 ---
 
-## Kapitel 6 — Kampen för upprättelse
 
 Det finns ett skede efter stroken som ingen pratar om i de informationsbroschyrer och stödgrupper jag hittat. Det skedet när man inte längre är akut sjuk men inte heller är återställd — och när man börjar förstå att det som hände inte bara var olyckligt, utan faktiskt gick att undvika.
 

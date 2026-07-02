@@ -5,8 +5,6 @@ date: 2024-07-02
 weight: 3
 ---
 
-## Kapitel 3 — Diagnosen
-*2 juli 2024*
 
 Det var min mamma som körde mig till akuten.
 
