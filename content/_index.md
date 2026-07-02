@@ -3,48 +3,29 @@ title: "Daniel Nordmark"
 description: "En personlig berättelse om en stroke som missades av ambulans och polis, och kampen som följt."
 ---
 
-Den 25 juni 2024 körde jag in i en stillastående bil på Sturegatan i Falun. Det var ingen vanlig trafikolycka. Ambulansen kom, bedömde mig och lämnade. Polisen körde mig till akuten — inte för att jag skulle undersökas, utan för att ta ett blodprov i sin brottsutredning. Ingen läkare tittade på mig. Sedan lämnade polisen mig vid tågstationen.
+Den 25 juni 2024 när jag var på väg för att träffa kompisar och bada krockade jag med en stillastående bil i motsatt körfält i centrala Falun. Det var inte en vanlig bilolycka. Jag körde inte för fort. Jag körde inte vårdslöst. Polis kallades till platsen. Dom var övertygade om att jag var kraftigt narkotikapåverkad. Ambulans kom en stund senare. Dom pratade med polisen och gjorde en snabb hälsoundersökning av mig, till skillnad från polisen såg dom inte några tecken på att jag skulle vara påverkad. Polisen beslutade att jag skulle köras till akuten för drogscreening. Det besöket tog tre minuter. Efter ett kortare förhör i en polisbil lämnade dom mig vid tågstationen med uppmaningen att jag skulle gå hem för att nyktra till.
 
-Jag hade en pågående stroke.
+Men jag var inte "kraftigt narkotikapåverkad", jag hade drabbats av en stor stroke.
 
-Det dröjde sju dagar innan jag fick diagnos. Sju dagar där hjärnan förstördes lite mer för varje timme som gick.
+Det dröjde sju dygn innan jag lyckades ta mig till akuten, då gjordes en hjärnröntgen akut och en stor förändring i höger hjärnhalva kunde konstateras. Läkarna tog kontakt med Neurokirurgen i Uppsala. Först trodde dom att det kunde vara en stor hjärntumör. Jag blev inlagd med övervakning dygnet runt på avd 26 på Falu Lasarett.
 
 ---
 
 ## Vad den här sajten handlar om
 
-Det här är min berättelse. Inte en anmälan, inte ett debattinlägg — en berättelse om vad som hände, hur det upplevdes, och vad konsekvenserna blivit. Den är baserad på journaler, polishandlingar, ambulansprotokoll och mina egna minnen av de delar jag faktiskt kan minnas.
+Det här är min berättelse om när jag fick en stroke, hur jag upplevde det och vad konsekvenserna har blivit. Den är baserad på journaler, polisrapporter, ambulansprotokoll och mina egna minnen och känslor.
 
 Jag berättar den av flera skäl. För att andra strokedrabbade ska kunna känna igen sig. För att anhöriga, polis och ambulanspersonal ska förstå hur ett förlopp som detta kan se ut inifrån. Och för att det som hände mig inte ska hända någon annan.
 
-En stroke syns inte alltid. Den skriker inte alltid. Ibland ser den ut som berusning, som förvirring, som ett underligt beteende vid en trafikolycka. Det är det farliga.
+En stroke syns inte alltid. Ibland ser den ut som berusning, som förvirring, som ett underligt beteende vid en trafikolycka. Det är därför det är otroligt viktigt att poliser och allmänheten utbildas i hur en stroke kan yttra sig och att det är kritiskt att den drabbade snabbt får vård.
 
 ---
 
-## Kort om vad som hände
+## Berättelsen — kapitel för kapitel
 
-**25 juni 2024, kl 13:30** — Trafikolycka i Falun. Ambulansen bedömer mig som gul (RETTS), noterar avvikande beteende, flimmer, minneslucka och sluddrig tal.
-
-**Samma dag** — Polisen tar med mig till akuten för drogscreening. Ingen läkare undersöker mig. Jag lämnas sedan vid tågstationen i 30-gradig värme.
-
-**Samma kväll** — Jag kollapsar vid Källviksbadet och förlorar medvetandet i uppskattningsvis fyra till fem timmar.
-
-**2 juli 2024** — Min mamma kör mig till akuten. Datortomografi visar stor stroke. Diagnos: ischemisk stroke, höger hjärnhalva.
-
-**Idag** — Jag lever med konsekvenserna. Och jag kämpar för att få det ordentligt utrett.
-
----
-
-## Läs berättelsen
-
-Berättelsen är uppdelad i kapitel, från olyckan till livet efteråt. Du kan börja från början eller hoppa direkt till det som intresserar dig.
-
-{{< button href="/min-berattelse/dagen-det-hande/" >}}Börja läsa — Dagen det hände{{< /button >}}
-
----
-
-## Visste du det här om stroke?
-
-Stroke är ett av de vanligaste skälen till att människor dör eller blir permanent funktionsnedsatta i Sverige. Det terapeutiska fönstret — den tid inom vilken behandling kan ge resultat — är bara några timmar. Varje minut räknas. Det kallas ibland "time is brain": för varje minut en stroke pågår obehandlad dör uppskattningsvis 1,9 miljoner nervceller.
-
-[Läs mer om stroke, symptom och varför tid är avgörande →](/om-stroke/)
+- **[Dagen det hände](/min-berattelse/dagen-det-hande/)** — Trafikolyckan, ambulansen, polisen och kollapsen vid Källviksbadet. 25 juni 2024.
+- **[En vecka utan vård](/min-berattelse/en-vecka-utan-vard/)** — Dagarna efter olyckan. Minnesluckorna. Min mamma som söker mig mitt i natten.
+- **[Diagnosen](/min-berattelse/diagnosen/)** — Min mamma kör mig till akuten. DT visar stor stroke. Ischemisk stroke, höger hjärnhalva.
+- **[Sjukhustiden](/min-berattelse/sjukhustiden/)** — Neurologavdelningen, neglektsyndromet, antikoagulationen och hemgången som inte var ett slut.
+- **[Livet efteråt](/min-berattelse/livet-efterat/)** — Rehabilitering, post-stroke fatigue och att leva med konsekvenserna av en diagnos som kom sju dagar för sent.
+- **[Kampen för upprättelse](/min-berattelse/kampen-for-upprattelse/)** — LÖF, IVO, polisanmälan och det pågående rättsliga arbetet.

@@ -13,6 +13,6 @@ enableRobotsTXT = true
     limit = 0
 
 [outputs]
-  home = ["HTML"]
+  home = ["HTML", "JSON"]
   section = ["HTML"]
   page = ["HTML"]

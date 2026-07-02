@@ -3,6 +3,7 @@ title: "Min berättelse"
 description: "Berättelsen om stroken den 25 juni 2024 — från trafikolyckan i Falun till livet idag."
 cascade:
   showPagination: true
+  invertPagination: true
   showDate: false
   showAuthor: false
 ---
@@ -49,6 +50,6 @@ Vad som förändrats. Rehabilitering. Post-stroke fatigue. Att leva med konsekve
 
 ---
 
-### [Kapitel 6 — Kampen för upprättelse](/min-berattelse/kampen-for-upprattelseelse/)
+### [Kapitel 6 — Kampen för upprättelse](/min-berattelse/kampen-for-upprattelse/)
 
 LÖF. IVO. Polisanmälan. Det pågående rättsliga arbetet. Och varför det spelar roll.

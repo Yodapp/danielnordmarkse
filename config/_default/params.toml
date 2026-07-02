@@ -1,4 +1,5 @@
 colorScheme = "slate"
+enableSearch = true
 defaultAppearance = "light"
 autoSwitchAppearance = true
 

@@ -3,6 +3,7 @@ title: "Kampen för upprättelse"
 description: "LÖF, IVO, polisanmälan och det pågående rättsliga arbetet — och varför det spelar roll."
 date: 2026-07-02
 weight: 6
+aliases: ["/min-berattelse/kampen-for-upprattelseelse/"]
 ---
 
 

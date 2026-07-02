@@ -5,8 +5,6 @@ date: 2024-07-03
 weight: 4
 ---
 
-*Juli 2024*
-
 Sjukhuset var det första stället på länge där någon faktiskt tittade på mig.
 
 Det låter som en självklarhet. Det borde vara en självklarhet. Men efter allt som hänt — ambulansen som lämnade, akuten som inte undersökte, polisen som körde iväg — var det märkligt att ligga i en sjukhussäng och vara ett medicinskt fall med ett namn och ett personnummer och en diagnos.

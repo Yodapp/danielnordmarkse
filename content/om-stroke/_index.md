@@ -19,12 +19,12 @@ I Sverige drabbas ungefär 25 000 personer av stroke varje år. Det är en av de
 
 ## Hur känner man igen stroke?
 
-Det snabbaste sättet att komma ihåg tecknen är FAST:
+I Sverige används [AKUT-testet](https://strokeforbundet.se/stroke/akut-testet/), framtaget av Strokeförbundet:
 
-- **F — Face (Ansikte):** Hänger en sida av ansiktet? Be personen le och se om leendet är skevt.
-- **A — Arms (Armar):** Kan personen lyfta båda armarna och hålla dem uppe? Sjunker en arm?
-- **S — Speech (Tal):** Är talet otydligt, sluddrar personen eller pratar osammanhängande?
-- **T — Time (Tid):** Om du ser något av ovanstående — ring 112 omedelbart.
+- **A — Ansikte:** Ser du en skevhet i ansiktet?
+- **K — Kropp:** Har personen svaghet i arm eller ben?
+- **U — Uttal:** Talar personen otydligt eller sluddrar?
+- **T — Tid:** Ring 112 omedelbart om du ser något av ovanstående.
 
 Andra symptom kan inkludera:
 
@@ -34,7 +34,7 @@ Andra symptom kan inkludera:
 - Plötslig domning eller svaghet i ansikte, arm eller ben — ofta på ena sidan
 
 {{< alert >}}
-**Viktigt:** FAST-testet fångar inte alla strokefall. Det missar upp till en femtedel av alla pågående strokefall. Om något känns fel, men testet verkar normalt — lita på din känsla. Ring 112.
+**Viktigt:** AKUT-testet fångar inte alla strokefall. Om något känns fel, men testet verkar normalt — lita på din känsla. Ring 112.
 {{< /alert >}}
 
 ---
