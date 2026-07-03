@@ -17,7 +17,7 @@ Dokumenten är verkliga. De stödjer berättelsen. De är möjliga att verifiera
 
 ### Ambulansjournalen, 25 juni 2024
 
-Ambulansens journalanteckning från uppdraget (nr 1347690). Innehåller RETTS-bedömningen (gul), dokumenterade fynd (ESS 53 nytillkommet avvikande beteende, minneslucka, sluddrig tal, flimmer), och noteringen att "polisen tar med patienten för drogscreening."
+Ambulansens journalanteckning från uppdraget (nr 1347690). Innehåller RETTS-bedömningen (gul), dokumenterade fynd (ESS 53 nytillkommet avvikande beteende, minneslucka, sluddrigt tal, flimmer), och noteringen att "polisen tar med patienten för drogscreening."
 
 *Dokumentet publiceras här när det laddats upp.*
 

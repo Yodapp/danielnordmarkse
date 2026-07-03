@@ -30,7 +30,7 @@ Jag har haft kontakt med flera instanser inom vård och rehabilitering sedan uts
 
 Rehabilitering börjar med diagnos. Den börjar med att någon vet vad som hänt och kan sätta in rätt insatser i rätt tid. Varje dag av fördröjning innebär att skadan sitter djupare, att tillfällen för tidiga interventioner går förlorade.
 
-Mitt rehabiliteringsarbete startade sju dagar för sent.
+Mitt rehabiliteringsarbete startade sju dygn för sent.
 
 ### Att leva med det
 
@@ -46,7 +46,7 @@ Det är inte en fråga man kan besvara. Men den formar hur man ser på det som h
 
 Jag berättar inte för att vara ett offer. Jag berättar för att det jag gick igenom inte var oundvikligt.
 
-En stroke missad av ambulansen. En person med tydliga neurologiska symptom som lämnas vid en tågstation i 30-gradig värme. En vecka utan diagnos och utan skydd mot ny propp.
+En stroke missad av ambulansen. En person med tydliga neurologiska symtom som lämnas vid en tågstation i 30-gradig värme. En vecka utan diagnos och utan skydd mot ny propp.
 
 Det hände mig. Det kan hända igen. Det kanske händer just nu, någon annanstans, för att systemet inte fångade upp signalerna.
 

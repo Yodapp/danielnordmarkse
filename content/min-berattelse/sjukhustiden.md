@@ -1,6 +1,6 @@
 ---
 title: "Sjukhustiden"
-description: "Juli 2024 — neurologavdelningen, neglektsyndromet, antikoagulationen och hemgången."
+description: "Juli 2024 — neurologavdelningen, sidan jag inte såg, blodförtunningen och hemgången."
 date: 2024-07-03
 weight: 4
 ---
@@ -15,21 +15,21 @@ Jag var inlagd på Falu Lasarett. Neurologavdelningen.
 
 De första dagarna minns jag fragmentariskt. Det fanns undersökningar, prover, läkare som ställde frågor. Det fanns sjuksköterskor som kom och gick. Det fanns en trötthet som inte var vanlig trötthet — en tyngd som satt i kroppen och hjärnan på ett sätt jag inte hade ord för.
 
-Min neurolog var tydlig och rak. Han förklarade vad som hade hänt: en stor ischemisk stroke i höger hjärnhalva. M2-ocklusion. Neglektsyndrom. En tromb i hjärtat som kräver långvarig antikoagulation.
+Min neurolog var tydlig och rak. Han förklarade vad som hade hänt: en stor ischemisk stroke i höger hjärnhalva, orsakad av en propp i en gren av den mellersta hjärnartären. Att jag hade slutat uppfatta min vänstra sida. Och en tromb i hjärtat som skulle kräva långvarig blodförtunning.
 
 Jag förstod orden. Men det tog tid för dem att landa.
 
-### Neglektsyndromet
+### Sidan jag inte såg
 
-Det märkligaste med neglektsyndrom är att man inte märker det. Det är den paradoxala kärnan i tillståndet — hjärnan kompenserar, fyller ut, skapar en upplevelse av helhet även där det saknas.
+Det märkligaste med att inte se sin vänstra sida är att man inte märker det själv. Det är det som gör tillståndet så svårfångat — hjärnan kompenserar, fyller ut, skapar en upplevelse av helhet även där det saknas.
 
-På avdelningen gick jag in i saker på min vänstra sida. Det stod i journalen. Jag upplevde det inte som att jag ignorerade vänster — jag upplevde det som att jag gick rakt. Det är skillnaden.
+På avdelningen gick jag in i saker på min vänstra sida. Det stod i journalen. Jag upplevde det inte som att jag ignorerade vänster — jag upplevde det som att jag gick rakt fram. Det är hela skillnaden.
 
 Rehabiliteringen handlade delvis om att lära hjärnan att se det den slutat se. Det är ett tålamodskrävande arbete. Det är inte som att träna en muskel — det är att försöka rätta till ett sätt att uppfatta världen på.
 
 Jag hade också svårigheter med minne och koncentration. Att läsa var svårt. Att hålla tråden i ett samtal krävde ansträngning. Saker som hade varit enkla var plötsligt inte det.
 
-### Antikoagulationen och hjärtat
+### Blodförtunningen och hjärtat
 
 Ultraljudet hade bekräftat den väggfasta tromben i vänster kammare. Det är ett allvarligt fynd. En lossnad propp därifrån kan orsaka ytterligare stroke.
 
@@ -37,11 +37,11 @@ Warfarin — Waran — sattes in. Det innebar blodprover och dosjusteringar och 
 
 Kardiologerna var involverade. Det handlade inte bara om hjärnan längre — det handlade om hjärtat, om cirkulationen, om en kropp som visat sig vara sjukare än jag visste om.
 
-Fragmin sköt upp blodets förmåga att koagulera tills Waran hade hunnit verka. Sju dagar utan den behandlingen. En vecka med en aktiv tromb och inget skydd.
+Fragmin sköt upp blodets förmåga att koagulera tills Waran hade hunnit verka. Sju dygn utan den behandlingen. En vecka med en aktiv tromb och inget skydd.
 
 ### Samtal
 
-Det var under sjukhustiden jag began förstå den fulla innebörden av vad som hade hänt. Inte allt på en gång — det händer fortfarande, i lager, allt eftersom jag läser dokument och lär mig vad orden egentligen betyder.
+Det var under sjukhustiden jag började förstå den fulla innebörden av vad som hade hänt. Inte allt på en gång — det händer fortfarande, i lager, allt eftersom jag läser dokument och lär mig vad orden egentligen betyder.
 
 Men det var där, i de samtalen med läkare och sjuksköterskor, som jag för första gången hörde det formulerat rakt: det terapeutiska fönstret hade stängt. Behandlingen som kunde ha gjort skillnad — trombolys, trombektomi — hade aldrig varit ett alternativ. Inte för att den inte finns. För att ingen hann bedöma mig i tid.
 

@@ -16,11 +16,11 @@ Vad som hände under den tiden är vad vittnen på plats har berättat och som f
 
 ### Ambulansen
 
-Den första som fick kontakt med mig på platsen var en polis. Polisen var väldigt arg och höjde rösten på ett aggressivt sätt hela tiden. Jag fick blåsa för att bevisa att jag inte hade druckit alkohol. Jag har senare förstått att anledningen till att polisen var så arg på mig var för att jag inte lyckades svara på frågor. I polisrapporten beskrivs jag som slö, att jag pratar sluddrigt, pratar osammanhängande. Allt det är klassiska symptom på en stroke. Att en polis i tjänst inte lyckas behärska sig och blir arg på en person som har en stroke tycker jag är skrämmande.
+Den första som fick kontakt med mig på platsen var en polis. Polisen var väldigt arg och höjde rösten på ett aggressivt sätt hela tiden. Jag fick blåsa för att bevisa att jag inte hade druckit alkohol. Jag har senare förstått att anledningen till att polisen var så arg på mig var för att jag inte lyckades svara på frågor. I polisrapporten beskrivs jag som slö, att jag pratar sluddrigt, pratar osammanhängande. Allt det är klassiska symtom på en stroke. Att en polis i tjänst inte lyckas behärska sig och blir arg på en person som har en stroke tycker jag är skrämmande.
 
-Ambulansen kom från Borlänge och var framme strax efter halv två. Ambulanspersonal M dokumenterade vad vittnen och polis på plats hade berättat för henne: nytillkommet avvikande beteende, flimmer för ögonen, svårt att fokusera, minneslucka för hur olyckan gick till, sluddrig tal. I triageringssystemet RETTS sattes jag som gul — det innebär behov av akutsjukvård inom rimlig tid.
+Ambulansen kom från Borlänge och var framme strax efter halv två. Ambulanspersonal M dokumenterade vad vittnen och polis på plats hade berättat för henne: nytillkommet avvikande beteende, flimmer för ögonen, svårt att fokusera, minneslucka för hur olyckan gick till, sluddrigt tal. I triageringssystemet RETTS sattes jag som gul — det innebär behov av akutsjukvård inom rimlig tid.
 
-Vad som noterades på platsen var att jag hade problem med mitt tal. I riktlinjerna för AKUT-testet står det tydligt att det räcker med ett enda symptom för att 112 ska kontaktas omedelbart.
+Vad som noterades på platsen var att jag hade problem med mitt tal. I riktlinjerna för AKUT-testet står det tydligt att det räcker med ett enda symtom för att 112 ska kontaktas omedelbart.
 
 Sedan hände det som ändrade allt.
 
@@ -34,7 +34,7 @@ Polisen körde mig till Falu Lasarett. Klockan 15:03 togs ett blodprov av en sju
 
 Ingen läkare undersökte mig. Det finns ingen journalanteckning från det besöket — ingen medicinsk dokumentation alls, bara polisens eget protokoll.
 
-Jag befann mig på en akutmottagning, inom en och en halv timme från det att mina symptom debuterat. Trombolysfönstret — den tid inom vilken blodproppslösande behandling kan ges — är fyra och en halv timme. Jag var på rätt ställe, vid rätt tidpunkt.
+Jag befann mig på en akutmottagning, inom en och en halv timme från det att mina symtom debuterat. Trombolysfönstret — den tid inom vilken blodproppslösande behandling kan ges — är fyra och en halv timme. Jag var på rätt ställe, vid rätt tidpunkt.
 
 Av fel anledning.
 
@@ -48,7 +48,7 @@ Efteråt har jag läst vad Polis T skrev i sitt PM från den dagen. Att jag *"up
 
 I bilen visste jag ingenting av det. Jag visste bara att de var arga, och att jag inte förstod varför.
 
-Det kallas anosognosi. Det är inte förnekelse och inte en lögn — min skadade hjärna kunde helt enkelt inte uppfatta sin egen skada. Jag upplevde mig som klar och svarade tydligt. Det stämde inte, men det var min verklighet.
+Jag förnekade ingenting och jag ljög inte. Min skadade hjärna kunde helt enkelt inte uppfatta sin egen skada. Jag upplevde att jag var klar och att jag svarade tydligt på deras frågor. Det stämde inte — men det var så min verklighet såg ut.
 
 ### Lämnad vid tågstationen
 
@@ -80,4 +80,4 @@ Ingen ambulans tillkallades.
 
 Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus. GPS-data visar var jag är. Det är allt jag vet om den natten.
 
-Sju dagar återstår innan jag får en diagnos.
+Sju dygn återstår innan jag får en diagnos.

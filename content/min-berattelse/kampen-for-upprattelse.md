@@ -19,7 +19,7 @@ LÖFs initiala beslut gick emot mig. Bedömningen var att ambulansen hade agerat
 
 Jag begärde omprövning. Ärendenumret är LOF-1586-7604-8487. Omprövningen pågår.
 
-I mina kompletteringar till LÖF har jag dokumenterat vad ambulansens egna noteringar visar: gul triagering, nytillkommet avvikande beteende, minneslucka, sluddrig tal — och trots det, en utfallskod som innebär "egenvård eller inget kvarstående vårdbehov." Fyra oberoende svenska ambulansorganisationers riktlinjer visar samstämmigt att det finns två tillåtna vägar när en patient inte transporteras till sjukhus. Ingen av dem följdes.
+I mina kompletteringar till LÖF har jag dokumenterat vad ambulansens egna noteringar visar: gul triagering, nytillkommet avvikande beteende, minneslucka, sluddrigt tal — och trots det, en utfallskod som innebär "egenvård eller inget kvarstående vårdbehov." Fyra oberoende svenska ambulansorganisationers riktlinjer visar samstämmigt att det finns två tillåtna vägar när en patient inte transporteras till sjukhus. Ingen av dem följdes.
 
 Jag väntar på svar.
 
@@ -39,7 +39,7 @@ Polisens agerande den 25 juni är en separat del av det jag ifrågasätter. Det 
 
 Strax därefter hittades jag medvetslös vid Källviksbadet av en andra polispatrull — som kallade ingen ambulans, utan körde mig till en privatbostad.
 
-Jag har begärt ut allmänna handlingar från polisen. Jag inväntar fullständiga händelserapporter, auditrloggar och övrigt material. När det kommit avser jag att anmäla till Avdelningen för särskilda utredningar (SU).
+Jag har begärt ut allmänna handlingar från polisen. Jag inväntar fullständiga händelserapporter, audit-loggar och övrigt material. När det kommit avser jag att anmäla till Avdelningen för särskilda utredningar (SU).
 
 ### Hovrättens dom
 

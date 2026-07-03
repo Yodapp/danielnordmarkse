@@ -26,7 +26,7 @@ I Sverige används [AKUT-testet](https://strokeforbundet.se/stroke/akut-testet/)
 - **U — Uttal:** Talar personen otydligt eller sluddrar?
 - **T — Tid:** Ring 112 omedelbart om du ser något av ovanstående.
 
-Andra symptom kan inkludera:
+Andra symtom kan inkludera:
 
 - Plötslig kraftig huvudvärk utan känd orsak
 - Plötslig synpåverkan på ett eller båda ögonen
@@ -41,11 +41,11 @@ Andra symptom kan inkludera:
 
 ## Neglektsyndrom och anosognosi — när stroke inte märks
 
-En stroke i höger hjärnhalva kan ge symptom som är svårare att känna igen.
+En stroke i höger hjärnhalva kan ge symtom som är svårare att känna igen.
 
 **Neglektsyndrom** innebär att hjärnan slutar uppmärksamma sidan som är motsatt till skadan — i de flesta fall vänster sida. Personen ser inte, reagerar inte på och registrerar inte stimuli från vänster. Det är inte blindhet — det är en brist i hjärnans uppmärksamhetsförmåga.
 
-**Anosognosi** innebär att personen inte märker att de är sjuka. Hjärnan kompenserar och fyller ut de luckor som uppstår till följd av skadan. Personen kan uppleva sig som i stort sett normal — trots att de visar tydliga symptom.
+**Anosognosi** innebär att personen inte märker att de är sjuka. Hjärnan kompenserar och fyller ut de luckor som uppstår till följd av skadan. Personen kan uppleva sig som i stort sett normal — trots att de visar tydliga symtom.
 
 Det är kombinationen av neglekt och anosognosi som gör högersidig stroke svår att identifiera, och svår att hantera. Personen kan framstå som förvirrad, omotiverad, ovanlig i sitt beteende — men inte nödvändigtvis som "sjuk" i traditionell mening.
 
@@ -57,13 +57,15 @@ Det är stroke.
 
 ## Tidsaspekten — varför det är bråttom
 
-Trombolys — blodproppslösande behandling — kan ges upp till fyra till fem timmar efter symtomdebut och kan i många fall minska eller eliminera skadan.
+Trombolys — blodproppslösande behandling — kan ges upp till 4,5 timmar efter symtomdebut och kan i många fall minska eller eliminera skadan.
 
 Trombektomi — mekaniskt avlägsnande av proppen — kan under rätt förutsättningar ges upp till sex timmar, ibland utvidgat till 24 timmar vid påvisad penumbra (levande hjärnvävnad runt infarktkärnan).
 
 Kombinationen av trombolys och trombektomi vid ocklusion av arteria cerebri medias grenar (M1/M2) fördubblar andelen patienter som blir funktionellt självständiga jämfört med trombolys ensamt. Det är ett av de starkaste resultaten i modern neurologi.
 
-Det fönstret stängs. Varje timme som går innebär att fler celler dör och att fler behandlingsalternativ stängs av.
+Ju snabbare trombolys och trombektomi genomförs, desto mer hjärnvävnad går att rädda. Det fönstret stängs. Varje timme som går innebär att fler celler dör och att fler behandlingsalternativ stängs av.
+
+*Tidsangivelserna följer Socialstyrelsens nationella riktlinjer för vård vid stroke (se Källor och vidare läsning nedan).*
 
 **Ring 112 direkt. Vänta inte.**
 
@@ -71,11 +73,11 @@ Det fönstret stängs. Varje timme som går innebär att fler celler dör och at
 
 ## För polis och räddningstjänst
 
-Stroke kan se ut som fylleri. Det är ett känt och dokumenterat problem. Förvirring, sluddrigt tal, ostadig gång, osammanhängande kommunikation, frånvaro av reaktion — det är symptom som delas av berusning och av pågående stroke.
+Stroke kan se ut som fylleri. Det är ett känt och dokumenterat problem. Förvirring, sluddrigt tal, ostadig gång, osammanhängande kommunikation, frånvaro av reaktion — det är symtom som delas av berusning och av pågående stroke.
 
 Skillnaden är att en strokedrabbad person behöver sjukvård omedelbart, och att varje timmes fördröjning innebär permanent hjärnskada.
 
-En person som uppvisar dessa symptom utan tydlig förklaring bör bedömas av medicinsk personal. Det är inte ett sjukvårdsbeslut att överlåta till polis eller räddningstjänst — men det är ett larm som polis och räddningstjänst kan ringa.
+En person som uppvisar dessa symtom utan tydlig förklaring bör bedömas av medicinsk personal. Det är inte ett sjukvårdsbeslut att överlåta till polis eller räddningstjänst — men det är ett larm som polis och räddningstjänst kan ringa.
 
 **Ring 112. Låt sjukvården avgöra.**
 

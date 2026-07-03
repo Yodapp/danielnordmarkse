@@ -1,6 +1,6 @@
 ---
 title: "Diagnosen"
-description: "2 juli 2024 — min mamma kör mig till akuten, DT visar stor stroke och neglektsyndromet upptäcks."
+description: "2 juli 2024 — min mamma kör mig till akuten, och en stor stroke i höger hjärnhalva bekräftas."
 date: 2024-07-02
 weight: 3
 ---
@@ -8,41 +8,43 @@ weight: 3
 
 Det var min mamma som körde mig till akuten.
 
-Jag vet inte exakt hur det gick till — hur hon fick mig att följa med, vad som sa henne att det nu var dags. Kanske hade hon sett tillräckligt. Kanske hade tröskeln äntligen nåtts. Ungefär en vecka hade gått sedan olyckan den 25 juni.
+Jag vet inte exakt hur det gick till — hur hon fick mig att följa med, vad som sa henne att det nu var dags. Kanske hade hon sett tillräckligt. Kanske hade tröskeln äntligen nåtts. Sju dygn hade gått sedan olyckan den 25 juni.
 
-På akutmottagningen på Falu Lasarett tog de blodprover och körde mig till datortomografi. Det tog inte lång tid.
+På akutmottagningen på Falu Lasarett tog de blodprover och körde mig till datortomografi. Det tog inte lång tid innan bilderna fanns.
 
-Resultatet var tydligt: stor stroke.
+De visade en stor förändring i höger hjärnhalva.
 
-### Vad bilderna visade
+### Två dygn, två besked
 
-DT:n visade en stor ischemisk stroke i höger hjärnhalva — i det område som försörjs av arteria cerebri media, den mellersta hjärnartären. Blodprover visade också hjärtpåverkan. Läkarna satte in Fragmin omgående — ett blodförtunnande läkemedel — och lade in mig.
+Datortomografin den 2 juli visade tydligt att något var allvarligt fel — men inte säkert vad. Läkarna i Falun kontaktade Neurokirurgen i Uppsala. Först var frågan öppen: kunde det vara en tumör? En infarkt?
 
-Dagen efter gjordes ett ultraljud av hjärtat. Det bekräftade det som blodproven antytt: en väggfast tromb i vänster kammare. En blodpropp i hjärtat, som suttit där under hela veckan utan att vi visste om det. Utan att någon behandling gavs.
+Blodproverna visade samtidigt att hjärtat var påverkat. Läkarna satte in Fragmin omgående — ett blodförtunnande läkemedel — och lade in mig med övervakning.
 
-Warfarin — Waran — påbörjades.
+Först dagen efter, den 3 juli, kom det slutliga beskedet. Efter en magnetröntgen (MR) och kontakt med min ansvariga neurolog i Falun kunde Uppsala slå fast vad bilderna visade: en stor, färsk infarkt i höger hjärnhalva — en ischemisk stroke i det område som försörjs av arteria cerebri media, den mellersta hjärnartären.
 
-Sedan kom magnetröntgen, MR. Den bekräftade och preciserade diagnosen: stor ischemisk stroke, höger hjärnhalva, MCA-territoriet. Och den bekräftade något annat också — något jag inte hade ett ord för då men som förklarade så mycket av det som hänt.
+Sju dygn efter olyckan fanns äntligen ett spår att gå på. På det åttonde stod diagnosen fast.
 
-Neglektsyndrom.
+Ett ultraljud av hjärtat bekräftade det som blodproven antytt: en väggfast tromb i vänster kammare. En blodpropp i hjärtat, som suttit där under hela veckan utan att vi visste om det, och utan att någon behandling getts. Warfarin — Waran — sattes in.
 
-### Vad neglekt innebär
+### Sidan jag inte såg
 
-Min neurolog förklarade det för mig. Vid en stroke i höger hjärnhalva kan hjärnan sluta uppmärksamma sidan som är motsatt till skadan — i mitt fall vänster sida. Det är inte blindhet. Ögonen fungerar. Men hjärnan filtrerar bort informationen från vänster. Man går in i saker på sin vänstra sida utan att märka det. Man reagerar inte på stimuli därifrån. Man "ser" inte det som finns där.
+Bilderna förklarade också något annat — något jag inte hade haft ord för, men som fick så mycket att falla på plats.
 
-Journalanteckningen från neurologavdelningen beskriver det: "Går in i vagn som står i korridoren på sin vänstra sida. Vänstersidigt neglekt."
+Min neurolog förklarade det. Vid en stroke i höger hjärnhalva kan hjärnan sluta ta in det som finns på motsatt sida — i mitt fall vänster. Det är inte blindhet. Ögonen fungerar. Men hjärnan sållar bort allt som kommer från vänster. Man går in i saker på sin vänstra sida utan att märka det. Man reagerar inte på det som händer där. Man ser det helt enkelt inte.
+
+Min neurolog hade ett ord för det: vänstersidigt neglekt. Journalen beskriver det rakt: "Går in i vagn som står i korridoren på sin vänstra sida. Vänstersidigt neglekt."
 
 Det var det Vittne A hade sett vid olyckan — en förare som inte reagerade, som inte tycktes uppfatta vad som hände. Det var det Polis T hade dokumenterat: förvirring, stirrighet, sluddrigt tal. Det var det ambulansen hade fångat under koden ESS 53: nytillkommet avvikande beteende.
 
 Det var stroke. Hela tiden.
 
-Och till allt detta kom anosognosin — oförmågan att märka att man är sjuk. Min neurolog satte ord på det: "Han visste inte själv vad som var fel." Det är inte ovanligt vid högersidig stroke. Hjärnan kan skadas på ett sådant sätt att den inte längre kan uppfatta sin egen skada.
+Och till allt detta kom det kanske svåraste att förklara: att jag inte själv märkte att jag var sjuk. Min neurolog satte ord på det: "Han visste inte själv vad som var fel." Det är inte ovanligt vid stroke i höger hjärnhalva — hjärnan kan skadas på ett sådant sätt att den inte längre kan uppfatta sin egen skada.
 
 Det är därför jag inte sökte hjälp. Inte för att jag vägrade. För att jag inte förstod att det fanns något att söka hjälp för.
 
 ### Det som gick förlorat
 
-Terapeutiskt fönster för trombolys: sex timmar från symtomdebut. För trombektomi — mekaniskt avlägsnande av proppen — kan det under vissa förutsättningar utvidgas till 24 timmar.
+Terapeutiskt fönster för trombolys: 4,5 timmar från symtomdebut. För trombektomi — mekaniskt avlägsnande av proppen — upp till sex timmar, och under vissa förutsättningar ända upp till 24 timmar. Ju snabbare trombolys och trombektomi genomförs, desto mer hjärnvävnad går att rädda.
 
 Trafikolyckan skedde klockan 13:30 den 25 juni. Ambulansen var på plats klockan 13:59. Det tidsfönstret var öppet.
 
@@ -50,7 +52,7 @@ MR bekräftade en M2-ocklusion — en propp i den andra grenen av arteria cerebr
 
 Den behandlingen var aldrig ett alternativ för mig. Inte för att den inte fanns. För att ingen hann bedöma mig i tid.
 
-Sju dagars fördröjning av antikoagulation. En väggfast tromb i hjärtat utan behandling. En hel vecka med förhöjd risk för ytterligare strokelarm.
+Sju dygns fördröjning av blodförtunning. En väggfast tromb i hjärtat utan behandling. En hel vecka med förhöjd risk för ytterligare strokelarm.
 
 Det var vad diagnosen — äntligen ställd — också innebar: en bild av allt som gått förlorat.
 
@@ -58,8 +60,8 @@ Det var vad diagnosen — äntligen ställd — också innebar: en bild av allt 
 
 Vid en stroke dör ungefär 1,9 miljoner hjärnceller varje minut. Det är bakgrunden till uttrycket *time is brain* — tid är hjärna.
 
-Om man räknar mekaniskt på de sju dygn — 10 080 minuter — som jag lämnades utan diagnos, skulle det innebära en teoretisk förlust på över 19 miljarder hjärnceller. Så fungerar det inte i praktiken eftersom förloppet mattas av. Men skadan i min högra hjärnhalva blev ändå enorm.
+Om man räknar mekaniskt på de sju dygnen — 10 080 minuter — som jag lämnades utan diagnos, skulle det innebära en teoretisk förlust på över 19 miljarder hjärnceller. Så fungerar det inte i praktiken eftersom förloppet mattas av. Men skadan i min högra hjärnhalva blev ändå enorm.
 
-Den uppmätta volymen av döda hjärnvävnaden efter min MCA M2-propp blev till slut 119 kubikcentimeter — 10,6 × 6,5 × 3,3 cm. Det motsvarar uppskattningsvis 2 till 5 miljarder permanent förlorade hjärnceller.
+Den uppmätta volymen av den döda hjärnvävnaden efter min MCA M2-propp blev till slut 119 kubikcentimeter — 10,6 × 6,5 × 3,3 cm. Det motsvarar uppskattningsvis 2 till 5 miljarder permanent förlorade hjärnceller.
 
 Det var priset för sju dygns väntan.

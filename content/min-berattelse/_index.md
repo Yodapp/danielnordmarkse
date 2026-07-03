@@ -8,7 +8,7 @@ cascade:
   showAuthor: false
 ---
 
-Den 25 juni 2024 drabbades jag av en stroke. Det tog sju dagar innan jag fick diagnos.
+Den 25 juni 2024 drabbades jag av en stroke. Det tog sju dygn innan jag fick diagnos.
 
 Det här är berättelsen om vad som hände — från trafikolyckan i Falun till livet idag. Den är baserad på journaler, polishandlingar, ambulansprotokoll och mina egna minnen av de delar jag faktiskt kan minnas.
 
@@ -40,13 +40,13 @@ Min mamma kör mig till akuten. DT visar stor stroke. Magnetröntgen bekräftar:
 ### [Kapitel 4 — Sjukhustiden](/min-berattelse/sjukhustiden/)
 *Juli 2024*
 
-Neurologavdelningen. Neglektsyndromet. Antikoagulationen. Samtalen med min neurolog. Hemgången som inte var ett slut.
+Neurologavdelningen. Sidan jag slutat se. Blodförtunningen. Samtalen med min neurolog. Hemgången som inte var ett slut.
 
 ---
 
 ### [Kapitel 5 — Livet efteråt](/min-berattelse/livet-efterat/)
 
-Vad som förändrats. Rehabilitering. Post-stroke fatigue. Att leva med konsekvenserna av en diagnos som kom sju dagar för sent.
+Vad som förändrats. Rehabilitering. Post-stroke fatigue. Att leva med konsekvenserna av en diagnos som kom sju dygn för sent.
 
 ---
 

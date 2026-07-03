@@ -20,7 +20,7 @@ Vad jag minns från de dagarna som följde är fragmentariskt och svårt att sä
 
 Jag vet att jag rörde mig. Jag vet att jag på något sätt fungerade tillräckligt för att inte larma folk runt mig — eller i varje fall inte tillräckligt för att någon ringde sjukvården. Och jag vet att jag inte förstod att något var allvarligt fel.
 
-Det är anosognosin. Det var inte att jag förnekade att jag mådde dåligt. Det var att hjärnan — den skadade hjärnan — helt enkelt inte registrerade det. Den fyllde ut hålen med vad som verkade rimligt.
+Det var inte att jag förnekade att jag mådde dåligt. Det var att hjärnan — den skadade hjärnan — helt enkelt inte registrerade det. Den fyllde ut hålen med vad som verkade rimligt.
 
 ### Min mamma söker mig
 
@@ -34,7 +34,7 @@ Jag svarade inte.
 
 Hon visste att något inte stämde. Det visste hon länge innan jag förstod det själv. Anhöriga ser det — den förändrade rösten, svaren som inte hänger ihop, frånvaron av det som brukar vara normalt. Men de kan inte tvinga en vuxen person att söka vård. Och jag, med min skadade hjärna, gav henne inte tillräckliga signaler för att hon skulle ringa 112.
 
-Det är en sak jag brottas med — inte för att hon gjorde fel, utan för hur det ser ut när anosognosi drabbar hela familjen. Alla runt omkring vet att något är fel. Bara den sjuke vet inte om det.
+Det är en sak jag brottas med — inte för att hon gjorde fel, utan för hur det ser ut när den som är sjuk är den enda som inte förstår det. Alla runt omkring vet att något är fel. Bara den sjuke vet inte om det.
 
 ### Dagarna utan diagnos
 
@@ -42,9 +42,9 @@ Vad hände mellan den 27 juni och den 2 juli? Jag vet inte exakt. Journalanteckn
 
 Jag vandrade runt i det tillståndet i mer än en vecka.
 
-En stor ischemisk stroke i höger hjärnhalva. En blodpropp i hjärtat — en väggfast tromb i vänster kammare — som ingen kände till. Utan antikoagulation. I hettan.
+En stor ischemisk stroke i höger hjärnhalva. En blodpropp i hjärtat — en väggfast tromb i vänster kammare — som ingen kände till. Utan blodförtunning. I hettan.
 
-Det terapeutiska fönstret för trombolys är sex timmar från symtomdebut. För trombektomi kan det ibland utvidgas till 24 timmar. Det fönstret stängdes den 25 juni, troligen redan under eftermiddagen. Allt som hänt sedan är konsekvenser av det.
+Det terapeutiska fönstret för trombolys är 4,5 timmar från symtomdebut. För trombektomi kan det sträcka sig upp till sex timmar, och ibland ända till 24 timmar. Ju snabbare behandlingen ges, desto mer hjärnvävnad går att rädda. Det fönstret stängdes den 25 juni, troligen redan under eftermiddagen. Allt som hänt sedan är konsekvenser av det.
 
 ### Att inte veta att man inte vet
 
