@@ -144,7 +144,8 @@
 
 .dn-stats__number {
   display: block;
-  font-size: 2.25rem;
+  white-space: nowrap;
+  font-size: clamp(1.75rem, 7vw, 2.25rem);
   font-weight: 900;
   color: #dc2626;
   line-height: 1.1;
@@ -158,4 +159,128 @@
   text-transform: uppercase;
   letter-spacing: 0.07em;
   color: #9ca3af;
+}
+
+/* --- Timeline --- */
+
+.dn-timeline {
+  margin-bottom: 4rem;
+}
+
+.dn-timeline__heading {
+  font-size: 0.7rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #9ca3af;
+  margin: 0 0 2rem;
+}
+
+.dn-timeline__list {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 0.375rem;
+}
+
+.dn-timeline__item {
+  position: relative;
+  padding: 0 0 2rem 1.75rem;
+  border-left: 2px solid #d1d5db;
+}
+
+.dark .dn-timeline__item {
+  border-left-color: #374151;
+}
+
+.dn-timeline__item:last-child {
+  border-left-color: transparent;
+  padding-bottom: 0;
+}
+
+.dn-timeline__item::before {
+  content: "";
+  position: absolute;
+  left: -8px;
+  top: 0.15rem;
+  width: 14px;
+  height: 14px;
+  border-radius: 9999px;
+}
+
+.dn-timeline__time {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.3rem;
+}
+
+.dn-timeline__text {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: #374151;
+}
+
+.dark .dn-timeline__text {
+  color: #d1d5db;
+}
+
+/* Yellow — accident and ambulance */
+.dn-timeline__item--yellow::before {
+  background: #ca8a04;
+}
+
+.dn-timeline__item--yellow .dn-timeline__time {
+  color: #a16207;
+}
+
+.dark .dn-timeline__item--yellow::before {
+  background: #eab308;
+}
+
+.dark .dn-timeline__item--yellow .dn-timeline__time {
+  color: #facc15;
+}
+
+/* Dark — collapse and the seven days */
+.dn-timeline__item--dark::before {
+  background: #111827;
+}
+
+.dn-timeline__item--dark .dn-timeline__time {
+  color: #111827;
+}
+
+.dark .dn-timeline__item--dark::before {
+  background: #111827;
+  box-shadow: 0 0 0 2px #6b7280;
+}
+
+.dark .dn-timeline__item--dark .dn-timeline__time {
+  color: #e5e7eb;
+}
+
+/* Blue — diagnosis */
+.dn-timeline__item--blue::before {
+  background: #1d4ed8;
+}
+
+.dn-timeline__item--blue .dn-timeline__time {
+  color: #1d4ed8;
+}
+
+.dark .dn-timeline__item--blue::before {
+  background: #3b82f6;
+}
+
+.dark .dn-timeline__item--blue .dn-timeline__time {
+  color: #60a5fa;
+}
+
+@media (max-width: 640px) {
+  .dn-timeline__item {
+    padding-left: 1.5rem;
+  }
 }

@@ -8,6 +8,10 @@ showDate = false
 showReadingTime = true
 showTableOfContents = true
 
+[header]
+  layout = "hybrid"
+  logo = "img/logo.svg"
+
 [homepage]
   layout = "custom"
   showRecent = false
