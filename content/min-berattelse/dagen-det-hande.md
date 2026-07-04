@@ -14,6 +14,16 @@ Därefter har jag en minneslucka.
 
 Vad som hände under den tiden är vad vittnen på plats har berättat och som finns dokumenterat i polisrapporter från platsen.
 
+Klockan 13:43 kom det första samtalet till 112. Samtalet varade i drygt tre minuter.
+
+Det var föraren i bilen jag krockade med som ringde det samtalet. Han berättar att jag kom körande rakt emot honom, att han tutade men att jag körde rakt in i hans bil. Hans bil stod stilla. Han uppskattar min hastighet till 20 km/h.
+
+I samtalet beskriver han mig för operatören: *"Han är inte med i matchen. Jag vet inte om han kan vara sjuk."* Operatören frågar om andningsproblem. Svaret: *"Nej, jag vet inte. Han verkar full."* Och sedan, mot slutet av samtalet: *"Det kanske är bra att kolla upp honom."*
+
+Klockan 14:18 hölls ett vittnesförhör av Polis på platsen med vittnet som ringde till SOS. Vittnet berättade att han gick fram till mig efter krocken och frågade hur jag mådde — men fick ingen riktig kontakt. *"Han var helt borta. Han satt bara kvar i bilen och försökte inte köra undan eller liknande."*
+
+Vittnets bild var tydlig: jag var inte kontaktbar. Det tolkades som berusning. Ingen — varken SOS-operatören, polisen eller ambulansen — övervägde att det kunde handla om ett livshotande tillstånd.
+
 ### Ambulansen
 
 Den första som fick kontakt med mig på platsen var en polis. Polisen var väldigt arg och höjde rösten på ett aggressivt sätt hela tiden. Jag fick blåsa för att bevisa att jag inte hade druckit alkohol. Jag har senare förstått att anledningen till att polisen var så arg på mig var för att jag inte lyckades svara på frågor. I polisrapporten beskrivs jag som slö, att jag pratar sluddrigt, pratar osammanhängande. Allt det är klassiska symtom på en stroke. Att en polis i tjänst inte lyckas behärska sig och blir arg på en person som har en stroke tycker jag är skrämmande.
@@ -22,11 +32,19 @@ Ambulansen kom från Borlänge och var framme strax efter halv två. Ambulansper
 
 Vad som noterades på platsen var att jag hade problem med mitt tal. I riktlinjerna för AKUT-testet står det tydligt att det räcker med ett enda symtom för att 112 ska kontaktas omedelbart.
 
-Sedan hände det som ändrade allt.
+I 112-samtalet sa vittnet att jag verkade full. Det var den hypotes som ambulans och polis anlände med.
 
-Polisen — som också var på plats — meddelade att de skulle köra mig till akutmottagningen. Ambulansen lämnade. I journalen dokumenterade ambulanspersonal M resultatet: *"Patienten känner sig helt återställd och vill inte åka med oss till akutmottagningen. Polisen tar med patienten för drogscreening."*
+Den uteslöts direkt. På platsen fick jag blåsa för alkohol. Resultatet var negativt. Av någon anledning dokumenterades aldrig det negativa resultatet i ambulansjournalen.
 
-Drogscreening. Inte medicinsk bedömning. Drogscreening.
+I stället för att ifrågasätta bilden skiftade polisen hypotes: jag var inte full, jag var *kraftigt narkotikapåverkad*. Som skäl angav polisen att jag var väldigt förvirrad, slö och sluddrig i talet — och att jag hade väldigt små pupiller.
+
+Det är ett medicinskt problem med den bedömningen. Droger som ger kraftigt sammandragning av pupillerna är opiater och opioider. Det är en mycket specifik farmakologisk förklaring. Ambulansens egna undersökning klockan 14:09 dokumenterade normala pupiller med normal ljusreaktion — ett fynd som direkt talade emot polisens misstanke om narkotikapåverkan.
+
+Vid det här laget fanns det alltså ingenting som medicinskt talade för varken alkohol eller droger som förklaring till mitt tillstånd. Ändå fattade polisen beslut om drogscreening via blodprov. Exakt samma minut som det beslutet fattades skrev ambulansen i sin journal: *Egenvård, patient medföljer polis för drogscreening.*
+
+Därefter övergick händelsen till en brottsutredning. Ambulansen lämnade platsen — utan en dokumenterad teori om vad som hade gjort mig okontaktbar, vad som fick mig att köra rakt in i en stillastående bil, eller vad som förklarade det sluddriga talet och förvirringen.
+
+Det är svårt att inte tro att ambulansens beslut att lämna påverkades av att polisen inledde en brottsutredning. Att utreda misstanke om brott gick före att säkerställa att jag mådde bra.
 
 ### På akuten — tre minuter
 
