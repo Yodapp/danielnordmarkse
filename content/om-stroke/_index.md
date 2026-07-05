@@ -19,7 +19,7 @@ I Sverige drabbas ungefär 25 000 personer av stroke varje år. Det är en av de
 
 ## Hur känner man igen stroke?
 
-I Sverige används [AKUT-testet](https://strokeforbundet.se/stroke/akut-testet/), framtaget av Strokeförbundet:
+[AKUT-testet](https://strokeforbundet.se/stroke/akut-testet/) är ett hjälpmedel som används i stora delar av världen för att snabbt avgöra om stroke bör misstänkas. Det är utformat för att fungera även utan medicinsk utbildning:
 
 - **A — Ansikte:** Ser du en skevhet i ansiktet?
 - **K — Kropp:** Har personen svaghet i arm eller ben?
