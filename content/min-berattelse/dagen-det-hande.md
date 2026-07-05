@@ -28,7 +28,13 @@ Vittnets bild var tydlig: jag var inte kontaktbar. Det tolkades som berusning. I
 
 Den första som fick kontakt med mig på platsen var en polis. Polisen var väldigt arg och höjde rösten på ett aggressivt sätt hela tiden. Jag fick blåsa för att bevisa att jag inte hade druckit alkohol. Jag har senare förstått att anledningen till att polisen var så arg på mig var för att jag inte lyckades svara på frågor. I polisrapporten beskrivs jag som slö, att jag pratar sluddrigt, pratar osammanhängande. Allt det är klassiska symtom på en stroke. Att en polis i tjänst inte lyckas behärska sig och blir arg på en person som har en stroke tycker jag är skrämmande.
 
-Ambulansen kom från Borlänge och var framme strax efter halv två. Ambulanspersonal M dokumenterade vad vittnen och polis på plats hade berättat för henne: nytillkommet avvikande beteende, flimmer för ögonen, svårt att fokusera, minneslucka för hur olyckan gick till, sluddrigt tal. I triageringssystemet RETTS sattes jag som gul — det innebär behov av akutsjukvård inom rimlig tid.
+Ambulansen kom från Borlänge och var framme strax innan klockan 14. Ambulanspersonal M dokumenterade enstaka uppgifter som polis på plats förmedlade till henne: nytillkommet avvikande beteende, flimmer för ögonen, svårt att fokusera, sluddrigt tal. Jag själv berättade om minnesluckan kring olycksögonblicket. I triageringssystemet RETTS sattes jag som gul — det innebär behov av akutsjukvård inom rimlig tid.
+
+Vad polisen inte förmedlade är mer talande. I polisens egen huvudanmälan dokumenterades att jag "sluddrade i talet, var slö och upplevdes förvirrad." Det är klassiska symtom på stroke — men polisens egna iakttagelser nådde aldrig ambulansen, trots att polis samtalade med ambulanspersonalen ända fram till att ambulansen lämnade platsen. Vittnesmål från platsen beskrev dessutom hur min bil körde ut på vänstersidan av vägen och sedan rakt in i mötande fordon. Att utan förklaring drifta åt vänster är ett möjligt neurologiskt tecken: höger hjärnhalva styr den rumsliga uppmärksamheten för vänster sida, och den typen av okontrollerat körfältsbyte kan vara ett tidigt tecken på just den skada jag senare fick diagnos för. Inte heller det nådde ambulansen.
+
+Polisen satt på flera observationer som var kända symtom på stroke. De förmedlade ingen av dem.
+
+Det enda polisen förmedlade till ambulansen var: vinglig körning och mitt personnummer.
 
 Vad som noterades på platsen var att jag hade problem med mitt tal. I riktlinjerna för AKUT-testet står det tydligt att det räcker med ett enda symtom för att 112 ska kontaktas omedelbart.
 
@@ -36,9 +42,9 @@ I 112-samtalet sa vittnet att jag verkade full. Det var den hypotes som ambulans
 
 Den uteslöts direkt. På platsen fick jag blåsa för alkohol. Resultatet var negativt. Av någon anledning dokumenterades aldrig det negativa resultatet i ambulansjournalen.
 
-I stället för att ifrågasätta bilden skiftade polisen hypotes: jag var inte full, jag var *kraftigt narkotikapåverkad*. Som skäl angav polisen att jag var väldigt förvirrad, slö och sluddrig i talet — och att jag hade väldigt små pupiller.
+I stället för att ifrågasätta bilden skiftade polisen hypotes: jag var inte full, jag var *tydligt narkotikapåverkad*. Som skäl angav polisen att jag var väldigt förvirrad, slö och sluddrig i talet — och att jag hade väldigt små pupiller.
 
-Det är ett medicinskt problem med den bedömningen. Droger som ger kraftigt sammandragning av pupillerna är opiater och opioider. Det är en mycket specifik farmakologisk förklaring. Ambulansens egna undersökning klockan 14:09 dokumenterade normala pupiller med normal ljusreaktion — ett fynd som direkt talade emot polisens misstanke om narkotikapåverkan.
+Det är ett medicinskt problem med den bedömningen. Droger som ger kraftigt sammandragning av pupillerna är opiater och opioider. Det är en mycket specifik farmakologisk förklaring. Ambulansens egna undersökning klockan 14:15 dokumenterade normala pupiller med normal ljusreaktion — ett fynd som direkt talade emot polisens misstanke om narkotikapåverkan.
 
 Vid det här laget fanns det alltså ingenting som medicinskt talade för varken alkohol eller droger som förklaring till mitt tillstånd. Ändå fattade polisen beslut om drogscreening via blodprov. Exakt samma minut som det beslutet fattades skrev ambulansen i sin journal: *Egenvård, patient medföljer polis för drogscreening.*
 
