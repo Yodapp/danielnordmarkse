@@ -43,11 +43,11 @@ Jag har begärt ut allmänna handlingar från polisen. Jag inväntar fullständi
 
 ## JO — Riksdagens ombudsmän
 
-Jag har lämnat in två anmälningar till Justitieombudsmannen, båda registrerade under diarienummer 9344-2026.
+Jag har lämnat in två anmälningar till Justitieombudsmannen.
 
-Den första riktar sig mot Polismyndigheten, polisregion Bergslagen, och gäller dröjsmål med utlämnande av allmänna handlingar. Min begäran registrerades den 11 juni 2026 under diarienummer A383.346/2026. Tjugoen dagar senare hade ingen substantiell åtgärd vidtagits. Polismyndigheten fick hård kritik av JO så sent som den 13 maj 2026 — dnr 3217-2026 — för ett liknande dröjsmål. Att myndigheten ändå inte lever upp till skyndsamhetskravet är extra allvarligt när handlingarna direkt rör pågående processer hos IVO och LÖF och begränsar mig i att agera gentemot polisens agerande.
+Den första riktar sig mot Polismyndigheten, polisregion Bergslagen, och gäller dröjsmål med utlämnande av allmänna handlingar. Diarienummer hos JO: 9344-2026. Min begäran registrerades den 11 juni 2026 under diarienummer A383.346/2026. Tjugoen dagar senare hade ingen substantiell åtgärd vidtagits. Polismyndigheten fick hård kritik av JO så sent som den 13 maj 2026 — dnr 3217-2026 — för ett liknande dröjsmål. Att myndigheten ändå inte lever upp till skyndsamhetskravet är extra allvarligt när handlingarna direkt rör pågående processer hos IVO och LÖF och begränsar mig i att agera gentemot polisens agerande.
 
-Den andra anmälan riktar sig mot Polismyndigheten och polisman T O, LPO Falun — dagen då jag drabbades av en stor stroke. Anmälan tar upp tre brister i hur Polis T O hanterade situationen.
+Den andra anmälan riktar sig mot Polismyndigheten och polisman T O, LPO Falun — dagen då jag drabbades av en stor stroke. Diarienummer hos JO: 9451-2026. Anmälan tar upp tre brister i hur Polis T O hanterade situationen.
 
 Den första gäller en faktamässigt felaktig klinisk beskrivning i hans eget PM — den beskrivning som lade grunden för hela den efterföljande kedjan av polisiära åtgärder — trots att ambulansens samtida undersökning dokumenterade motsatsen.
 
