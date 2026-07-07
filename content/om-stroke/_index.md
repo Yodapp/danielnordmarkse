@@ -5,8 +5,6 @@ description: "Faktainformation om stroke — vad det är, hur man känner igen d
 
 Det här är inte min berättelse. Det här är faktainformation om stroke — vad det är, hur man känner igen det, och varför varje minut räknas. Den är skriven för alla som möter stroke: drabbade, anhöriga, sjukvårdspersonal, polis, räddningstjänst — och alla andra.
 
----
-
 ## Vad är stroke?
 
 Stroke är ett samlingsnamn för hjärninfarkt och hjärnblödning. Det vanligaste är hjärninfarkt — en propp som blockerar blodflödet till en del av hjärnan. Utan blodtillförsel dör hjärnceller snabbt.
@@ -14,8 +12,6 @@ Stroke är ett samlingsnamn för hjärninfarkt och hjärnblödning. Det vanligas
 Uppskattningsvis 1,9 miljoner nervceller dör varje minut en stroke pågår obehandlad. Det är den biologiska bakgrunden till uttrycket "time is brain" — tid är hjärna.
 
 I Sverige drabbas ungefär 25 000 personer av stroke varje år. Det är en av de vanligaste orsakerna till dödsfall och till permanent funktionsnedsättning.
-
----
 
 ## Hur känner man igen stroke?
 
@@ -37,8 +33,6 @@ Andra symtom kan inkludera:
 **Viktigt:** AKUT-testet fångar inte alla strokefall. Om något känns fel, men testet verkar normalt — lita på din känsla. Ring 112.
 {{< /alert >}}
 
----
-
 ## Neglektsyndrom och anosognosi — när stroke inte märks
 
 En stroke i höger hjärnhalva kan ge symtom som är svårare att känna igen.
@@ -52,8 +46,6 @@ Det är kombinationen av neglekt och anosognosi som gör högersidig stroke svå
 Det kan se ut som berusning. Det kan se ut som psykisk påverkan. Det kan se ut som ett underligt beteende vid en trafikolycka.
 
 Det är stroke.
-
----
 
 ## Tidsaspekten — varför det är bråttom
 
@@ -69,8 +61,6 @@ Ju snabbare trombolys och trombektomi genomförs, desto mer hjärnvävnad går a
 
 **Ring 112 direkt. Vänta inte.**
 
----
-
 ## För polis och räddningstjänst
 
 Stroke kan se ut som fylleri. Det är ett känt och dokumenterat problem. Förvirring, sluddrigt tal, ostadig gång, osammanhängande kommunikation, frånvaro av reaktion — det är symtom som delas av berusning och av pågående stroke.
@@ -80,8 +70,6 @@ Skillnaden är att en strokedrabbad person behöver sjukvård omedelbart, och at
 En person som uppvisar dessa symtom utan tydlig förklaring bör bedömas av medicinsk personal. Det är inte ett sjukvårdsbeslut att överlåta till polis eller räddningstjänst — men det är ett larm som polis och räddningstjänst kan ringa.
 
 **Ring 112. Låt sjukvården avgöra.**
-
----
 
 ## Källor och vidare läsning
 

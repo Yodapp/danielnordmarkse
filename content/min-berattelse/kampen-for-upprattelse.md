@@ -1,5 +1,5 @@
 ---
-title: "Kampen för upprättelse"
+title: "Kapitel 6 — Kampen för upprättelse"
 description: "LÖF, IVO, polisanmälan och det pågående rättsliga arbetet — och varför det spelar roll."
 date: 2026-07-02
 weight: 6
@@ -11,7 +11,7 @@ Det finns ett skede efter stroken som ingen pratar om i de informationsbroschyre
 
 Då börjar en annan sorts arbete.
 
-### LÖF — Patientförsäkringen
+## LÖF — Patientförsäkringen
 
 Landstingens ömsesidiga försäkringsbolag, LÖF, är det försäkringssystem som hanterar anmälningar om patientskador i svensk vård. Jag anmälde det som hänt.
 
@@ -23,7 +23,7 @@ I mina kompletteringar till LÖF har jag dokumenterat vad ambulansens egna noter
 
 Jag väntar på svar.
 
-### IVO — Inspektionen för vård och omsorg
+## IVO — Inspektionen för vård och omsorg
 
 IVO granskar hur hälso- och sjukvård bedrivs i Sverige. Jag har anmält det som hände till IVO, ärendenummer 3.4.1-17228/2025-8.
 
@@ -33,7 +33,7 @@ IVO har i ett tidigare ärende — dnr 8.2-31859/2017-12 — kritiserat ett ambu
 
 I mitt fall gick ambulansen ett steg längre: de dokumenterade själva det avvikande beteendet under koden ESS 53 — men det föranledde ändå inte en stroke-riktad bedömning.
 
-### Polisen
+## Polisen
 
 Polisens agerande den 25 juni är en separat del av det jag ifrågasätter. Det handlar inte om att ambulansen missade mig — det handlar om att polisen aktivt tog över en gul-triagerad patient utan medicinsk kompetens, körde mig till akuten för en drogscreening i sin brottsutredning, svarade nej på sjuksköterskans fråga om undersökning, och sedan lämnade mig vid tågstationen i 30-gradig värme — trots att Polis T i sitt eget PM dokumenterade att jag var "väldigt förvirrad, stirrig, slö och sluddrig i talet."
 
@@ -41,7 +41,7 @@ Strax därefter hittades jag medvetslös vid Källviksbadet av en andra polispat
 
 Jag har begärt ut allmänna handlingar från polisen. Jag inväntar fullständiga händelserapporter, audit-loggar och övrigt material. När det kommit avser jag att anmäla till Avdelningen för särskilda utredningar (SU).
 
-### JO — Riksdagens ombudsmän
+## JO — Riksdagens ombudsmän
 
 Jag har lämnat in två anmälningar till Justitieombudsmannen, båda registrerade under diarienummer 9344-2026.
 
@@ -57,21 +57,20 @@ Det tredje gäller verkställighet av kroppsbesiktning utan korrekt formellt bes
 
 Istället hände följande på Falu Lasarett:
 
-Kl. 15:03 — Blodprovet verkställdes av en sjuksköterska.
-
-Kl. 15:13 — Beslutet registrerades för första gången, av polis V T, med Polis T O angiven som beslutsfattare.
-
-Kl. 15:38 — Beslutsfattaren ändrades retroaktivt till JFUL (jourhavande förundersökningsledare) H L.
-
-Kl. 15:39 — Beslutet signerades formellt.
+{{< tidslinje >}}
+{{< tidpunkt tid="Kl. 15:03" >}}Blodprovet verkställdes av en sjuksköterska.{{< /tidpunkt >}}
+{{< tidpunkt tid="Kl. 15:13" >}}Beslutet registrerades för första gången, av polis V T, med Polis T O angiven som beslutsfattare.{{< /tidpunkt >}}
+{{< tidpunkt tid="Kl. 15:38" >}}Beslutsfattaren ändrades retroaktivt till JFUL (jourhavande förundersökningsledare) H L.{{< /tidpunkt >}}
+{{< tidpunkt tid="Kl. 15:39" >}}Beslutet signerades formellt.{{< /tidpunkt >}}
+{{< /tidslinje >}}
 
 Blodprovet verkställdes alltså 10 minuter innan något beslut existerade i systemet, 25 minuter innan rätt beslutsfattare angavs, och 26 minuter innan beslutet signerades formellt.
 
-### Hovrättens dom
+## Hovrättens dom
 
 Rättsväsendet rörde sig också. I februari 2026 meddelade Svea hovrätt dom i mål B 17945-25. Innehållet i den domen är en del av det rättsliga sammanhang som omgärdar händelseförloppet den 25 juni 2024.
 
-### Det pågående arbetet
+## Det pågående arbetet
 
 Utöver LÖF, IVO, JO och polisanmälningar planerar jag:
 
@@ -81,7 +80,7 @@ Utöver LÖF, IVO, JO och polisanmälningar planerar jag:
 
 Det är ett arbete som tar tid. Det är ett arbete som kräver mer energi än jag ibland har. Och det är ett arbete som en strokeöverlevare med kognitiv påverkan inte borde behöva driva ensam — men gör det.
 
-### Varför det spelar roll
+## Varför det spelar roll
 
 Jag vill vara tydlig med vad jag hoppas uppnå.
 

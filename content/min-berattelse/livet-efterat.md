@@ -1,5 +1,5 @@
 ---
-title: "Livet efteråt"
+title: "Kapitel 5 — Livet efteråt"
 description: "Vad som förändrats, rehabilitering, post-stroke fatigue och att leva med konsekvenserna."
 date: 2026-07-02
 weight: 5
@@ -10,7 +10,7 @@ Det finns en föreställning om att när en akut fas är över — när man komm
 
 Det stämmer till viss del. Men stroke är inte en skada som läker helt. Den är en förändring av hur hjärnan fungerar, och hjärnan är allt.
 
-### Vad som förändrats
+## Vad som förändrats
 
 Det är svårt att beskriva kognitiva förändringar för någon som inte upplevt dem. Inte för att de är obegripliga — utan för att de är subtila på ett sätt som gör dem svåra att sätta ord på inifrån.
 
@@ -22,7 +22,7 @@ Det är svårare att göra flera saker samtidigt. Det är svårare att hantera s
 
 Det påverkar arbetsförmågan. Det påverkar sociala situationer. Det påverkar självbilden.
 
-### Rehabilitering
+## Rehabilitering
 
 Rehabilitering efter stroke är ett långsiktigt arbete. Det handlar om att träna upp funktioner som skadats, att hitta strategier för det som inte återkommer, att lära känna en hjärna som fungerar på ett nytt sätt.
 
@@ -32,7 +32,7 @@ Rehabilitering börjar med diagnos. Den börjar med att någon vet vad som hänt
 
 Mitt rehabiliteringsarbete startade sju dygn för sent.
 
-### Att leva med det
+## Att leva med det
 
 Det är inte ett klagomål. Det är ett faktum.
 
@@ -42,7 +42,7 @@ Men det finns saker jag inte kan göra som jag kunde förut. Det finns en kropp 
 
 Det är inte en fråga man kan besvara. Men den formar hur man ser på det som hände. Den formar varför jag berättar den här historien.
 
-### Varför jag berättar
+## Varför jag berättar
 
 Jag berättar inte för att vara ett offer. Jag berättar för att det jag gick igenom inte var oundvikligt.
 

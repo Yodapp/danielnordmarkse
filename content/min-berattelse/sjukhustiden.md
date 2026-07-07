@@ -1,5 +1,5 @@
 ---
-title: "Sjukhustiden"
+title: "Kapitel 4 — Sjukhustiden"
 description: "Juli 2024 — neurologavdelningen, sidan jag inte såg, blodförtunningen och hemgången."
 date: 2024-07-03
 weight: 4
@@ -11,7 +11,7 @@ Det låter som en självklarhet. Det borde vara en självklarhet. Men efter allt
 
 Jag var inlagd på Falu Lasarett. Neurologavdelningen.
 
-### De första dagarna
+## De första dagarna
 
 De första dagarna minns jag fragmentariskt. Det fanns undersökningar, prover, läkare som ställde frågor. Det fanns sjuksköterskor som kom och gick. Det fanns en trötthet som inte var vanlig trötthet — en tyngd som satt i kroppen och hjärnan på ett sätt jag inte hade ord för.
 
@@ -19,7 +19,7 @@ Min neurolog var tydlig och rak. Han förklarade vad som hade hänt: en stor isc
 
 Jag förstod orden. Men det tog tid för dem att landa.
 
-### Sidan jag inte såg
+## Sidan jag inte såg
 
 Det märkligaste med att inte se sin vänstra sida är att man inte märker det själv. Det är det som gör tillståndet så svårfångat — hjärnan kompenserar, fyller ut, skapar en upplevelse av helhet även där det saknas.
 
@@ -29,7 +29,7 @@ Rehabiliteringen handlade delvis om att lära hjärnan att se det den slutat se.
 
 Jag hade också svårigheter med minne och koncentration. Att läsa var svårt. Att hålla tråden i ett samtal krävde ansträngning. Saker som hade varit enkla var plötsligt inte det.
 
-### Blodförtunningen och hjärtat
+## Blodförtunningen och hjärtat
 
 Ultraljudet hade bekräftat den väggfasta tromben i vänster kammare. Det är ett allvarligt fynd. En lossnad propp därifrån kan orsaka ytterligare stroke.
 
@@ -39,7 +39,7 @@ Kardiologerna var involverade. Det handlade inte bara om hjärnan längre — de
 
 Fragmin sköt upp blodets förmåga att koagulera tills Waran hade hunnit verka. Sju dygn utan den behandlingen. En vecka med en aktiv tromb och inget skydd.
 
-### Samtal
+## Samtal
 
 Det var under sjukhustiden jag började förstå den fulla innebörden av vad som hade hänt. Inte allt på en gång — det händer fortfarande, i lager, allt eftersom jag läser dokument och lär mig vad orden egentligen betyder.
 
@@ -47,7 +47,7 @@ Men det var där, i de samtalen med läkare och sjuksköterskor, som jag för f�
 
 Det är en sorts sorg som är svår att beskriva. Inte vrede, inte bitterhet — mer som att stå framför något oåterkalleligt och försöka begripa det.
 
-### Hemgång
+## Hemgång
 
 Jag skrevs ut från sjukhuset med mediciner, uppföljningstider och en diagnos som skulle följa mig. Rehabiliteringsarbetet fortsatte polikliniskt.
 

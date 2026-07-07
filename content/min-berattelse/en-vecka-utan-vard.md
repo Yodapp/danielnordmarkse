@@ -1,5 +1,5 @@
 ---
-title: "En vecka utan vård"
+title: "Kapitel 2 — En vecka utan vård"
 description: "25 juni – 2 juli 2024 — dagarna efter olyckan, minnesluckorna och att inte veta att man är sjuk."
 date: 2024-06-25
 weight: 2
@@ -12,7 +12,7 @@ Däremellan finns ingenting. Inga foton. Inga SMS. Inga steg. Bara ett hål.
 
 Och det är ungefär så den veckan som följde ser ut också. Luckor. Fragment. Andras berättelser om ett förlopp jag inte själv minns eller förstod medan det pågick.
 
-### Natten och dagarna
+## Natten och dagarna
 
 Den andra polispatrullen körde mig till en bekants adress. Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus — GPS-data och tidsstämpel finns kvar i bilden. Det är det enda konkreta spåret från den natten.
 
@@ -22,7 +22,7 @@ Jag vet att jag rörde mig. Jag vet att jag på något sätt fungerade tillräck
 
 Det var inte att jag förnekade att jag mådde dåligt. Det var att hjärnan — den skadade hjärnan — helt enkelt inte registrerade det. Den fyllde ut hålen med vad som verkade rimligt.
 
-### Min mamma söker mig
+## Min mamma söker mig
 
 Natten till den 27 juni, klockan 01:27, skriver min mamma ett SMS:
 
@@ -36,7 +36,7 @@ Hon visste att något inte stämde. Det visste hon länge innan jag förstod det
 
 Det är en sak jag brottas med — inte för att hon gjorde fel, utan för hur det ser ut när den som är sjuk är den enda som inte förstår det. Alla runt omkring vet att något är fel. Bara den sjuke vet inte om det.
 
-### Dagarna utan diagnos
+## Dagarna utan diagnos
 
 Vad hände mellan den 27 juni och den 2 juli? Jag vet inte exakt. Journalanteckningarna från sjukhuset nämner att min flickvän och min mamma, oberoende av varandra, uppgav att jag personlighetsförändrats sedan olyckan. Att jag hade varit ostadig, förvirrad och saknat tidsuppfattning. Att de aldrig sett den förändringen hos mig före olyckan.
 
@@ -46,7 +46,7 @@ En stor ischemisk stroke i höger hjärnhalva. En blodpropp i hjärtat — en v�
 
 Det terapeutiska fönstret för trombolys är 4,5 timmar från symtomdebut. För trombektomi kan det sträcka sig upp till sex timmar, och ibland ända till 24 timmar. Ju snabbare behandlingen ges, desto mer hjärnvävnad går att rädda. Det fönstret stängdes den 25 juni, troligen redan under eftermiddagen. Allt som hänt sedan är konsekvenser av det.
 
-### Att inte veta att man inte vet
+## Att inte veta att man inte vet
 
 En stroke i höger hjärnhalva kan ge en upplevelse av att allt är normalt när det inte är det. Hjärnan kompenserar, fyller ut, tolkar om. Det som objektivt sett är frånvaro av reaktion, oklar kommunikation, ostadig gång — upplevs inifrån som att man fungerar. Kanske lite seg, kanske lite konstig, men fungerar.
 

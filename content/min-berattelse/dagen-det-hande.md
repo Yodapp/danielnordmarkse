@@ -1,5 +1,5 @@
 ---
-title: "Dagen det hände"
+title: "Kapitel 1 — Dagen det hände"
 description: "25 juni 2024 — trafikolyckan i Falun, ambulansen, polisen och kollapsen vid Källviksbadet."
 date: 2024-06-25
 weight: 1
@@ -24,7 +24,7 @@ Klockan 14:18 hölls ett vittnesförhör av Polis på platsen med vittnet som ri
 
 Vittnets bild var tydlig: jag var inte kontaktbar. Det tolkades som berusning. Ingen — varken SOS-operatören, polisen eller ambulansen — övervägde att det kunde handla om ett livshotande tillstånd.
 
-### Ambulansen
+## Ambulansen
 
 Den första som fick kontakt med mig på platsen var en polis. Polisen var väldigt arg och höjde rösten på ett aggressivt sätt hela tiden. Jag fick blåsa för att bevisa att jag inte hade druckit alkohol. Jag har senare förstått att anledningen till att polisen var så arg på mig var för att jag inte lyckades svara på frågor. I polisrapporten beskrivs jag som slö, att jag pratar sluddrigt, pratar osammanhängande. Allt det är klassiska symtom på en stroke. Att en polis i tjänst inte lyckas behärska sig och blir arg på en person som har en stroke tycker jag är skrämmande.
 
@@ -52,7 +52,7 @@ Därefter övergick händelsen till en brottsutredning. Ambulansen lämnade plat
 
 Det är svårt att inte tro att ambulansens beslut att lämna påverkades av att polisen inledde en brottsutredning. Att utreda misstanke om brott gick före att säkerställa att jag mådde bra.
 
-### På akuten — tre minuter
+## På akuten — tre minuter
 
 Polisen körde mig till Falu Lasarett. Klockan 15:03 togs ett blodprov av en sjuksköterska. Klockan 15:06 var det klart. Tre minuter. Ändamålet stod i polisens protokoll: *"Utröna omständigheter som kan ha betydelse för utredningen."*
 
@@ -62,7 +62,7 @@ Jag befann mig på en akutmottagning, inom en och en halv timme från det att mi
 
 Av fel anledning.
 
-### Polisbilen
+## Polisbilen
 
 Det här minns jag.
 
@@ -74,7 +74,7 @@ I bilen visste jag ingenting av det. Jag visste bara att de var arga, och att ja
 
 Jag förnekade ingenting och jag ljög inte. Min skadade hjärna kunde helt enkelt inte uppfatta sin egen skada. Jag upplevde att jag var klar och att jag svarade tydligt på deras frågor. Det stämde inte — men det var så min verklighet såg ut.
 
-### Lämnad vid tågstationen
+## Lämnad vid tågstationen
 
 Klockan 15:51 skriver Polis T sitt PM. Sedan lämnar polisen mig vid tågstationen i Falun.
 
@@ -82,13 +82,13 @@ SMHI har utfärdat varning för värmebölja i Dalarna. Temperaturen stiger mot 
 
 Jag vandrade genom Falun i het sommarvärme med en pågående stroke i hjärnan.
 
-### Källviksbadet
+## Källviksbadet
 
 Jag vet inte exakt hur jag tog mig dit. Jag vet att jag var överhettad. Att jag behövde svalka mig. Att jag lade mig ner på marken.
 
 Det jag minns från det ögonblicket är att jag var fullständigt lugn. Ingen panik, ingen rädsla. Jag accepterade det bara, stilla och tydligt:
 
-*Nu kommer jag att dö.*
+{{< citat >}}Nu kommer jag att dö.{{< /citat >}}
 
 Sedan blev det helt svart.
 
@@ -96,7 +96,7 @@ Stegräknaren i min klocka upphör att registrera aktivitet runt klockan 17. Min
 
 Ingen ringde 112. Ingen visste var jag var.
 
-### Den andra patrullen
+## Den andra patrullen
 
 Runt klockan 20–21 hittade en andra polispatrull mig vid Källviksbadet. Jag var blöt. Jag berättade om akutbesöket tidigare under dagen — de sökte i sina register och bekräftade det. En kroppsvisitation genomfördes. Inget olagligt hittades. Sedan körde de mig till en bekants adress.
 
