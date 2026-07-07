@@ -64,4 +64,6 @@ Om man räknar mekaniskt på de sju dygnen — 10 080 minuter — som jag lämna
 
 Den uppmätta volymen av den döda hjärnvävnaden efter min MCA M2-propp blev till slut 119 kubikcentimeter — 10,6 × 6,5 × 3,3 cm. Det motsvarar uppskattningsvis 2 till 5 miljarder permanent förlorade hjärnceller.
 
+{{< bild src="img/bilder/mr.png" alt="Illustration av hjärnan som visar det skadade området i höger hjärnhalva, baserat på MR-undersökningens uppmätta värden." bildtext="Illustration baserad på MR-undersökningens uppmätta värden (119 cm³ död vävnad) — inte den faktiska bilden." >}}
+
 Det var priset för sju dygns väntan.

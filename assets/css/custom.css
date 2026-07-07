@@ -14,17 +14,21 @@
 
 /* --- Long-form reading typography --- */
 
-/* Serif body for the narrative; sans stays on headings, nav and UI. */
+/* Sans body on mobile (predictable rendering on every device); serif reading
+   treatment kicks in from tablet width up, where there's room for it to work. */
 .prose {
-  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia,
-    "Times New Roman", serif;
-  font-size: 1.0625rem; /* 17px */
-  line-height: 1.75;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.7;
 }
 
 @media (min-width: 768px) {
   .prose {
-    font-size: 1.125rem; /* 18px */
+    font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia,
+      "Times New Roman", serif;
+    font-size: 1.1875rem; /* 19px */
+    line-height: 1.75;
   }
 }
 
@@ -121,6 +125,41 @@
 
 .dark .dn-register__text {
   color: rgb(var(--color-neutral-300));
+}
+
+/* --- Figures (shortcode: bild) --- */
+
+.dn-figure {
+  margin: 2.5rem 0;
+}
+
+.dn-figure__img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  border: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark .dn-figure__img {
+  border-color: rgb(var(--color-neutral-700));
+}
+
+.dn-figure__caption {
+  margin-top: 0.6rem;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: rgb(var(--color-neutral-500));
+}
+
+.dark .dn-figure__caption {
+  color: rgb(var(--color-neutral-400));
+}
+
+.dn-figure--small {
+  max-width: 12rem;
 }
 
 /* --- Hero section --- */

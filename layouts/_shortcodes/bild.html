@@ -1,0 +1,21 @@
+{{ $path := .Get "src" }}
+{{ $img := resources.Get $path }}
+{{ with $img }}
+  {{ $processed := . }}
+  {{ if gt .Width 1200 }}
+    {{ $processed = .Resize "1200x webp q82" }}
+  {{ else }}
+    {{ $processed = .Resize (printf "%dx webp q82" .Width) }}
+  {{ end }}
+  <figure class="dn-figure{{ with $.Get "class" }} {{ . }}{{ end }}">
+    <img
+      src="{{ $processed.RelPermalink }}"
+      width="{{ $processed.Width }}"
+      height="{{ $processed.Height }}"
+      alt="{{ $.Get "alt" | default ($.Get "bildtext" | plainify) }}"
+      loading="lazy"
+      class="dn-figure__img"
+    >
+    {{ with $.Get "bildtext" }}<figcaption class="dn-figure__caption">{{ . | markdownify }}</figcaption>{{ end }}
+  </figure>
+{{ end }}

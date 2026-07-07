@@ -54,6 +54,8 @@ Det är svårt att inte tro att ambulansens beslut att lämna påverkades av att
 
 ## På akuten — tre minuter
 
+{{< bild src="img/bilder/karta-sturegatan-akuten.png" alt="Karta som visar vägen från olycksplatsen på Sturegatan till Falu Lasarett." bildtext="Vägen från Sturegatan till Falu Lasarett." >}}
+
 Polisen körde mig till Falu Lasarett. Klockan 15:03 togs ett blodprov av en sjuksköterska. Klockan 15:06 var det klart. Tre minuter. Ändamålet stod i polisens protokoll: *"Utröna omständigheter som kan ha betydelse för utredningen."*
 
 Ingen läkare undersökte mig. Det finns ingen journalanteckning från det besöket — ingen medicinsk dokumentation alls, bara polisens eget protokoll.
@@ -81,6 +83,8 @@ Klockan 15:51 skriver Polis T sitt PM. Sedan lämnar polisen mig vid tågstation
 SMHI har utfärdat varning för värmebölja i Dalarna. Temperaturen stiger mot 30 grader. Det finns foton på min telefon från den eftermiddagen — tidsstämplar och GPS-koordinater som visar var jag var och när. Klockan 16:02 vid Tisken i centrala Falun. Klockan 16:37 vid Källviksvägen. Däremellan SMS som inte hänger ihop, svar som inte stämmer, fel platser angivna.
 
 Jag vandrade genom Falun i het sommarvärme med en pågående stroke i hjärnan.
+
+{{< bild src="img/bilder/centralstation-källviksbadet-gång.png" alt="Karta som visar gångvägen från Falu centralstation till Källviksbadet." bildtext="Från centralstationen till Källviksbadet — vägen jag gick i hettan." >}}
 
 ## Källviksbadet
 

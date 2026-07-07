@@ -3,6 +3,8 @@ title: "Kontakt"
 description: "Kontakta Daniel Nordmark — för journalister, strokedrabbade, anhöriga och yrkesverksamma."
 ---
 
+{{< bild src="img/bilder/daniel.JPG" alt="Daniel Nordmark" class="dn-figure--small" >}}
+
 Jag välkomnar kontakt från:
 
 - Journalister och redaktioner som vill veta mer om det som hände.
