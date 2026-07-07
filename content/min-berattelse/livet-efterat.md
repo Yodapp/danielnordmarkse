@@ -1,7 +1,7 @@
 ---
 title: "Kapitel 5 — Livet efteråt"
 description: "Vad som förändrats, rehabilitering, post-stroke fatigue och att leva med konsekvenserna."
-date: 2026-07-02
+date: 2024-09-15
 weight: 5
 ---
 

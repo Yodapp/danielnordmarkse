@@ -1,15 +1,15 @@
 ---
 title: "Kapitel 6 — Kampen för upprättelse"
 description: "LÖF, IVO, polisanmälan och det pågående rättsliga arbetet — och varför det spelar roll."
-date: 2026-07-02
+date: 2026-02-19
 weight: 6
 aliases: ["/min-berattelse/kampen-for-upprattelseelse/"]
 ---
 
 
-Det finns ett skede efter stroken som ingen pratar om i de informationsbroschyrer och stödgrupper jag hittat. Det skedet när man inte längre är akut sjuk men inte heller är återställd — och när man börjar förstå att det som hände inte bara var olyckligt, utan faktiskt gick att undvika.
+Inte alla som drabbas av stroke behöver göra det jag gör. De flesta lever vidare med sin rehabilitering och sina konsekvenser, utan att också behöva utreda vad som gick fel. Men efter Svea hovrätts dom i februari 2026 stod det klart för mig att det som hände den 25 juni 2024 inte bara var olyckligt — det gick att undvika.
 
-Då börjar en annan sorts arbete.
+Då började ett annat slags arbete. Ett arbete som fortfarande pågår.
 
 ## LÖF — Patientförsäkringen
 
