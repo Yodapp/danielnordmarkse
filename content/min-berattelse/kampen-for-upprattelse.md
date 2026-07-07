@@ -41,15 +41,39 @@ Strax därefter hittades jag medvetslös vid Källviksbadet av en andra polispat
 
 Jag har begärt ut allmänna handlingar från polisen. Jag inväntar fullständiga händelserapporter, audit-loggar och övrigt material. När det kommit avser jag att anmäla till Avdelningen för särskilda utredningar (SU).
 
+### JO — Riksdagens ombudsmän
+
+Jag har lämnat in två anmälningar till Justitieombudsmannen, båda registrerade under diarienummer 9344-2026.
+
+Den första riktar sig mot Polismyndigheten, polisregion Bergslagen, och gäller dröjsmål med utlämnande av allmänna handlingar. Min begäran registrerades den 11 juni 2026 under diarienummer A383.346/2026. Tjugoen dagar senare hade ingen substantiell åtgärd vidtagits. Polismyndigheten fick hård kritik av JO så sent som den 13 maj 2026 — dnr 3217-2026 — för ett liknande dröjsmål. Att myndigheten ändå inte lever upp till skyndsamhetskravet är extra allvarligt när handlingarna direkt rör pågående processer hos IVO och LÖF och begränsar mig i att agera gentemot polisens agerande.
+
+Den andra anmälan riktar sig mot Polismyndigheten och polisman T O, LPO Falun — dagen då jag drabbades av en stor stroke. Anmälan tar upp tre brister i hur Polis T O hanterade situationen.
+
+Den första gäller en faktamässigt felaktig klinisk beskrivning i hans eget PM — den beskrivning som lade grunden för hela den efterföljande kedjan av polisiära åtgärder — trots att ambulansens samtida undersökning dokumenterade motsatsen.
+
+Den andra gäller att han underlät att förmedla både sina egna observationer och det vittnen på plats berättat för honom till ambulanspersonalen. Hans PM dokumenterar att jag upplevdes som "väldigt förvirrad, stirrig, slö och sluddrig i talet." Inget av detta kommunicerades till ambulansen som medicinsk information. Sluddrigt tal är i sig tillräckligt för att misstänka stroke enligt Socialstyrelsens riktlinjer. Dessutom hade vittnen på plats beskrivit mig som okontaktbar direkt efter bilolyckan. Inget av detta valde Polis T O att berätta för ambulanspersonalen. Istället var det enda han förmedlade till dem att jag enligt honom var "tydligt narkotikapåverkad".
+
+Det tredje gäller verkställighet av kroppsbesiktning utan korrekt formellt beslut. Kl. 14:43 anger Polis T O att beslut om drogscreening fattats. Exakt klockan 14:43 dokumenterade ambulansen i sin journal att jag omhändertagits av polis — och kodade egenvård. Ambulansen avbröt därmed sin undersökning av en gul-triagerad patient. Problemet är att kl. 14:43 fanns inget registrerat beslut. Polis T O och en kollega körde mig till akuten — men ignorerade att jag enligt ambulansen borde ha undersökts medicinsk.
+
+Istället hände följande på Falu Lasarett:
+
+Kl. 15:03 — Blodprovet verkställdes av en sjuksköterska.
+
+Kl. 15:13 — Beslutet registrerades för första gången, av polis V T, med Polis T O angiven som beslutsfattare.
+
+Kl. 15:38 — Beslutsfattaren ändrades retroaktivt till JFUL (jourhavande förundersökningsledare) H L.
+
+Kl. 15:39 — Beslutet signerades formellt.
+
+Blodprovet verkställdes alltså 10 minuter innan något beslut existerade i systemet, 25 minuter innan rätt beslutsfattare angavs, och 26 minuter innan beslutet signerades formellt.
+
 ### Hovrättens dom
 
 Rättsväsendet rörde sig också. I februari 2026 meddelade Svea hovrätt dom i mål B 17945-25. Innehållet i den domen är en del av det rättsliga sammanhang som omgärdar händelseförloppet den 25 juni 2024.
 
 ### Det pågående arbetet
 
-Utöver LÖF, IVO och polisanmälningar planerar jag:
-
-**JO-anmälan** — för granskning av polisens agerande och strukturella brister i hur strokeutbildning ser ut inom polisen.
+Utöver LÖF, IVO, JO och polisanmälningar planerar jag:
 
 **JK-anmälan** — skadeståndsanspråk mot staten.
 
