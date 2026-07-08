@@ -24,6 +24,14 @@ Klockan 14:18 hölls ett vittnesförhör av Polis på platsen med vittnet som ri
 
 Vittnets bild var tydlig: jag var inte kontaktbar. Det tolkades som berusning. Ingen — varken SOS-operatören, polisen eller ambulansen — övervägde att det kunde handla om ett livshotande tillstånd.
 
+Förhören på platsen hölls tätt inpå varandra:
+
+{{< tidslinje >}}
+{{< tidpunkt tid="14:08" >}}Polisen förhör ett vittne till händelsen.{{< /tidpunkt >}}
+{{< tidpunkt tid="14:18" >}}Polisen förhör föraren i bilen jag krockade med — se ovan.{{< /tidpunkt >}}
+{{< tidpunkt tid="14:24" >}}Polisen förhör passageraren i bilen jag krockade med.{{< /tidpunkt >}}
+{{< /tidslinje >}}
+
 ## Ambulansen
 
 Den första som fick kontakt med mig på platsen var en polis. Polisen var väldigt arg och höjde rösten på ett aggressivt sätt hela tiden. Jag fick blåsa för att bevisa att jag inte hade druckit alkohol. Jag har senare förstått att anledningen till att polisen var så arg på mig var för att jag inte lyckades svara på frågor. I polisrapporten beskrivs jag som slö, att jag pratar sluddrigt, pratar osammanhängande. Allt det är klassiska symtom på en stroke. Att en polis i tjänst inte lyckas behärska sig och blir arg på en person som har en stroke tycker jag är skrämmande.
@@ -100,12 +108,19 @@ Stegräknaren i min klocka upphör att registrera aktivitet runt klockan 17. Min
 
 Ingen ringde 112. Ingen visste var jag var.
 
+Medan jag ligger orörlig vid Källviksbadet stänger behandlingsfönstren, ett efter ett:
+
+{{< tidslinje >}}
+{{< tidpunkt tid="18:00" >}}Tidsfönstret för [trombolys](/om-stroke/#trombolys) stänger.{{< /tidpunkt >}}
+{{< tidpunkt tid="19:30" >}}Tidsfönstret för [trombektomi](/om-stroke/#trombektomi) stänger.{{< /tidpunkt >}}
+{{< /tidslinje >}}
+
 ## Den andra patrullen
 
-Runt klockan 20–21 hittade en andra polispatrull mig vid Källviksbadet. Jag var blöt. Jag berättade om akutbesöket tidigare under dagen — de sökte i sina register och bekräftade det. En kroppsvisitation genomfördes. Inget olagligt hittades. Sedan körde de mig till en bekants adress.
+Runt klockan 21–22 hittade en andra polispatrull mig vid Källviksbadet, förvirrad. Jag greps och sattes in i en polisbuss — jag fick inte lämna den. En kroppsvisitation genomfördes. Inget olagligt hittades. Jag förhördes. Jag berättade om akutbesöket tidigare under dagen — de sökte i sina register och bekräftade det.
 
 Ingen ambulans tillkallades.
 
-Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus. GPS-data visar var jag är. Det är allt jag vet om den natten.
+Runt klockan 22:15 släpps jag av hos min dåvarande flickvän. Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus — GPS-data visar var jag är. Det är nästan allt jag vet om den natten: däremellan sover jag, sammanlagt uppskattningsvis ett och ett halvt dygn. När jag till slut vaknar har även det förlängda tidsfönstret för trombektomi — som i vissa fall kan användas upp till 24 timmar efter symtomdebut — passerat.
 
 Sju dygn återstår innan jag får en diagnos.

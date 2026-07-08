@@ -14,7 +14,7 @@ Och det är ungefär så den veckan som följde ser ut också. Luckor. Fragment.
 
 ## Natten och dagarna
 
-Den andra polispatrullen körde mig till en bekants adress. Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus — GPS-data och tidsstämpel finns kvar i bilden. Det är det enda konkreta spåret från den natten.
+Den andra polispatrullen körde mig till min dåvarande flickväns adress. Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus — GPS-data och tidsstämpel finns kvar i bilden. Det är det enda konkreta spåret från den natten.
 
 Vad jag minns från de dagarna som följde är fragmentariskt och svårt att sätta i ordning. Det är som att försöka minnas en dröm dagen efter — det finns bilder, känslan av att ha befunnit sig på ställen, men sällan något sammanhang.
 
@@ -38,7 +38,7 @@ Det är en sak jag brottas med — inte för att hon gjorde fel, utan för hur d
 
 ## Dagarna utan diagnos
 
-Vad hände mellan den 27 juni och den 2 juli? Jag vet inte exakt. Journalanteckningarna från sjukhuset nämner att min flickvän och min mamma, oberoende av varandra, uppgav att jag personlighetsförändrats sedan olyckan. Att jag hade varit ostadig, förvirrad och saknat tidsuppfattning. Att de aldrig sett den förändringen hos mig före olyckan.
+Vad hände mellan den 27 juni och den 2 juli? Jag vet inte exakt. Journalanteckningarna från sjukhuset nämner att min dåvarande flickvän och min mamma, oberoende av varandra, uppgav att jag personlighetsförändrats sedan olyckan. Att jag hade varit ostadig, förvirrad och saknat tidsuppfattning. Att de aldrig sett den förändringen hos mig före olyckan.
 
 Jag vandrade runt i det tillståndet i mer än en vecka.
 

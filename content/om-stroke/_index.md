@@ -49,13 +49,19 @@ Det är stroke.
 
 ## Tidsaspekten — varför det är bråttom
 
-Trombolys — blodproppslösande behandling — kan ges upp till 4,5 timmar efter symtomdebut och kan i många fall minska eller eliminera skadan.
+Ju snabbare akut strokebehandling ges, desto mer hjärnvävnad går att rädda. Det finns två huvudsakliga behandlingar, båda tidsbegränsade.
 
-Trombektomi — mekaniskt avlägsnande av proppen — kan under rätt förutsättningar ges upp till sex timmar, ibland utvidgat till 24 timmar vid påvisad penumbra (levande hjärnvävnad runt infarktkärnan).
+### Trombolys
+
+Blodproppslösande behandling. Kan ges upp till 4,5 timmar efter symtomdebut och kan i många fall minska eller eliminera skadan.
+
+### Trombektomi
+
+Mekaniskt avlägsnande av proppen. Kan under rätt förutsättningar ges upp till sex timmar, ibland utvidgat till 24 timmar vid påvisad penumbra (levande hjärnvävnad runt infarktkärnan).
 
 Kombinationen av trombolys och trombektomi vid ocklusion av arteria cerebri medias grenar (M1/M2) fördubblar andelen patienter som blir funktionellt självständiga jämfört med trombolys ensamt. Det är ett av de starkaste resultaten i modern neurologi.
 
-Ju snabbare trombolys och trombektomi genomförs, desto mer hjärnvävnad går att rädda. Det fönstret stängs. Varje timme som går innebär att fler celler dör och att fler behandlingsalternativ stängs av.
+Varje timme som går innebär att fler celler dör och att fler behandlingsalternativ stängs av.
 
 *Tidsangivelserna följer Socialstyrelsens nationella riktlinjer för vård vid stroke (se Källor och vidare läsning nedan).*
 
