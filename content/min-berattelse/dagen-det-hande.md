@@ -44,7 +44,7 @@ Polisen satt på flera observationer som var kända symtom på stroke. De förme
 
 Det enda polisen förmedlade till ambulansen var: vinglig körning och mitt personnummer.
 
-Vad som noterades på platsen var att jag hade problem med mitt tal. I riktlinjerna för AKUT-testet står det tydligt att det räcker med ett enda symtom för att 112 ska kontaktas omedelbart.
+Vad som noterades på platsen var att jag hade problem med mitt tal. I riktlinjerna för [AKUT-testet](/om-stroke/#hur-känner-man-igen-stroke) står det tydligt att det räcker med ett enda symtom för att 112 ska kontaktas omedelbart.
 
 I 112-samtalet sa vittnet att jag verkade full. Det var den hypotes som ambulans och polis anlände med.
 

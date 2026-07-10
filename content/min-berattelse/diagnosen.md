@@ -32,7 +32,7 @@ Bilderna förklarade också något annat — något jag inte hade haft ord för,
 
 Min neurolog förklarade det. Vid en stroke i höger hjärnhalva kan hjärnan sluta ta in det som finns på motsatt sida — i mitt fall vänster. Det är inte blindhet. Ögonen fungerar. Men hjärnan sållar bort allt som kommer från vänster. Man går in i saker på sin vänstra sida utan att märka det. Man reagerar inte på det som händer där. Man ser det helt enkelt inte.
 
-Min neurolog hade ett ord för det: vänstersidigt neglekt. Journalen beskriver det rakt: "Går in i vagn som står i korridoren på sin vänstra sida. Vänstersidigt neglekt."
+Min neurolog hade ett ord för det: vänstersidigt [neglekt](/om-stroke/#neglektsyndrom-och-anosognosi--när-stroke-inte-märks). Journalen beskriver det rakt: "Går in i vagn som står i korridoren på sin vänstra sida. Vänstersidigt neglekt."
 
 Det var det Vittne A hade sett vid olyckan — en förare som inte reagerade, som inte tycktes uppfatta vad som hände. Det var det Polis T hade dokumenterat: förvirring, stirrighet, sluddrigt tal. Det var det ambulansen hade fångat under koden ESS 53: nytillkommet avvikande beteende.
 
@@ -44,7 +44,7 @@ Det är därför jag inte sökte hjälp. Inte för att jag vägrade. För att ja
 
 ## Det som gick förlorat
 
-Terapeutiskt fönster för trombolys: 4,5 timmar från symtomdebut. För trombektomi — mekaniskt avlägsnande av proppen — upp till sex timmar, och under vissa förutsättningar ända upp till 24 timmar. Ju snabbare trombolys och trombektomi genomförs, desto mer hjärnvävnad går att rädda.
+Terapeutiskt fönster för [trombolys](/om-stroke/#trombolys): 4,5 timmar från symtomdebut. För [trombektomi](/om-stroke/#trombektomi) — mekaniskt avlägsnande av proppen — upp till sex timmar, och under vissa förutsättningar ända upp till 24 timmar. Ju snabbare trombolys och trombektomi genomförs, desto mer hjärnvävnad går att rädda.
 
 Trafikolyckan skedde klockan 13:30 den 25 juni. Ambulansen var på plats klockan 13:59. Det tidsfönstret var öppet.
 

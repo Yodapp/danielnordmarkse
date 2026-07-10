@@ -1,0 +1,2 @@
+{{- $path := .Get "sida" -}}
+{{- with site.GetPage $path -}}{{ .ReadingTime }} min läsning{{- end -}}

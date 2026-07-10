@@ -43,7 +43,7 @@ Fragmin sköt upp blodets förmåga att koagulera tills Waran hade hunnit verka.
 
 Det var under sjukhustiden jag började förstå den fulla innebörden av vad som hade hänt. Inte allt på en gång — det händer fortfarande, i lager, allt eftersom jag läser dokument och lär mig vad orden egentligen betyder.
 
-Men det var där, i de samtalen med läkare och sjuksköterskor, som jag för första gången hörde det formulerat rakt: det terapeutiska fönstret hade stängt. Behandlingen som kunde ha gjort skillnad — trombolys, trombektomi — hade aldrig varit ett alternativ. Inte för att den inte finns. För att ingen hann bedöma mig i tid.
+Men det var där, i de samtalen med läkare och sjuksköterskor, som jag för första gången hörde det formulerat rakt: det terapeutiska fönstret hade stängt. Behandlingen som kunde ha gjort skillnad — [trombolys](/om-stroke/#trombolys), [trombektomi](/om-stroke/#trombektomi) — hade aldrig varit ett alternativ. Inte för att den inte finns. För att ingen hann bedöma mig i tid.
 
 Det är en sorts sorg som är svår att beskriva. Inte vrede, inte bitterhet — mer som att stå framför något oåterkalleligt och försöka begripa det.
 

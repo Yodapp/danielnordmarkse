@@ -17,10 +17,7 @@ I Sverige drabbas ungefär 25 000 personer av stroke varje år. Det är en av de
 
 [AKUT-testet](https://strokeforbundet.se/stroke/akut-testet/) är ett hjälpmedel som används i stora delar av världen för att snabbt avgöra om stroke bör misstänkas. Det är utformat för att fungera även utan medicinsk utbildning:
 
-- **A — Ansikte:** Ser du en skevhet i ansiktet?
-- **K — Kropp:** Har personen svaghet i arm eller ben?
-- **U — Uttal:** Talar personen otydligt eller sluddrar?
-- **T — Tid:** Ring 112 omedelbart om du ser något av ovanstående.
+{{< akut >}}
 
 Andra symtom kan inkludera:
 
@@ -76,6 +73,15 @@ Skillnaden är att en strokedrabbad person behöver sjukvård omedelbart, och at
 En person som uppvisar dessa symtom utan tydlig förklaring bör bedömas av medicinsk personal. Det är inte ett sjukvårdsbeslut att överlåta till polis eller räddningstjänst — men det är ett larm som polis och räddningstjänst kan ringa.
 
 **Ring 112. Låt sjukvården avgöra.**
+
+## Vad du kan göra
+
+Du behöver inte vara sjukvårdare för att göra skillnad.
+
+- **Lär dig [AKUT-testet](#hur-känner-man-igen-stroke).** Det tar 30 sekunder och kan vara det som avgör om någon får vård i tid.
+- **Dela den här sidan** med kollegor inom polis, ambulans, räddningstjänst eller vård — särskilt om ni möter personer vars beteende är svårt att tolka.
+- **Sök stöd hos [Strokeförbundet](https://www.strokeforbundet.se/)** om du eller någon du känner är drabbad. De erbjuder rådgivning, lokalföreningar och kunskap om rehabilitering.
+- **Vid osäkerhet, ring [1177](https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/stroke-och-tia/stroke/)** — eller 112 om symtomen är akuta. Vänta aldrig för att se om det går över.
 
 ## Källor och vidare läsning
 

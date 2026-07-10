@@ -44,7 +44,7 @@ Jag vandrade runt i det tillståndet i mer än en vecka.
 
 En stor ischemisk stroke i höger hjärnhalva. En blodpropp i hjärtat — en väggfast tromb i vänster kammare — som ingen kände till. Utan blodförtunning. I hettan.
 
-Det terapeutiska fönstret för trombolys är 4,5 timmar från symtomdebut. För trombektomi kan det sträcka sig upp till sex timmar, och ibland ända till 24 timmar. Ju snabbare behandlingen ges, desto mer hjärnvävnad går att rädda. Det fönstret stängdes den 25 juni, troligen redan under eftermiddagen. Allt som hänt sedan är konsekvenser av det.
+Det terapeutiska fönstret för [trombolys](/om-stroke/#trombolys) är 4,5 timmar från symtomdebut. För [trombektomi](/om-stroke/#trombektomi) kan det sträcka sig upp till sex timmar, och ibland ända till 24 timmar. Ju snabbare behandlingen ges, desto mer hjärnvävnad går att rädda. Det fönstret stängdes den 25 juni, troligen redan under eftermiddagen. Allt som hänt sedan är konsekvenser av det.
 
 ## Att inte veta att man inte vet
 
