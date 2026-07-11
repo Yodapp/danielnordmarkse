@@ -6,11 +6,11 @@ weight: 3
 ---
 
 
-Det var min mamma som körde mig till akuten.
+Det var min mamma som körde mig till akuten. Sju dygn hade gått sedan olyckan den 25 juni.
 
-Jag vet inte exakt hur det gick till — hur hon fick mig att följa med, vad som sa henne att det nu var dags. Kanske hade hon sett tillräckligt. Kanske hade tröskeln äntligen nåtts. Sju dygn hade gått sedan olyckan den 25 juni.
+Min mamma är pensionerad överläkare. Hon följde med mig in till läkaren på akutmottagningen på Falu Lasarett och sa ifrån: hon tyckte att en hjärnröntgen skulle göras. Själv var jag i så dåligt skick att jag inte kunde beskriva vad som var fel. Utan henne hade jag sannolikt blivit hemskickad ännu en gång.
 
-På akutmottagningen på Falu Lasarett tog de blodprover och körde mig till datortomografi. Det tog inte lång tid innan bilderna fanns.
+De tog blodprover och körde mig till datortomografi. Det tog inte lång tid innan bilderna fanns.
 
 De visade en stor förändring i höger hjärnhalva.
 
