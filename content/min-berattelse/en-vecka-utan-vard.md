@@ -6,17 +6,17 @@ weight: 2
 ---
 
 
-Sju dygn med stora minnesluckor. Polisen tror återigen att jag är påverkad och missar ännu en gång tydliga symtom på min stroke. Hade de agerat rätt hade det fortfarande funnits möjlighet till trombektomi. Min mamma blir den som till slut agerar.
+Sju dygn med stora minnesluckor. Polisen tror återigen att jag är påverkad och missar ännu en gång tydliga symtom på min stroke. Hade de agerat rätt hade det förlängda fönstret för trombektomi fortfarande kunnat stå öppet. Min mamma blir den som till slut agerar.
 
 ## Natten och dagarna
 
 Direkt när polispatrullen hittade mig blev jag gripen, kroppsvisiterad och placerad i deras polisbuss. De frågade varför min tröja var blöt. Jag försökte förklara att jag hade varit varm och velat svalka mig — min känsla var att de inte trodde på den förklaringen. På min nyckelknippa satt ett litet verktyg. När jag inte kunde svara på vad jag använde det till beslagtog de det: det gick enligt polisen inte att utesluta att det kunde användas till något olagligt.
 
-En man som just kollapsat av en stroke — gripen, visiterad och misstänkliggjord. Polisens egen dokumentation av händelsen har jag ännu inte fått ut. Det är anmält till JO.
+En man som just kollapsat av en stroke — gripen, visiterad och misstänkliggjord. Ur polisens förundersökning har jag fått ut omfattande dokumentation. Men det material som polisen valde att inte ta med i förundersökningen har jag ännu inte fått ut. Dröjsmålet är anmält till JO.
 
-Till slut körde patrullen mig till min dåvarande flickväns adress. De informerade henne inte om att jag hade varit inblandad i en bilolycka. De sa ingenting om att jag varit medvetslös.
+Till slut körde patrullen mig till min dåvarande flickväns adress. De informerade henne inte om någonting — inte om bilolyckan, inte om akutbesöket, inget av det som fanns i deras register över dagens händelser. Detta trots att en av poliserna hade läst huvudanmälan om olyckan.
 
-Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus. Det föreställer en vägg och min bärbara dator. Jag vet inte varför jag tog det. Men GPS-data och tidsstämpel finns kvar i bilden — det är det enda konkreta spåret från den natten.
+Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus med min iPad — min telefon ligger kvar i skogsdungen vid Källviksbadet. Fotot föreställer en vägg och min bärbara dator. Jag vet inte varför jag tog det. Men GPS-data och tidsstämpel finns kvar i bilden — det är det enda konkreta spåret från den natten.
 
 Värmeböljan höll fortfarande Falun i sitt grepp. Dagen innan hade jag gått långt i 30-gradig värme och var antagligen ordentligt uttorkad. Jag minns att jag kände mig väldigt varm, som om jag hade feber. Min dåvarande flickvän har senare berättat att jag var vinglig och inte ville äta. Hon gav mig glass — snabb energi som samtidigt svalkade. Det fungerade, men hon fick mata mig. Egentligen ville jag bara sova, vilket jag gjorde stor del av den 26 juni.
 
@@ -38,7 +38,9 @@ Det är en sak jag brottas med — inte för att hon gjorde fel, utan för hur d
 
 Vad hände mellan den 27 juni och den 2 juli? De dagarna låg jag hemma i mitt hus och sov. Jag minns en sprängande huvudvärk, flimmer för ögonen, yrsel och en extrem trötthet. I mitt huvud var jag sjuk — en rejäl förkylning med feber, antog jag. Inte en stroke.
 
-Telefonen är nästan tom på spår från de dagarna. Inga foton. Nästan inga meddelanden. Bara sömn.
+Min telefon låg kvar i skogsdungen vid Källviksbadet tills batteriet dog. En dyr telefon, på marken utomhus, några kilometer från där jag låg och sov — och jag orkade inte ens tänka tanken att den fanns där eller borde hämtas. Så sjuk var jag, utan att veta om det.
+
+Digitala spår från de dagarna saknas nästan helt. Inga foton. Nästan inga meddelanden. Bara sömn.
 
 Min mamma frågade under dagarna hur jag mådde. Jag tror att jag svarade något i stil med att jag bara var trött och behövde få sova. Hon lyckades få i mig vätska och lite att äta.
 
@@ -46,11 +48,11 @@ Journalanteckningarna från sjukhuset nämner att min dåvarande flickvän och m
 
 Båda berättade för vårdpersonalen om de här dagarna: att jag sovit i stort sett hela dygnen, att jag varit ostadig, förvirrad och saknat tidsuppfattning. Att jag behövt hjälp med det mesta — även med att få i mig mat och dryck.
 
-Vad ingen visste var att mitt hjärta var en tickande bomb. En stor propp satt fast i hjärtats vänstra kammare — en väggfast tromb. Det var en del av den proppen som lossnade och orsakade min stroke. Om ytterligare en del hade lossnat hade jag inte levt idag.
+Vad ingen visste var att mitt hjärta var en tickande bomb. En stor propp satt fast i hjärtats vänstra kammare — en väggfast tromb. Det var en del av den proppen som lossnade och orsakade min stroke. Om ytterligare en del hade lossnat hade jag antagligen inte levt idag.
 
 En stor ischemisk stroke i höger hjärnhalva. En tromb i hjärtat. Utan blodförtunning.
 
-Fönstret för [trombolys](/om-stroke/#trombolys) stängdes redan när jag förvirrad försökte promenera hem. Men fönstret för [trombektomi](/om-stroke/#trombektomi) stod fortfarande öppet när polisen hittade mig på kvällen.
+Fönstret för [trombolys](/om-stroke/#trombolys) stängdes medan jag låg orörlig i skogsdungen vid Källviksbadet. Det förlängda fönstret för [trombektomi](/om-stroke/#trombektomi) — upp till 24 timmar i vissa fall — kan fortfarande ha stått öppet när polisen hittade mig på kvällen. Det fick vi aldrig veta, för ingen undersökte mig.
 
 Den chansen togs aldrig. Allt som hänt sedan är konsekvenser av det.
 

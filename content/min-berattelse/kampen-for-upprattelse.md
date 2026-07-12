@@ -35,9 +35,9 @@ I mitt fall gick ambulansen ett steg längre: de dokumenterade själva det avvik
 
 ## Polisen
 
-Polisens agerande den 25 juni är en separat del av det jag ifrågasätter. Det handlar inte om att ambulansen missade mig — det handlar om att polisen aktivt tog över en gul-triagerad patient utan medicinsk kompetens, körde mig till akuten för en drogscreening i sin brottsutredning, svarade nej på sjuksköterskans fråga om undersökning, och sedan lämnade mig vid tågstationen i 30-gradig värme — trots att Polis T i sitt eget PM dokumenterade att jag var "väldigt förvirrad, stirrig, slö och sluddrig i talet."
+Polisens agerande den 25 juni är en separat del av det jag ifrågasätter. Det handlar inte om att ambulansen missade mig — det handlar om att polisen, utan medicinsk kompetens, aktivt tog över ansvaret för en gul-triagerad patient, körde mig till akuten för en drogscreening i sin brottsutredning, svarade nej på sjuksköterskans fråga om en hälsoundersökning skulle göras, och sedan lämnade mig vid tågstationen i 30-gradig värme — sex kilometer från platsen där jag senare kollapsade. Detta trots att Polis T i sitt eget PM dokumenterade att jag var "väldigt förvirrad, stirrig, slö och sluddrig i talet."
 
-Strax därefter hittades jag medvetslös vid Källviksbadet av en andra polispatrull — som kallade ingen ambulans, utan körde mig till en privatbostad.
+Senare samma kväll hittades jag vid Källviksbadet av en andra polispatrull — förvirrad, efter att ha legat medvetslös på marken i timmar. De kallade inte på någon ambulans, utan körde mig till en privatbostad.
 
 Jag har begärt ut allmänna handlingar från polisen. Jag inväntar fullständiga händelserapporter, audit-loggar och övrigt material. När det kommit avser jag att anmäla till Avdelningen för särskilda utredningar (SU).
 
@@ -51,20 +51,22 @@ Den andra anmälan riktar sig mot Polismyndigheten och polisman T O, LPO Falun �
 
 Den första gäller en faktamässigt felaktig klinisk beskrivning i hans eget PM — den beskrivning som lade grunden för hela den efterföljande kedjan av polisiära åtgärder — trots att ambulansens samtida undersökning dokumenterade motsatsen.
 
-Den andra gäller att han underlät att förmedla både sina egna observationer och det vittnen på plats berättat för honom till ambulanspersonalen. Hans PM dokumenterar att jag upplevdes som "väldigt förvirrad, stirrig, slö och sluddrig i talet." Inget av detta kommunicerades till ambulansen som medicinsk information. Sluddrigt tal är i sig tillräckligt för att misstänka stroke enligt Socialstyrelsens riktlinjer. Dessutom hade vittnen på plats beskrivit mig som okontaktbar direkt efter bilolyckan. Inget av detta valde Polis T O att berätta för ambulanspersonalen. Istället var det enda han förmedlade till dem att jag enligt honom var "tydligt narkotikapåverkad".
+Den andra gäller att han underlät att förmedla både sina egna observationer och det vittnen på plats berättat för honom till ambulanspersonalen. Hans PM dokumenterar att jag upplevdes som "väldigt förvirrad, stirrig, slö och sluddrig i talet." Inget av detta kommunicerades till ambulansen som medicinsk information. Sluddrigt tal är i sig tillräckligt för att misstänka stroke enligt Socialstyrelsens riktlinjer. Dessutom hade vittnen på plats beskrivit mig som okontaktbar direkt efter bilolyckan. Inget av detta valde Polis T O att berätta för ambulanspersonalen. Det han i stället förmedlade var uppgiften om vinglig körning, mitt personnummer — och sin egen slutsats: att jag var "tydligt narkotikapåverkad".
 
-Det tredje gäller verkställighet av kroppsbesiktning utan korrekt formellt beslut. Kl. 14:43 anger Polis T O att beslut om drogscreening fattats. Exakt klockan 14:43 dokumenterade ambulansen i sin journal att jag omhändertagits av polis — och kodade egenvård. Ambulansen avbröt därmed sin undersökning av en gul-triagerad patient. Problemet är att kl. 14:43 fanns inget registrerat beslut. Polis T O och en kollega körde mig till akuten — men ignorerade att jag enligt ambulansen borde ha undersökts medicinsk.
+Det tredje gäller verkställighet av kroppsbesiktning utan korrekt formellt beslut. Klockan 14:43 meddelade Polis T O ambulansen att polisen skulle ta med mig för drogscreening. Tidpunkten är dubbelt bekräftad: ambulansjournalen anger exakt samma minut — *"Polis tar med patient"* — och uppgiften återkommer i en journalanteckning som vårdande läkare skrev efter att jag lagts in på sjukhus den 2 juli. Ambulansen avbröt därmed sin undersökning av en gul-triagerad patient. Från den stunden var jag i polisens händer — och när polisen tar över en person har myndigheten ett långtgående ansvar för den personens liv och hälsa.
 
-Istället hände följande på Falu Lasarett:
+I polisens förundersökning finns två dokument som båda benämns "Protokoll över kroppsbesiktning". Det ena är ett utdrag ur systemhistoriken, där varje registrering syns: när den gjordes, av vem och med vilken beslutsfattare. Det andra anger att beslutet om kroppsbesiktning fattades av JFUL (jourhavande förundersökningsledare) H L redan klockan 14:43. Historiken visar att något sådant beslut inte existerade vid den tidpunkten.
+
+Vad historiken faktiskt visar:
 
 {{< tidslinje >}}
-{{< tidpunkt tid="Kl. 15:03" >}}Blodprovet verkställdes av en sjuksköterska.{{< /tidpunkt >}}
-{{< tidpunkt tid="Kl. 15:13" >}}Beslutet registrerades för första gången, av polis V T, med Polis T O angiven som beslutsfattare.{{< /tidpunkt >}}
-{{< tidpunkt tid="Kl. 15:38" >}}Beslutsfattaren ändrades retroaktivt till JFUL (jourhavande förundersökningsledare) H L.{{< /tidpunkt >}}
-{{< tidpunkt tid="Kl. 15:39" >}}Beslutet signerades formellt.{{< /tidpunkt >}}
+{{< tidpunkt tid="Kl. 15:03" >}}Blodprovet verkställdes av en sjuksköterska på Falu Lasarett.{{< /tidpunkt >}}
+{{< tidpunkt tid="Kl. 15:13" >}}Beslutet registrerades för första gången, av polis V T, med Polis T O angiven som beslutsfattare — trots att han saknar befogenhet att fatta ett sådant beslut.{{< /tidpunkt >}}
+{{< tidpunkt tid="Kl. 15:38" >}}Polis T O ändrade beslutsfattaren från sig själv till JFUL H L, som har befogenheten.{{< /tidpunkt >}}
+{{< tidpunkt tid="Kl. 15:39" >}}Polis T O signerade beslutet.{{< /tidpunkt >}}
 {{< /tidslinje >}}
 
-Blodprovet verkställdes alltså 10 minuter innan något beslut existerade i systemet, 25 minuter innan rätt beslutsfattare angavs, och 26 minuter innan beslutet signerades formellt.
+Blodprovet verkställdes alltså 10 minuter innan något beslut existerade i systemet, 35 minuter innan en behörig beslutsfattare angavs, och 36 minuter innan beslutet signerades formellt.
 
 ## Hovrättens dom
 

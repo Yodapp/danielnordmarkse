@@ -46,7 +46,7 @@ Det är därför jag inte sökte hjälp. Inte för att jag vägrade. För att ja
 
 Terapeutiskt fönster för [trombolys](/om-stroke/#trombolys): 4,5 timmar från symtomdebut. För [trombektomi](/om-stroke/#trombektomi) — mekaniskt avlägsnande av proppen — upp till sex timmar, och under vissa förutsättningar ända upp till 24 timmar. Ju snabbare trombolys och trombektomi genomförs, desto mer hjärnvävnad går att rädda.
 
-Trafikolyckan skedde klockan 13:30 den 25 juni. Ambulansen var på plats klockan 13:59. Det tidsfönstret var öppet.
+Trafikolyckan skedde klockan 13:30 den 25 juni — den tid huvudvittnet uppgav i förhör; polisens huvudanmälan anger 13:35. Ambulansen var på plats klockan 13:59. Det tidsfönstret var öppet.
 
 MR bekräftade en M2-ocklusion — en propp i den andra grenen av arteria cerebri media. Det är en välkänd behandlingsindikation. Enligt gällande europeiska och svenska riktlinjer ger kombinationen trombolys och trombektomi vid M1/M2-ocklusion dubbelt så stor chans att bli funktionellt självständig jämfört med trombolys ensamt.
 
