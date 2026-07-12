@@ -10,17 +10,33 @@ Det var min mamma som körde mig till akuten. Sju dygn hade gått sedan olyckan 
 
 Min mamma är pensionerad överläkare. Hon följde med mig in till läkaren på akutmottagningen på Falu Lasarett och sa ifrån: hon tyckte att en hjärnröntgen skulle göras. Själv var jag i så dåligt skick att jag inte kunde beskriva vad som var fel. Utan henne hade jag sannolikt blivit hemskickad ännu en gång.
 
-De tog blodprover och körde mig till datortomografi. Det tog inte lång tid innan bilderna fanns.
+De tog blodprover och körde mig till datortomografi. Efteråt fick jag ligga i ett rum på akuten och vänta. Minns jag rätt satt min mamma i samma rum. Jag väntade på att någon skulle komma in och säga att röntgen inte hade visat någonting.
 
-De visade en stor förändring i höger hjärnhalva.
+Jag hade fel.
+
+Det kom in en läkare förhållandevis snabbt. Beskedet var kortfattat: de hade sett en större förändring på röntgenbilderna. Mer än så sa läkaren inte. Sedan gick allt väldigt snabbt — min uppfattning är att sjukhusets strokelarm aktiverades, rutinen för patienter med misstänkt stroke — och jag kördes direkt till avdelning 26, en övervakningsavdelning där patienter kontrolleras dygnet runt.
+
+Någonstans på vägen mellan akuten och avdelningen hörde jag ordet "tumör". Jag var genast helt säker på att jag skulle dö. För mig var kombinationen hjärna och tumör lika med döden.
+
+Medan jag rullades genom korridorerna hade jag två tankar, om vartannat. Den ena: jaha, nu kommer jag att dö. Den andra: de måste ha sett fel, det här är bara ett misstag.
 
 ## Två dygn, två besked
 
-Datortomografin den 2 juli visade tydligt att något var allvarligt fel — men inte säkert vad. Läkarna i Falun kontaktade Neurokirurgen i Uppsala. Först var frågan öppen: kunde det vara en tumör? En infarkt?
+Datortomografin den 2 juli visade tydligt att något var allvarligt fel — men inte säkert vad. Läkarna i Falun kontaktade omedelbart Neurokirurgen i Uppsala. Inte ens de — några av landets främsta experter — kunde säkert säga vad förändringen var. En infarkt? En tumör? Frågan stod öppen.
 
-Blodproverna visade samtidigt att hjärtat var påverkat. Läkarna satte in Fragmin omgående — ett blodförtunnande läkemedel — och lade in mig med övervakning.
+Min mamma visste alltså inte heller vad bilderna visade. Men en sak vet jag: för en mamma med lång medicinsk erfarenhet måste beskedet att hennes sons hjärnröntgen visar en större förändring ha varit obeskrivligt tungt. Hur hon reagerade i stunden kan jag inte berätta — allt gick så fort att jag aldrig hann uppfatta det. Det säger något om de timmarna: de skedde omkring mig, inte med mig.
 
-Först dagen efter, den 3 juli, kom det slutliga beskedet. Efter en magnetröntgen (MR) och kontakt med min ansvariga neurolog i Falun kunde Uppsala slå fast vad bilderna visade: en stor, färsk infarkt i höger hjärnhalva — en ischemisk stroke i det område som försörjs av arteria cerebri media, den mellersta hjärnartären.
+Blodproverna visade samtidigt att hjärtat var påverkat. Fragmin — ett blodförtunnande läkemedel — sattes in direkt. Jag minns den första sprutan, och att sköterskan sa något i stil med "det här kommer att hjälpa ditt hjärta". Jag minns min förvirring: *Mitt hjärta?* Nyss handlade allt om hjärnan. Nu pratade de om hjärtat.
+
+På kvällen, inskriven och uppkopplad mot maskiner, fick jag kvällsfika — yoghurt och en smörgås, minns jag det som. Natten minns jag knappt. I journalen står att jag vred och vände mig och verkade orolig. Jag ville mest bara därifrån. Jag väntade fortfarande på att sjukvården skulle upptäcka att alltihop var ett misstag.
+
+Tidigt på morgonen den 3 juli rullades jag till MR — magnetröntgen. Min pappa arbetade som överläkare på röntgenavdelningen, så det var i de korridorerna jag hade lekt som barn. Mitt i allt kändes det märkligt hemtamt. Jag tror inte att jag förstod varför undersökningen skulle göras, men jag samarbetade. Min tanke var enkel: ju mer samarbetsvillig jag är, desto snabbare får jag åka hem.
+
+På eftermiddagen kom det slutliga beskedet. Efter MR-undersökningen och kontakt med min ansvariga neurolog i Falun kunde Uppsala slå fast vad bilderna visade: en stor, färsk infarkt i höger hjärnhalva — en ischemisk stroke i det område som försörjs av arteria cerebri media, den mellersta hjärnartären.
+
+En läkare på avdelning 26 berättade det för mig: jag hade haft en stroke. Jag visste knappt vad det var — mer än att det var något som drabbade äldre människor.
+
+Rätt omgående började min neurolog testa känseln i olika kroppsdelar. Kände jag när han rörde höger hand? Vänster? Fötterna, benen, armarna. Jag minns min tanke: det är väl självklart att jag känner mina kroppsdelar. Jag gjorde ingen koppling till att en stroke kan orsaka känselbortfall eller halvsidig förlamning. I mitt huvud var jag ju frisk. Läkarna skulle snart komma på att allt var ett misstag.
 
 Sju dygn efter olyckan fanns äntligen ett spår att gå på. På det åttonde stod diagnosen fast.
 
