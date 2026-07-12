@@ -70,6 +70,10 @@ Blodprovet verkställdes alltså 10 minuter innan något beslut existerade i sys
 
 ## Hovrättens dom
 
+Den medicinska bilden fanns också inne i rättsprocessen. Min neurolog — överläkare på den avdelning där jag vårdades — ställde upp på förhör hos polisen under förundersökningen, och vittnade senare under ed i tingsrätten. I förhöret dokumenterades hans bedömning: *"Jag vet inget om trafikolyckan men det är absolut rimligt att han kan ha haft stroken redan då."* Och: *"I en helhetsbedömning så kan den absolut ha koppling till trafikolyckan. Stroken orsakades inte av trafikolyckan."*
+
+Att en överläkare i neurologi tar sig tid att höras av polis och sedan vittna under ed säger något i sig. Och att han inte kan uttala sig med full säkerhet är inte en svaghet i bedömningen — det är själva poängen. Den enda anledningen till att sambandet inte går att fastställa exakt är att ingen undersökte mig den 25 juni. De som hade kunnat skapa säkerheten är samma instanser som missade stroken.
+
 Rättsväsendet rörde sig också. I februari 2026 meddelade Svea hovrätt dom i mål B 17945-25. Innehållet i den domen är en del av det rättsliga sammanhang som omgärdar händelseförloppet den 25 juni 2024.
 
 ## Det pågående arbetet

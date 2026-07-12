@@ -41,7 +41,13 @@ Journalutdrag från inläggningen. Inkluderar DT-fynd, MR-diagnos (ischemisk str
 
 ### Vittnesmål — min neurolog
 
-Journalanteckningar och vittnesmål från ansvarig neurolog. Bekräftar att Daniel vid inläggningen "var allmänpåverkad, visste inte själv vad som var fel" och "hade inte märkt själv att han hade haft stroken."
+Journalanteckningar och vittnesmål från ansvarig neurolog. Bekräftar att Daniel vid inläggningen "var allmänpåverkad, visste inte själv vad som var fel" och "hade inte märkt själv att han hade haft stroken." Innehåller även neurologens utlåtande i polisförhör under förundersökningen: att det är *"absolut rimligt"* att stroken pågick redan vid olyckan, att den *"absolut [kan] ha koppling till trafikolyckan"* — och att *"stroken orsakades inte av trafikolyckan."* Neurologen vittnade senare under ed i tingsrätten.
+
+*Dokumentet publiceras här när det laddats upp.*
+
+### Journalanteckning om orsakssamband, 5 juli 2024
+
+Anteckning i patientjournalen av läkare med medicinskt ansvar på avdelning 26, Falu Lasarett: *"Neglekt vänster som sannolikt varit bidragande orsak till bilolycka."*
 
 *Dokumentet publiceras här när det laddats upp.*
 

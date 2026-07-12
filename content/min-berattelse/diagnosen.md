@@ -38,6 +38,14 @@ Det var det Vittne A hade sett vid olyckan — en förare som inte reagerade, so
 
 {{< citat >}}Det var stroke. Hela tiden.{{< /citat >}}
 
+Det är inte bara min slutsats i efterhand. Den 5 juli 2024 — tre dagar efter att jag kommit in — skrev en av de två läkare som hade det medicinska ansvaret för mig på avdelning 26 in sambandet i min journal:
+
+{{< citat >}}Neglekt vänster som sannolikt varit bidragande orsak till bilolycka.{{< /citat >}}
+
+Ordet *sannolikt* är värt att stanna vid. Mer säkert än så kan det aldrig bli — och det är i sig en del av skadan. Eftersom polis och ambulans missade min stroke gjordes aldrig någon neurologisk bedömning eller hjärnröntgen den 25 juni. Ingen läkare kan i efterhand reda ut vad som hände i min hjärna en vecka bakåt i tiden. Den säkerheten gick förlorad samma eftermiddag som ingen undersökte mig.
+
+Redan i de första anteckningarna från den 2 juli syns för övrigt samma sak: båda läkarna som tog emot mig knöt symtomdebuten direkt till olycksdagen. För vården var tidslinjen uppenbar från första stund.
+
 Och till allt detta kom det kanske svåraste att förklara: att jag inte själv märkte att jag var sjuk. Min neurolog satte ord på det: "Han visste inte själv vad som var fel." Det är inte ovanligt vid stroke i höger hjärnhalva — hjärnan kan skadas på ett sådant sätt att den inte längre kan uppfatta sin egen skada.
 
 Det är därför jag inte sökte hjälp. Inte för att jag vägrade. För att jag inte förstod att det fanns något att söka hjälp för.
