@@ -1,98 +1,131 @@
 ---
 title: "Dokumentation"
-description: "Anonymiserade dokument som stödjer berättelsen — journaler, polishandlingar, ambulansprotokoll och myndighetsbeslut."
+description: "En dokumentationsöversikt över vård-, polis- och myndighetsmaterial som belyser berättelsen."
 ---
 
-Det här är berättelsen om vad som hände. Men bakom berättelsen finns handlingar.
+## Om dokumentationen
 
-Det är protokoll, journaler, polishandlingar, ambulansjournaler, myndighetsbeslut. Det är de dokument som antingen bekräftar vad jag beskriver, eller som är frånvaron av dokument — som den saknade journalanteckningen från akutbesöket den 25 juni 2024.
+Bakom berättelsen finns journaler, protokoll, polishandlingar, myndighetsärenden och digitala spår. De belyser både det som hände och sådant som saknas i dokumentationen, som journalanteckningen från akutbesöket den 25 juni 2024.
 
-På den här sidan publicerar jag ett urval av dokumenten i anonymiserad form. Namn på tredje part är utbytta. Personnummer och andra känsliga uppgifter är borttagna. Inget som publicerats här ska kunna användas för att identifiera enskilda tjänstemän, vittnen eller andra privatpersoner.
+Dokumenten publiceras inte på webbplatsen. Översikten beskriver vilket material som finns, vad det belyser och vilka referenser som redan finns i berättelsen.
 
-Dokumenten är verkliga. De stödjer berättelsen. De är möjliga att verifiera.
+Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatpersoner är anonymiserade med beteckningar eller funktionsbeskrivningar. Syftet är inte att hänga ut enskilda personer, utan att göra berättelsens underlag tydligt och möjligt att förstå.
 
----
+## Vård och rehabilitering
 
-## Vad som finns
+### Ambulansjournal
 
-### Ambulansjournalen, 25 juni 2024
+- **Datum:** 25 juni 2024
+- **Belyser:** RETTS-bedömningen gul, ESS 53 (nytillkommet avvikande beteende), minneslucka, sluddrigt tal, flimmer och noteringen att polisen tar med patienten för drogscreening.
+- **Referens:** Uppdragsnummer 1347690.
+- **Status:** Inte publicerat på webbplatsen.
 
-Ambulansens journalanteckning från uppdraget (nr 1347690). Innehåller RETTS-bedömningen (gul), dokumenterade fynd (ESS 53 nytillkommet avvikande beteende, minneslucka, sluddrigt tal, flimmer), och noteringen att "polisen tar med patienten för drogscreening."
+### Akutbesök och provsvar
 
-*Dokumentet publiceras här när det laddats upp.*
+- **Datum:** 25 juni 2024
+- **Belyser:** Blodprov med tidsstämpel från akutmottagningen vid Falu Lasarett, närvaron på akuten och att det saknas journalanteckning från ett läkarbesök vid samma tillfälle.
+- **Status:** Inte publicerat på webbplatsen.
 
-### Polisens PM, 25 juni 2024
+### Journalanteckningar från inläggningen
 
-PM upprättat klockan 15:51 av Polis T. Dokumenterar att Daniel upplevdes som "väldigt förvirrad, stirrig, slö och sluddrig i talet" och att förhör inte hölls på grund av Daniels tillstånd.
+- **Period:** Juli 2024
+- **Belyser:** DT-fynd, MR-diagnos med ischemisk stroke i höger hjärnhalva och M2-ocklusion, neurologisk undersökning med vänstersidigt neglekt samt kardiologjournal med väggfast tromb, Fragmin och Waran.
+- **Status:** Inte publicerat på webbplatsen.
 
-*Dokumentet publiceras här när det laddats upp.*
+### Neurologi, kardiologi och orsakssamband
 
-### Blodprovresultat, 25 juni 2024
+- **Period:** Juli 2024
+- **Belyser:** Ansvarig neurologs uppgifter om tillståndet vid inläggningen och uttalande i polisförhör under förundersökningen. Materialet omfattar också journalanteckningen den 5 juli 2024: *"Neglekt vänster som sannolikt varit bidragande orsak till bilolycka."*
+- **Status:** Inte publicerat på webbplatsen.
 
-Blodprov taget på akutmottagningen Falu Lasarett med tidsstämpel. Bekräftar närvaro på akuten. Bekräftar att ingen journalanteckning från ett läkarbesök finns för samma tillfälle.
+### Vård och rehabilitering efter utskrivningen
 
-*Dokumentet publiceras här när det laddats upp.*
+- **Period:** Sedan utskrivningen
+- **Belyser:** Kontakt med flera instanser inom vård och rehabilitering. Rehabiliteringsarbetet pågår.
+- **Status:** Inte publicerat på webbplatsen.
 
-### Journalanteckningar, Falu Lasarett, juli 2024
+### Digitala spår
 
-Journalutdrag från inläggningen. Inkluderar DT-fynd, MR-diagnos (ischemisk stroke, höger hjärnhalva, M2-ocklusion), neurologisk undersökning med fynd av vänstersidigt neglekt, kardiologjournal (väggfast tromb, Fragmin, Waran).
+- **Period:** 25–27 juni 2024
+- **Belyser:** Exporterad stegdata från Apple Watch, iPhone-foton med GPS-data och tidsstämplar samt SMS-historik. Materialet ger tids- och platsuppgifter och visar osammanhängande kommunikation under perioden.
+- **Status:** Inte publicerat på webbplatsen.
 
-*Dokumentet publiceras här när det laddats upp.*
+## Polismaterial
 
-### Vittnesmål — min neurolog
+### Huvudanmälan och polisens PM
 
-Journalanteckningar och vittnesmål från ansvarig neurolog. Bekräftar att Daniel vid inläggningen "var allmänpåverkad, visste inte själv vad som var fel" och "hade inte märkt själv att han hade haft stroken." Innehåller även neurologens utlåtande i polisförhör under förundersökningen: att det är *"absolut rimligt"* att stroken pågick redan vid olyckan, att den *"absolut [kan] ha koppling till trafikolyckan"* — och att *"stroken orsakades inte av trafikolyckan."* Neurologen vittnade senare under ed i tingsrätten.
+- **Datum:** 25 juni 2024
+- **Belyser:** Polisens dokumentation av förvirring, slöhet och sluddrigt tal. PM:et upprättades klockan 15:51 av Polis T och anger att förhör inte hölls på grund av Daniels tillstånd.
+- **Status:** Inte publicerat på webbplatsen.
 
-*Dokumentet publiceras här när det laddats upp.*
+### Förhör och material ur förundersökningen
 
-### Journalanteckning om orsakssamband, 5 juli 2024
+- **Period:** Förundersökningen
+- **Belyser:** Polisförhör med ansvarig neurolog och neurologens bedömning av att stroken rimligen kan ha pågått redan vid trafikolyckan. Neurologen vittnade senare under ed i tingsrätten.
+- **Status:** Inte publicerat på webbplatsen.
 
-Anteckning i patientjournalen av läkare med medicinskt ansvar på avdelning 26, Falu Lasarett: *"Neglekt vänster som sannolikt varit bidragande orsak till bilolycka."*
+### Kroppsbesiktning och systemhistorik
 
-*Dokumentet publiceras här när det laddats upp.*
+- **Datum:** 25 juni 2024
+- **Belyser:** Två dokument i polisens förundersökning med benämningen *"Protokoll över kroppsbesiktning"*, där det ena är ett utdrag ur systemhistoriken och det andra anger ett beslut klockan 14:43.
+- **Status:** Inte publicerat på webbplatsen.
 
-### Stegdata och foton med GPS, 25 juni 2024
+### Hovrättsdom
 
-Exporterad stegdata från Apple Watch som visar aktivitetsmönster och total inaktivitet från ca kl 17. iPhone-foton med inbäddad GPS-data och tidsstämplar: kl 16:02 (Tisken, centrala Falun) och kl 16:37 (Källviksvägen).
+- **Datum:** Februari 2026
+- **Belyser:** Svea hovrätts dom som är en del av det rättsliga sammanhanget kring händelseförloppet den 25 juni 2024.
+- **Referens:** Mål B 17945-25; meddelad 19 februari 2026.
+- **Status:** Inte publicerat på webbplatsen.
 
-*Dokumentet publiceras här när det laddats upp.*
+## JO
 
-### SMS-historik, 25–27 juni 2024
+### JO-anmälan om dröjsmål med handlingar
 
-Skärmdumpar ur SMS-konversationer. Visar osammanhängande kommunikation den 25 juni, och mammans meddelande natt mot 27 juni: "Försökte ringa. Stod utanför. Ringde på dörren. Åkte fram och tillbaka flera ggr..."
+- **Period:** Juni 2026
+- **Belyser:** Dröjsmål med Polismyndighetens utlämnande av allmänna handlingar. Begäran registrerades den 11 juni 2026.
+- **Referens:** JO 9344-2026; Polismyndighetens diarienummer A383.346/2026.
+- **Status:** Inte publicerat på webbplatsen.
 
-*Dokumentet publiceras här när det laddats upp.*
+### JO-anmälan om Polis T:s agerande
 
-### LÖF-komplettering, juni 2026
+- **Belyser:** Tre brister som anmälan tar upp i hur Polis T hanterade situationen den dag Daniel drabbades av stroke.
+- **Referens:** JO 9451-2026.
+- **Status:** Inte publicerat på webbplatsen.
 
-Daniel Nordmarks komplettering till LÖFs omprövning, ärendenummer LOF-1586-7604-8487. Innehåller detaljerad genomgång av ambulansens fynd, jämförelse med nationella riktlinjer och medicinsk argumentation kring det förlorade behandlingsfönstret.
+## IVO
 
-*Dokumentet publiceras här när det laddats upp.*
+### IVO-anmälan
 
-### IVO-komplettering, juni 2026
+- **Belyser:** Anmälan om det som hände i vården.
+- **Referens:** Dnr 3.4.1-17228/2025-8.
+- **Status:** Inte publicerat på webbplatsen.
 
-Komplettering till IVO:s utredning, dnr 3.4.1-17228/2025-8. Inkluderar hänvisning till IVO:s beslut i jämförbart ärende från 2018.
+### IVO-komplettering
 
-*Dokumentet publiceras här när det laddats upp.*
+- **Datum:** Juni 2026
+- **Belyser:** Komplettering till IVO:s utredning, med hänvisning till IVO:s beslut i ett jämförbart ärende från 2018.
+- **Referens:** Dnr 3.4.1-17228/2025-8.
+- **Status:** Inte publicerat på webbplatsen.
 
-### Hovrättens dom, februari 2026
+## LÖF
 
-Svea hovrätts dom i mål B 17945-25, meddelad 19 februari 2026.
+### Anmälan och initialt beslut
 
-*Dokumentet publiceras här när det laddats upp.*
+- **Belyser:** Anmälan om patientskada och LÖFs initiala beslut, där bedömningen var att ambulansen hade agerat enligt gällande praxis.
+- **Referens:** Ärendenummer LOF-1586-7604-8487.
+- **Status:** Omprövning pågår; underlaget är inte publicerat på webbplatsen.
 
----
+### Omprövning och komplettering
 
-## Om anonymiseringen
+- **Datum:** Juni 2026
+- **Belyser:** Komplettering till LÖFs omprövning med ambulansens fynd, jämförelse med nationella riktlinjer och medicinsk argumentation kring det förlorade behandlingsfönstret.
+- **Referens:** Ärendenummer LOF-1586-7604-8487.
+- **Status:** Omprövning pågår; underlaget är inte publicerat på webbplatsen.
 
-Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatpersoner har ersatts med beteckningar (Polis T, Ambulanspersonal M, Vittne A osv.) eller funktionsbeskrivningar (min neurolog, min mamma).
+## Frågor om underlaget
 
-Syftet med dokumentationen är inte att hänga ut enskilda personer. Syftet är att visa att det som beskrivs i berättelsen är dokumenterat och verifierbart.
+Underlag kan delas i journalistiskt sammanhang efter kontakt och en individuell bedömning.
 
----
-
-## Frågor om dokumenten
-
-Har du frågor om dokumenten, eller vill du ta del av icke-publicerat material i ett journalistiskt sammanhang?
+För myndighetshandlingar är det myndigheten som gör en eventuell sekretessprövning vid ett utlämnande.
 
 {{< button href="/kontakt/" >}}Kontakta mig{{< /button >}}
