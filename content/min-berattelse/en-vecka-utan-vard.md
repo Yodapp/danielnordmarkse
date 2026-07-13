@@ -30,7 +30,7 @@ Det var mitt i natten. Hon åkte fram och tillbaka.
 
 Jag svarade inte.
 
-Det är inte henne jag är arg på. Det är poliserna.
+Min mamma gjorde allt hon kunde och mer därtill, hon räddade mitt liv när Faluns poliser svek mig.
 
 De visste om bilolyckan. De visste att jag varit okontaktbar direkt efter den. De hade själva noterat förvirring, sluddrigt tal, osammanhängande tal — vid flera tillfällen, både på olycksplatsen och efter blodprovet på akuten. De satt på informationen och valde att inte förmedla den till ambulansen. I stället för att säkerställa att jag fick den vård jag så tydligt behövde prioriterade flera poliser i tjänst en brottsutredning om huruvida jag var påverkad eller inte. De struntade i min hälsa och utsatte mig för livsfara.
 
