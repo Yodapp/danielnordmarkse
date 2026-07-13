@@ -14,6 +14,8 @@ Själva olyckan är helt svart. Nästa minne jag har är att jag vaknar till av 
 
 Vad som hände i luckan däremellan är vad vittnen på plats har berättat och som finns dokumenterat i polisrapporter från platsen.
 
+{{< perspektiv typ="handlingar" >}}
+
 Klockan 13:43 besvarade SOS Alarm det första samtalet om olyckan. Samtalet varade i drygt tre minuter.
 
 Det var föraren i bilen jag krockade med som ringde — huvudvittnet, den som i dokumentationen kallas Vittne A. Han berättar att jag kom körande rakt emot honom, att han tutade men att jag körde rakt in i hans bil. Hans bil stod stilla. Han uppskattar min hastighet till 20 km/h.

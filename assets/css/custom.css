@@ -50,6 +50,30 @@
 
 /* --- Pull quote (shortcode: citat) --- */
 
+/* --- Perspective cue (shortcode: perspektiv) --- */
+
+.dn-perspektiv {
+  margin: 2.25rem 0 0.9rem;
+  padding-left: 0.875rem;
+  border-left: 2px solid rgb(var(--dn-accent));
+}
+
+.dn-perspektiv__label {
+  display: block;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  line-height: 1.35;
+  text-transform: uppercase;
+  color: rgb(var(--color-neutral-600));
+}
+
+.dark .dn-perspektiv__label {
+  color: rgb(var(--color-neutral-400));
+}
+
 .dn-citat {
   margin: 3rem 0;
   padding-top: 1.5rem;

@@ -56,6 +56,8 @@ Det var det Vittne A hade sett vid olyckan — en förare som inte reagerade, so
 
 Det är inte bara min slutsats i efterhand. Den 5 juli 2024 — tre dagar efter att jag kommit in — skrev en av de två läkare som hade det medicinska ansvaret för mig på avdelning 26 in sambandet i min journal:
 
+{{< perspektiv typ="journal" >}}
+
 {{< citat >}}Neglekt vänster som sannolikt varit bidragande orsak till bilolycka.{{< /citat >}}
 
 Ordet *sannolikt* är värt att stanna vid. Mer säkert än så kan det aldrig bli — och det är i sig en del av skadan. Eftersom polis och ambulans missade min stroke gjordes aldrig någon neurologisk bedömning eller hjärnröntgen den 25 juni. Ingen läkare kan i efterhand reda ut vad som hände i min hjärna en vecka bakåt i tiden. Den säkerheten gick förlorad samma eftermiddag som ingen undersökte mig.
