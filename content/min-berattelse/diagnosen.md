@@ -8,7 +8,7 @@ weight: 3
 
 Det var min mamma som körde mig till akuten. Sju dygn hade gått sedan olyckan den 25 juni.
 
-Min mamma är pensionerad överläkare. Hon följde med mig in till läkaren på akutmottagningen på Falu Lasarett och sa ifrån: hon tyckte att en hjärnröntgen skulle göras. Själv var jag i så dåligt skick att jag inte kunde beskriva vad som var fel. Utan henne hade jag sannolikt blivit hemskickad ännu en gång.
+Min mamma är pensionerad överläkare. Hon följde med mig in till läkaren på akutmottagningen på Falu Lasarett och sa ifrån: hon tyckte att en hjärnröntgen skulle göras. Själv var jag i så dåligt skick att jag inte kunde beskriva vad som var fel.
 
 De tog blodprover och körde mig till datortomografi. Efteråt fick jag ligga i ett rum på akuten och vänta. Minns jag rätt satt min mamma i samma rum. Jag väntade på att någon skulle komma in och säga att röntgen inte hade visat någonting.
 
@@ -30,7 +30,7 @@ Blodproverna visade samtidigt att hjärtat var påverkat. Fragmin — ett blodf�
 
 På kvällen, inskriven och uppkopplad mot maskiner, fick jag kvällsfika — yoghurt och en smörgås, minns jag det som. Natten minns jag knappt. I journalen står att jag vred och vände mig och verkade orolig. Jag ville mest bara därifrån. Jag väntade fortfarande på att sjukvården skulle upptäcka att alltihop var ett misstag.
 
-Tidigt på morgonen den 3 juli rullades jag till MR — magnetröntgen. Min pappa arbetade som överläkare på röntgenavdelningen, så det var i de korridorerna jag hade lekt som barn. Mitt i allt kändes det märkligt hemtamt. Jag tror inte att jag förstod varför undersökningen skulle göras, men jag samarbetade. Min tanke var enkel: ju mer samarbetsvillig jag är, desto snabbare får jag åka hem.
+Tidigt på morgonen den 3 juli rullades jag till MR — magnetröntgen. Min pappa arbetade som överläkare på röntgenavdelningen under hela min uppväxt — det var i de korridorerna jag hade lekt som barn. Mitt i allt kändes det märkligt hemtamt. Jag tror inte att jag förstod varför undersökningen skulle göras, men jag samarbetade. Min tanke var enkel: ju mer samarbetsvillig jag är, desto snabbare får jag åka hem.
 
 På eftermiddagen kom det slutliga beskedet. Efter MR-undersökningen och kontakt med min ansvariga neurolog i Falun kunde Uppsala slå fast vad bilderna visade: en stor, färsk infarkt i höger hjärnhalva — en ischemisk stroke i det område som försörjs av arteria cerebri media, den mellersta hjärnartären.
 
