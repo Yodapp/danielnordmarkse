@@ -50,7 +50,7 @@ Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatp
 - **Belyser:** Exporterad stegdata från Apple Watch, iPhone-foton med GPS-data och tidsstämplar samt SMS-historik. Materialet ger tids- och platsuppgifter och visar osammanhängande kommunikation under perioden.
 - **Status:** Inte publicerat på webbplatsen.
 
-## Polismaterial
+## Polismaterial och domstol
 
 ### Huvudanmälan och polisens PM
 
@@ -124,8 +124,6 @@ Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatp
 
 ## Frågor om underlaget
 
-Underlag kan delas i journalistiskt sammanhang efter kontakt och en individuell bedömning.
-
-För myndighetshandlingar är det myndigheten som gör en eventuell sekretessprövning vid ett utlämnande.
+Underlag kan delas med journalister efter kontakt.
 
 {{< button href="/kontakt/" >}}Kontakta mig{{< /button >}}
