@@ -42,6 +42,20 @@ Men det finns saker jag inte kan göra som jag kunde förut. Det finns en kropp 
 
 Det är inte en fråga man kan besvara. Men den formar hur man ser på det som hände. Den formar varför jag berättar den här historien.
 
+## Vad misstankarna kostade
+
+Konsekvenserna av polisens agerande stannade inte vid den uteblivna vården.
+
+När polisen formellt misstänker någon för att ha kört vårdslöst under tydlig narkotikapåverkan sätter det spår i människors bild av en. Flera vänner har helt tagit avstånd från mig. Det gemensamma för dem är tilliten till polisen: svensk polis skulle inte ljuga, alla poliser är goda — och om de säger att bilolyckan orsakades av att jag var tydligt narkotikapåverkad och körde vårdslöst, då är det så.
+
+Under den svåraste perioden i mitt liv var det min mamma och två vänner som faktiskt trodde på mig.
+
+En vän hjälpte mig med praktiska saker — att sälja mitt hus, att sköta min ekonomi. Jag är tacksam för det. Men han var tydlig redan från början med att han inte trodde på min version av händelsen. Jag har försökt hålla kontakten: föreslagit promenader, bjudit hem honom på middag. Det är nu ett år sedan jag träffade honom sist — ett kort möte när han kom förbi för att lämna pärmar med papper om mitt bolag.
+
+Det är därför det är så viktigt för mig att få ut min version av vad som faktiskt hände. Jag har inte gjort något fel. Jag körde inte vårdslöst. Det polisen tolkade som drogpåverkan var en stor stroke.
+
+Den här hemsidan har flera syften. Ett av dem är att bearbeta traumat i att nästan ingen trodde på mig.
+
 ## Varför jag berättar
 
 Jag berättar inte för att vara ett offer. Jag berättar för att det jag gick igenom inte var oundvikligt.

@@ -17,6 +17,8 @@ De första dagarna minns jag fragmentariskt. Det fanns undersökningar, prover, 
 
 Min neurolog var tydlig och rak. Han förklarade vad som hade hänt: en stor ischemisk stroke i höger hjärnhalva, orsakad av en propp i en gren av den mellersta hjärnartären. Att jag hade slutat uppfatta min vänstra sida. Och en tromb i hjärtat som skulle kräva långvarig blodförtunning.
 
+I övrigt pratade han och jag väldigt lite. De gånger jag träffade honom låg jag i min säng i salen, och han testade: känseln i händer och fötter, synen, synfältet — jakten på det bortfall och det neglekt som bilderna sa borde finnas. Korta frågor. Korta svar.
+
 Jag förstod orden. Men det tog tid för dem att landa.
 
 ## Sidan jag inte såg
@@ -25,9 +27,27 @@ Det märkligaste med att inte se sin vänstra sida är att man inte märker det 
 
 På avdelningen gick jag in i saker på min vänstra sida. Det stod i journalen. Jag upplevde det inte som att jag ignorerade vänster — jag upplevde det som att jag gick rakt fram. Det är hela skillnaden.
 
+Jag har inget eget minne av ett enda sådant tillfälle. Inte ett. Det som för personalen var observerbara fynd, dokumenterade i journalen, existerar inte i min upplevelse av de veckorna. Det är neglekt och anosognosi i ett: skadan såg till att jag inte såg skadan.
+
 Rehabiliteringen handlade delvis om att lära hjärnan att se det den slutat se. Det är ett tålamodskrävande arbete. Det är inte som att träna en muskel — det är att försöka rätta till ett sätt att uppfatta världen på.
 
 Jag hade också svårigheter med minne och koncentration. Att läsa var svårt. Att hålla tråden i ett samtal krävde ansträngning. Saker som hade varit enkla var plötsligt inte det.
+
+## Chins vid ribbstolen
+
+Jag hade ett enda mål på sjukhuset: att komma därifrån så snabbt som möjligt.
+
+Jag visste logiskt att jag låg på ett sjukhus. Men känslan var en annan — att jag var inlåst mot min vilja. Jag delade sal med två andra patienter, båda betydligt äldre än jag. De klarade inte att äta själva, inte att gå på toaletten själva. Det stärkte känslan av att jag måste ha hamnat på fel ställe.
+
+Så jag bestämde mig för att visa vårdpersonalen att jag var fysiskt pigg och frisk. På dagarna gjorde jag chins vid ribbstolen — redskapet som används för att träna strokedrabbade att kunna resa sig upp. Jag gjorde dips i barren som strokedrabbade använder för att träna på att gå. Rehabutrustning för människor som jag, använd som gym av en man som inte förstod att han var en av dem.
+
+Min säng stod närmast fönstret, med utsikt över Falun. Jag låg där och väntade på att någon skulle upptäcka misstaget.
+
+I efterhand tror jag att känslan av att vara inlåst hade en bestämd rot: polisernas bemötande. Ilskan, anklagelserna, den formella misstanken om allvarliga brott. Jag visste att jag var på ett sjukhus — men det kändes som att jag straffades för det polisen anklagade mig för.
+
+Den känslan bär jag fortfarande ofta med mig. Polisen lyckades inte hjälpa mig när jag drabbades av min stroke. Men de lyckades få mig att känna att allt som hänt var mitt fel.
+
+Om det finns något man inte ska göra i kontakt med en strokedrabbad eller någon annan med hjärnskada, så är det att skuldbelägga. Orden blir så otroligt lätt den drabbades verklighet och sanning.
 
 ## Blodförtunningen och hjärtat
 
@@ -38,6 +58,28 @@ Warfarin — Waran — sattes in. Det innebar blodprover och dosjusteringar och 
 Kardiologerna var involverade. Det handlade inte bara om hjärnan längre — det handlade om hjärtat, om cirkulationen, om en kropp som visat sig vara sjukare än jag visste om.
 
 Fragmin sköt upp blodets förmåga att koagulera tills Waran hade hunnit verka. Sju dygn utan den behandlingen. En vecka med en aktiv tromb och inget skydd.
+
+## Ståltermosen
+
+Ett av mina tydligaste minnen från vårdtiden börjar med att någon är arg.
+
+Sent en kväll kom min dåvarande flickvän in på salen, berusad. Det tog ett tag innan jag förstod vad som hände — först uppfattade jag bara att någon bråkade med sjuksköterskorna, fysiskt och verbalt. Sedan kastade hon en ståltermos, hårt, i huvudet på mig. Jag hade mycket blodförtunnande i kroppen, så det började blöda rejält.
+
+Jag såg att sköterskorna hade svårt att hantera henne. Min stroke har inte påverkat mig fysiskt så mycket mer än en vänstersidig svaghet, så jag gick upp ur sängen, förde ut henne i korridoren, satte henne på en stol och försökte fråga vad det var som hände. Hon var arg och helt övertygad: jag fejkade min stroke för att ragga på sjuksköterskorna.
+
+Hur fejkar man en hjärnskada?
+
+Händelsen slutade med att en, möjligen två, ordningsvakter kom och avvisade henne. Jag återvände till min säng. I journalen finns en anteckning från den kvällen, den 6 juli 2024: *"Patientens flickvän kommer in på salen under kvällen och är upprörd."*
+
+Dagen efter kom en av sjuksköterskorna fram till mig — nyutbildad, från Spanien, i Sverige över sommaren för att arbeta på sjukhuset. Hon tog min hand och bad om ursäkt för det som hänt. Jag förstod inte varför. Hon förklarade: det var hennes jobb att se till att patienterna var trygga. Jag svarade att om någon skulle be om ursäkt så var det jag — det var ju min dåvarande flickvän som startat bråket.
+
+Redan där, i sjukhussängen, tog jag på mig skulden för någon annans handlingar.
+
+Journalen visar också hur jag försökte hantera situationen. På morgonen samma dag hade jag bett personalen att inte lämna ut information till min dåvarande flickvän, och sagt att jag inte ville prata med henne om hon ringde. Hon ringde flera gånger dagligen, arg både mot sköterskorna och mot mig, och anklagade mig för otrohet och för att vara en "pundare" — det sista hade hon från polisens misstankar. Efter händelsen på kvällen hävde jag förbehållet. Min tanke var enkel: om hon kunde få veta hur jag mådde via telefon behövde hon inte komma till avdelningen och bråka igen.
+
+Jag vill vara rättvis mot henne. Det var hos henne jag fick sova natten mellan den 25 och 26 juni. Det var hon som matade mig med glass och försökte få i mig vätska när jag inte klarade det själv. Och alkoholen var en stor del av hennes vardag — hon drack större mängder dagligen, ofta tills hon somnade.
+
+Men en sak vill jag säga rakt ut, för den sägs för sällan: även män drabbas av våld i nära relationer, och ofta finns missbruk med i bilden. Jag låg på en övervakningsavdelning efter en stor stroke, med blodförtunnande i kroppen, och slogs blodig av en ståltermos — kastad av den person som stod mig närmast.
 
 ## Samtal
 
