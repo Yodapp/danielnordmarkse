@@ -3,6 +3,7 @@ defaultContentLanguage = "sv"
 title = "Daniel Nordmark"
 
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 
 [module]
   [[module.imports]]

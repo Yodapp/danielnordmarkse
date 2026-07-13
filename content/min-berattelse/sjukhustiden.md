@@ -71,15 +71,15 @@ Hur fejkar man en hjärnskada?
 
 Händelsen slutade med att en, möjligen två, ordningsvakter kom och avvisade henne. Jag återvände till min säng. I journalen finns en anteckning från den kvällen, den 6 juli 2024: *"Patientens flickvän kommer in på salen under kvällen och är upprörd."*
 
-Dagen efter kom en av sjuksköterskorna fram till mig — nyutbildad, från Spanien, i Sverige över sommaren för att arbeta på sjukhuset. Hon tog min hand och bad om ursäkt för det som hänt. Jag förstod inte varför. Hon förklarade: det var hennes jobb att se till att patienterna var trygga. Jag svarade att om någon skulle be om ursäkt så var det jag — det var ju min dåvarande flickvän som startat bråket.
+Dagen efter kom en av sjuksköterskorna fram till mig — från Spanien, i Sverige över sommaren för att arbeta på sjukhuset. Hon tog min hand och bad om ursäkt för det som hänt. Jag förstod inte varför. Hon förklarade: det var hennes jobb att se till att patienterna var trygga. Jag svarade att om någon skulle be om ursäkt så var det jag — det var ju min dåvarande flickvän som startat bråket.
 
 Redan där, i sjukhussängen, tog jag på mig skulden för någon annans handlingar.
 
 Journalen visar också hur jag försökte hantera situationen. På morgonen samma dag hade jag bett personalen att inte lämna ut information till min dåvarande flickvän, och sagt att jag inte ville prata med henne om hon ringde. Hon ringde flera gånger dagligen, arg både mot sköterskorna och mot mig, och anklagade mig för otrohet och för att vara en "pundare" — det sista hade hon från polisens misstankar. Efter händelsen på kvällen hävde jag förbehållet. Min tanke var enkel: om hon kunde få veta hur jag mådde via telefon behövde hon inte komma till avdelningen och bråka igen.
 
-Jag vill vara rättvis mot henne. Det var hos henne jag fick sova natten mellan den 25 och 26 juni. Det var hon som matade mig med glass och försökte få i mig vätska när jag inte klarade det själv. Och alkoholen var en stor del av hennes vardag — hon drack större mängder dagligen, ofta tills hon somnade.
+Jag vill vara rättvis mot henne. Det var hos henne jag fick sova natten mellan den 25 och 26 juni. Det var hon som matade mig med glass och försökte få i mig vätska när jag inte klarade det själv.
 
-Men en sak vill jag säga rakt ut, för den sägs för sällan: även män drabbas av våld i nära relationer, och ofta finns missbruk med i bilden. Jag låg på en övervakningsavdelning efter en stor stroke, med blodförtunnande i kroppen, och slogs blodig av en ståltermos — kastad av den person som stod mig närmast.
+Men en sak vill jag säga rakt ut, för den sägs för sällan: även män drabbas av våld i nära relationer. Alkohol och våld går alltför ofta hand i hand. Jag låg på en övervakningsavdelning efter en stor stroke, med blodförtunnande i kroppen, och slogs blodig av en ståltermos — kastad av den person som stod mig närmast.
 
 ## Samtal
 
