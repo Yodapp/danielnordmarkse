@@ -74,6 +74,13 @@
   color: rgb(var(--color-neutral-400));
 }
 
+/* --- Contact form: clear keyboard focus --- */
+
+.dn-contact-form :is(input, textarea, button):focus-visible {
+  outline: 3px solid rgb(var(--dn-accent));
+  outline-offset: 3px;
+}
+
 .dn-citat {
   margin: 3rem 0;
   padding-top: 1.5rem;

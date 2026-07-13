@@ -22,6 +22,8 @@ Jag svarar inte på kränkande meddelanden. Jag tar inte emot råd om att ge upp
 
 Jag svarar så snart jag kan. Stroke påverkar energi och koncentration på sätt som inte alltid syns utifrån — det händer att svar dröjer. Det är inte ointresse.
 
+Skicka inte känsliga personuppgifter eller journalhandlingar via formuläret. Om du vill dela underlag kan vi komma överens om en lämplig och säker väg efter första kontakten.
+
 ---
 
 {{< kontaktformular >}}
