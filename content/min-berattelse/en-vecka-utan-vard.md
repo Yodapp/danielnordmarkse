@@ -30,9 +30,9 @@ Det var mitt i natten. Hon åkte fram och tillbaka.
 
 Jag svarade inte.
 
-Hon visste att något inte stämde. Det visste hon länge innan jag förstod det själv. Anhöriga ser det — den förändrade rösten, svaren som inte hänger ihop, frånvaron av det som brukar vara normalt. Men de kan inte tvinga en vuxen person att söka vård. Och jag, med min skadade hjärna, gav henne inte tillräckliga signaler för att hon skulle ringa 112.
+Det är inte henne jag är arg på. Det är poliserna.
 
-Det är en sak jag brottas med — inte för att hon gjorde fel, utan för hur det ser ut när den som är sjuk är den enda som inte förstår det. Alla runt omkring vet att något är fel. Bara den sjuke vet inte om det.
+De visste om bilolyckan. De visste att jag varit okontaktbar direkt efter den. De hade själva noterat förvirring, sluddrigt tal, osammanhängande tal — vid flera tillfällen, både på olycksplatsen och efter blodprovet på akuten. De satt på informationen och valde att inte förmedla den till ambulansen. I stället för att säkerställa att jag fick den vård jag så tydligt behövde prioriterade flera poliser i tjänst en brottsutredning om huruvida jag var påverkad eller inte. De struntade i min hälsa och utsatte mig för livsfara.
 
 ## Dagarna utan diagnos
 
