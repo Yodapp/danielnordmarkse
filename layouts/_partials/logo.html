@@ -1,24 +1,24 @@
-{{/* Override of Congo's logo.html: the theme calls .Width/.Height on the logo
-     resource, which Hugo does not support for SVG. Explicit dimensions here. */}}
-{{- if .Site.Params.header.logo }}
-  {{- $logo := resources.Get .Site.Params.header.logo }}
-  {{- if $logo }}
-    <a href="{{ "" | relLangURL }}" class="mr-3 flex shrink-0">
+{{/* A single brand lockup keeps the DN mark and name visually—and semantically—together. */}}
+{{- $logo := resources.Get .Site.Params.header.logo }}
+<a
+  class="dn-wordmark"
+  rel="me"
+  href="{{ "" | relLangURL }}"
+  aria-label="{{ .Site.Title }}"
+>
+  {{- with $logo }}
+    <span class="dn-wordmark__mark" aria-hidden="true">
       <img
-        src="{{ $logo.Permalink }}"
-        width="32"
-        height="32"
-        class="max-h-[10rem] max-w-[10rem] object-scale-down object-left"
-        alt="{{ .Site.Title }}"
+        src="{{ .Permalink }}"
+        width="36"
+        height="36"
+        alt=""
       />
-    </a>
+    </span>
   {{- end }}
-{{- end }}
-{{- if .Site.Params.header.showTitle | default true }}
-  <a
-    class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
-    rel="me"
-    href="{{ "" | relLangURL }}"
-    >{{ .Site.Title | markdownify | emojify }}</a
-  >
-{{- end }}
+  {{- if .Site.Params.header.showTitle | default true }}
+    <span class="dn-wordmark__name">
+      {{ .Site.Title | markdownify | emojify }}
+    </span>
+  {{- end }}
+</a>
