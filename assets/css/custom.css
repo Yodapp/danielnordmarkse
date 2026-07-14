@@ -12,6 +12,69 @@
   --dn-accent: 239, 68, 68; /* red-500 — better contrast on dark */
 }
 
+/* --- Header wordmark --- */
+
+.dn-wordmark {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: rgb(var(--color-neutral-900));
+  line-height: 1;
+  text-decoration: none;
+}
+
+.dn-wordmark__mark {
+  display: flex;
+  width: 2.25rem;
+  height: 2.25rem;
+  flex: 0 0 auto;
+  overflow: hidden;
+  border-radius: 0.7rem;
+  box-shadow: 0 2px 7px rgb(15 23 42 / 0.12);
+}
+
+.dn-wordmark__mark img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.dn-wordmark__name {
+  font-size: 1.0625rem;
+  font-weight: 750;
+  letter-spacing: -0.03em;
+  white-space: nowrap;
+}
+
+.dn-wordmark:hover .dn-wordmark__name {
+  color: rgb(var(--dn-accent));
+}
+
+.dn-wordmark:focus-visible {
+  outline: 3px solid rgb(var(--dn-accent));
+  outline-offset: 4px;
+  border-radius: 0.35rem;
+}
+
+.dark .dn-wordmark {
+  color: rgb(var(--color-neutral-50));
+}
+
+.dark .dn-wordmark__mark {
+  box-shadow: 0 2px 8px rgb(0 0 0 / 0.28);
+}
+
+@media (min-width: 640px) {
+  .dn-wordmark__mark {
+    width: 2.125rem;
+    height: 2.125rem;
+  }
+
+  .dn-wordmark__name {
+    font-size: 1rem;
+  }
+}
+
 /* --- Long-form reading typography --- */
 
 /* Sans body on mobile (predictable rendering on every device); serif reading
