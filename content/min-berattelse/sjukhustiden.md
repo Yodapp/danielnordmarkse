@@ -59,13 +59,19 @@ Kardiologerna var involverade. Det handlade inte bara om hjärnan längre — de
 
 Fragmin hämmade blodets förmåga att koagulera tills Waran hade hunnit börja verka. Sju dygn utan den behandlingen. En vecka med en aktiv tromb och inget skydd.
 
+På sjukhuset fick jag äntligen den medicinska vård jag behövde. Men polisens misstankar hade följt med mig in på avdelningen — och inte ens där var jag trygg.
+
 ## Ståltermosen
 
 Ett av mina tydligaste minnen från vårdtiden börjar med att någon är arg.
 
-Sent en kväll kom min dåvarande flickvän in på salen, berusad. Det tog ett tag innan jag förstod vad som hände — först uppfattade jag bara att någon bråkade med sjuksköterskorna, fysiskt och verbalt. Sedan kastade hon en ståltermos, hårt, i huvudet på mig. Jag hade mycket blodförtunnande i kroppen, så det började blöda rejält.
+Sent en kväll kom min dåvarande flickvän in på salen, berusad. Det tog ett tag innan jag förstod vad som hände — först uppfattade jag bara att någon bråkade med sjuksköterskorna, fysiskt och verbalt.
 
-Jag såg att sköterskorna hade svårt att hantera henne. Min stroke har inte påverkat mig fysiskt så mycket mer än en vänstersidig svaghet, så jag gick upp ur sängen, förde ut henne i korridoren, satte henne på en stol och försökte fråga vad det var som hände. Hon var arg och helt övertygad: jag fejkade min stroke för att ragga på sjuksköterskorna.
+Sedan kastade hon en ståltermos, hårt, i huvudet på mig. Jag hade mycket blodförtunnande i kroppen, så det började blöda rejält.
+
+Jag såg att sköterskorna hade svårt att hantera henne. Min stroke har inte påverkat mig fysiskt så mycket mer än en vänstersidig svaghet, så jag gick upp ur sängen, förde ut henne i korridoren, satte henne på en stol och försökte fråga vad det var som hände.
+
+Hon var arg och helt övertygad: jag fejkade min stroke för att ragga på sjuksköterskorna.
 
 Hur fejkar man en hjärnskada?
 
@@ -75,7 +81,9 @@ Dagen efter kom en av sjuksköterskorna fram till mig — från Spanien, i Sveri
 
 Redan där, i sjukhussängen, tog jag på mig skulden för någon annans handlingar.
 
-Journalen visar också hur jag försökte hantera situationen. På morgonen samma dag hade jag bett personalen att inte lämna ut information till min dåvarande flickvän, och sagt att jag inte ville prata med henne om hon ringde. Hon ringde flera gånger dagligen, arg både mot sköterskorna och mot mig, och anklagade mig för otrohet och för att vara en "pundare" — det sista hade hon från polisens misstankar. Efter händelsen på kvällen hävde jag förbehållet. Min tanke var enkel: om hon kunde få veta hur jag mådde via telefon behövde hon inte komma till avdelningen och bråka igen.
+Journalen visar också hur jag försökte hantera situationen. På morgonen samma dag hade jag bett personalen att inte lämna ut information till min dåvarande flickvän, och sagt att jag inte ville prata med henne om hon ringde. Hon ringde flera gånger dagligen, arg både mot sköterskorna och mot mig, och anklagade mig för otrohet och för att vara en "pundare" — det sista hade hon från polisens misstankar.
+
+Efter händelsen på kvällen hävde jag förbehållet. Min tanke var enkel: om hon kunde få veta hur jag mådde via telefon behövde hon inte komma till avdelningen och bråka igen.
 
 Jag vill vara rättvis mot henne. Det var hos henne jag fick sova natten mellan den 25 och 26 juni. Det var hon som matade mig med glass och försökte få i mig vätska när jag inte klarade det själv.
 

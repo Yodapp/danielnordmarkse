@@ -12,7 +12,7 @@ Jag minns att det flimrade för ögonen. Att det kändes som en migränkänsla s
 
 Själva olyckan är helt svart. Nästa minne jag har är att jag vaknar till av att en polis bankar hårt på min bilruta och med hög röst beordrar mig att veva ner den.
 
-Vad som hände i luckan däremellan är vad vittnen på plats har berättat och som finns dokumenterat i polisrapporter från platsen.
+Medan jag satt kvar i bilen utan att förstå vad som hade hänt började andra skapa den bild som skulle styra resten av dagen. Det som hände i minnesluckan kan jag bara återge genom vittnesuppgifter och polisrapporter från platsen.
 
 {{< perspektiv typ="handlingar" >}}
 
@@ -46,7 +46,11 @@ Ambulansen kom från Borlänge och var framme strax innan klockan 14. Att polis 
 
 Resten dokumenterade Ambulanspersonal M utifrån sina egna iakttagelser och det jag själv berättade: flimret för ögonen, det sluddriga talet, att jag inte mindes själva olyckan men uppgav att det small till på min vänstra sida. I journalen noterades nytillkommet avvikande beteende — koden ESS 53. Min totala triagefärg enligt RETTS sattes till GUL: behov av akutsjukvård inom rimlig tid.
 
-Vad polisen inte förmedlade är mer talande. I polisens egen huvudanmälan dokumenterades att jag "sluddrade i talet, var slö och upplevdes förvirrad." Det är klassiska symtom på stroke. Vittne A hade dessutom beskrivit mig som helt okontaktbar direkt efter krocken. Vittnesmål från platsen beskrev också hur min bil körde ut på vänstersidan av vägen och sedan rakt in i mötande fordon. Att utan förklaring drifta åt vänster är ett möjligt neurologiskt tecken: höger hjärnhalva styr den rumsliga uppmärksamheten för vänster sida, och den typen av okontrollerat körfältsbyte kan vara ett tidigt tecken på just den skada jag senare fick diagnos för — en koppling som de läkare som sedan behandlade mig själva skulle göra, både i min journal och senare under ed i domstol. Inget av detta nådde ambulansen som medicinsk information.
+Vad polisen inte förmedlade är mer talande. I polisens egen huvudanmälan dokumenterades att jag "sluddrade i talet, var slö och upplevdes förvirrad." Det är klassiska symtom på stroke. Vittne A hade dessutom beskrivit mig som helt okontaktbar direkt efter krocken.
+
+Vittnesmål från platsen beskrev också hur min bil körde ut på vänstersidan av vägen och sedan rakt in i mötande fordon. Att utan förklaring drifta åt vänster är ett möjligt neurologiskt tecken: höger hjärnhalva styr den rumsliga uppmärksamheten för vänster sida, och den typen av okontrollerat körfältsbyte kan vara ett tidigt tecken på just den skada jag senare fick diagnos för — en koppling som de läkare som sedan behandlade mig själva skulle göra, både i min journal och senare under ed i domstol.
+
+Inget av detta nådde ambulansen som medicinsk information.
 
 Polisen satt på flera observationer som var kända symtom på stroke. De förmedlade ingen av dem.
 
@@ -88,7 +92,11 @@ Det här minns jag.
 
 Jag satt i polisbilen på väg från akuten och poliserna ställde frågor. Vad jag hade gjort under dagen. Var jag hade varit. Vart jag var på väg när olyckan inträffade. Jag minns att jag försökte vara trevlig och svara på allt. Jag hade inget att dölja, och jag svarade ärligt.
 
-Vad jag inte visste var att jag satt där som misstänkt för två allvarliga brott: vårdslöshet i trafik — eventuellt grov — och grovt drograttfylleri. Ingen berättade det för mig. Polisen kallade det ett "samtal". Men att som brottsmisstänkt få frågor om just den händelse man är misstänkt för är per definition ett förhör — och vid ett förhör har den som delgivits misstanke rätt att ha en försvarare närvarande. Ett "samtal" utlöser inga sådana rättigheter. Enligt de jurister jag har rådfrågat är det inte ovanligt att polisen väljer det ordet. Själv uppfattade jag mig som patient. I själva verket var jag misstänkt.
+Vad jag inte visste var att jag satt där som misstänkt för två allvarliga brott: vårdslöshet i trafik — eventuellt grov — och grovt drograttfylleri. Ingen berättade det för mig. Polisen kallade det ett "samtal".
+
+Men att som brottsmisstänkt få frågor om just den händelse man är misstänkt för är per definition ett förhör — och vid ett förhör har den som delgivits misstanke rätt att ha en försvarare närvarande. Ett "samtal" utlöser inga sådana rättigheter. Enligt de jurister jag har rådfrågat är det inte ovanligt att polisen väljer det ordet.
+
+Själv uppfattade jag mig som patient. I själva verket var jag misstänkt.
 
 "Samtalet" pågick från klockan 15:06 till 15:51 — från att blodprovet var taget till att Polis T skrev sitt PM. Efteråt har jag läst vad han skrev: att jag *"upplevdes som väldigt förvirrad, stirrig, slö och sluddrig i talet."* Att jag lämnade *"olika uppgifter om vart han kört och vilken väg han åkt."* I samråd med jourhavande förundersökningsledare fattades sedan två beslut: att delge mig misstanke om brott — och att inte hålla något formellt förhör. Mitt tillstånd bedömdes inte tillåta det.
 

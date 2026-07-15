@@ -10,11 +10,11 @@ Sju dygn med stora minnesluckor. Polisen tror återigen att jag är påverkad oc
 
 ## Natten och dagarna
 
-Direkt när polispatrullen hittade mig blev jag gripen, kroppsvisiterad och placerad i deras polisbuss. De frågade varför min tröja var blöt. Jag försökte förklara att jag hade varit varm och velat svalka mig — min känsla var att de inte trodde på den förklaringen. På min nyckelknippa satt ett litet verktyg. När jag inte kunde svara på vad jag använde det till beslagtog de det: det gick enligt polisen inte att utesluta att det kunde användas till något olagligt.
+När patrullen grep och kroppsvisiterade mig hittade de inget olagligt. På min nyckelknippa satt däremot ett litet verktyg. När jag inte kunde svara på vad jag använde det till beslagtog de det: enligt polisen gick det inte att utesluta att det kunde användas till något olagligt.
 
-En man som just kollapsat av en stroke — gripen, visiterad och misstänkliggjord. Ur polisens förundersökning har jag fått ut omfattande dokumentation. Men det material som polisen valde att inte ta med i förundersökningen har jag ännu inte fått ut. Dröjsmålet är anmält till JO.
+En man som just hade kollapsat av en stroke — gripen, visiterad och misstänkliggjord. Ur polisens förundersökning har jag fått ut omfattande dokumentation. Men det material som polisen valde att inte ta med i förundersökningen har jag ännu inte fått ut. Dröjsmålet är anmält till JO.
 
-Till slut körde patrullen mig till min dåvarande flickväns adress. De informerade henne inte om någonting — inte om bilolyckan, inte om akutbesöket, inget av det som fanns i deras register över dagens händelser. Detta trots att en av poliserna hade läst huvudanmälan om olyckan.
+När patrullen lämnade mig hos min dåvarande flickvän berättade de ingenting för henne om bilolyckan, akutbesöket eller uppgifterna i sina register. En av poliserna hade ändå läst huvudanmälan om olyckan.
 
 Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus med min iPad — min telefon ligger kvar i skogsdungen vid Källviksbadet. Fotot föreställer en vägg och min bärbara dator. Jag vet inte varför jag tog det. Men GPS-data och tidsstämpel finns kvar i bilden — det är det enda konkreta spåret från den natten.
 
@@ -32,7 +32,9 @@ Jag svarade inte.
 
 Min mamma gjorde allt hon kunde och mer därtill. Hon räddade mitt liv när Faluns poliser svek mig.
 
-De visste om bilolyckan. De visste att jag varit okontaktbar direkt efter den. De hade själva noterat förvirring, sluddrigt tal, osammanhängande tal — vid flera tillfällen, både på olycksplatsen och efter blodprovet på akuten. De satt på informationen och valde att inte förmedla den till ambulansen. I stället för att säkerställa att jag fick den vård jag så tydligt behövde prioriterade flera poliser i tjänst en brottsutredning om huruvida jag var påverkad eller inte. De struntade i min hälsa och utsatte mig för livsfara.
+De visste om bilolyckan. De visste att jag varit okontaktbar direkt efter den. De hade själva noterat förvirring, sluddrigt tal, osammanhängande tal — vid flera tillfällen, både på olycksplatsen och efter blodprovet på akuten.
+
+De satt på informationen och valde att inte förmedla den till ambulansen. I stället för att säkerställa att jag fick den vård jag så tydligt behövde prioriterade flera poliser i tjänst en brottsutredning om huruvida jag var påverkad eller inte. De struntade i min hälsa och utsatte mig för livsfara.
 
 ## Dagarna utan diagnos
 
