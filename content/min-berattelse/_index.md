@@ -42,4 +42,4 @@ Vad som förändrats. Rehabilitering. Post-stroke fatigue. Att leva med konsekve
 ## [Kapitel 6 — Kampen för upprättelse](/min-berattelse/kampen-for-upprattelse/)
 *{{< lasningstid sida="/min-berattelse/kampen-for-upprattelse/" >}}*
 
-LÖF. IVO. Polisanmälan. Det pågående rättsliga arbetet. Och varför det spelar roll.
+Löf. IVO. Polisanmälan. Det pågående rättsliga arbetet. Och varför det spelar roll.

@@ -38,7 +38,7 @@ Förhören på platsen hölls tätt inpå varandra:
 
 ## Ambulansen
 
-Den första som fick kontakt med mig på platsen var en polis — den som bankade på rutan. Där börjar mina minnen igen. Jag minns att jag fick visa mitt körkort. Jag minns att jag fick blåsa i en alkoholmätare för att bevisa att jag inte hade druckit. Jag minns att jag satt i ambulansen med en polis ståendes strax utanför. Och jag minns att samtliga poliser jag mötte den dagen gav intrycket av att vara arga och irriterade på mig.
+Den första som fick kontakt med mig på platsen var en polis — den som bankade på rutan. Där börjar mina minnen igen. Jag minns att jag fick visa mitt körkort. Jag minns att jag fick blåsa i en alkoholmätare för att bevisa att jag inte hade druckit. Jag minns att jag satt i ambulansen med en polis stående strax utanför. Och jag minns att samtliga poliser jag mötte den dagen gav intrycket av att vara arga och irriterade på mig.
 
 Jag har senare förstått att anledningen antagligen var att jag inte lyckades svara på deras frågor. I polisrapporten beskrivs jag som slö, att jag pratar sluddrigt, pratar osammanhängande. Allt det är klassiska symtom på en stroke. Att en polis i tjänst inte lyckas behärska sig utan blir arg på en person som har en pågående stroke tycker jag är skrämmande.
 
@@ -76,7 +76,7 @@ Jag minns att jag blev tillsagd att följa med poliserna från ambulansen till e
 
 I samband med provtagningen frågade sjuksköterskan om en hälsoundersökning skulle göras. En av poliserna svarade nej — med motiveringen att jag redan undersökts av ambulans.
 
-Ingen läkare undersökte mig. Sjukvården saknar helt dokumentation från besöket — patientförsäkringen LÖF har senare bekräftat att de inte ens kunnat se att jag var på akuten. Att jag var där bevisas av polisens eget protokoll och blodprovets analysresultat.
+Ingen läkare undersökte mig. Sjukvården saknar helt dokumentation från besöket — patientförsäkringen Löf har senare bekräftat att de inte ens kunnat se att jag var på akuten. Att jag var där bevisas av polisens eget protokoll och blodprovets analysresultat.
 
 Jag befann mig på en akutmottagning, inom en och en halv timme från det att mina symtom debuterat. Trombolysfönstret — den tid inom vilken blodproppslösande behandling kan ges — är fyra och en halv timme. Jag var på rätt ställe, vid rätt tidpunkt.
 

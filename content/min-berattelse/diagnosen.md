@@ -74,11 +74,11 @@ Terapeutiskt fönster för [trombolys](/om-stroke/#trombolys): 4,5 timmar från 
 
 Trafikolyckan skedde klockan 13:30 den 25 juni — den tid huvudvittnet uppgav i förhör; polisens huvudanmälan anger 13:35. Ambulansen var på plats klockan 13:59. Det tidsfönstret var öppet.
 
-MR bekräftade en M2-ocklusion — en propp i den andra grenen av arteria cerebri media. Det är en välkänd behandlingsindikation. Enligt gällande europeiska och svenska riktlinjer ger kombinationen trombolys och trombektomi vid M1/M2-ocklusion dubbelt så stor chans att bli funktionellt självständig jämfört med trombolys ensamt.
+MR bekräftade en M2-ocklusion — en propp i den andra grenen av arteria cerebri media. Det är en välkänd behandlingsindikation. Enligt [NAG Stroke (2024)](https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf) ger kombinationen trombolys och trombektomi vid M1/M2-ocklusion dubbelt så stor chans att bli funktionellt självständig jämfört med trombolys ensamt.
 
 Den behandlingen var aldrig ett alternativ för mig. Inte för att den inte fanns. För att ingen hann bedöma mig i tid.
 
-Sju dygns fördröjning av blodförtunning. En väggfast tromb i hjärtat utan behandling. En hel vecka med förhöjd risk för ytterligare strokelarm.
+Sju dygns fördröjning av blodförtunning. En väggfast tromb i hjärtat utan behandling. En hel vecka med förhöjd risk för ytterligare stroke.
 
 Det var vad diagnosen — äntligen ställd — också innebar: en bild av allt som gått förlorat.
 

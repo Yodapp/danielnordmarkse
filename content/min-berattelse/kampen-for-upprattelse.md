@@ -1,6 +1,6 @@
 ---
 title: "Kapitel 6 — Kampen för upprättelse"
-description: "LÖF, IVO, polisanmälan och det pågående rättsliga arbetet — och varför det spelar roll."
+description: "Löf, IVO, polisanmälan och det pågående rättsliga arbetet — och varför det spelar roll."
 date: 2026-02-19
 weight: 6
 aliases: ["/min-berattelse/kampen-for-upprattelseelse/"]
@@ -11,15 +11,15 @@ Inte alla som drabbas av stroke behöver göra det jag gör. De flesta lever vid
 
 Då började ett annat slags arbete. Ett arbete som fortfarande pågår.
 
-## LÖF — Patientförsäkringen
+## Löf — Patientförsäkringen
 
-Landstingens ömsesidiga försäkringsbolag, LÖF, är det försäkringssystem som hanterar anmälningar om patientskador i svensk vård. Jag anmälde det som hänt.
+Löf regionernas ömsesidiga försäkringsbolag, Löf, är det försäkringssystem som hanterar anmälningar om patientskador i svensk vård. Jag anmälde det som hänt.
 
-LÖFs initiala beslut gick emot mig. Bedömningen var att ambulansen hade agerat enligt gällande praxis.
+Löfs initiala beslut gick emot mig. Bedömningen var att ambulansen hade agerat enligt gällande praxis.
 
 Jag begärde omprövning. Ärendenumret är LOF-1586-7604-8487. Omprövningen pågår.
 
-I mina kompletteringar till LÖF har jag dokumenterat vad ambulansens egna noteringar visar: gul triagering, nytillkommet avvikande beteende, minneslucka, sluddrigt tal — och trots det, en utfallskod som innebär "egenvård eller inget kvarstående vårdbehov." Fyra oberoende svenska ambulansorganisationers riktlinjer visar samstämmigt att det finns två tillåtna vägar när en patient inte transporteras till sjukhus. Ingen av dem följdes.
+I mina kompletteringar till Löf har jag dokumenterat vad ambulansens egna noteringar visar: gul triagering, nytillkommet avvikande beteende, minneslucka, sluddrigt tal — och trots det, en utfallskod som innebär "egenvård eller inget kvarstående vårdbehov." Fyra oberoende svenska ambulansorganisationers riktlinjer visar samstämmigt att det finns två tillåtna vägar när en patient inte transporteras till sjukhus. Ingen av dem följdes.
 
 Jag väntar på svar.
 
@@ -45,7 +45,7 @@ Jag har begärt ut allmänna handlingar från polisen. Jag inväntar fullständi
 
 Jag har lämnat in två anmälningar till Justitieombudsmannen.
 
-Den första riktar sig mot Polismyndigheten, polisregion Bergslagen, och gäller dröjsmål med utlämnande av allmänna handlingar. Diarienummer hos JO: 9344-2026. Min begäran registrerades den 11 juni 2026 under diarienummer A383.346/2026. Tjugoen dagar senare hade ingen substantiell åtgärd vidtagits. Polismyndigheten fick hård kritik av JO så sent som den 13 maj 2026 — dnr 3217-2026 — för ett liknande dröjsmål. Att myndigheten ändå inte lever upp till skyndsamhetskravet är extra allvarligt när handlingarna direkt rör pågående processer hos IVO och LÖF och begränsar mig i att agera gentemot polisens agerande.
+Den första riktar sig mot Polismyndigheten, polisregion Bergslagen, och gäller dröjsmål med utlämnande av allmänna handlingar. Diarienummer hos JO: 9344-2026. Min begäran registrerades den 11 juni 2026 under diarienummer A383.346/2026. Tjugoen dagar senare hade ingen substantiell åtgärd vidtagits. Polismyndigheten fick hård kritik av JO så sent som den 13 maj 2026 — dnr 3217-2026 — för ett liknande dröjsmål. Att myndigheten ändå inte lever upp till skyndsamhetskravet är extra allvarligt när handlingarna direkt rör pågående processer hos IVO och Löf och begränsar mig i att agera gentemot polisens agerande.
 
 Den andra anmälan riktar sig mot Polismyndigheten och polisman T O, LPO Falun — dagen då jag drabbades av en stor stroke. Diarienummer hos JO: 9451-2026. Anmälan tar upp tre brister i hur Polis T O hanterade situationen.
 
@@ -78,7 +78,7 @@ Rättsväsendet rörde sig också. I februari 2026 meddelade Svea hovrätt dom i
 
 ## Det pågående arbetet
 
-Utöver LÖF, IVO, JO och polisanmälningar planerar jag:
+Utöver Löf, IVO, JO och polisanmälningar planerar jag:
 
 **JK-anmälan** — skadeståndsanspråk mot staten.
 

@@ -107,18 +107,18 @@ Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatp
 - **Referens:** Dnr 3.4.1-17228/2025-8.
 - **Status:** Inte publicerat på webbplatsen.
 
-## LÖF
+## Löf
 
 ### Anmälan och initialt beslut
 
-- **Belyser:** Anmälan om patientskada och LÖFs initiala beslut, där bedömningen var att ambulansen hade agerat enligt gällande praxis.
+- **Belyser:** Anmälan om patientskada och Löfs initiala beslut, där bedömningen var att ambulansen hade agerat enligt gällande praxis.
 - **Referens:** Ärendenummer LOF-1586-7604-8487.
 - **Status:** Omprövning pågår; underlaget är inte publicerat på webbplatsen.
 
 ### Omprövning och komplettering
 
 - **Datum:** Juni 2026
-- **Belyser:** Komplettering till LÖFs omprövning med ambulansens fynd, jämförelse med nationella riktlinjer och medicinsk argumentation kring det förlorade behandlingsfönstret.
+- **Belyser:** Komplettering till Löfs omprövning med ambulansens fynd, jämförelse med nationella riktlinjer och medicinsk argumentation kring det förlorade behandlingsfönstret.
 - **Referens:** Ärendenummer LOF-1586-7604-8487.
 - **Status:** Omprövning pågår; underlaget är inte publicerat på webbplatsen.
 

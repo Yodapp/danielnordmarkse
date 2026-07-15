@@ -880,6 +880,10 @@
   .toc {
     padding-right: 0 !important;
   }
+
+  .dn-toc {
+    margin-bottom: 1.25rem;
+  }
 }
 
 @media (min-width: 1024px) {

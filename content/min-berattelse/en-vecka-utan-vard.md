@@ -18,7 +18,7 @@ Till slut körde patrullen mig till min dåvarande flickväns adress. De informe
 
 Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus med min iPad — min telefon ligger kvar i skogsdungen vid Källviksbadet. Fotot föreställer en vägg och min bärbara dator. Jag vet inte varför jag tog det. Men GPS-data och tidsstämpel finns kvar i bilden — det är det enda konkreta spåret från den natten.
 
-Värmeböljan höll fortfarande Falun i sitt grepp. Dagen innan hade jag gått långt i 30-gradig värme och var antagligen ordentligt uttorkad. Jag minns att jag kände mig väldigt varm, som om jag hade feber. Min dåvarande flickvän har senare berättat att jag var vinglig och inte ville äta. Hon gav mig glass — snabb energi som samtidigt svalkade. Det fungerade, men hon fick mata mig. Egentligen ville jag bara sova, vilket jag gjorde stor del av den 26 juni.
+Värmeböljan höll fortfarande Falun i sitt grepp. Dagen innan hade jag gått långt i 30-gradig värme och var antagligen ordentligt uttorkad. Jag minns att jag kände mig väldigt varm, som om jag hade feber. Min dåvarande flickvän har senare berättat att jag var vinglig och inte ville äta. Hon gav mig glass — snabb energi som samtidigt svalkade. Det fungerade, men hon fick mata mig. Egentligen ville jag bara sova, vilket jag gjorde större delen av den 26 juni.
 
 ## Min mamma söker mig
 
@@ -30,7 +30,7 @@ Det var mitt i natten. Hon åkte fram och tillbaka.
 
 Jag svarade inte.
 
-Min mamma gjorde allt hon kunde och mer därtill, hon räddade mitt liv när Faluns poliser svek mig.
+Min mamma gjorde allt hon kunde och mer därtill. Hon räddade mitt liv när Faluns poliser svek mig.
 
 De visste om bilolyckan. De visste att jag varit okontaktbar direkt efter den. De hade själva noterat förvirring, sluddrigt tal, osammanhängande tal — vid flera tillfällen, både på olycksplatsen och efter blodprovet på akuten. De satt på informationen och valde att inte förmedla den till ambulansen. I stället för att säkerställa att jag fick den vård jag så tydligt behövde prioriterade flera poliser i tjänst en brottsutredning om huruvida jag var påverkad eller inte. De struntade i min hälsa och utsatte mig för livsfara.
 

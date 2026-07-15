@@ -50,13 +50,13 @@ Ju snabbare akut strokebehandling ges, desto mer hjärnvävnad går att rädda. 
 
 ### Trombolys
 
-Blodproppslösande behandling. Kan ges upp till 4,5 timmar efter symtomdebut och kan i många fall minska eller eliminera skadan.
+Blodproppslösande behandling. Kan ges upp till 4,5 timmar efter symtomdebut och kan i många fall minimera skadan.
 
 ### Trombektomi
 
 Mekaniskt avlägsnande av proppen. Kan under rätt förutsättningar ges upp till sex timmar, ibland utvidgat till 24 timmar vid påvisad penumbra (levande hjärnvävnad runt infarktkärnan).
 
-Kombinationen av trombolys och trombektomi vid ocklusion av arteria cerebri medias grenar (M1/M2) fördubblar andelen patienter som blir funktionellt självständiga jämfört med trombolys ensamt. Det är ett av de starkaste resultaten i modern neurologi.
+Enligt [NAG Stroke (2024)](https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf) fördubblar kombinationen av trombolys och trombektomi vid ocklusion av arteria cerebri medias grenar (M1/M2) andelen patienter som blir funktionellt självständiga jämfört med trombolys ensamt. Det är ett av de starkaste resultaten i modern neurologi.
 
 Varje timme som går innebär att fler celler dör och att fler behandlingsalternativ stängs av.
 
@@ -81,10 +81,11 @@ Du behöver inte vara sjukvårdare för att göra skillnad.
 - **Lär dig [AKUT-testet](#hur-känner-man-igen-stroke).** Det tar 30 sekunder och kan vara det som avgör om någon får vård i tid.
 - **Dela den här sidan** med kollegor inom polis, ambulans, räddningstjänst eller vård — särskilt om ni möter personer vars beteende är svårt att tolka.
 - **Sök stöd hos [Strokeförbundet](https://www.strokeforbundet.se/)** om du eller någon du känner är drabbad. De erbjuder rådgivning, lokalföreningar och kunskap om rehabilitering.
-- **Vid osäkerhet, ring [1177](https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/stroke-och-tia/stroke/)** — eller 112 om symtomen är akuta. Vänta aldrig för att se om det går över.
+- **Vid osäkerhet, ring 112.** Vänta aldrig för att se om det går över.
 
 ## Källor och vidare läsning
 
 - [Socialstyrelsens nationella riktlinjer för vård vid stroke](https://www.socialstyrelsen.se/kunskapsstod-och-regler/regler-och-riktlinjer/nationella-riktlinjer/riktlinjer-och-utvarderingar/stroke/)
+- [Nationell arbetsgrupp (NAG) Stroke — Riktlinje för handläggning av reperfusionsbehandling vid ischemisk stroke, version 4, 2024-02-27](https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf)
 - [Strokeförbundet](https://www.strokeforbundet.se/)
 - [1177 — Stroke](https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/stroke-och-tia/stroke/)

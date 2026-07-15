@@ -57,7 +57,7 @@ Warfarin — Waran — sattes in. Det innebar blodprover och dosjusteringar och 
 
 Kardiologerna var involverade. Det handlade inte bara om hjärnan längre — det handlade om hjärtat, om cirkulationen, om en kropp som visat sig vara sjukare än jag visste om.
 
-Fragmin sköt upp blodets förmåga att koagulera tills Waran hade hunnit verka. Sju dygn utan den behandlingen. En vecka med en aktiv tromb och inget skydd.
+Fragmin hämmade blodets förmåga att koagulera tills Waran hade hunnit börja verka. Sju dygn utan den behandlingen. En vecka med en aktiv tromb och inget skydd.
 
 ## Ståltermosen
 
