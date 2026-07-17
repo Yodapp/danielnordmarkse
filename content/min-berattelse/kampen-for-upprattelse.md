@@ -20,7 +20,7 @@ Då började ett annat slags arbete. Ett arbete som fortfarande pågår.
 
 ## Löf — Patientförsäkringen
 
-Löf regionernas ömsesidiga försäkringsbolag, Löf, är det försäkringssystem som hanterar anmälningar om patientskador i svensk vård. Jag anmälde det som hänt.
+Löf, regionernas ömsesidiga försäkringsbolag, är det försäkringssystem som hanterar anmälningar om patientskador i svensk vård. Jag anmälde det som hänt.
 
 Löfs initiala beslut gick emot mig. Bedömningen var att ambulansen hade agerat enligt gällande praxis.
 

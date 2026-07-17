@@ -44,6 +44,12 @@ Det kan se ut som berusning. Det kan se ut som psykisk påverkan. Det kan se ut 
 
 Det är stroke.
 
+## Post-stroke fatigue
+
+Post-stroke fatigue, som också kallas hjärntrötthet efter stroke, är en stark trötthet som kan uppstå även efter liten fysisk eller mental ansträngning. Den skiljer sig från vanlig trötthet genom att vila inte alltid hjälper på samma sätt och att återhämtningen kan ta lång tid.
+
+Tröttheten kan göra det svårare att koncentrera sig, planera, hantera många intryck eller göra flera saker samtidigt. Den kan finnas kvar långt efter den akuta fasen och påverka både vardag, arbete och socialt liv.
+
 ## Tidsaspekten — varför det är bråttom
 
 Ju snabbare akut strokebehandling ges, desto mer hjärnvävnad går att rädda. Det finns två huvudsakliga behandlingar, båda tidsbegränsade.

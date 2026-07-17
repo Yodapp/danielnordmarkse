@@ -8,6 +8,8 @@
   {{- if gt (len $titleParts) 1 }}
     {{- $chapterTitle = delimit (after 1 $titleParts) " — " }}
   {{- end }}
+  {{- $chapters := where .CurrentSection.RegularPages "Params.weight" "ne" nil }}
+  {{- $chapters = $chapters.ByWeight }}
   <article class="dn-chapter">
     <header class="dn-chapter__header max-w-prose">
       <div class="dn-chapter__eyebrow print:hidden">
@@ -53,6 +55,20 @@
       </div>
     </section>
     <footer class="max-w-prose pt-8 print:hidden">
+      <nav class="dn-chapter-nav" aria-label="Alla kapitel">
+        <details>
+          <summary>{{ $chapterLabel }} av {{ len $chapters }} — välj kapitel</summary>
+          <ol>
+            {{ range $chapters }}
+              <li>
+                <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $.RelPermalink }} aria-current="page"{{ end }}>
+                  {{ .Title }}
+                </a>
+              </li>
+            {{ end }}
+          </ol>
+        </details>
+      </nav>
       {{ partial "author.html" . }}
       {{ partial "sharing-links.html" . }}
       {{ partial "article-pagination.html" . }}

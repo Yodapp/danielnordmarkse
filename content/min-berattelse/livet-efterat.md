@@ -16,7 +16,7 @@ Det är svårt att beskriva kognitiva förändringar för någon som inte upplev
 
 Minnet fungerar annorlunda. Inte att det är borta — det är mer som att det tar längre tid, som att saker halkar iväg när jag försöker hålla dem, som att koncentrationen kräver en ansträngning som inte krävdes förut.
 
-Trötthet. Inte den trötthet man känner efter en ansträngande dag, utan en trötthet som sitter i nervsystemet. Post-stroke fatigue kallas det. Den kommer ofta utan förvarning och tar tid att återhämta sig från.
+Trötthet. Inte den trötthet man känner efter en ansträngande dag, utan en trötthet som sitter i nervsystemet. [Post-stroke fatigue](/om-stroke/#post-stroke-fatigue) kallas det. Den kommer ofta utan förvarning och tar tid att återhämta sig från.
 
 Det är svårare att göra flera saker samtidigt. Det är svårare att hantera situationer med mycket stimuli. Det är svårare att planera framåt.
 
