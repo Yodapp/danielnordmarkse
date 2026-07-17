@@ -7,7 +7,7 @@ aliases: ["/min-berattelse/kampen-for-upprattelseelse/"]
 ---
 
 
-Inte alla som drabbas av stroke behöver göra det jag gör. De flesta lever vidare med sin rehabilitering och sina konsekvenser, utan att också behöva utreda vad som gick fel. Men efter Svea hovrätts dom i februari 2026 stod det klart för mig att det som hände den 25 juni 2024 inte bara var olyckligt — det gick att undvika.
+Inte alla som drabbas av stroke behöver göra det jag gör. De flesta lever vidare med sin rehabilitering och sina konsekvenser, utan att också behöva utreda vad som gick fel. Men när jag började gå igenom händelseförloppet och dokumentationen stod det klart för mig att det som hände den 25 juni 2024 inte bara var olyckligt — det gick att undvika.
 
 Då började ett annat slags arbete. Ett arbete som fortfarande pågår.
 
@@ -85,13 +85,11 @@ Vad historiken faktiskt visar:
 
 Blodprovet verkställdes alltså 10 minuter innan något beslut existerade i systemet, 35 minuter innan en behörig beslutsfattare angavs, och 36 minuter innan beslutet signerades formellt.
 
-## Hovrättens dom
+## Neurologens bedömning
 
 Den medicinska bilden fanns också inne i rättsprocessen. Min neurolog — överläkare på den avdelning där jag vårdades — ställde upp på förhör hos polisen under förundersökningen, och vittnade senare under ed i tingsrätten. I förhöret dokumenterades hans bedömning: *"Jag vet inget om trafikolyckan men det är absolut rimligt att han kan ha haft stroken redan då."* Och: *"I en helhetsbedömning så kan den absolut ha koppling till trafikolyckan. Stroken orsakades inte av trafikolyckan."*
 
 Att en överläkare i neurologi tar sig tid att höras av polis och sedan vittna under ed säger något i sig. Och att han inte kan uttala sig med full säkerhet är inte en svaghet i bedömningen — det är själva poängen. Den enda anledningen till att sambandet inte går att fastställa exakt är att ingen undersökte mig den 25 juni. De som hade kunnat skapa säkerheten är samma instanser som missade stroken.
-
-Rättsväsendet rörde sig också. I februari 2026 meddelade Svea hovrätt dom i mål B 17945-25. Innehållet i den domen är en del av det rättsliga sammanhang som omgärdar händelseförloppet den 25 juni 2024.
 
 ## Det pågående arbetet
 

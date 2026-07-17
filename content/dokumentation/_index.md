@@ -70,13 +70,6 @@ Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatp
 - **Belyser:** Två dokument i polisens förundersökning med benämningen *"Protokoll över kroppsbesiktning"*, där det ena är ett utdrag ur systemhistoriken och det andra anger ett beslut klockan 14:43.
 - **Status:** Inte publicerat på webbplatsen.
 
-### Hovrättsdom
-
-- **Datum:** Februari 2026
-- **Belyser:** Svea hovrätts dom som är en del av det rättsliga sammanhanget kring händelseförloppet den 25 juni 2024.
-- **Referens:** Mål B 17945-25; meddelad 19 februari 2026.
-- **Status:** Inte publicerat på webbplatsen.
-
 ## JO
 
 ### JO-anmälan om dröjsmål med handlingar

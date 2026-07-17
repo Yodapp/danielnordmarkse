@@ -1,6 +1,6 @@
 ---
 title: "Kapitel 4 — Sjukhustiden"
-description: "Juli 2024 — neurologavdelningen, sidan jag inte såg, blodförtunningen och hemgången."
+description: "Juli 2024 — neurologavdelningen, de kognitiva konsekvenserna, blodförtunningen och hemgången."
 date: 2024-07-03
 weight: 4
 ---
@@ -21,17 +21,17 @@ I övrigt pratade han och jag väldigt lite. De gånger jag träffade honom låg
 
 Jag förstod orden. Men det tog tid för dem att landa.
 
-## Sidan jag inte såg
+## Det som syntes på avdelningen
 
-Det märkligaste med att inte se sin vänstra sida är att man inte märker det själv. Det är det som gör tillståndet så svårfångat — hjärnan kompenserar, fyller ut, skapar en upplevelse av helhet även där det saknas.
+På avdelningen gick jag in i saker på min vänstra sida. Det stod i journalen. Jag upplevde det inte som att jag ignorerade vänster — jag upplevde det som att jag gick rakt fram.
 
-På avdelningen gick jag in i saker på min vänstra sida. Det stod i journalen. Jag upplevde det inte som att jag ignorerade vänster — jag upplevde det som att jag gick rakt fram. Det är hela skillnaden.
+Jag har inget eget minne av ett enda sådant tillfälle. Det som för personalen var observerbara fynd, dokumenterade i journalen, existerar inte i min upplevelse av de veckorna.
 
-Jag har inget eget minne av ett enda sådant tillfälle. Inte ett. Det som för personalen var observerbara fynd, dokumenterade i journalen, existerar inte i min upplevelse av de veckorna. Det är neglekt och anosognosi i ett: skadan såg till att jag inte såg skadan.
+Neglekten blev den medicinska förklaringen till bilolyckan och innebar också att jag inte fick köra bil. I dag märker jag inte av någon neglekt. Den påverkar inte min vardag och finns antagligen inte längre kvar.
 
-Rehabiliteringen handlade delvis om att lära hjärnan att se det den slutat se. Det är ett tålamodskrävande arbete. Det är inte som att träna en muskel — det är att försöka rätta till ett sätt att uppfatta världen på.
+## Minne och koncentration
 
-Jag hade också svårigheter med minne och koncentration. Att läsa var svårt. Att hålla tråden i ett samtal krävde ansträngning. Saker som hade varit enkla var plötsligt inte det.
+Stroken gav mig också svårigheter med minne och koncentration. Att läsa var svårt. Att hålla tråden i ett samtal krävde ansträngning. Saker som hade varit enkla var plötsligt inte det.
 
 ## Chins vid ribbstolen
 
