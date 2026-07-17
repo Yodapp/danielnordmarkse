@@ -36,13 +36,13 @@ En stroke i höger hjärnhalva kan ge symtom som är svårare att känna igen.
 
 **Neglektsyndrom** innebär att hjärnan slutar uppmärksamma sidan som är motsatt till skadan — i de flesta fall vänster sida. Personen ser inte, reagerar inte på och registrerar inte stimuli från vänster. Det är inte blindhet — det är en brist i hjärnans uppmärksamhetsförmåga.
 
-**Anosognosi** innebär att personen inte märker att de är sjuka. Hjärnan kompenserar och fyller ut de luckor som uppstår till följd av skadan. Personen kan uppleva sig som i stort sett normal — trots att de visar tydliga symtom.
+**Anosognosi** innebär nedsatt eller saknad insikt om den egna sjukdomen eller funktionsnedsättningen. Personen kan därför uppleva sig som i stort sett normal — trots att de visar tydliga symtom.
 
-Det är kombinationen av neglekt och anosognosi som gör högersidig stroke svår att identifiera, och svår att hantera. Personen kan framstå som förvirrad, omotiverad, ovanlig i sitt beteende — men inte nödvändigtvis som "sjuk" i traditionell mening.
+Neglekt och anosognosi kan var för sig eller tillsammans göra en stroke svårare att känna igen och hantera. Personen kan framstå som förvirrad, omotiverad, ovanlig i sitt beteende — men inte nödvändigtvis som "sjuk" i traditionell mening.
 
 Det kan se ut som berusning. Det kan se ut som psykisk påverkan. Det kan se ut som ett underligt beteende vid en trafikolycka.
 
-Det är stroke.
+Det kan vara stroke. Chansa inte. Ring 112.
 
 ## Post-stroke fatigue
 
@@ -52,7 +52,7 @@ Tröttheten kan göra det svårare att koncentrera sig, planera, hantera många 
 
 ## Tidsaspekten — varför det är bråttom
 
-Ju snabbare akut strokebehandling ges, desto mer hjärnvävnad går att rädda. Det finns två huvudsakliga behandlingar, båda tidsbegränsade.
+Ju snabbare akut strokebehandling ges, desto mer hjärnvävnad går att rädda. Vid ischemisk stroke finns två huvudsakliga behandlingar för att återställa blodflödet, båda tidsbegränsade.
 
 ### Trombolys
 
