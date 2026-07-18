@@ -7,19 +7,21 @@ weight: 4
 
 Sjukhuset var det första stället på länge där någon faktiskt tittade på mig.
 
-Det låter som en självklarhet. Det borde vara en självklarhet. Men efter allt som hänt — ambulansen som lämnade, akuten som inte undersökte, polisen som körde iväg — var det märkligt att ligga i en sjukhussäng och vara ett medicinskt fall med ett namn och ett personnummer och en diagnos.
+Det låter som en självklarhet. Det borde vara en självklarhet. Ambulanspersonalen hade bemött mig bra, men deras avgörande fel var att låta polisen bestämma att undersökningen skulle avslutas. Därefter hade polisen kört mig till akuten utan att låta mig undersökas och sedan kört mig därifrån.
+
+Efter allt som hänt var det märkligt att ligga i en sjukhussäng och vara ett medicinskt fall med ett namn och ett personnummer och en diagnos.
 
 Jag var inlagd på Falu Lasarett. Neurologavdelningen.
 
 ## De första dagarna
 
-De första dagarna minns jag fragmentariskt. Det fanns undersökningar, prover, läkare som ställde frågor. Det fanns sjuksköterskor som kom och gick. Det fanns en trötthet som inte var vanlig trötthet — en tyngd som satt i kroppen och hjärnan på ett sätt jag inte hade ord för.
+De första dagarna minns jag fragmentariskt. Det fanns undersökningar, prover, läkare som ställde frågor. Det fanns sjuksköterskor som kom och gick. Jag sov dåligt på nätterna och minns väldigt lite av vad jag gjorde på dagarna.
 
 Min neurolog var tydlig och rak. Han förklarade vad som hade hänt: en stor ischemisk stroke i höger hjärnhalva, orsakad av en propp i en gren av den mellersta hjärnartären. Att jag hade slutat uppfatta min vänstra sida. Och en tromb i hjärtat som skulle kräva långvarig blodförtunning.
 
 I övrigt pratade han och jag väldigt lite. De gånger jag träffade honom låg jag i min säng i salen, och han testade: känseln i händer och fötter, synen, synfältet — jakten på det bortfall och det neglekt som bilderna sa borde finnas. Korta frågor. Korta svar.
 
-Jag förstod orden. Men det tog tid för dem att landa.
+Jag förstod orden, men uppfattade mig själv som opåverkad. Jag gjorde allt jag kunde för att visa att jag var "frisk".
 
 ## Det som syntes på avdelningen
 
@@ -28,10 +30,6 @@ På avdelningen gick jag in i saker på min vänstra sida. Det stod i journalen.
 Jag har inget eget minne av ett enda sådant tillfälle. Det som för personalen var observerbara fynd, dokumenterade i journalen, existerar inte i min upplevelse av de veckorna.
 
 Neglekten blev den medicinska förklaringen till bilolyckan och innebar också att jag inte fick köra bil. I dag märker jag inte av någon neglekt. Den påverkar inte min vardag och finns antagligen inte längre kvar.
-
-## Minne och koncentration
-
-Stroken gav mig också svårigheter med minne och koncentration. Att läsa var svårt. Att hålla tråden i ett samtal krävde ansträngning. Saker som hade varit enkla var plötsligt inte det.
 
 ## Chins vid ribbstolen
 
@@ -43,7 +41,9 @@ Så jag bestämde mig för att visa vårdpersonalen att jag var fysiskt pigg och
 
 Min säng stod närmast fönstret, med utsikt över Falun. Jag låg där och väntade på att någon skulle upptäcka misstaget.
 
-I efterhand tror jag att känslan av att vara inlåst hade en bestämd rot: polisernas bemötande. Ilskan, anklagelserna, den formella misstanken om allvarliga brott. Jag visste att jag var på ett sjukhus — men det kändes som att jag straffades för det polisen anklagade mig för.
+Personalen på sjukhuset var bra. Det var inte deras bemötande som fick mig att känna mig inlåst.
+
+Känslan hade sin rot i polisernas agerande: ilskan, anklagelserna och misstankarna om allvarliga brott. Jag visste att jag var på ett sjukhus — men det kändes mer som att vara inlåst i ett fängelse, som om jag straffades för det polisen anklagade mig för.
 
 Den känslan bär jag fortfarande ofta med mig. Polisen lyckades inte hjälpa mig när jag drabbades av min stroke. Men de lyckades få mig att känna att allt som hänt var mitt fel.
 
@@ -89,13 +89,13 @@ Jag vill vara rättvis mot henne. Det var hos henne jag fick sova natten mellan 
 
 Men en sak vill jag säga rakt ut, för den sägs för sällan: även män drabbas av våld i nära relationer. Alkohol och våld går alltför ofta hand i hand. Jag låg på en övervakningsavdelning efter en stor stroke, med blodförtunnande i kroppen, och slogs blodig av en ståltermos — kastad av den person som stod mig närmast.
 
-## Samtal
+## Det jag inte fick veta
 
-Det var under sjukhustiden jag började förstå den fulla innebörden av vad som hade hänt. Inte allt på en gång — det händer fortfarande, i lager, allt eftersom jag läser dokument och lär mig vad orden egentligen betyder.
+Under sjukhustiden berättade ingen för mig att behandlingsfönstren för [trombolys](/om-stroke/#trombolys) och [trombektomi](/om-stroke/#trombektomi) hade stängt. Ingen förklarade att behandling kunde ha varit möjlig om min stroke hade upptäckts den 25 juni.
 
-Men det var där, i de samtalen med läkare och sjuksköterskor, som jag för första gången hörde det formulerat rakt: det terapeutiska fönstret hade stängt. Behandlingen som kunde ha gjort skillnad — [trombolys](/om-stroke/#trombolys), [trombektomi](/om-stroke/#trombektomi) — hade aldrig varit ett alternativ. Inte för att den inte finns. För att ingen hann bedöma mig i tid.
+Det förstod jag först senare, när jag började läsa journalerna och de andra dokumenten och kunde lägga tidsuppgifterna bredvid varandra.
 
-Det är en sorts sorg som är svår att beskriva. Inte vrede, inte bitterhet — mer som att stå framför något oåterkalleligt och försöka begripa det.
+På sjukhuset uppfattade jag mig fortfarande som opåverkad och ville bara därifrån. Jag kunde inte förstå innebörden av en förlorad behandling som ingen hade berättat för mig om.
 
 ## Hemgång
 

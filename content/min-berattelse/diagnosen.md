@@ -8,9 +8,9 @@ weight: 3
 
 Det var min mamma som körde mig till akuten. Sju dygn hade gått sedan olyckan den 25 juni.
 
-Min mamma är pensionerad överläkare. Hon följde med mig in till läkaren på akutmottagningen på Falu Lasarett och sa ifrån: hon tyckte att en hjärnröntgen skulle göras. Själv var jag i så dåligt skick att jag inte kunde beskriva vad som var fel.
+Mitt första tydliga minne från akuten är att vi kom in i ett undersökningsrum. En läkare undersökte mig och noterade att jag såg väldigt trött ut. Jag var i så dåligt skick att det mest var min mamma som svarade på hans frågor.
 
-De tog blodprover och körde mig till datortomografi. Efteråt fick jag ligga i ett rum på akuten och vänta. Minns jag rätt satt min mamma i samma rum. Jag väntade på att någon skulle komma in och säga att röntgen inte hade visat någonting.
+Efter undersökningen beställde läkaren en hjärnröntgen. De tog blodprover och körde mig till datortomografi. Efteråt fick jag ligga i ett rum på akuten och vänta. Minns jag rätt satt min mamma i samma rum. Jag väntade på att någon skulle komma in och säga att röntgen inte hade visat någonting.
 
 Jag hade fel.
 
@@ -64,9 +64,9 @@ Ordet *sannolikt* är värt att stanna vid. Mer säkert än så kan det aldrig b
 
 Redan i de första anteckningarna från den 2 juli syns för övrigt samma sak: båda läkarna som tog emot mig knöt symtomdebuten direkt till olycksdagen. För vården var tidslinjen uppenbar från första stund.
 
-Och till allt detta kom det kanske svåraste att förklara: att jag inte själv märkte att jag var sjuk. Min neurolog satte ord på det: "Han visste inte själv vad som var fel." Det är inte ovanligt vid stroke i höger hjärnhalva — hjärnan kan skadas på ett sådant sätt att den inte längre kan uppfatta sin egen skada.
+Och till allt detta kom det kanske svåraste att förklara: att jag inte själv kunde förstå hur allvarligt sjuk jag var. Min neurolog satte ord på det: "Han visste inte själv vad som var fel." Det är inte ovanligt vid stroke i höger hjärnhalva — hjärnan kan skadas på ett sådant sätt att den inte längre kan uppfatta sin egen skada.
 
-Det är därför jag inte sökte hjälp. Inte för att jag vägrade. För att jag inte förstod att det fanns något att söka hjälp för.
+Det betyder inte att jag vägrade hjälp. Jag följde med till ambulansen och sjukhuset den 25 juni eftersom jag trodde att jag skulle få vård. När jag sedan kördes därifrån utan en medicinsk undersökning och återigen behandlades som kriminell trodde jag inte längre att det fanns någon hjälp att få.
 
 ## Det som gick förlorat
 

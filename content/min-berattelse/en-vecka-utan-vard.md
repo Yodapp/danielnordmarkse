@@ -6,7 +6,9 @@ weight: 2
 ---
 
 
-Sju dygn med stora minnesluckor. Polisen tror återigen att jag är påverkad och missar ännu en gång tydliga symtom på min stroke. Hade de agerat rätt hade det förlängda fönstret för trombektomi fortfarande kunnat stå öppet. Min mamma blir den som till slut agerar.
+Sju dygn med stora minnesluckor. Under större delen av tiden sov jag. Det var inte vanlig trötthet och det var inte återhämtning. Jag var i extremt dåligt skick och behövde akutvård — både för min stroke och för det allvarliga tillståndet i mitt hjärta som ännu inte hade upptäckts.
+
+Polisen trodde återigen att jag var påverkad och missade ännu en gång tydliga symtom på min stroke. Hade de agerat rätt hade det förlängda fönstret för trombektomi fortfarande kunnat stå öppet. Min mamma blev den som till slut agerade.
 
 ## Natten och dagarna
 
@@ -18,7 +20,15 @@ När patrullen lämnade mig hos min dåvarande flickvän berättade de ingenting
 
 Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus med min iPad — min telefon ligger kvar i skogsdungen vid Källviksbadet. Fotot föreställer en vägg och min bärbara dator. Jag vet inte varför jag tog det. Men GPS-data och tidsstämpel finns kvar i bilden — det är det enda konkreta spåret från den natten.
 
-Värmeböljan höll fortfarande Falun i sitt grepp. Dagen innan hade jag gått långt i 30-gradig värme och var antagligen ordentligt uttorkad. Jag minns att jag kände mig väldigt varm, som om jag hade feber. Min dåvarande flickvän har senare berättat att jag var vinglig och inte ville äta. Hon gav mig glass — snabb energi som samtidigt svalkade. Det fungerade, men hon fick mata mig. Egentligen ville jag bara sova, vilket jag gjorde större delen av den 26 juni.
+Värmeböljan höll fortfarande Falun i sitt grepp. Dagen innan hade jag, mitt under en pågående stroke, tvingats gå en lång sträcka i närmare 30-gradig värme. Efteråt var jag extremt trött och kände mig väldigt varm, som om jag hade feber.
+
+Min dåvarande flickvän har senare berättat att jag var vinglig och inte ville äta. Hon gav mig glass — snabb energi som samtidigt svalkade — men hon fick mata mig. Jag ville bara sova och sov i princip hela den 26 juni.
+
+Det var så illa att jag inte klarade grundläggande saker själv.
+
+Jag hade förstått att någonting var fel och tog för givet att jag skulle få akutvård när polisen körde mig till sjukhuset. Men där fick jag ingen medicinsk undersökning. Polisen körde mig därifrån, lämnade mig vid tågstationen och sa åt mig att gå hem. När en andra patrull senare hittade mig fortfarande svårt förvirrad behandlades jag återigen som en misstänkt, inte som en människa i behov av vård.
+
+Efter det trodde jag inte längre att det fanns någon hjälp att få. När jag behövde den som mest hade både ambulansen och polisen svikit mig.
 
 ## Min mamma söker mig
 
@@ -50,6 +60,8 @@ Journalanteckningarna från sjukhuset nämner att min dåvarande flickvän och m
 
 Båda berättade för vårdpersonalen om de här dagarna: att jag sovit i stort sett hela dygnen, att jag varit ostadig, förvirrad och saknat tidsuppfattning. Att jag behövt hjälp med det mesta — även med att få i mig mat och dryck.
 
+Deras beskrivningar visar vilket extremt dåligt skick jag befann mig i. Jag låg inte hemma och återhämtade mig. Jag låg hemma med en stor obehandlad stroke och ett allvarligt, ännu oupptäckt tillstånd i hjärtat. Jag behövde akutvård.
+
 Vad ingen visste var att mitt hjärta var en tickande bomb. En stor propp satt fast i hjärtats vänstra kammare — en väggfast tromb. Det var en del av den proppen som lossnade och orsakade min stroke. Om ytterligare en del hade lossnat hade jag antagligen inte levt idag.
 
 En stor ischemisk stroke i höger hjärnhalva. En tromb i hjärtat. Utan blodförtunning.
@@ -64,12 +76,20 @@ En stroke i höger hjärnhalva kan ge en upplevelse av att allt är normalt när
 
 Det är inte lögn. Det är inte brist på vilja att söka hjälp. Det är en neurologisk skada som gör att självinsikten är skadad.
 
-Jag visste inte att jag hade haft en stroke. Jag visste inte ens att något var allvarligt fel. Den veckan levde jag i ett tillstånd jag inte förstod, omgiven av människor som förstod mer än jag — men inte tillräckligt för att nå igenom.
+Jag visste inte att jag hade haft en stroke och kunde inte förstå hur allvarligt sjuk jag var. Men jag hade tidigare under dagen förstått tillräckligt för att tro att jag skulle undersökas på akuten. När ambulansen lämnade mig till polisen, polisen körde mig från sjukhuset utan någon undersökning och två patruller behandlade mig som kriminell, blev budskapet till mig att det inte fanns någon hjälp att få.
+
+Den veckan levde jag i ett tillstånd jag inte förstod. Jag hade följt med till ambulansen och sjukhuset eftersom jag trodde att jag skulle få hjälp. De som skulle hjälpa mig svek.
 
 ## Den 2 juli
 
-Den 2 juli fick min mamma nog. Hon krävde att få köra mig till akuten.
+Under dagarna som gått hade jag hela tiden sagt att jag bara behövde vila. Alla kan vara sjuka och behöva sova i några dagar. Jag trodde att det var det som hade hänt mig.
 
-Jag gick motvilligt med på det. Efter mötet med ambulansen och polisen veckan innan kändes det onödigt — sjukvården skulle ändå bara skicka hem mig, trodde jag. Jag tror att jag medgav att jag hade huvudvärk. Mer än så förstod jag inte av mitt eget tillstånd.
+Jag vet inte exakt vad som gjorde att min mamma den 2 juli inte längre accepterade den förklaringen, och jag vill inte spekulera i vad hon tänkte eller såg. Hon sa bara:
 
-Men vi åkte. Och den här gången följde min mamma med in.
+{{< citat >}}Nu åker vi in till akuten.{{< /citat >}}
+
+Jag tyckte att det var onödigt. Efter mötet med ambulansen och polisen veckan innan trodde jag inte att det fanns någon hjälp att få. Jag tror att jag medgav att jag fortfarande hade huvudvärk, men jag visste inte att jag hade haft en stroke. Jag var så trött att jag inte orkade säga emot.
+
+Vi åkte. Den här gången följde min mamma med in.
+
+Hon räddade mitt liv när polisen och ambulansen svek mig. Om hon inte hade kört mig till akuten den dagen hade jag inte levt idag.
