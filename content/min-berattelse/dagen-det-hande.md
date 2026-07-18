@@ -134,7 +134,13 @@ Jag förnekade ingenting och jag ljög inte. Min skadade hjärna kunde helt enke
 
 ## Lämnad vid tågstationen
 
-Klockan 15:51 skriver Polis T sitt PM. Vid tågstationen i Falun delgavs jag för första gången misstanke om brott. Sedan bad poliserna mig att kliva ur polisbilen. Fram till dess hade jag inte varit fri att gå.
+Klockan 15:51 skriver Polis T sitt PM. Vid tågstationen i Falun delgavs jag för första gången misstanke om brott. Sedan bad poliserna mig att kliva ur polisbilen.
+
+Polisens händelserapport registrerar mig som frihetsberövad från klockan 14:52:26. Frihetsberövandet upphörde först när poliserna släppte av mig vid tågstationen.
+
+Det som polisen använde som tecken på narkotikapåverkan — förvirringen, det sluddriga talet och oförmågan att lämna sammanhängande svar — var symtom på min stroke. Jag frihetsberövades alltså på grund av hur ett livshotande sjukdomstillstånd tog sig uttryck.
+
+I stället för en akut neurologisk undersökning blev jag frihetsberövad, förd till sjukhuset enbart för ett blodprov och sedan lämnad att själv försöka ta mig hem. För mig visar det en katastrofal brist på empati hos poliserna som ingrep. De såg hur dåligt jag fungerade men valde misstanke och tvång framför omsorg om mitt liv och min hälsa.
 
 Jag sa att jag skulle till området där min dåvarande flickvän bodde, ungefär sex kilometer bort. Trots att jag är uppvuxen i Falun och har bott större delen av mitt liv där visste jag inte hur jag skulle gå. Poliserna pekade åt ett håll och sa att jag skulle följa järnvägsspåret.
 
