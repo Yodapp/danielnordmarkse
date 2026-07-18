@@ -138,9 +138,19 @@ Klockan 15:51 skriver Polis T sitt PM. Vid tågstationen i Falun delgavs jag fö
 
 Polisens händelserapport registrerar mig som frihetsberövad från klockan 14:52:26. Frihetsberövandet upphörde först när poliserna släppte av mig vid tågstationen.
 
+Min Apple Watch visar att jag började gå klockan 16:00. Jag hade alltså varit frihetsberövad i drygt en timme.
+
+Vid en stroke är varje minut kritisk. Ändå ansåg polisen att det var försvarbart att hålla en person med tydliga strokesymtom frihetsberövad medan en brottsutredning prioriterades.
+
 Det som polisen använde som tecken på narkotikapåverkan — förvirringen, det sluddriga talet och oförmågan att lämna sammanhängande svar — var symtom på min stroke. Jag frihetsberövades alltså på grund av hur ett livshotande sjukdomstillstånd tog sig uttryck.
 
-I stället för en akut neurologisk undersökning blev jag frihetsberövad, förd till sjukhuset enbart för ett blodprov och sedan lämnad att själv försöka ta mig hem. För mig visar det en katastrofal brist på empati hos poliserna som ingrep. De såg hur dåligt jag fungerade men valde misstanke och tvång framför omsorg om mitt liv och min hälsa.
+Den dryga timme som Polis T valde att lägga på utredningen kostade mig avgörande tid. När polisen till slut släppte mig var behandlingsfönstren fortfarande öppna. Men i stället för akut neurologisk vård lämnades jag att själv försöka gå hem.
+
+Besluten den eftermiddagen blev en del av den fördröjning som gjorde att jag gick miste om både [trombolys](/om-stroke/#trombolys) och [trombektomi](/om-stroke/#trombektomi). Proppen fick fortsätta blockera blodflödet och min hjärnskada blev mycket stor. [Läs om hur skadan påverkar mitt liv i dag](/min-berattelse/livet-efterat/).
+
+Jag är både arg och djupt besviken på Polis T och Polis S. Ni såg hur dåligt jag fungerade men valde misstanke och tvång framför omsorg om mitt liv och min hälsa.
+
+{{< citat >}}Ni förstörde mitt liv.{{< /citat >}}
 
 Jag sa att jag skulle till området där min dåvarande flickvän bodde, ungefär sex kilometer bort. Trots att jag är uppvuxen i Falun och har bott större delen av mitt liv där visste jag inte hur jag skulle gå. Poliserna pekade åt ett håll och sa att jag skulle följa järnvägsspåret.
 
