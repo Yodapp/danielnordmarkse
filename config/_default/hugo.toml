@@ -1,0 +1,18 @@
+baseURL = "https://danielnordmark.se/"
+defaultContentLanguage = "sv"
+title = "Daniel Nordmark"
+
+enableRobotsTXT = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/jpanther/congo/v2"
+
+[services]
+  [services.rss]
+    limit = 0
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML"]
+  page = ["HTML"]
