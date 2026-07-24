@@ -1,0 +1,24 @@
+[[main]]
+  name = "Hem"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Min berättelse"
+  pageRef = "min-berattelse"
+  weight = 20
+
+[[main]]
+  name = "Om stroke"
+  pageRef = "om-stroke"
+  weight = 30
+
+[[main]]
+  name = "Dokumentation"
+  pageRef = "dokumentation"
+  weight = 40
+
+[[main]]
+  name = "Kontakt"
+  pageRef = "kontakt"
+  weight = 50

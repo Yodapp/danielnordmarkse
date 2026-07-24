@@ -1,0 +1,24 @@
+{{/* A single brand lockup keeps the DN mark and name visually—and semantically—together. */}}
+{{- $logo := resources.Get .Site.Params.header.logo }}
+<a
+  class="dn-wordmark"
+  rel="me"
+  href="{{ "" | relLangURL }}"
+  aria-label="{{ .Site.Title }}"
+>
+  {{- with $logo }}
+    <span class="dn-wordmark__mark" aria-hidden="true">
+      <img
+        src="{{ .Permalink }}"
+        width="36"
+        height="36"
+        alt=""
+      />
+    </span>
+  {{- end }}
+  {{- if .Site.Params.header.showTitle | default true }}
+    <span class="dn-wordmark__name">
+      {{ .Site.Title | markdownify | emojify }}
+    </span>
+  {{- end }}
+</a>

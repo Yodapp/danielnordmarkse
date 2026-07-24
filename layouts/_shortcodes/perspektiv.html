@@ -1,0 +1,10 @@
+{{- $typ := .Get "typ" -}}
+{{- $etiketter := dict
+  "handlingar" "I handlingarna"
+  "journal" "I journalen"
+-}}
+{{- with index $etiketter $typ -}}
+<aside class="dn-perspektiv" aria-label="Perspektiv: {{ . }}">
+  <span class="dn-perspektiv__label">{{ . }}</span>
+</aside>
+{{- end -}}

@@ -1,0 +1,4 @@
+<li class="dn-register__item">
+  <span class="dn-register__time">{{ .Get "tid" }}</span>
+  <span class="dn-register__text">{{ .Page.RenderString (strings.TrimSpace .Inner) }}</span>
+</li>

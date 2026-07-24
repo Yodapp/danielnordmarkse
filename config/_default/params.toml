@@ -1,0 +1,29 @@
+colorScheme = "danielnordmark"
+enableSearch = true
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+showAuthor = false
+showDate = false
+showReadingTime = true
+showTableOfContents = true
+
+[header]
+  layout = "hybrid"
+  logo = "img/logo.svg"
+
+[homepage]
+  layout = "custom"
+  showRecent = false
+
+[article]
+  showDate = false
+  showAuthor = false
+  showReadingTime = true
+  showTableOfContents = true
+  showPagination = true
+  showBreadcrumbs = true
+  sharingLinks = ["facebook", "x-twitter", "linkedin", "email"]
+
+[formspree]
+  endpoint = "xzdljoae"

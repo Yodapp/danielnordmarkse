@@ -1,0 +1,21 @@
+{{/* Cloudflare Web Analytics */}}
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "f5ea0291b73846e492f1b64abc0806c1"}'></script>
+
+{{/* Keep the chapter contents compact on phones while retaining the desktop sidebar. */}}
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var desktopContents = window.matchMedia("(min-width: 1024px)");
+    var syncContents = function () {
+      document.querySelectorAll(".dn-toc").forEach(function (contents) {
+        contents.open = desktopContents.matches;
+      });
+    };
+
+    syncContents();
+    if (desktopContents.addEventListener) {
+      desktopContents.addEventListener("change", syncContents);
+    } else {
+      desktopContents.addListener(syncContents);
+    }
+  });
+</script>
