@@ -102,13 +102,13 @@ En vän hjälpte mig med ekonomin och med det praktiska kring husförsäljningen
 
 Jag har flera gånger föreslagit att vi ska träffas och jag har bjudit hem honom på middag. Trots det har kontakten försvunnit. Han finns inte längre i mitt liv och det känns inte som att han bryr sig.
 
-Det är därför det är så viktigt för mig att få berätta vad som faktiskt hände. Jag har inte gjort något fel. Jag körde inte vårdslöst. Det polisen tolkade som drogpåverkan var en stor stroke.
+Det är därför det är så viktigt för mig att få berätta vad som faktiskt hände. Jag har själv gått igenom omkring 1 000 sidor från sjukvården och Polismyndigheten, trots att hjärnskadan gör det svårt för mig att hålla en röd tråd. Jag har inte gjort något fel. Jag körde inte vårdslöst. Det polisen tolkade som drogpåverkan var en stor stroke.
 
 ## Varför jag berättar
 
 Jag berättar inte för att vara ett offer. Jag berättar för att det jag gick igenom inte var oundvikligt.
 
-En stroke missad av ambulansen. En person med tydliga neurologiska symtom som lämnas vid en tågstation i 30-gradig värme. En vecka utan diagnos och utan skydd mot ny propp.
+En stroke som inte upptäcktes av ambulansen. En person med tydliga neurologiska symtom som enligt sitt eget minne lämnas vid en tågstation och sedan går minst 5,3 kilometer i stark värme. En vecka utan diagnos och utan skydd mot en ny propp.
 
 Det hände mig. Det kan hända igen. Det kanske händer just nu, någon annanstans, för att systemet inte fångade upp signalerna.
 

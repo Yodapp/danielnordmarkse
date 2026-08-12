@@ -7,7 +7,7 @@ Den 25 juni 2024 var jag på väg för att träffa kompisar och bada. I centrala
 
 Det var ingen vanlig bilolycka. Jag körde inte för fort. Jag körde inte vårdslöst.
 
-Polisen kom till platsen och var övertygade om att jag var kraftigt narkotikapåverkad. Ambulansen kom en stund senare, pratade med polisen och gjorde en snabb hälsoundersökning — och till skillnad från polisen såg de inga tecken på att jag var påverkad. Ändå beslutade polisen att köra mig till akuten för drogscreening. Besöket tog tre minuter. Ingen läkare undersökte mig. Efter ett trekvart långt "samtal" i polisbilen — utan att jag visste att jag var misstänkt för brott — lämnade de mig vid tågstationen med uppmaningen att gå hem och nyktra till.
+Polisen kom till platsen och uppfattade mig som narkotikapåverkad. Ambulansen kom en stund senare och dokumenterade bland annat nytillkommet avvikande beteende, minneslucka och sluddrigt tal. Ändå tog polisen med mig till akuten för drogscreening. Blodprovet tog tre minuter. Jag registrerades aldrig som patient och någon medicinsk bedömning finns inte dokumenterad. Jag minns att polisen sedan lämnade mig vid tågstationen med uppmaningen att gå och nyktra till.
 
 Men jag var inte påverkad.
 

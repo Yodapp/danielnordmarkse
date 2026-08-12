@@ -1,6 +1,6 @@
 ---
 title: "Kapitel 6 — Kampen för upprättelse"
-description: "Löf, IVO, polisanmälan och det pågående rättsliga arbetet — och varför det spelar roll."
+description: "Löf, IVO, JO, den färdiga SU-anmälan och arbetet för upprättelse."
 date: 2026-02-19
 weight: 6
 aliases: ["/min-berattelse/kampen-for-upprattelseelse/"]
@@ -15,7 +15,8 @@ Då började ett annat slags arbete. Ett arbete som fortfarande pågår.
 
 - **Löf:** Omprövning pågår.
 - **IVO:** Utredning pågår.
-- **JO:** Tre anmälningar har lämnats in. Den första avslutades den 20 juli 2026 efter att JO hade erinrat Polismyndigheten om att en begäran om handlingsutlämnande ska hanteras skyndsamt. Den andra avslutades den 24 juli — trots att JO hade beviljat mig anstånd till den 6 augusti för att komplettera anmälan. Jag har begärt en förklaring och arbetar vidare med kompletteringen.
+- **JO:** Tre anmälningar har lämnats in. Den första avslutades den 20 juli 2026 efter att JO hade erinrat Polismyndigheten om skyndsamhetskravet. Den andra avslutades den 24 juli, trots att jag hade fått anstånd till den 6 augusti. Min omfattande komplettering skickades till JO den 7 augusti 2026.
+- **SU:** Anmälan till Avdelningen för särskilda utredningar är färdig men ännu inte inskickad. Jag kommer att anmäla Polis T och Polis S.
 - **Polisen:** En del av det begärda materialet har lämnats ut. Polisen har dock bedömt att vissa viktiga handlingar omfattas av sekretess. Jag har begärt omprövning av det beslutet.
 
 ## Löf — Patientförsäkringen
@@ -42,15 +43,21 @@ I mitt fall gick ambulansen ett steg längre: de dokumenterade själva det avvik
 
 ## Polisen
 
-Polisens agerande den 25 juni är en separat del av det jag ifrågasätter. Det handlar inte om att ambulansen missade mig — det handlar om att polisen, utan medicinsk kompetens, aktivt tog över ansvaret för en gul-triagerad patient och körde mig till akuten för en drogscreening i sin brottsutredning.
+Polisens agerande den 25 juni är en separat del av det jag ifrågasätter. Det handlar inte om att poliserna själva skulle ha ställt diagnosen stroke. Det handlar om hur de hanterade de symtom de själva dokumenterade och de uppgifter vittnen lämnade medan ambulansen fortfarande var kvar.
 
-Polisen svarade nej på sjuksköterskans fråga om en hälsoundersökning skulle göras och lämnade mig sedan vid tågstationen i 30-gradig värme — sex kilometer från platsen där jag senare kollapsade. Detta trots att Polis T i sitt eget PM dokumenterade att jag var "väldigt förvirrad, stirrig, slö och sluddrig i talet."
+Polis T skrev att jag var "väldigt förvirrad, stirrig, slö och sluddrig i talet". Polis S höll tre förhör på olycksplatsen och fick bland annat veta att jag hade kört mycket vingligt och att det efter krocken inte gick att få riktig kontakt med mig. De uppgifterna finns inte i ambulansjournalens dokumenterade beslutsunderlag. Vad som sades muntligt går inte att fastställa.
 
-Senare samma kväll påträffade polis mig vid Källviksbadet klockan 22:33:38 — efter att jag hade legat medvetslös på marken i minst fem timmar, omkring fem kilometer från tågstationen där polisen lämnat mig. RLC-loggen beskriver mig som förvirrad och patrullen som *"väldigt förvirrad"*. Vid trafikolyckan hade polisen beskrivit mig på samma sätt. Sex och en halv timme senare påträffades jag alltså återigen, fortfarande förvirrad och vilsen, när jag försökte hitta hem till min dåvarande flickväns bostad bara några hundra meter bort i den stad där jag vuxit upp. Ingen ambulans tillkallades och inget i dokumentationen tyder på att polisen övervägde varför jag hade dykt upp igen eller om jag behövde vård. I stället kördes jag till en privatbostad.
+Vad som skulle ha hänt om den samlade informationen hade förmedlats är däremot dokumenterat. Polisernas uppgifter motsvarade kriteriet nytillkomna symtom som vid akut stroke. Ambulansjournalen anger RLS 1, och Falu lasarett kunde nås inom minuter. Samtliga tre inklusionskriterier i Ambulans Dalarnas checklista var därmed uppfyllda. Checklistans instruktion är: *"Gå vidare till Strokelarm!"*
+
+Strokelarmet skulle ha aktiverat en konkret vårdkedja på Falu lasarett: det multidisciplinära teamet skulle stå redo och DT hjärna förberedas för snabb läkarbedömning och bilddiagnostik. Vilken behandling som därefter hade valts kan ingen fastställa. Men det föreskrivna nästa steget — strokelarm — följer svart på vitt av polisernas egna uppgifter, ambulansjournalen och ambulansens checklista.
+
+Ambulansen bedömde mig som GUL enligt RETTS och avslutade uppdraget med hänvisningsorsaken *"Polis tar med patient"*. Polisen förde mig till akutmottagningen, men där genomfördes bara den polisiära blodprovstagningen. Jag registrerades aldrig som patient och någon medicinsk bedömning finns inte dokumenterad.
+
+Enligt mitt minne lämnades jag sedan vid tågstationen. Polisens handlingar anger varken var eller när frihetsberövandet faktiskt upphörde. Digitala spår visar att jag därefter gick minst 5,3 kilometer åt fel håll. Omkring sju timmar senare registrerade en annan patrull mig som *"väldigt förvirrad"* vid Källviksbadet. Ingen ambulans tillkallades och någon bedömning av mitt vårdbehov finns inte dokumenterad.
 
 Jag har begärt ut allmänna handlingar från polisen. En del av materialet har lämnats ut, men polisen har bedömt att vissa viktiga handlingar omfattas av sekretess. Jag har begärt omprövning av det beslutet.
 
-Materialet används i en komplettering till en av JO-anmälningarna och ligger också till grund för det fortsatta arbetet inför en eventuell anmälan till Avdelningen för särskilda utredningar (SU).
+Materialet användes i kompletteringen som skickades till JO den 7 augusti 2026. Det ligger också till grund för min färdiga anmälan till Avdelningen för särskilda utredningar (SU).
 
 ## JO — Riksdagens ombudsmän
 
@@ -66,7 +73,7 @@ Den andra anmälan riktar sig mot Polismyndigheten och Polis T, LPO Falun — da
 
 ### Ett anstånd som JO inte inväntade
 
-När jag lämnade in anmälan hade Polismyndigheten ännu inte lämnat ut allt material som jag behövde. När jag till slut fick ut handlingarna från polisen i Falun kunde jag börja färdigställa en komplettering och bifoga dokument som ger konkret stöd för samtliga centrala uppgifter i min anmälan.
+När jag lämnade in anmälan hade Polismyndigheten ännu inte lämnat ut allt material som jag behövde. Den 17 juli 2026 fick jag till slut ut delar av det. Då kunde jag börja sammanställa det nya underlaget och Polis S:s roll i händelseförloppet.
 
 Jag begärde därför anstånd hos JO. Den 17 juli 2026 fick jag beskedet: *"JO beviljar dig anstånd t.o.m. 2026-08-06."*
 
@@ -74,19 +81,13 @@ Sju dagar senare, den 24 juli, fattade JO ändå beslut om att inte gå vidare m
 
 JO hade alltså gett mig ett datum att förhålla mig till och avslutade sedan ärendet före samma datum. Jag har bett JO förklara vad det beviljade anståndet faktiskt innebar och varför beslut fattades innan tidsfristen hade gått ut.
 
-Kompletteringen omfattar nu även Polis S. Det nya materialet visar konkret vad hennes roll bestod i: hon höll tre förhör på olycksplatsen medan ambulansen var kvar, kontrollerade min identitet vid kroppsbesiktningen på akuten och ingick i den patrull som transporterade, frihetsberövade och senare försatte mig på fri fot.
+Jag skickade kompletteringen till JO den 7 augusti 2026. Den omfattar även Polis S och begär att materialet antingen ska tillföras det avslutade ärendet eller behandlas som en ny anmälan.
+
+Det nya materialet visar konkret vad Polis S:s roll bestod i: hon höll tre förhör på olycksplatsen medan ambulansen var kvar, kontrollerade min identitet vid kroppsbesiktningen på akuten och ingick i den patrull som transporterade och frihetsberövade mig. Patrullens bemanning är dokumenterad, men handlingarna visar inte om poliserna befann sig tillsammans vid varje enskild tidpunkt.
 
 Det är svårt att beskriva detta som något annat än absurt. Först måste jag kämpa för att få ut handlingarna från Polismyndigheten. När jag äntligen får dem måste jag gå igenom och sammanställa dem trots konsekvenserna av min stroke. Jag begär mer tid, JO beviljar den — och avslutar sedan ärendet innan den beviljade tiden har gått ut.
 
-Den första gäller en faktamässigt felaktig klinisk beskrivning i hans eget PM — den beskrivning som lade grunden för hela den efterföljande kedjan av polisiära åtgärder — trots att ambulansens samtida undersökning dokumenterade motsatsen.
-
-Den andra gäller att han underlät att förmedla både sina egna observationer och det vittnen på plats berättat för honom till ambulanspersonalen. Hans PM dokumenterar att jag upplevdes som "väldigt förvirrad, stirrig, slö och sluddrig i talet." Inget av detta kommunicerades till ambulansen som medicinsk information. Sluddrigt tal är i sig tillräckligt för att misstänka stroke enligt Socialstyrelsens riktlinjer.
-
-Dessutom hade vittnen på plats beskrivit mig som okontaktbar direkt efter bilolyckan. Inget av detta valde Polis T att berätta för ambulanspersonalen. Det han i stället förmedlade var uppgiften om vinglig körning, mitt personnummer — och sin egen slutsats: att jag var "tydligt narkotikapåverkad".
-
-Det tredje gäller verkställighet av kroppsbesiktning utan korrekt formellt beslut. Klockan 14:43 meddelade Polis T ambulansen att polisen skulle ta med mig för drogscreening. Tidpunkten är dubbelt bekräftad: ambulansjournalen anger exakt samma minut — *"Polis tar med patient"* — och uppgiften återkommer i en journalanteckning som vårdande läkare skrev efter att jag lagts in på sjukhus den 2 juli.
-
-Ambulansen avbröt därmed sin undersökning av en gul-triagerad patient. Från den stunden var jag i polisens händer — och när polisen tar över en person har myndigheten ett långtgående ansvar för den personens liv och hälsa.
+Kompletteringen lyfter fram tre centrala frågor: hur en gul-triagerad person kunde föras in på en akutmottagning utan att någon medicinsk bedömning kom till stånd, varför polisens egna system ger motstridiga besked om beslutet bakom kroppsbesiktningen och varför dokumentationen inte visar när, var eller under vilka former frihetsberövandet upphörde.
 
 ### Beslutet som bytte beslutsfattare
 
@@ -111,6 +112,14 @@ En uppgift om vem som fattade ett tvångsmedelsbeslut kunde alltså ändras i ef
 
 Den tredje anmälan riktar sig mot Polismyndigheten och Polis V, LPO Falun. Den gäller samma dag som jag drabbades av en stor stroke. Anmälan tar upp tre brister: felaktig registrering av uppgifter och ett senare ingripande samma dag, efter min stroke och bilolyckan. Anmälan kommer att kompletteras med det nya material som jag har fått ut från polisen.
 
+## SU — Avdelningen för särskilda utredningar
+
+Min anmälan till SU är färdig men ännu inte inskickad. Jag kommer att anmäla Polis T och Polis S.
+
+Anmälan begär att en åklagare utreder om poliserna förde den samlade symtombilden vidare till ambulansen och akutmottagningen, hur jag kunde föras in på akuten som frihetsberövad utan att någon medicinsk bedömning kom till stånd och varför uppgifterna om kroppsbesiktningsbeslutet motsäger varandra.
+
+Det är anklagelser som jag vill ska utredas, inte fastslagna slutsatser. Poliserna skulle inte ha diagnostiserat min stroke. Frågan är om de lät den medicinska personalen få och bedöma den information som de själva hade.
+
 ## Neurologens bedömning
 
 Den medicinska bilden fanns också inne i rättsprocessen. Min neurolog — överläkare på den avdelning där jag vårdades — ställde upp på förhör hos polisen under förundersökningen, och vittnade senare under ed i tingsrätten. I förhöret dokumenterades hans bedömning: *"Jag vet inget om trafikolyckan men det är absolut rimligt att han kan ha haft stroken redan då."* Och: *"I en helhetsbedömning så kan den absolut ha koppling till trafikolyckan. Stroken orsakades inte av trafikolyckan."*
@@ -119,7 +128,7 @@ Att en överläkare i neurologi tar sig tid att höras av polis och sedan vittna
 
 ## Det pågående arbetet
 
-Utöver Löf, IVO, JO och polisanmälningar planerar jag:
+Utöver arbetet med Löf, IVO, JO och den färdiga SU-anmälan planerar jag:
 
 **JK-anmälan** — skadeståndsanspråk mot staten.
 

@@ -14,19 +14,19 @@ Polisen trodde återigen att jag var påverkad och missade ännu en gång tydlig
 
 När patrullen grep och kroppsvisiterade mig hittade de inget olagligt. På min nyckelknippa satt däremot ett litet verktyg. När jag inte kunde svara på vad jag använde det till beslagtog de det: enligt polisen gick det inte att utesluta att det kunde användas till något olagligt.
 
-En man som just hade kollapsat av en stroke — gripen, visiterad och misstänkliggjord. Ur polisens förundersökning har jag fått ut omfattande dokumentation. Men det material som polisen valde att inte ta med i förundersökningen har jag ännu inte fått ut. Dröjsmålet är anmält till JO.
+En man som just hade kollapsat av en stroke — gripen, visiterad och misstänkliggjord. Den 17 juli 2026 fick jag efter lång väntan ut delar av polisens övriga material. Det använde jag i kompletteringen som skickades till JO den 7 augusti och i den SU-anmälan som nu är färdig. Vissa begärda uppgifter har fortfarande inte lämnats ut.
 
 När patrullen lämnade mig hos min dåvarande flickvän berättade de ingenting för henne om bilolyckan, akutbesöket eller uppgifterna i sina register. En av poliserna hade ändå läst huvudanmälan om olyckan.
 
 Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus med min iPad — min telefon ligger kvar i skogsdungen vid Källviksbadet. Fotot föreställer en vägg och min bärbara dator. Jag vet inte varför jag tog det. Men GPS-data och tidsstämpel finns kvar i bilden — det är det enda konkreta spåret från den natten.
 
-Värmeböljan höll fortfarande Falun i sitt grepp. Dagen innan hade jag, mitt under en pågående stroke, tvingats gå en lång sträcka i närmare 30-gradig värme. Efteråt var jag extremt trött och kände mig väldigt varm, som om jag hade feber.
+Det var fortfarande mycket varmt i Falun. Dagen innan hade jag, mitt under en pågående stroke, gått minst 5,3 kilometer i stark värme. Efteråt var jag extremt trött och kände mig väldigt varm, som om jag hade feber.
 
 Min dåvarande flickvän har senare berättat att jag var vinglig och inte ville äta. Hon gav mig glass — snabb energi som samtidigt svalkade — men hon fick mata mig. Jag ville bara sova och sov i princip hela den 26 juni.
 
 Det var så illa att jag inte klarade grundläggande saker själv.
 
-Jag hade förstått att någonting var fel och tog för givet att jag skulle få akutvård när polisen körde mig till sjukhuset. Men där fick jag ingen medicinsk undersökning. Polisen körde mig därifrån, lämnade mig vid tågstationen och sa åt mig att gå hem. När polisen sex och en halv timme senare påträffade mig vid Källviksbadet klockan 22:33:38 var jag enligt deras egen dokumentation fortfarande väldigt förvirrad och vilsen, omkring fem kilometer från platsen där de hade lämnat mig. Jag försökte hitta hem till min dåvarande flickvän, bara några hundra meter bort. De övervägde inte heller då om jag kunde vara i behov av vård. Jag behandlades återigen som en misstänkt, inte som en människa i behov av vård.
+Jag hade förstått att någonting var fel och tog för givet att jag skulle få akutvård när polisen körde mig till sjukhuset. Men där fick jag ingen medicinsk undersökning. Jag minns att polisen sedan lämnade mig vid tågstationen och sa åt mig att gå hem. När en annan patrull omkring sju timmar senare påträffade mig vid Källviksbadet klockan 22:33:38 var jag enligt polisens egen dokumentation fortfarande väldigt förvirrad och vilsen. Jag försökte hitta till min dåvarande flickvän, bara några hundra meter bort. Ingen ambulans tillkallades och dokumentationen innehåller ingen uppgift om att mitt behov av vård bedömdes. Jag behandlades återigen som en misstänkt, inte som en människa i behov av vård.
 
 Efter det trodde jag inte längre att det fanns någon hjälp att få. När jag behövde den som mest hade både ambulansen och polisen svikit mig.
 
@@ -42,9 +42,9 @@ Jag svarade inte.
 
 Min mamma gjorde allt hon kunde och mer därtill. Hon räddade mitt liv när Faluns poliser svek mig.
 
-De visste om bilolyckan. De visste att jag varit okontaktbar direkt efter den. De hade själva noterat förvirring, sluddrigt tal, osammanhängande tal — vid flera tillfällen, både på olycksplatsen och efter blodprovet på akuten.
+Polis T och Polis S hade uppgifter om bilolyckan, vittnets svårigheter att få kontakt med mig och patrullens egna iakttagelser av förvirring, slöhet och sluddrigt tal.
 
-De satt på informationen och valde att inte förmedla den till ambulansen. I stället för att säkerställa att jag fick den vård jag så tydligt behövde prioriterade flera poliser i tjänst en brottsutredning om huruvida jag var påverkad eller inte. De struntade i min hälsa och utsatte mig för livsfara.
+De uppgifterna finns inte i ambulansjournalens dokumenterade beslutsunderlag. Vad som sades muntligt är fortfarande oklart. Det jag vet är att brottsutredningen fortsatte medan den medicinska bedömning som kunde ha upptäckt min stroke aldrig kom till stånd.
 
 ## Dagarna utan diagnos
 
@@ -66,7 +66,7 @@ Vad ingen visste var att mitt hjärta var en tickande bomb. En stor propp satt f
 
 En stor ischemisk stroke i höger hjärnhalva. En tromb i hjärtat. Utan blodförtunning.
 
-Fönstret för [trombolys](/om-stroke/#trombolys) stängdes medan jag låg orörlig i skogsdungen vid Källviksbadet. Det förlängda fönstret för [trombektomi](/om-stroke/#trombektomi) — upp till 24 timmar i vissa fall — kan fortfarande ha stått öppet när polisen hittade mig på kvällen. Det fick vi aldrig veta, för ingen undersökte mig.
+Under timmarna vid Källviksbadet gick det korta tidsfönstret för [trombolys](/om-stroke/#trombolys) förlorat. Det förlängda fönstret för [trombektomi](/om-stroke/#trombektomi) — upp till 24 timmar i vissa fall — kan fortfarande ha varit aktuellt när polisen hittade mig på kvällen. Det fick vi aldrig veta, eftersom ingen akut neurologisk undersökning eller bilddiagnostik gjordes.
 
 Den chansen togs aldrig. Allt som hänt sedan är konsekvenser av det.
 
