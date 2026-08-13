@@ -44,7 +44,7 @@ Min mamma gjorde allt hon kunde och mer därtill. Hon räddade mitt liv när Fal
 
 Polis T och Polis S hade uppgifter om bilolyckan, vittnets svårigheter att få kontakt med mig och patrullens egna iakttagelser av förvirring, slöhet och sluddrigt tal.
 
-De uppgifterna finns inte i ambulansjournalens dokumenterade beslutsunderlag. Vad som sades muntligt är fortfarande oklart. Det jag vet är att brottsutredningen fortsatte medan den medicinska bedömning som kunde ha upptäckt min stroke aldrig kom till stånd.
+Polis S och Polis T berättade inte för ambulansen den samlade bild de hade. Brottsutredningen fortsatte medan den medicinska bedömning som kunde ha upptäckt min stroke aldrig kom till stånd.
 
 ## Dagarna utan diagnos
 

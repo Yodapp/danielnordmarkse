@@ -9,7 +9,7 @@ Bakom berättelsen finns journaler, protokoll, polishandlingar, myndighetsärend
 
 Journalerna, polisakterna och de fullständiga myndighetsskrivelserna publiceras inte på webbplatsen. Översikten beskriver vilket material som finns och vad det belyser. Ett fotografi ur JO-underlaget visas i berättelsen eftersom motivet inte innehåller några identifierbara personer.
 
-Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatpersoner är anonymiserade med beteckningar eller funktionsbeskrivningar. Syftet är inte att hänga ut enskilda personer, utan att göra berättelsens underlag tydligt och möjligt att förstå.
+Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatpersoner är anonymiserade med beteckningar eller funktionsbeskrivningar. Anonymiseringen förändrar inte ansvarsfördelningen i berättelsen. Polis S och Polis T pekas tydligt ut som de två poliser som hade den samlade informationen men inte berättade för vården vad de visste.
 
 ## Vård och rehabilitering
 

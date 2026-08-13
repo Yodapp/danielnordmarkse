@@ -14,13 +14,15 @@ Jag fungerade bra fysiskt. De stora förändringarna fanns i stället i min hjä
 
 Insikten kom smygande.
 
-## Den första tiden hemma
+## Jag klarar inte längre min vardag
 
 Jag skrevs ut till mitt hus. Under den första tiden fick jag mycket hjälp. Min mamma höll reda på mina mediciner, körde mig till rehabiliteringen och hjälpte mig med mycket annat. En vän hjälpte mig med ekonomin och min syster med praktiska saker i huset.
 
-Hjälpen fortsatte fram tills huset hade packats ihop och sålts. Därefter har jag bott ensam i min lägenhet utan hjälp i snart ett och ett halvt år.
+Hjälpen fortsatte fram tills huset hade packats ihop och sålts. Därefter flyttade jag till en liten lägenhet.
 
-Jag klarar mig själv. Men livet har blivit mycket begränsat.
+Jag bor ensam. Det betyder inte att jag klarar mig själv.
+
+Jag har svårt att ta mig ut och att få ordning på lägenheten. Jag har varit tvungen att söka boendestöd för sådant som jag klarade på egen hand under hela mitt vuxna liv. Det är svårt att acceptera att jag, som tidigare kunde leda stora tekniska projekt, behöver hjälp för att få min egen vardag att fungera.
 
 ## Det som inte syns
 
@@ -30,7 +32,11 @@ Det som framför allt har förändrats är min förmåga att planera och organis
 
 Under det andra året försökte jag åter använda en dator för att göra sådant som tidigare hade varit enkelt för mig. Det fungerade inte längre. Jag har fortfarande, efter mer än ett år, inte lyckats få ordning i den lilla etta där jag nu bor. Det handlar inte om att jag inte vill. Jag klarar inte längre att planera och organisera arbetet som krävs.
 
-En neuropsykologisk utredning visade nedsatt inlärningsförmåga, nedsatt minne, nedsatt uppmärksamhet, nedsatt koncentration, nedsatt problemlösningsförmåga och nedsatt fokus.
+Den kognitiva bedömningen visar nedsättningar inom inlärning, minne, kognitiv processhastighet, uppmärksamhet och koncentration. Den beskriver också påtagliga svårigheter att påbörja och avsluta aktiviteter.
+
+Vissa dagar kan jag bearbeta stora mängder skriftlig information. Det betyder inte att jag fungerar som förr. Allt tar längre tid. Jag kan behöva en stark gnista av intresse för att över huvud taget komma i gång. När jag väl har börjat kan jag fastna och fortsätta tills all energi är slut, eftersom hjärnan inte längre säger åt mig när det är dags att sluta.
+
+Min hjärna försöker fortfarande arbeta i den hastighet jag hade före stroken. Men den klarar inte det längre. Jag missar eller misstolkar information när jag läser och tappar ord när jag skriver.
 
 ## Rehabiliteringen som inte finns
 
@@ -46,7 +52,7 @@ Min bakgrund inom IT har gjort det naturligt att använda tekniken som ett kogni
 
 Jag befinner mig i ett vakuum. Jag fungerar för bra för att vården ska ha konkreta rehabiliteringsinsatser att erbjuda. Samtidigt är jag inte i närheten av att klara ett arbete.
 
-## Arbetet och passionen som försvann
+## Från systemarkitekt till det här
 
 Före stroken var jag en erfaren systemutvecklare och systemarkitekt. Jag var delägare och teknikansvarig i en större e-handel och tog konsultuppdrag genom mitt eget bolag. Jag engagerade mig också som handledare och mentor åt studenter som ville bli systemutvecklare.
 
@@ -58,7 +64,11 @@ Programmering ställer stora krav på arbetsminne, koncentration och problemlös
 
 Programmering var inte bara mitt arbete. Det var min passion och en stor del av min identitet. Min stroke tog även det ifrån mig.
 
-Jag har inte arbetat en enda dag sedan den 25 juni 2024. Efter drygt två år bedömer rehabiliteringen fortfarande att det är tveksamt om jag någonsin kommer att kunna arbeta igen.
+Jag har försökt. Programmering fungerar inte längre, oavsett om jag befinner mig i en depressiv period eller inte. Det är inte brist på vilja. De förmågor som yrket kräver är skadade.
+
+Jag har inte arbetat en enda dag sedan den 25 juni 2024. Jag kommer aldrig att kunna arbeta som systemutvecklare eller systemarkitekt igen.
+
+Jag gick från att konstruera komplexa digitala system till att behöva stöd för att få min egen vardag att fungera.
 
 ## Huset och ekonomin
 
@@ -81,6 +91,18 @@ Jag har ett muntligt körförbud från vården och jag följer det. Konsekvensen
 Att åka buss är inte ett fungerande alternativ. Resan kräver så mycket planering och så många saker att hålla reda på att jag är helt slut redan när jag kommer fram.
 
 De allra flesta dagar lever jag helt isolerad i min lägenhet. Lägenheten känns mer som ett fängelse än ett hem.
+
+## Depressionen efter stroken
+
+En så stor hjärnskada är brutal. Under det första året försökte jag länge köra på och låtsas att jag fortfarande fungerade. När det inte längre gick att förneka vad jag hade förlorat följde perioder av djup depression.
+
+Under de perioderna har jag haft svårt att upprätthålla de mest grundläggande rutinerna i vardagen. Jag har haft konkreta planer på att avsluta mitt liv. Jag har suttit med mer än tillräckligt med tabletter för att dö.
+
+Men jag lever.
+
+Det betyder inte att allt blev bra. Det finns fortfarande många dagar då jag önskar att jag hade dött. Jag skäms inte över att säga det. Depression efter stroke är en del av den brutala verklighet som ofta försvinner när överlevnad automatiskt framställs som ett lyckligt slut.
+
+För mig blev överlevnaden början på ett liv med en massiv hjärnskada, förlorad arbetsförmåga, förlorad frihet och en isolering jag aldrig hade kunnat föreställa mig.
 
 ## De som stannade kvar
 
@@ -118,10 +140,12 @@ Då har det varit värt att berätta.
 
 Men det förändrar inte mitt liv.
 
-Det svåraste att acceptera är att situationen hade kunnat vara helt annorlunda om jag hade fått rätt vård i tid. Min hjärnskada blev enormt mycket större än den hade behövt bli.
+Det svåraste att acceptera är att jag var i god tid på rätt ställe. Jag befann mig på Falu lasarett medan den tidskritiska strokekedjan fortfarande hade kunnat startas. Men Polis S och Polis T berättade inte för vården vad de visste.
 
-Jag kommer antagligen aldrig att kunna arbeta igen. Jag lever isolerad med stora kognitiva nedsättningar och ser inte att jag har någon framtid.
+De orsakade inte blodproppen. De hindrade informationen som enligt ambulansens checklista skulle ha lett till strokelarm från att nå vårdens prövning. Jag fick aldrig chansen till den undersökning och behandling som kunde ha förändrat resten av mitt liv.
 
-Jag är arg och besviken på Polis T och Polis S. När jag var i akut behov av vård såg ni en misstänkt brottsling i stället för en människa med en stor stroke.
+Jag kommer aldrig att kunna arbeta igen. Jag får inte köra bil. Jag lever isolerad med omfattande kognitiva nedsättningar och utan den livsglädje jag hade före stroken.
+
+Polis T och Polis S: ni såg en misstänkt brottsling i stället för en människa med en stor stroke. Ni hade informationen. Ni berättade inte för vården vad ni visste.
 
 Ni förstörde mitt liv.

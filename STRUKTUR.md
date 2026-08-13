@@ -48,9 +48,20 @@ filer som ingår i webbplatsens publika kodförråd.
 
 ## Tonriktlinje
 
-Personlig, kronologisk, baserad på fakta. Berättad i första person.
-Behärskad ton — inga kraftuttryck, inga direkta anklagelser,
-läsaren drar egna slutsatser av fakta. Skriven för:
+Detta är Daniels personliga berättelse, berättad i första person. Språket ska
+vara konkret, hårt och känslomässigt sant. Det får inte göras defensivt eller
+förvandlas till myndighetsspråk.
+
+Polis S och Polis T ska tydligt hållas ansvariga för att de inte berättade för
+vården den samlade neurologiskt relevanta information de hade. De orsakade
+inte stroken, men deras agerande hindrade den tidskritiska strokekedjan från
+att starta när Daniel var i god tid på rätt ställe.
+
+Dokumentation och medicinska källor ska stärka berättelsen där det behövs,
+inte ta över den. Osäkerhet ska bara uttryckas där något faktiskt är okänt och
+får aldrig försvaga sådant Daniel vet, minns eller kan belägga.
+
+Skriven för:
 - Strokeöverlevare och anhöriga
 - Journalister
 - Polis, ambulanssjukvårdare, medicinsk personal

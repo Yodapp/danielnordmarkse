@@ -8,9 +8,9 @@ cascade:
   showAuthor: false
 ---
 
-Den 25 juni 2024 drabbades jag av en stroke. Det tog sju dygn innan jag fick diagnos.
+Den 25 juni 2024 drabbades jag av en stor stroke i höger hjärnhalva. Jag var på Falu lasarett medan tiden fortfarande var avgörande, men fick ingen strokebedömning. Det tog sju dygn innan skadan upptäcktes.
 
-Det här är berättelsen om vad som hände — från trafikolyckan i Falun till livet idag. Den är baserad på journaler, polishandlingar, ambulansprotokoll och mina egna minnen av de delar jag faktiskt kan minnas.
+Det här är berättelsen om vad som hände — från trafikolyckan i Falun till livet jag lever i dag. Om vad Polis S och Polis T visste, vad de inte berättade för vården och vad den förlorade tiden gjorde med resten av mitt liv.
 
 Berättelsen är uppdelad i sex kapitel. Du kan läsa dem i ordning eller börja med det som intresserar dig mest.
 
@@ -37,7 +37,7 @@ Neurologavdelningen. Sidan jag slutat se. Blodförtunningen. Samtalen med min ne
 ## [Kapitel 5 — Livet efteråt](/min-berattelse/livet-efterat/)
 *{{< lasningstid sida="/min-berattelse/livet-efterat/" >}}*
 
-Vad som förändrats. Rehabilitering. Post-stroke fatigue. Att leva med konsekvenserna av en diagnos som kom sju dygn för sent.
+Från systemutvecklare och systemarkitekt till ett liv där jag inte klarar vardagen utan stöd. Kognitiva skador, depression, isolering och förlusten av arbete, bilkörning och livsglädje.
 
 ## [Kapitel 6 — Kampen för upprättelse](/min-berattelse/kampen-for-upprattelse/)
 *{{< lasningstid sida="/min-berattelse/kampen-for-upprattelse/" >}}*

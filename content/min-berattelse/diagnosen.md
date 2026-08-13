@@ -70,26 +70,32 @@ Det betyder inte att jag vägrade hjälp. Jag följde med till ambulansen och sj
 
 ## Det som gick förlorat
 
-Terapeutiskt fönster för [trombolys](/om-stroke/#trombolys): 4,5 timmar från symtomdebut. För [trombektomi](/om-stroke/#trombektomi) — mekaniskt avlägsnande av proppen — upp till sex timmar, och under vissa förutsättningar ända upp till 24 timmar. Ju snabbare trombolys och trombektomi genomförs, desto mer hjärnvävnad går att rädda.
+Trombolys kan ges inom ett kort tidsfönster. Trombektomi — att mekaniskt dra ut proppen ur hjärnans blodkärl — kan för vissa patienter vara möjlig senare. Vilken behandling som är möjlig avgörs genom en akut medicinsk bedömning och bilddiagnostik.
 
 Trafikolyckan skedde klockan 13:30 den 25 juni — den tid huvudvittnet uppgav i förhör; polisens huvudanmälan anger 13:35. Ambulansen var på plats klockan 13:59. Det tidsfönstret var öppet.
 
-MR bekräftade en M2-ocklusion — en propp i den andra grenen av arteria cerebri media. Det är en välkänd behandlingsindikation. Enligt [NAG Stroke (2024)](https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf) ger kombinationen trombolys och trombektomi vid M1/M2-ocklusion dubbelt så stor chans att bli funktionellt självständig jämfört med trombolys ensamt.
+Jag befann mig sedan på Falu lasaretts akutmottagning inom ungefär en och en halv timme från de första symtomen. Jag var i god tid på rätt ställe.
 
-Den behandlingen var aldrig ett alternativ för mig. Inte för att den inte fanns. För att ingen hann bedöma mig i tid.
+Men vården fick inte veta vad Polis S och Polis T visste. Jag fördes in för ett polisiärt blodprov, inte för att få min hjärna undersökt. Ingen röntgen gjordes. Ingen neurolog bedömde mig. Ingen prövade om proppen kunde lösas upp eller dras ut.
+
+MR bekräftade senare en M2-ocklusion — en blodpropp i en gren av arteria cerebri media. [Skånes universitetssjukhus](https://vard.skane.se/skanes-universitetssjukhus-sus/undersokningar-och-behandlingar/trombektomi/) beskriver syftet med trombektomi: att återställa blodflödet och rädda den påverkade delen av hjärnan. Ju tidigare ingreppet görs, desto mer hjärnfunktion kan räddas. [Akademiska sjukhuset](https://www.akademiska.se/pressrum/effekter-av-trombektomi-pa-aldre-strokepatienter-foljs-upp-i-ny-studie/) beskriver trombektomi som en behandling som kan fördubbla möjligheten till ett oberoende liv när den ges som tillägg till trombolys.
+
+Ingen kan i efterhand säga exakt vilken behandling jag hade fått eller exakt hur mitt liv hade sett ut efteråt. Det som går att säga är att jag aldrig fick chansen att undersökas och bedömas medan tiden fortfarande var avgörande.
 
 Sju dygns fördröjning av blodförtunning. En väggfast tromb i hjärtat utan behandling. En hel vecka med förhöjd risk för ytterligare stroke.
 
 Det var vad diagnosen — äntligen ställd — också innebar: en bild av allt som gått förlorat.
 
-## Vad sju dygn kostar i hjärnceller
+## Skadan i min högra hjärnhalva
 
-Vid en stroke dör ungefär 1,9 miljoner hjärnceller varje minut. Det är bakgrunden till uttrycket *time is brain* — tid är hjärna.
+När min hjärna slutligen undersöktes visade röntgen ett omfattande skadat område i höger hjärnhalva. Det uppmättes till **10,6 × 6,5 × 3,3 centimeter**.
 
-Om man räknar mekaniskt på de sju dygnen — 10 080 minuter — som jag lämnades utan diagnos, skulle det innebära en teoretisk förlust på över 19 miljarder hjärnceller. Så fungerar det inte i praktiken eftersom förloppet mattas av. Men skadan i min högra hjärnhalva blev ändå enorm.
+Infarkten omfattar större delar av temporalloben och angränsande delar av parietal- och frontalloberna. Det är områden som har betydelse för bland annat uppmärksamhet, orientering, minne, inlärning, koncentration och förmågan att bearbeta information.
 
-Den uppmätta volymen av den döda hjärnvävnaden efter min MCA M2-propp blev till slut 119 kubikcentimeter — 10,6 × 6,5 × 3,3 cm. Det motsvarar uppskattningsvis 2 till 5 miljarder permanent förlorade hjärnceller.
+På sjukhuset gick jag nästan in i en dörrkarm på vänster sida. Jag dukade för fyra personer när vi bara var tre. Jag lämnade kaffekokaren, timern, skåp och kylskåpsdörrar öppna. Jag hade byxorna bak och fram utan att märka det. Åtta korta skriftliga instruktioner tog femton minuter att bearbeta.
 
-{{< bild src="img/bilder/mr.png" alt="Illustration av hjärnan som visar det skadade området i höger hjärnhalva, baserat på MR-undersökningens uppmätta värden." bildtext="Illustration baserad på MR-undersökningens uppmätta värden (119 cm³ död vävnad) — inte den faktiska bilden." >}}
+Ändå upplevde jag själv att jag var som vanligt. Det är en del av hur en stor skada i höger hjärnhalva kan fungera: hjärnan kan förlora förmågan att förstå sin egen skada.
 
-Det var priset för sju dygns väntan.
+{{< bild src="img/bilder/mr.png" alt="Illustration av hjärnan som visar det skadade området i höger hjärnhalva, baserat på MR-undersökningens uppmätta värden." bildtext="Illustration baserad på det uppmätta området 10,6 × 6,5 × 3,3 centimeter i höger hjärnhalva — inte den faktiska MR-bilden." >}}
+
+Det här är skadan jag fortfarande lever med.

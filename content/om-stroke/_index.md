@@ -60,9 +60,11 @@ Blodproppslösande behandling. Kan ges upp till 4,5 timmar efter symtomdebut och
 
 ### Trombektomi
 
-Mekaniskt avlägsnande av proppen. Kan under rätt förutsättningar ges upp till sex timmar, ibland utvidgat till 24 timmar vid påvisad penumbra (levande hjärnvävnad runt infarktkärnan).
+Mekaniskt avlägsnande av proppen. Kan under rätt förutsättningar ges upp till sex timmar, ibland utvidgat till 24 timmar när bilddiagnostik visar att det fortfarande finns räddningsbar hjärnvävnad.
 
-Enligt [NAG Stroke (2024)](https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf) fördubblar kombinationen av trombolys och trombektomi vid ocklusion av arteria cerebri medias grenar (M1/M2) andelen patienter som blir funktionellt självständiga jämfört med trombolys ensamt. Det är ett av de starkaste resultaten i modern neurologi.
+[Skånes universitetssjukhus](https://vard.skane.se/skanes-universitetssjukhus-sus/undersokningar-och-behandlingar/trombektomi/) beskriver syftet med trombektomi som att återställa blodflödet för att rädda den drabbade delen av hjärnan. Ju tidigare ingreppet görs, desto mer hjärnfunktion kan räddas.
+
+[Akademiska sjukhuset](https://www.akademiska.se/pressrum/effekter-av-trombektomi-pa-aldre-strokepatienter-foljs-upp-i-ny-studie/) skriver att möjligheten till ett oberoende liv kan fördubblas när trombektomi ges som tillägg till trombolys. I de studier som sjukhuset hänvisar till undvek ytterligare 13–31 procentenheter ett liv med svåra funktionsnedsättningar.
 
 Varje timme som går innebär att fler celler dör och att fler behandlingsalternativ stängs av.
 
@@ -93,5 +95,7 @@ Du behöver inte vara sjukvårdare för att göra skillnad.
 
 - [Socialstyrelsens nationella riktlinjer för vård vid stroke](https://www.socialstyrelsen.se/kunskapsstod-och-regler/regler-och-riktlinjer/nationella-riktlinjer/riktlinjer-och-utvarderingar/stroke/)
 - [Nationell arbetsgrupp (NAG) Stroke — Riktlinje för handläggning av reperfusionsbehandling vid ischemisk stroke, version 4, 2024-02-27](https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf)
+- [Skånes universitetssjukhus — Trombektomi](https://vard.skane.se/skanes-universitetssjukhus-sus/undersokningar-och-behandlingar/trombektomi/)
+- [Akademiska sjukhuset — Effekter av trombektomi på äldre strokepatienter följs upp i ny studie](https://www.akademiska.se/pressrum/effekter-av-trombektomi-pa-aldre-strokepatienter-foljs-upp-i-ny-studie/)
 - [Strokeförbundet](https://www.strokeforbundet.se/)
 - [1177 — Stroke](https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/stroke-och-tia/stroke/)

@@ -45,9 +45,9 @@ I mitt fall gick ambulansen ett steg längre: de dokumenterade själva det avvik
 
 Polisens agerande den 25 juni är en separat del av det jag ifrågasätter. Det handlar inte om att poliserna själva skulle ha ställt diagnosen stroke. Det handlar om hur de hanterade de symtom de själva dokumenterade och de uppgifter vittnen lämnade medan ambulansen fortfarande var kvar.
 
-Polis T skrev att jag var "väldigt förvirrad, stirrig, slö och sluddrig i talet". Polis S höll tre förhör på olycksplatsen och fick bland annat veta att jag hade kört mycket vingligt och att det efter krocken inte gick att få riktig kontakt med mig. De uppgifterna finns inte i ambulansjournalens dokumenterade beslutsunderlag. Vad som sades muntligt går inte att fastställa.
+Polis T skrev att jag var "väldigt förvirrad, stirrig, slö och sluddrig i talet". Polis S höll tre förhör på olycksplatsen och fick bland annat veta att jag hade kört mycket vingligt och att det efter krocken inte gick att få riktig kontakt med mig. De berättade inte för ambulansen den samlade bild de hade.
 
-Vad som skulle ha hänt om den samlade informationen hade förmedlats är däremot dokumenterat. Polisernas uppgifter motsvarade kriteriet nytillkomna symtom som vid akut stroke. Ambulansjournalen anger RLS 1, och Falu lasarett kunde nås inom minuter. Samtliga tre inklusionskriterier i Ambulans Dalarnas checklista var därmed uppfyllda. Checklistans instruktion är: *"Gå vidare till Strokelarm!"*
+Vad som skulle ha hänt om poliserna hade berättat vad de visste är dokumenterat. Polisernas uppgifter motsvarade kriteriet nytillkomna symtom som vid akut stroke. Ambulansjournalen anger RLS 1, och Falu lasarett kunde nås inom minuter. Samtliga tre inklusionskriterier i Ambulans Dalarnas checklista var därmed uppfyllda. Checklistans instruktion är: *"Gå vidare till Strokelarm!"*
 
 Strokelarmet skulle ha aktiverat en konkret vårdkedja på Falu lasarett: det multidisciplinära teamet skulle stå redo och DT hjärna förberedas för snabb läkarbedömning och bilddiagnostik. Vilken behandling som därefter hade valts kan ingen fastställa. Men det föreskrivna nästa steget — strokelarm — följer svart på vitt av polisernas egna uppgifter, ambulansjournalen och ambulansens checklista.
 
