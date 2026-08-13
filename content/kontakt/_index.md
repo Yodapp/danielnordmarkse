@@ -5,22 +5,20 @@ description: "Kontakta Daniel Nordmark — för journalister, strokedrabbade, an
 
 {{< bild src="img/bilder/daniel.JPG" alt="Daniel Nordmark" class="dn-figure--small" >}}
 
-Jag välkomnar kontakt från:
+Du får gärna kontakta mig om du arbetar med frågorna på sajten eller känner igen dig i det jag berättar. Jag vill särskilt komma i kontakt med:
 
 - Journalister och redaktioner som vill veta mer om det som hände.
 - Strokedrabbade och anhöriga som känner igen sig i berättelsen och vill dela erfarenheter.
 - Forskare, myndigheter eller yrkesverksamma inom sjukvård, polis eller räddningstjänst som har frågor eller synpunkter.
 - Jurister och organisationer som arbetar med patientsäkerhet eller rättigheter.
 
-## Vad jag svarar på
+Jag svarar gärna på frågor om berättelsen, underlaget och de pågående ärendena. Journaler och andra känsliga handlingar skickar jag inte utan att vi först har kommit överens om en säker väg.
 
-Jag svarar gärna på frågor om berättelsen, om dokumenten och om de ärenden som pågår. Jag delar med mig av det jag kan dela med mig av.
-
-Jag svarar inte på kränkande meddelanden. Jag tar inte emot råd om att ge upp.
+Kränkningar och uppmaningar att ge upp besvaras inte.
 
 ## Svarstid
 
-Jag svarar så snart jag kan. Stroke påverkar energi och koncentration på sätt som inte alltid syns utifrån — det händer att svar dröjer. Det är inte ointresse.
+Jag svarar när min ork tillåter. Ibland går det fort, ibland tar det tid. Hjärntröttheten och koncentrationssvårigheterna styr mer av min dag än jag önskar.
 
 Skicka inte känsliga personuppgifter eller journalhandlingar via formuläret. Om du vill dela underlag kan vi komma överens om en lämplig och säker väg efter första kontakten.
 

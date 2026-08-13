@@ -3,7 +3,7 @@ title: "Om stroke"
 description: "Faktainformation om stroke — vad det är, hur man känner igen det, och varför varje minut räknas."
 ---
 
-Det här är inte min berättelse. Det här är faktainformation om stroke — vad det är, hur man känner igen det, och varför varje minut räknas. Den är skriven för alla som möter stroke: drabbade, anhöriga, sjukvårdspersonal, polis, räddningstjänst — och alla andra.
+Stroke ser inte alltid ut som människor förväntar sig. Den kan märkas som sluddrigt tal och en hängande mungipa, men också som förvirring, vinglighet, synproblem eller ett plötsligt förändrat beteende. Här förklarar jag de delar som är viktigast för att förstå min berättelse.
 
 ## Vad är stroke?
 
@@ -78,7 +78,7 @@ Stroke kan se ut som fylleri. Det är ett känt och dokumenterat problem. Förvi
 
 Skillnaden är att en strokedrabbad person behöver sjukvård omedelbart, och att varje timmes fördröjning innebär permanent hjärnskada.
 
-En person som uppvisar dessa symtom utan tydlig förklaring bör bedömas av medicinsk personal. Det är inte ett sjukvårdsbeslut att överlåta till polis eller räddningstjänst — men det är ett larm som polis och räddningstjänst kan ringa.
+Den som plötsligt blir förvirrad, sluddrig eller ostadig behöver bedömas av sjukvården. Polis och räddningstjänst ska inte försöka förklara bort symtomen innan vården har gjort sitt.
 
 **Ring 112. Låt sjukvården avgöra.**
 

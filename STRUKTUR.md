@@ -1,6 +1,6 @@
 # Webbplatsstruktur — danielnordmark.se
 
-## Menystruktur (WordPress-navigering)
+## Menystruktur
 
 ```
 Hem
@@ -16,21 +16,21 @@ Dokumentation
 Kontakt
 ```
 
-## Sidhierarki och WordPress-sidor
+## Sidhierarki
 
-| Sidtitel                  | Slug                        | Förälder        |
-|---------------------------|-----------------------------|-----------------|
-| Hem (startsida)           | /                           | —               |
-| Min berättelse            | /min-berattelse/            | —               |
-| Dagen det hände           | /dagen-det-hande/           | Min berättelse  |
-| En vecka utan vård        | /en-vecka-utan-vard/        | Min berättelse  |
-| Diagnosen                 | /diagnosen/                 | Min berättelse  |
-| Sjukhustiden              | /sjukhustiden/              | Min berättelse  |
-| Livet efteråt             | /livet-efterat/             | Min berättelse  |
-| Kampen för upprättelse    | /kampen-for-upprattelseelse/| Min berättelse  |
-| Om stroke                 | /om-stroke/                 | —               |
-| Dokumentation             | /dokumentation/             | —               |
-| Kontakt                   | /kontakt/                   | —               |
+| Sidtitel               | Slug                                           | Förälder       |
+|------------------------|------------------------------------------------|----------------|
+| Hem                    | /                                              | —              |
+| Min berättelse         | /min-berattelse/                               | —              |
+| Dagen det hände        | /min-berattelse/dagen-det-hande/               | Min berättelse |
+| En vecka utan vård     | /min-berattelse/en-vecka-utan-vard/            | Min berättelse |
+| Diagnosen              | /min-berattelse/diagnosen/                     | Min berättelse |
+| Sjukhustiden           | /min-berattelse/sjukhustiden/                  | Min berättelse |
+| Livet efteråt          | /min-berattelse/livet-efterat/                 | Min berättelse |
+| Kampen för upprättelse | /min-berattelse/kampen-for-upprattelse/        | Min berättelse |
+| Om stroke              | /om-stroke/                                    | —              |
+| Dokumentation          | /dokumentation/                                | —              |
+| Kontakt                | /kontakt/                                      | —              |
 
 ## Anonymisering
 
@@ -40,7 +40,7 @@ Kontakt
 - Vittne på körvägen → Vittne B
 - Behandlande neurolog → min neurolog
 - Ambulanspersonal → ambulansteamet / Ambulanspersonal M
-- Tidigare partner → en bekant
+- Tidigare partner → min dåvarande flickvän
 - Familjemedlem → min mamma
 
 Inga verkliga namn eller personinitialer för tredje personer får skrivas i
@@ -60,6 +60,11 @@ att starta när Daniel var i god tid på rätt ställe.
 Dokumentation och medicinska källor ska stärka berättelsen där det behövs,
 inte ta över den. Osäkerhet ska bara uttryckas där något faktiskt är okänt och
 får aldrig försvaga sådant Daniel vet, minns eller kan belägga.
+
+Undvik mallmeningar som "det handlar inte om", "ingen kan fastställa" och
+"det betyder inte" när de används som förebyggande försvar. Berätta först vad
+som hände, hur det kändes och vad det kostade. Låt dokumenten bekräfta
+berättelsen i stället för att göra webbplatsen till en myndighetsskrivelse.
 
 Skriven för:
 - Strokeöverlevare och anhöriga

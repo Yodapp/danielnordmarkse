@@ -3,13 +3,13 @@ title: "Dokumentation"
 description: "En dokumentationsöversikt över vård-, polis- och myndighetsmaterial som belyser berättelsen."
 ---
 
-## Om dokumentationen
+## Underlaget bakom berättelsen
 
-Bakom berättelsen finns journaler, protokoll, polishandlingar, myndighetsärenden och digitala spår. De belyser både det som hände och sådant som saknas i dokumentationen, som journalanteckningen från akutbesöket den 25 juni 2024.
+Jag har gått igenom omkring tusen sidor journaler, polisrapporter, loggar, protokoll och myndighetsbeslut. Tillsammans visar de en betydligt tydligare bild än någon enskild handling gör.
 
-Journalerna, polisakterna och de fullständiga myndighetsskrivelserna publiceras inte på webbplatsen. Översikten beskriver vilket material som finns och vad det belyser. Ett fotografi ur JO-underlaget visas i berättelsen eftersom motivet inte innehåller några identifierbara personer.
+Här redovisar jag vilket underlag som finns och vad det innehåller. Journalerna och de fullständiga polisakterna publiceras inte. De innehåller privata uppgifter om både mig och andra människor och används endast som källmaterial.
 
-Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatpersoner är anonymiserade med beteckningar eller funktionsbeskrivningar. Anonymiseringen förändrar inte ansvarsfördelningen i berättelsen. Polis S och Polis T pekas tydligt ut som de två poliser som hade den samlade informationen men inte berättade för vården vad de visste.
+Personerna är anonymiserade. Polis S och Polis T är genomgående samma två poliser: de som hade vittnesuppgifterna och själva såg mitt tillstånd medan ambulansen var kvar.
 
 ## Vård och rehabilitering
 

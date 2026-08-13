@@ -3,14 +3,12 @@ title: "Daniel Nordmark"
 description: "Jag var på rätt plats i rätt tid. Poliserna hade information som skulle ha lett till strokelarm men berättade inte för vården vad de visste."
 ---
 
-## Det här är min berättelse
+## Varför jag berättar
 
-Jag berättar inte som jurist och inte som myndighet. Jag berättar som den som låg där med en stor stroke i höger hjärnhalva medan andra bestämde vad mitt tillstånd betydde.
+Jag ville aldrig att Polis S och Polis T skulle bli huvudpersoner i mitt liv. Jag vill fortfarande inte det. Men deras agerande går inte att klippa bort från berättelsen om hur en badutflykt slutade med en massiv hjärnskada och ett liv jag inte känner igen.
 
-Jag berättar om dagen då sjukdom tolkades som drogpåverkan. Om hur jag fördes till en akutmottagning men inte fick min hjärna undersökt. Om hur jag därefter gick flera kilometer i stark värme, kollapsade vid Källviksbadet och senare frihetsberövades ännu en gång när jag fortfarande var svårt sjuk.
+Jag skriver för att det som hände ska bli begripligt – också inifrån. Stroke är inte bara en diagnos, ett röntgenfynd eller en ruta i en checklista. Det är en människa som kanske inte längre kan förklara vad som händer och därför är helt beroende av att andra ser, lyssnar och berättar vidare.
 
-Och jag berättar om vad det kostade. Jag överlevde, men jag fick inte tillbaka mitt tidigare liv. Jag kan inte arbeta, får inte köra bil och lever isolerad med en omfattande förvärvad hjärnskada.
-
-Det här är min berättelse om vad Polis S och Polis T visste, vad vården aldrig fick veta och vad den förlorade tiden gjorde med resten av mitt liv.
+Den dagen gjorde de inte det för mig.
 
 **[Läs berättelsen från början →](/min-berattelse/dagen-det-hande/)**
