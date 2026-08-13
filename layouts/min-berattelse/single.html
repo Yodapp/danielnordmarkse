@@ -2,22 +2,16 @@
   {{- $images := .Resources.ByType "image" }}
   {{- $cover := $images.GetMatch (.Params.cover | default "*cover*") }}
   {{- $feature := $images.GetMatch (.Params.feature | default "*feature*") | default $cover }}
-  {{- $titleParts := split .Title " — " }}
-  {{- $chapterLabel := index $titleParts 0 }}
-  {{- $chapterTitle := .Title }}
-  {{- if gt (len $titleParts) 1 }}
-    {{- $chapterTitle = delimit (after 1 $titleParts) " — " }}
-  {{- end }}
-  {{- $chapters := where .CurrentSection.RegularPages "Params.weight" "ne" nil }}
-  {{- $chapters = $chapters.ByWeight }}
+  {{- $stories := where .CurrentSection.RegularPages "Params.weight" "ne" nil }}
+  {{- $stories = $stories.ByWeight }}
   <article class="dn-chapter">
     <header class="dn-chapter__header max-w-prose">
       <div class="dn-chapter__eyebrow print:hidden">
         <a href="{{ "/min-berattelse/" | relLangURL }}">Min berättelse</a>
         <span aria-hidden="true">/</span>
-        <span>{{ $chapterLabel }}</span>
+        <span>Berättelsen</span>
       </div>
-      <h1 class="dn-chapter__title">{{ $chapterTitle | emojify }}</h1>
+      <h1 class="dn-chapter__title">{{ .Title | emojify }}</h1>
       {{ if or
         (.Params.showDate | default (.Site.Params.article.showDate | default true))
         (and (.Params.showDateUpdated | default (.Site.Params.article.showDateUpdated | default false)) (ne (partial "functions/date.html" .Date) (partial "functions/date.html" .Lastmod)))
@@ -55,11 +49,11 @@
       </div>
     </section>
     <footer class="max-w-prose pt-8 print:hidden">
-      <nav class="dn-chapter-nav" aria-label="Alla kapitel">
+      <nav class="dn-chapter-nav" aria-label="Fler delar av berättelsen">
         <details>
-          <summary>{{ $chapterLabel }} av {{ len $chapters }} — välj kapitel</summary>
+          <summary>Fler delar av berättelsen</summary>
           <ol>
-            {{ range $chapters }}
+            {{ range $stories }}
               <li>
                 <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $.RelPermalink }} aria-current="page"{{ end }}>
                   {{ .Title }}

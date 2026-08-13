@@ -1,5 +1,5 @@
 ---
-title: "Kapitel 1 — Dagen det hände"
+title: "Dagen det hände"
 description: "25 juni 2024 — trafikolyckan i Falun, ambulansen, polisen och kollapsen vid Källviksbadet."
 date: 2024-06-25
 weight: 1
@@ -71,21 +71,25 @@ Jag uppfattade att ambulanspersonalen pratade om akuten och att polisen sa att d
 
 Jag förstod inte att polisen misstänkte mig för allvarliga brott. Jag förstod inte heller att deras avsikt med akutbesöket var en drogscreening, inte att jag skulle undersökas av en läkare. Och jag förstod aldrig att det var polisens besked klockan 14:43 som fick ambulansen att avsluta sin undersökning.
 
-I polisrapporten beskrivs jag som slö, sluddrig och osammanhängande. Polis T mötte de symtomen med ilska. Jag var rädd för honom och försökte göra som jag blev tillsagd. Samtidigt höll en stor stroke på att slå sönder min hjärna.
+Jag har senare förstått att anledningen antagligen var att jag inte lyckades svara på deras frågor. I polisrapporten beskrivs jag som slö, att jag pratar sluddrigt, pratar osammanhängande. Allt det är klassiska symtom på en stroke. Att en polis i tjänst inte lyckas behärska sig utan blir arg på en person som har en pågående stroke tycker jag är skrämmande.
 
-Polis och ambulans pratade med varandra på platsen. Det syns också att viss information gick mellan dem: ambulansjournalen innehåller uppgifter om vinglig körning och mitt personnummer. Men polisens egen beskrivning av mig som förvirrad, stirrig, slö och sluddrig finns inte där. Inte heller vittnenas berättelser om den långa vingliga färden, körningen på fel sida eller att jag var helt borta efter krocken.
+Ambulansen kom från Borlänge och var framme strax innan klockan 14. Att polis och ambulanspersonal pratade med varandra på platsen är klarlagt — det syns när polisens rapporter läggs bredvid ambulansjournalen. I ambulansjournalen finns uppgifter om vinglig körning och mitt personnummer. Däremot finns inte polisens beskrivning av mig som förvirrad, stirrig, slö och sluddrig, eller vittnenas mer utförliga beskrivning av körningen och mitt tillstånd efter krocken.
 
-Ambulansen dokumenterade ändå flimmer för ögonen, sluddrigt tal, minnesluckan kring olyckan och nytillkommet avvikande beteende, ESS 53. Jag triagerades GUL: i behov av akutsjukvård inom rimlig tid.
+Resten dokumenterade Ambulanspersonal M utifrån sina egna iakttagelser och det jag själv berättade: flimret för ögonen, det sluddriga talet, att jag inte mindes själva olyckan men uppgav att det small till på min vänstra sida. I journalen noterades nytillkommet avvikande beteende — koden ESS 53. Min totala triagefärg enligt RETTS sattes till GUL: behov av akutsjukvård inom rimlig tid.
 
-Polis T skrev själv att jag sluddrade, var slö och verkade förvirrad. Polis S hade hört vittnen beskriva hur jag plötsligt börjat köra över trottoaren och på fel sida av vägen, och hur det inte gick att få riktig kontakt med mig efter krocken.
+I Polis T:s eget PM dokumenterades att jag "sluddrade i talet, var slö och upplevdes förvirrad." Det är symtom som kan förekomma vid stroke. Vittne A hade dessutom beskrivit mig som helt borta och sagt att han inte fick riktig kontakt med mig direkt efter krocken.
 
-Det var den samlade bilden ambulansen behövde. Den fick de inte.
+Vittnesmål från platsen beskrev också hur min bil körde ut på vänstersidan av vägen och sedan rakt in i mötande fordon. Att utan förklaring drifta åt vänster är ett möjligt neurologiskt tecken: höger hjärnhalva styr den rumsliga uppmärksamheten för vänster sida, och den typen av okontrollerat körfältsbyte kan vara ett tidigt tecken på just den skada jag senare fick diagnos för — en koppling som de läkare som sedan behandlade mig själva skulle göra, både i min journal och senare under ed i domstol.
 
-När uppgifterna läggs bredvid Ambulans Dalarnas checklista blir följden tydlig. De nytillkomna strokesymtomen fanns. Ambulansjournalen anger RLS 1. Falu lasarett låg bara minuter bort.
+Inget av detta finns i ambulansjournalens dokumenterade beslutsunderlag. Vad som sades muntligt går inte att fastställa i efterhand. Det är just den luckan jag vill att myndigheterna ska utreda: polisen hade neurologiskt relevanta uppgifter, men handlingarna visar inte att ambulansen fick del av dem.
 
-Därmed var samtliga tre inklusionskriterier i Ambulans Dalarnas checklista för akut stroke uppfyllda. Om Polis T och Polis S hade berättat vad de visste skulle ambulansen enligt checklistan ha gått vidare till strokelarm. Instruktionen är uttrycklig: *"Gå vidare till Strokelarm!"*
+Men konsekvensen om uppgifterna hade förmedlats går att fastställa. Polis T dokumenterade sluddrigt tal och förvirring. Polis S hade vittnesuppgifter om ett plötsligt avvikande körförlopp och att det inte gick att få riktig kontakt med mig. Ambulansjournalen anger RLS 1, och ambulansen befann sig bara minuter från Falu lasarett.
 
-Ett strokelarm hade gjort sjukhuset redo för mig och förberett en snabb hjärnröntgen. Där hade läkarna kunnat se proppen och avgöra vilken behandling som var möjlig. I stället började den kedjan aldrig.
+Därmed var samtliga tre inklusionskriterier i Ambulans Dalarnas checklista för akut stroke uppfyllda. Om Polis T och Polis S hade förmedlat sin samlade information till ambulansen skulle ambulansen enligt checklistan ha gått vidare till strokelarm. Instruktionen är uttrycklig: *"Gå vidare till Strokelarm!"*
+
+Samtalet till Falu lasarett hade ett konkret och tidskritiskt syfte: att aktivera sjukhusets strokekedja, samla det multidisciplinära teamet och förbereda DT hjärna så att jag snabbt kunde föras vidare till läkarbedömning och bilddiagnostik. Det är inte en spekulation om en möjlig vårdkedja. Det är den vårdkedja som Ambulans Dalarnas egen checklista föreskrev när kriterierna var uppfyllda.
+
+Vad röntgen därefter hade visat och vilken behandling jag hade fått kan ingen fastställa i efterhand. Men att nästa föreskrivna steg var strokelarm går att läsa svart på vitt. Det som gick förlorat var inte bara ett telefonsamtal. Det var möjligheten att sätta hela den akuta strokeprocessen i rörelse.
 
 Vad som noterades på platsen var att jag hade problem med mitt tal. I riktlinjerna för [AKUT-testet](/om-stroke/#hur-känner-man-igen-stroke) står det tydligt att det räcker med ett enda symtom för att 112 ska kontaktas omedelbart.
 
@@ -95,13 +99,15 @@ Den uteslöts direkt. På platsen fick jag blåsa för alkohol. Resultatet var n
 
 I stället för att ifrågasätta bilden skiftade polisen hypotes: jag var inte full, jag var *tydligt narkotikapåverkad*. Som skäl angav polisen att jag var väldigt förvirrad, slö och sluddrig i talet — och att jag hade väldigt små pupiller.
 
-Ambulansens undersökning klockan 14:15 visade normala pupiller med normal ljusreaktion. Det passade inte med polisens tal om mycket små pupiller och tydlig narkotikapåverkan. Ändå fick den misstanken styra.
+Det är ett medicinskt problem med den bedömningen. Droger som ger kraftig sammandragning av pupillerna är opiater och opioider. Det är en mycket specifik farmakologisk förklaring. Ambulansens egen undersökning klockan 14:15 dokumenterade normala pupiller med normal ljusreaktion — ett fynd som direkt talade emot polisens misstanke om narkotikapåverkan.
 
 Vid det här laget fanns det alltså ingenting som medicinskt talade för varken alkohol eller droger som förklaring till mitt tillstånd. Ändå meddelade Polis T klockan 14:43 ambulansen att polisen skulle ta med mig för drogscreening. Exakt samma minut avslutade ambulansen sitt uppdrag. I journalen, under resultat: *"Polisen tar med patienten för drogscreening."* Utfall: egenvård eller inget kvarstående vårdbehov. Orsak till hänvisning: *"Polis tar med patient."*
 
-Jag var gultriagerad, hade en minneslucka och uppträdde plötsligt annorlunda. Ändå avslutades ambulansuppdraget som egenvård eller inget kvarstående vårdbehov. Motiveringen var inte att jag blivit frisk. Den var: *"Polis tar med patient."*
+Det går inte att få ihop: total triagefärg GUL, minneslucka, nytillkommet avvikande beteende — och ett utfall som blev egenvård, med motiveringen att polisen tog med patienten. Ingen dokumenterad teori om vad som hade gjort mig okontaktbar, vad som fick mig att köra rakt in i en stillastående bil, eller vad som förklarade det sluddriga talet och förvirringen.
 
-Brottsutredningen gick före mitt liv och min hälsa. Polis S och Polis T hade informationen som kunde ha satt strokekedjan i rörelse. I stället tog de över mig för ett polisiärt blodprov.
+I och med det tog polisen över ansvaret för en gul-triagerad patient — därför att polisen valde att prioritera sin drogscreening. Och när polisen tar med sig en person som inte är fri att gå, har myndigheten ett långtgående ansvar för den personens liv och hälsa.
+
+Det är svårt att inte tro att ambulansens beslut att lämna påverkades av att polisen inledde en brottsutredning. Att utreda misstanke om brott gick före att säkerställa att jag mådde bra.
 
 ## På akuten — tre minuter
 
@@ -129,11 +135,13 @@ Jag satt i polisbilen på väg från akuten och poliserna ställde frågor. Vad 
 
 Vad jag inte visste var att jag satt där som misstänkt för två allvarliga brott: vårdslöshet i trafik — eventuellt grov — och grovt drograttfylleri. Ingen berättade det för mig. Polisen kallade det ett "samtal".
 
-Jag trodde att jag var patient. Poliserna behandlade mig redan som misstänkt.
+Men att som brottsmisstänkt få frågor om just den händelse man är misstänkt för är per definition ett förhör — och vid ett förhör har den som delgivits misstanke rätt att ha en försvarare närvarande. Ett "samtal" utlöser inga sådana rättigheter. Enligt de jurister jag har rådfrågat är det inte ovanligt att polisen väljer det ordet.
+
+Själv uppfattade jag mig som patient. I själva verket var jag misstänkt.
 
 Efteråt har jag läst det PM som Polis T upprättade klockan 15:51. Där skrev han att jag *"upplevdes som väldigt förvirrad, stirrig, slö och sluddrig i talet"* och att jag lämnade *"olika uppgifter om vart han kört och vilken väg han åkt."* Direkt därefter står att det i samråd med jourhavande förundersökningsledare beslutades att delge mig misstankarna men att inget förhör skulle hållas.
 
-Mina förvirrade svar hamnade i Polis T:s PM. Något formellt förhör hölls inte och jag förstod fortfarande inte vad jag var misstänkt för.
+PM:et anger varken när samtalet ägde rum eller varför inget formellt förhör hölls. Polisen ansåg alltså att mina svar var tillräckligt intressanta för att dokumenteras och användas i utredningen, men höll inget förhör där mina rättigheter som misstänkt hade blivit tydliga för mig.
 
 I bilen visste jag ingenting av det. Jag visste bara att de var arga, och att jag inte förstod varför. Jag tyckte att jag svarade tydligt och begripligt på deras frågor.
 
@@ -147,15 +155,19 @@ Det här minns jag tydligt: jag var fortfarande förvirrad, hade svårt att orie
 
 {{< perspektiv typ="handlingar" >}}
 
-RLC-loggen registrerar mig som frihetsberövad klockan 14:52:26 och på nytt klockan 15:31:49. Tio sekunder senare rapporterar patrullen *"klar på plats"*. Där tar polisens dokumentation om mig slut. Den säger inte var jag släpptes eller hur poliserna bedömde att jag skulle klara mig.
+Polisens dokumentation lämnar ett hål just där ansvaret för mig upphörde. RLC-loggen registrerar mig som frihetsberövad klockan 14:52:26 och på nytt klockan 15:31:49. Tio sekunder senare rapporterar patrullen *"klar på plats"* och klockan 15:32:02 går den över till avrapportering.
+
+Men ingen handling anger när frihetsberövandet faktiskt upphörde, var jag försattes på fri fot, hur det gick till eller vilken bedömning som gjordes av mitt tillstånd. Det går därför inte att fastställa ens ur polisens egna handlingar hur länge jag var frihetsberövad.
 
 Samma patrull hade strax innan observerat att jag var förvirrad, stirrig, slö och sluddrig i talet. Jag hade frihetsberövats under en pågående stor stroke, med vad som senare visade sig vara svår hjärtsvikt. Enligt mitt minne lämnades jag sedan ensam i en stad där jag hade bott större delen av mitt liv men inte längre kunde hitta.
 
-Förvirringen, det sluddriga talet och mina osammanhängande svar var symtom på stroken. Det var samma symtom som gjorde mig misstänkt och frihetsberövad.
+Vid en stroke är varje minut kritisk. Ändå visar handlingarna att jag hölls frihetsberövad medan den polisiära utredningen fortsatte, utan att någon medicinsk bedömning dokumenterades.
 
-Den tiden var medicinskt avgörande. Jag var i god tid på rätt ställe: på Falu lasaretts akutmottagning medan en akut strokebedömning och bilddiagnostik fortfarande kunde ha lett till en individuell prövning av [trombolys](/om-stroke/#trombolys) eller [trombektomi](/om-stroke/#trombektomi). Men jag var där för polisens skull, inte för att få vård. Min hjärna undersöktes aldrig. [Läs om hur skadan påverkar mitt liv i dag](/min-berattelse/livet-efterat/).
+Det som polisen använde som tecken på narkotikapåverkan — förvirringen, det sluddriga talet och oförmågan att lämna sammanhängande svar — var symtom på min stroke. Jag frihetsberövades alltså på grund av hur ett livshotande sjukdomstillstånd tog sig uttryck.
 
-Jag håller Polis T och Polis S direkt ansvariga för att jag fördes bort från vården när varje minut räknades. Ni såg hur dåligt jag fungerade. Ni hade informationen. Ändå valde ni misstanke och tvång framför mitt liv och min hälsa.
+Den tiden var medicinskt avgörande. Jag befann mig fortfarande inom de tidsramar då en akut strokebedömning och bilddiagnostik kunde ha lett vidare till en individuell prövning av [trombolys](/om-stroke/#trombolys) eller [trombektomi](/om-stroke/#trombektomi). Den prövningen gjordes aldrig. Proppen fick fortsätta blockera blodflödet och min hjärnskada blev mycket stor. [Läs om hur skadan påverkar mitt liv i dag](/min-berattelse/livet-efterat/).
+
+Jag är både arg och djupt besviken på Polis T och Polis S. Ni såg hur dåligt jag fungerade men valde misstanke och tvång framför omsorg om mitt liv och min hälsa.
 
 {{< citat >}}Ni förstörde mitt liv.{{< /citat >}}
 
@@ -187,7 +199,7 @@ De digitala spåren och kartunderlaget stöder att jag gick minst 5,3 kilometer 
 
 Enligt min klocka gick jag fram till strax efter klockan 17. Jag minns att jag kom fram till vatten — i efterhand har jag kunnat konstatera att det var Källviksbadet. Jag var så varm och så trött att det enda jag kunde tänka på var att svalka mig och få lägga mig ner och vila. Jag försökte svalka mig med vattnet. Av någon anledning kändes det inte rätt att lägga sig på marken på en öppen yta — jag gick avsides, in i en liten skogsdunge.
 
-Där tog krafterna slut och jag kollapsade på marken. Min telefon och mina solglasögon föll när jag föll, och blev liggande kvar i skogsdungen. I Hitta-appen kunde jag i efterhand se att telefonen rapporterade sin position därifrån tills batteriet dog ett och ett halvt dygn senare. Först i augusti hittades den av en slump av en privatperson — hon anslöt en laddare, såg att den var anmäld borttappad och kontaktade mig.
+Där tog krafterna slut och jag föll ihop på marken. Min telefon och mina solglasögon föll när jag föll, och blev liggande kvar i skogsdungen. I Hitta-appen kunde jag i efterhand se att telefonen rapporterade sin position därifrån tills batteriet dog ett och ett halvt dygn senare. Först i augusti hittades den av en slump av en privatperson — hon anslöt en laddare, såg att den var anmäld borttappad och kontaktade mig.
 
 Det jag minns från det ögonblicket är att jag var fullständigt lugn. Ingen panik, ingen rädsla. Jag accepterade det bara, stilla och tydligt:
 
@@ -195,9 +207,7 @@ Det jag minns från det ögonblicket är att jag var fullständigt lugn. Ingen p
 
 Sedan blev det helt svart.
 
-Det är mitt sista minne. Efter klockan 17 registrerades ingen ytterligare rörelse. Min telefon ringde upprepade gånger utan att jag reagerade. Jag låg helt orörlig på marken och har inga minnen alls från de följande timmarna.
-
-Ingen kan i efterhand avgöra om jag sov, svimmade eller var medvetslös. Det förändrar inte vad som hände: jag kollapsade, allt blev svart och jag blev liggande utan att röra mig eller reagera på telefonen tills det hade börjat skymma.
+Efter klockan 17 registrerade telefonen ingen ytterligare gångaktivitet. Först klockan 22:33:38 registrerade polisen att jag påträffades. Jag minns att jag föll ihop, att allt blev svart och att jag senare vaknade när det hade börjat skymma. De digitala spåren kan inte visa om jag sov eller var medvetslös, bara att min gångaktivitet upphörde och att telefonen blev kvar vid Källviksbadet.
 
 Under de timmarna gick dyrbar tid förlorad. Trombolys ges inom ett kort tidsfönster och trombektomi kan i vissa fall vara aktuell upp till 24 timmar efter symtomdebut. Bara en akut neurologisk bedömning och bilddiagnostik hade kunnat avgöra vilka behandlingar som var möjliga för mig. Den bedömningen gjordes aldrig.
 

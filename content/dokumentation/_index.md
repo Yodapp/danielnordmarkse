@@ -3,13 +3,13 @@ title: "Dokumentation"
 description: "En dokumentationsöversikt över vård-, polis- och myndighetsmaterial som belyser berättelsen."
 ---
 
-## Underlaget bakom berättelsen
+## Om dokumentationen
 
-Jag har gått igenom omkring tusen sidor journaler, polisrapporter, loggar, protokoll och myndighetsbeslut. Tillsammans visar de en betydligt tydligare bild än någon enskild handling gör.
+Bakom berättelsen finns journaler, protokoll, polishandlingar, myndighetsärenden och digitala spår. De belyser både det som hände och sådant som saknas i dokumentationen, som journalanteckningen från akutbesöket den 25 juni 2024.
 
-Här redovisar jag vilket underlag som finns och vad det innehåller. Journalerna och de fullständiga polisakterna publiceras inte. De innehåller privata uppgifter om både mig och andra människor och används endast som källmaterial.
+Journalerna, polisakterna och de fullständiga myndighetsskrivelserna publiceras inte på webbplatsen. Översikten beskriver vilket material som finns och vad det belyser. Ett fotografi ur JO-underlaget visas i berättelsen eftersom motivet inte innehåller några identifierbara personer.
 
-Personerna är anonymiserade. Polis S och Polis T är genomgående samma två poliser: de som hade vittnesuppgifterna och själva såg mitt tillstånd medan ambulansen var kvar.
+Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatpersoner är anonymiserade med beteckningar eller funktionsbeskrivningar. Syftet är inte att hänga ut enskilda personer, utan att göra berättelsens underlag tydligt och möjligt att förstå.
 
 ## Vård och rehabilitering
 
@@ -79,8 +79,8 @@ Personerna är anonymiserade. Polis S och Polis T är genomgående samma två po
 ### Kroppsbesiktning och systemhistorik
 
 - **Datum:** 25 juni 2024
-- **Belyser:** RLC:s notering klockan 14:50:49 om att Polis T fattade beslutet klockan 14:43; blodprovet klockan 15:03–15:06; den första systemregistreringen klockan 15:13 med Polis T som beslutsfattare; Polis T:s ändring till JFUL klockan 15:38; signeringen klockan 15:39; samt JFUL:s systemmeddelande klockan 15:40:43 om att hans ändringar inte kunde sparas.
-- **Fortsatt kedja:** Det färdiga kroppsbesiktningsprotokollet och sidan 6 i förundersökningsprotokollet anger i stället JFUL som beslutsfattare klockan 14:43. Den uppgiften ingick i det förundersökningsmaterial som gick vidare till åklagare, Falu tingsrätt och Svea hovrätt.
+- **Belyser:** RLC:s notering klockan 14:50:49 om att Polis T fattade beslutet klockan 14:43; blodprovet klockan 15:03–15:06; den första systemregistreringen klockan 15:13 med Polis T som beslutsfattare; Polis T:s ändring till JFUL H L klockan 15:38; signeringen klockan 15:39; samt H L:s systemmeddelande klockan 15:40:43 om att hans ändringar inte kunde sparas.
+- **Fortsatt kedja:** Det färdiga kroppsbesiktningsprotokollet och sidan 6 i förundersökningsprotokollet anger i stället H L som beslutsfattare klockan 14:43. Den uppgiften ingick i det förundersökningsmaterial som gick vidare till åklagare, Falu tingsrätt och Svea hovrätt.
 - **Status:** Inte publicerat på webbplatsen.
 
 ### Frisläppandet

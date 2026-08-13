@@ -3,7 +3,7 @@ title: "Om stroke"
 description: "Faktainformation om stroke — vad det är, hur man känner igen det, och varför varje minut räknas."
 ---
 
-Stroke ser inte alltid ut som människor förväntar sig. Den kan märkas som sluddrigt tal och en hängande mungipa, men också som förvirring, vinglighet, synproblem eller ett plötsligt förändrat beteende. Här förklarar jag de delar som är viktigast för att förstå min berättelse.
+Det här är inte min berättelse. Det här är faktainformation om stroke — vad det är, hur man känner igen det, och varför varje minut räknas. Den är skriven för alla som möter stroke: drabbade, anhöriga, sjukvårdspersonal, polis, räddningstjänst — och alla andra.
 
 ## Vad är stroke?
 
@@ -60,11 +60,9 @@ Blodproppslösande behandling. Kan ges upp till 4,5 timmar efter symtomdebut och
 
 ### Trombektomi
 
-Mekaniskt avlägsnande av proppen. Kan under rätt förutsättningar ges upp till sex timmar, ibland utvidgat till 24 timmar när bilddiagnostik visar att det fortfarande finns räddningsbar hjärnvävnad.
+Mekaniskt avlägsnande av proppen. Kan under rätt förutsättningar ges upp till sex timmar, ibland utvidgat till 24 timmar vid påvisad penumbra (levande hjärnvävnad runt infarktkärnan).
 
-[Skånes universitetssjukhus](https://vard.skane.se/skanes-universitetssjukhus-sus/undersokningar-och-behandlingar/trombektomi/) beskriver syftet med trombektomi som att återställa blodflödet för att rädda den drabbade delen av hjärnan. Ju tidigare ingreppet görs, desto mer hjärnfunktion kan räddas.
-
-[Akademiska sjukhuset](https://www.akademiska.se/pressrum/effekter-av-trombektomi-pa-aldre-strokepatienter-foljs-upp-i-ny-studie/) skriver att möjligheten till ett oberoende liv kan fördubblas när trombektomi ges som tillägg till trombolys. I de studier som sjukhuset hänvisar till undvek ytterligare 13–31 procentenheter ett liv med svåra funktionsnedsättningar.
+Enligt [NAG Stroke (2024)](https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf) fördubblar kombinationen av trombolys och trombektomi vid ocklusion av arteria cerebri medias grenar (M1/M2) andelen patienter som blir funktionellt självständiga jämfört med trombolys ensamt. Det är ett av de starkaste resultaten i modern neurologi.
 
 Varje timme som går innebär att fler celler dör och att fler behandlingsalternativ stängs av.
 
@@ -78,7 +76,7 @@ Stroke kan se ut som fylleri. Det är ett känt och dokumenterat problem. Förvi
 
 Skillnaden är att en strokedrabbad person behöver sjukvård omedelbart, och att varje timmes fördröjning innebär permanent hjärnskada.
 
-Den som plötsligt blir förvirrad, sluddrig eller ostadig behöver bedömas av sjukvården. Polis och räddningstjänst ska inte försöka förklara bort symtomen innan vården har gjort sitt.
+En person som uppvisar dessa symtom utan tydlig förklaring bör bedömas av medicinsk personal. Det är inte ett sjukvårdsbeslut att överlåta till polis eller räddningstjänst — men det är ett larm som polis och räddningstjänst kan ringa.
 
 **Ring 112. Låt sjukvården avgöra.**
 
@@ -95,7 +93,5 @@ Du behöver inte vara sjukvårdare för att göra skillnad.
 
 - [Socialstyrelsens nationella riktlinjer för vård vid stroke](https://www.socialstyrelsen.se/kunskapsstod-och-regler/regler-och-riktlinjer/nationella-riktlinjer/riktlinjer-och-utvarderingar/stroke/)
 - [Nationell arbetsgrupp (NAG) Stroke — Riktlinje för handläggning av reperfusionsbehandling vid ischemisk stroke, version 4, 2024-02-27](https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf)
-- [Skånes universitetssjukhus — Trombektomi](https://vard.skane.se/skanes-universitetssjukhus-sus/undersokningar-och-behandlingar/trombektomi/)
-- [Akademiska sjukhuset — Effekter av trombektomi på äldre strokepatienter följs upp i ny studie](https://www.akademiska.se/pressrum/effekter-av-trombektomi-pa-aldre-strokepatienter-foljs-upp-i-ny-studie/)
 - [Strokeförbundet](https://www.strokeforbundet.se/)
 - [1177 — Stroke](https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/stroke-och-tia/stroke/)

@@ -1,13 +1,17 @@
 ---
-title: "Kapitel 4 — Sjukhustiden"
+title: "Sjukhustiden"
 description: "Juli 2024 — neurologavdelningen, de kognitiva konsekvenserna, blodförtunningen och hemgången."
 date: 2024-07-03
 weight: 4
 ---
 
-På neurologavdelningen blev jag till slut patient. Ingen kallade mig påverkad. Ingen var arg för att jag svarade långsamt. Läkarna undersökte hjärnan och hjärtat och sjuksköterskorna såg till att jag överlevde.
+Sjukhuset var det första stället på länge där någon faktiskt tittade på mig.
 
-Det borde ha börjat en vecka tidigare.
+Det låter som en självklarhet. Det borde vara en självklarhet. Ambulanspersonalen hade bemött mig bra, men deras avgörande fel var att låta polisen bestämma att undersökningen skulle avslutas. Därefter hade polisen kört mig till akuten utan att låta mig undersökas och sedan kört mig därifrån.
+
+Efter allt som hänt var det märkligt att ligga i en sjukhussäng och vara ett medicinskt fall med ett namn och ett personnummer och en diagnos.
+
+Jag var inlagd på Falu Lasarett. Neurologavdelningen.
 
 ## De första dagarna
 
@@ -15,17 +19,17 @@ De första dagarna minns jag fragmentariskt. Det fanns undersökningar, prover, 
 
 Min neurolog var tydlig och rak. Han förklarade vad som hade hänt: en stor ischemisk stroke i höger hjärnhalva, orsakad av en propp i en gren av den mellersta hjärnartären. Att jag hade slutat uppfatta min vänstra sida. Och en tromb i hjärtat som skulle kräva långvarig blodförtunning.
 
-Vi pratade inte mycket. Han testade känseln i händer och fötter, synen och synfältet. Korta frågor, korta svar. Han letade efter det bortfall och det neglekt som syntes i bilderna men som jag själv inte kunde förstå.
+I övrigt pratade han och jag väldigt lite. De gånger jag träffade honom låg jag i min säng i salen, och han testade: känseln i händer och fötter, synen, synfältet — jakten på det bortfall och det neglekt som bilderna sa borde finnas. Korta frågor. Korta svar.
 
 Jag förstod orden, men uppfattade mig själv som opåverkad. Jag gjorde allt jag kunde för att visa att jag var "frisk".
 
 ## Det som syntes på avdelningen
 
-På avdelningen gick jag in i saker på vänster sida. Jag upplevde inte att jag missade något. Jag upplevde att jag gick rakt fram.
+På avdelningen gick jag in i saker på min vänstra sida. Det stod i journalen. Jag upplevde det inte som att jag ignorerade vänster — jag upplevde det som att jag gick rakt fram.
 
 Jag har inget eget minne av ett enda sådant tillfälle. Det som för personalen var observerbara fynd, dokumenterade i journalen, existerar inte i min upplevelse av de veckorna.
 
-Neglekten blev den medicinska förklaringen till bilolyckan och en del av skälet till att jag inte får köra bil. I dag märker jag inte av den på samma sätt. De kognitiva skadorna påverkar däremot allt.
+Neglekten blev den medicinska förklaringen till bilolyckan och innebar också att jag inte fick köra bil. I dag märker jag inte av någon neglekt. Den påverkar inte min vardag och finns antagligen inte längre kvar.
 
 ## Chins vid ribbstolen
 
@@ -37,11 +41,13 @@ Så jag bestämde mig för att visa vårdpersonalen att jag var fysiskt pigg och
 
 Min säng stod närmast fönstret, med utsikt över Falun. Jag låg där och väntade på att någon skulle upptäcka misstaget.
 
-Personalen var bra mot mig. Ändå kändes avdelningen som ett fängelse. Polisernas ilska och anklagelser satt kvar. Någonstans inom mig hade deras misstankar redan blivit ett straff.
+Personalen på sjukhuset var bra. Det var inte deras bemötande som fick mig att känna mig inlåst.
+
+Känslan hade sin rot i polisernas agerande: ilskan, anklagelserna och misstankarna om allvarliga brott. Jag visste att jag var på ett sjukhus — men det kändes mer som att vara inlåst i ett fängelse, som om jag straffades för det polisen anklagade mig för.
 
 Den känslan bär jag fortfarande ofta med mig. Polisen lyckades inte hjälpa mig när jag drabbades av min stroke. Men de lyckades få mig att känna att allt som hänt var mitt fel.
 
-När den egna hjärnan inte går att lita på får andras ord en enorm makt. Poliserna hade sagt att jag var påverkad och betett mig fel. En del av mig trodde fortfarande på dem.
+Om det finns något man inte ska göra i kontakt med en strokedrabbad eller någon annan med hjärnskada, så är det att skuldbelägga. Orden blir så otroligt lätt den drabbades verklighet och sanning.
 
 ## Blodförtunningen och hjärtat
 
@@ -53,7 +59,7 @@ Kardiologerna var involverade. Det handlade inte bara om hjärnan längre — de
 
 Fragmin hämmade blodets förmåga att koagulera tills Waran hade hunnit börja verka. Sju dygn utan den behandlingen. En vecka med en aktiv tromb och inget skydd.
 
-På sjukhuset fick jag äntligen den vård jag behövde. Men jag var inte trygg där heller.
+På sjukhuset fick jag äntligen den medicinska vård jag behövde. Men polisens misstankar hade följt med mig in på avdelningen — och inte ens där var jag trygg.
 
 ## Ståltermosen
 
@@ -79,13 +85,13 @@ Journalen visar också hur jag försökte hantera situationen. På morgonen samm
 
 Efter händelsen på kvällen hävde jag förbehållet. Min tanke var enkel: om hon kunde få veta hur jag mådde via telefon behövde hon inte komma till avdelningen och bråka igen.
 
-Natten efter kollapsen hade hon matat mig med glass och försökt få i mig vätska när jag inte klarade det själv. Nu kastade hon en ståltermos i huvudet på mig medan jag låg med blodförtunnande behandling efter en stor stroke.
+Jag vill vara rättvis mot henne. Det var hos henne jag fick sova natten mellan den 25 och 26 juni. Det var hon som matade mig med glass och försökte få i mig vätska när jag inte klarade det själv.
 
-Även män drabbas av våld i nära relationer. Jag låg på en övervakningsavdelning och blev slagen blodig av den person som stod mig närmast.
+Men en sak vill jag säga rakt ut, för den sägs för sällan: även män drabbas av våld i nära relationer. Alkohol och våld går alltför ofta hand i hand. Jag låg på en övervakningsavdelning efter en stor stroke, med blodförtunnande i kroppen, och slogs blodig av en ståltermos — kastad av den person som stod mig närmast.
 
 ## Det jag inte fick veta
 
-Ingen berättade för mig att tiden för [trombolys](/om-stroke/#trombolys) och [trombektomi](/om-stroke/#trombektomi) hade passerat medan jag gick genom Falun, låg vid Källviksbadet och sedan sov mig igenom dagarna hemma.
+Under sjukhustiden berättade ingen för mig att behandlingsfönstren för [trombolys](/om-stroke/#trombolys) och [trombektomi](/om-stroke/#trombektomi) hade stängt. Ingen förklarade att behandling kunde ha varit möjlig om min stroke hade upptäckts den 25 juni.
 
 Det förstod jag först senare, när jag började läsa journalerna och de andra dokumenten och kunde lägga tidsuppgifterna bredvid varandra.
 
@@ -95,6 +101,6 @@ På sjukhuset uppfattade jag mig fortfarande som opåverkad och ville bara däri
 
 Jag skrevs ut från sjukhuset med mediciner, uppföljningstider och en diagnos som skulle följa mig. Rehabiliteringsarbetet fortsatte polikliniskt.
 
-Jag gick hem på egna ben. Det såg ut som en framgång. Jag förstod ännu inte att den människa som hade gått in på sjukhuset aldrig skulle komma tillbaka ut.
+Jag var inte återställd. Jag är inte återställd. Det är inte hur stroke fungerar, inte när skadan är av den här storleken.
 
 Hemgången var inte ett slut. Det var början på något annat.
