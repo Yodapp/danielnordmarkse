@@ -8,7 +8,7 @@ weight: 2
 
 Sju dygn med stora minnesluckor. Under större delen av tiden sov jag. Det var inte vanlig trötthet och det var inte återhämtning. Jag var i extremt dåligt skick och behövde akutvård — både för min stroke och för det allvarliga tillståndet i mitt hjärta som ännu inte hade upptäckts.
 
-Polisen trodde återigen att jag var påverkad och missade ännu en gång tydliga symtom på min stroke. Hade de agerat rätt hade det förlängda fönstret för trombektomi fortfarande kunnat stå öppet. Min mamma blev den som till slut agerade.
+Polisen dokumenterade mig återigen som väldigt förvirrad men någon kontakt med sjukvården finns inte dokumenterad. Det förlängda fönstret för trombektomi kan i vissa fall sträcka sig upp till 24 timmar; bara en akut bedömning och bilddiagnostik hade kunnat visa om det fortfarande var öppet för mig. Den prövningen gjordes inte. Min mamma blev den som till slut agerade.
 
 ## Natten och dagarna
 
@@ -68,7 +68,7 @@ En stor ischemisk stroke i höger hjärnhalva. En tromb i hjärtat. Utan blodfö
 
 Under timmarna vid Källviksbadet gick det korta tidsfönstret för [trombolys](/om-stroke/#trombolys) förlorat. Det förlängda fönstret för [trombektomi](/om-stroke/#trombektomi) — upp till 24 timmar i vissa fall — kan fortfarande ha varit aktuellt när polisen hittade mig på kvällen. Det fick vi aldrig veta, eftersom ingen akut neurologisk undersökning eller bilddiagnostik gjordes.
 
-Den chansen togs aldrig. Allt som hänt sedan är konsekvenser av det.
+Den chansen togs aldrig. Det är den uteblivna prövningen jag med säkerhet kan säga att jag förlorade.
 
 ## Att inte veta att man inte vet
 

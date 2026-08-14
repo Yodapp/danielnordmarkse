@@ -511,6 +511,55 @@
   margin: 0 0 5rem;
 }
 
+.dn-accusation {
+  margin: 0 0 5rem;
+  padding: clamp(1.4rem, 4vw, 2.4rem);
+  border-left: 5px solid rgb(var(--dn-accent));
+  background: rgb(254 242 242);
+}
+
+.dark .dn-accusation {
+  background: rgb(69 10 10 / 0.28);
+}
+
+.dn-accusation__eyebrow {
+  margin: 0 0 0.65rem;
+  color: rgb(var(--dn-accent));
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.dn-accusation h2 {
+  margin: 0 0 1.2rem;
+  color: rgb(var(--color-neutral-900));
+  font-size: clamp(1.7rem, 4vw, 2.7rem);
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+}
+
+.dark .dn-accusation h2 {
+  color: rgb(var(--color-neutral-50));
+}
+
+.dn-accusation p:not(.dn-accusation__eyebrow) {
+  max-width: 48rem;
+  margin: 0;
+  color: rgb(var(--color-neutral-800));
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.dn-accusation p + p {
+  margin-top: 0.9rem;
+}
+
+.dark .dn-accusation p:not(.dn-accusation__eyebrow) {
+  color: rgb(var(--color-neutral-200));
+}
+
 .dn-case > h2,
 .dn-injury h2,
 .dn-before-after > h2 {
@@ -676,6 +725,287 @@
   color: rgb(var(--color-neutral-100));
 }
 
+/* --- Source-labelled evidence --- */
+
+.dn-source-card {
+  margin: 1.75rem 0;
+  overflow: hidden;
+  border: 1px solid rgb(var(--color-neutral-200));
+  border-left: 4px solid rgb(var(--color-neutral-500));
+  border-radius: 0.65rem;
+  background: rgb(var(--color-neutral-50));
+}
+
+.dn-source-card--polis {
+  border-left-color: rgb(var(--dn-accent));
+}
+
+.dn-source-card--ambulans {
+  border-left-color: #1d4ed8;
+}
+
+.dn-source-card--journal {
+  border-left-color: #6d28d9;
+}
+
+.dn-source-card--minne {
+  border-left-color: #a16207;
+}
+
+.dn-source-card--rekonstruktion {
+  border-left-color: #047857;
+}
+
+.dark .dn-source-card {
+  border-top-color: rgb(var(--color-neutral-700));
+  border-right-color: rgb(var(--color-neutral-700));
+  border-bottom-color: rgb(var(--color-neutral-700));
+  background: rgb(var(--color-neutral-800));
+}
+
+.dn-source-card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.3rem 0.7rem;
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid rgb(var(--color-neutral-200));
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+.dark .dn-source-card__meta {
+  border-color: rgb(var(--color-neutral-700));
+}
+
+.dn-source-card__type {
+  color: rgb(var(--dn-accent));
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.dn-source-card__source,
+.dn-source-card__time {
+  color: rgb(var(--color-neutral-500));
+  font-size: 0.75rem;
+  font-weight: 650;
+}
+
+.dn-source-card__body {
+  padding: 1rem;
+  color: rgb(var(--color-neutral-800));
+  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia,
+    "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+.dark .dn-source-card__body {
+  color: rgb(var(--color-neutral-200));
+}
+
+.dn-source-card__body > :first-child {
+  margin-top: 0;
+}
+
+.dn-source-card__body > :last-child {
+  margin-bottom: 0;
+}
+
+/* --- Stroke checklist comparison --- */
+
+.dn-stroke-compare {
+  margin: 2.25rem 0;
+  overflow: hidden;
+  border: 1px solid rgb(var(--color-neutral-300));
+  border-radius: 0.9rem;
+  background: rgb(var(--color-neutral-50));
+}
+
+.dark .dn-stroke-compare {
+  border-color: rgb(var(--color-neutral-700));
+  background: rgb(var(--color-neutral-800));
+}
+
+.dn-stroke-compare__header {
+  padding: 1.4rem 1.4rem 1rem;
+}
+
+.dn-stroke-compare__eyebrow {
+  margin: 0 0 0.35rem;
+  color: rgb(var(--dn-accent));
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.dn-stroke-compare h3 {
+  margin: 0;
+  color: rgb(var(--color-neutral-900));
+  font-size: 1.35rem;
+  line-height: 1.25;
+}
+
+.dark .dn-stroke-compare h3 {
+  color: rgb(var(--color-neutral-50));
+}
+
+.dn-stroke-compare__table-wrap {
+  overflow-x: auto;
+  border-top: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dn-stroke-compare__table-wrap:focus-visible {
+  outline: 3px solid rgb(var(--dn-accent));
+  outline-offset: -3px;
+}
+
+.dark .dn-stroke-compare__table-wrap {
+  border-color: rgb(var(--color-neutral-700));
+}
+
+.dn-stroke-compare table {
+  width: 100%;
+  min-width: 42rem;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.dn-stroke-compare :is(th, td) {
+  padding: 0.9rem 1rem;
+  border-bottom: 1px solid rgb(var(--color-neutral-200));
+  text-align: left;
+  vertical-align: top;
+}
+
+.dark .dn-stroke-compare :is(th, td) {
+  border-color: rgb(var(--color-neutral-700));
+}
+
+.dn-stroke-compare thead th {
+  color: rgb(var(--color-neutral-500));
+  font-size: 0.65rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.dn-stroke-compare tbody th {
+  width: 31%;
+  color: rgb(var(--color-neutral-900));
+}
+
+.dark .dn-stroke-compare tbody th {
+  color: rgb(var(--color-neutral-100));
+}
+
+.dn-stroke-compare tbody td:last-child {
+  width: 4rem;
+  color: rgb(var(--dn-accent));
+  font-size: 1rem;
+}
+
+.dn-stroke-compare blockquote {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin: 0;
+  padding: 1.25rem 1.4rem;
+  border: 0;
+  background: rgb(var(--dn-accent));
+  color: white;
+  font-size: clamp(1.25rem, 4vw, 1.75rem);
+  font-style: normal;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.dn-stroke-compare blockquote span {
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* --- Home: decision chain --- */
+
+.dn-decision {
+  margin: 5rem 0;
+}
+
+.dn-decision > h2 {
+  max-width: 50rem;
+  margin: 0 0 2rem;
+  color: rgb(var(--color-neutral-900));
+  font-size: clamp(2rem, 4.5vw, 3.4rem);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  line-height: 1.08;
+}
+
+.dark .dn-decision > h2 {
+  color: rgb(var(--color-neutral-50));
+}
+
+.dn-decision__list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: none;
+}
+
+.dn-decision__list li {
+  display: grid;
+  grid-template-columns: 2.2rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 1.35rem 0;
+  border-top: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark .dn-decision__list li {
+  border-color: rgb(var(--color-neutral-700));
+}
+
+.dn-decision__number {
+  display: grid;
+  width: 2.1rem;
+  height: 2.1rem;
+  place-items: center;
+  border-radius: 999px;
+  background: rgb(var(--color-neutral-900));
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
+.dark .dn-decision__number {
+  background: rgb(var(--color-neutral-100));
+  color: rgb(var(--color-neutral-900));
+}
+
+.dn-decision__list strong {
+  color: rgb(var(--color-neutral-900));
+  font-size: 1.05rem;
+}
+
+.dark .dn-decision__list strong {
+  color: rgb(var(--color-neutral-100));
+}
+
+.dn-decision__list p {
+  margin: 0.35rem 0 0;
+  color: rgb(var(--color-neutral-600));
+  line-height: 1.65;
+}
+
+.dark .dn-decision__list p {
+  color: rgb(var(--color-neutral-400));
+}
+
 /* --- Home: injury and consequences --- */
 
 .dn-injury {
@@ -720,6 +1050,19 @@
 
 .dn-injury__body strong {
   color: white;
+}
+
+.dn-injury__link {
+  display: inline-flex;
+  gap: 0.45rem;
+  align-items: center;
+  margin-top: 2rem;
+  color: white;
+  font-weight: 800;
+  text-decoration: underline;
+  text-decoration-color: rgb(248 113 113);
+  text-decoration-thickness: 0.12em;
+  text-underline-offset: 0.25em;
 }
 
 .dn-before-after {
@@ -1113,6 +1456,53 @@
 
   .dn-timeline__item {
     padding-left: 1.5rem;
+  }
+
+  .dn-stroke-compare__table-wrap {
+    overflow: visible;
+    border-top: 0;
+  }
+
+  .dn-stroke-compare table,
+  .dn-stroke-compare tbody,
+  .dn-stroke-compare tr,
+  .dn-stroke-compare :is(th, td) {
+    display: block;
+    width: 100%;
+    min-width: 0;
+  }
+
+  .dn-stroke-compare thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  .dn-stroke-compare tr {
+    padding: 1rem 1.1rem;
+    border-top: 1px solid rgb(var(--color-neutral-200));
+  }
+
+  .dark .dn-stroke-compare tr {
+    border-color: rgb(var(--color-neutral-700));
+  }
+
+  .dn-stroke-compare :is(th, td) {
+    padding: 0;
+    border: 0;
+  }
+
+  .dn-stroke-compare tbody th {
+    width: 100%;
+    margin-bottom: 0.45rem;
+  }
+
+  .dn-stroke-compare tbody td:last-child {
+    width: 100%;
+    margin-top: 0.55rem;
   }
 }
 

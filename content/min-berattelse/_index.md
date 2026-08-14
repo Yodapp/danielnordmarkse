@@ -37,7 +37,7 @@ Neurologavdelningen. Sidan jag slutat se. Blodförtunningen. Samtalen med min ne
 ## [Livet efteråt](/min-berattelse/livet-efterat/)
 *{{< lasningstid sida="/min-berattelse/livet-efterat/" >}}*
 
-Vad som förändrats. Rehabilitering. Post-stroke fatigue. Att leva med konsekvenserna av en diagnos som kom sju dygn för sent.
+Vad som förändrats. Rehabilitering. Hjärntrötthet, isolering och depression. En ärlig bild av att leva med konsekvenserna av en diagnos som kom sju dygn för sent.
 
 ## [Kampen för upprättelse](/min-berattelse/kampen-for-upprattelse/)
 *{{< lasningstid sida="/min-berattelse/kampen-for-upprattelse/" >}}*

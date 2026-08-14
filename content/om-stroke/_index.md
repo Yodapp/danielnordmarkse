@@ -9,7 +9,7 @@ Det här är inte min berättelse. Det här är faktainformation om stroke — v
 
 Stroke är ett samlingsnamn för hjärninfarkt och hjärnblödning. Det vanligaste är hjärninfarkt — en propp som blockerar blodflödet till en del av hjärnan. Utan blodtillförsel dör hjärnceller snabbt.
 
-Uppskattningsvis 1,9 miljoner nervceller dör varje minut en stroke pågår obehandlad. Det är den biologiska bakgrunden till uttrycket "time is brain" — tid är hjärna.
+En ofta citerad uppskattning för en typisk obehandlad ischemisk stroke i ett stort kärl är omkring 1,9 miljoner förlorade nervceller per minut. Det är ett genomsnitt från forskning, inte ett värde som kan räknas ut för en enskild person. Det förklarar uttrycket "time is brain" — tid är hjärna.
 
 I Sverige drabbas ungefär 25 000 personer av stroke varje år. Det är en av de vanligaste orsakerna till dödsfall och till permanent funktionsnedsättning.
 

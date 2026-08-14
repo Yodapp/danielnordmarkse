@@ -1,0 +1,18 @@
+{{- $typ := .Get "typ" | default "dokument" -}}
+{{- $etiketter := dict
+  "polis" "Polisens dokumentation"
+  "ambulans" "Ambulansjournalen"
+  "journal" "I journalen"
+  "minne" "Det jag minns"
+  "rekonstruktion" "Digital rekonstruktion"
+  "dokument" "I handlingarna"
+-}}
+{{- $etikett := index $etiketter $typ | default "I handlingarna" -}}
+<aside class="dn-source-card dn-source-card--{{ $typ }} not-prose" aria-label="{{ $etikett }}">
+  <div class="dn-source-card__meta">
+    <span class="dn-source-card__type">{{ $etikett }}</span>
+    {{- with .Get "kalla" }}<span class="dn-source-card__source">{{ . }}</span>{{ end -}}
+    {{- with .Get "tid" }}<time class="dn-source-card__time">{{ . }}</time>{{ end -}}
+  </div>
+  <div class="dn-source-card__body">{{ .Page.RenderString (strings.TrimSpace .Inner) }}</div>
+</aside>

@@ -1,18 +1,20 @@
 ---
 title: "Livet efteråt"
-description: "De osynliga konsekvenserna av min stroke — kognitiva nedsättningar, hjärntrötthet, isolering och ett liv som försvann."
+description: "De osynliga konsekvenserna av min stroke — kognitiva nedsättningar, hjärntrötthet, isolering, depression och ett liv som försvann."
 date: 2024-09-15
 weight: 5
 ---
 
 
-Det finns en föreställning om att återhämtningen börjar när den akuta fasen är över — när man kommit hem från sjukhuset, när medicinerna är inställda och när man inte längre är ett larm. Att det sedan handlar om att arbeta sig tillbaka, steg för steg, till den man var.
+En vanlig dag börjar med att jag vaknar trött. Om jag går och handlar är det allt jag orkar den dagen. Om jag träffar en vän är det allt jag orkar den dagen. Lägenheten är liten, men efter mer än ett år har jag fortfarande inte lyckats få ordning i den.
 
-För mig blev det inte så.
+Utifrån ser jag ut att ha återhämtat mig. Jag kan gå, prata och sköta det mest grundläggande. Det som försvann sitter i förmågan att planera, minnas, koncentrera mig och lösa problem. Det var de förmågorna jag byggde både mitt arbete och mitt liv på.
 
-Jag fungerade bra fysiskt. De stora förändringarna fanns i stället i min hjärna. De syntes inte utanpå och under det första året ville jag inte heller förstå hur mycket min stroke hade påverkat mig.
+Det här är mitt liv efter stroken.
 
-Insikten kom smygande.
+{{< kallruta typ="journal" kalla="Min arbetsterapeuts bedömning under sjukhusvistelsen" tid="4–5 juli 2024" >}}
+Redan på avdelningen dokumenterades personlighetsförändring, förvirring, nedsatt uppmärksamhet och svårigheter att upprätthålla vardagsrutiner. I köket höll jag på att gå in i dörrkarmen på vänster sida, dukade för fyra trots att vi var tre och lämnade kaffekokaren, timern och skåpdörrar öppna. Samtidigt tyckte jag själv att jag kände mig som vanligt.
+{{< /kallruta >}}
 
 ## Den första tiden hemma
 
@@ -30,7 +32,11 @@ Det som framför allt har förändrats är min förmåga att planera och organis
 
 Under det andra året försökte jag åter använda en dator för att göra sådant som tidigare hade varit enkelt för mig. Det fungerade inte längre. Jag har fortfarande, efter mer än ett år, inte lyckats få ordning i den lilla etta där jag nu bor. Det handlar inte om att jag inte vill. Jag klarar inte längre att planera och organisera arbetet som krävs.
 
-En neuropsykologisk utredning visade nedsatt inlärningsförmåga, nedsatt minne, nedsatt uppmärksamhet, nedsatt koncentration, nedsatt problemlösningsförmåga och nedsatt fokus.
+En kognitiv kartläggning visade nedsättningar inom inlärning, minne, kognitiv processhastighet, uppmärksamhet och koncentration. Min neuropsykolog har också beskrivit mina påtagliga svårigheter att starta och avsluta aktiviteter. Saker tar längre tid, även när jag under bättre perioder kan ta till mig stora mängder skriftlig information.
+
+{{< kallruta typ="journal" kalla="Min neuropsykologs sammanfattning av den kognitiva kartläggningen" tid="Kartläggning 26 februari 2025, sammanfattad 7 juli 2026" >}}
+Bedömningen beskriver nedsättningar inom inlärning, minne, kognitiv processhastighet, uppmärksamhet och koncentration. Den beskriver också påtagliga svårigheter att initiera och avbryta aktiviteter. Jag kan periodvis bearbeta stora mängder skriftlig information, men det tar längre tid och jag behöver ofta en yttre påminnelse för att avsluta en aktivitet.
+{{< /kallruta >}}
 
 ## Rehabiliteringen som inte finns
 
@@ -82,6 +88,24 @@ Att åka buss är inte ett fungerande alternativ. Resan kräver så mycket plane
 
 De allra flesta dagar lever jag helt isolerad i min lägenhet. Lägenheten känns mer som ett fängelse än ett hem.
 
+## Depressionen och viljan att dö
+
+Det finns en gräns för hur länge man orkar förlora saker och ändå tänka att livet ska bli bättre. Efter stroken har jag flera gånger hamnat i djupa depressioner och haft konkreta planer på att avsluta mitt liv.
+
+Det har alltså inte stannat vid att jag har *mått psykiskt dåligt* eller haft en vag önskan om att slippa vakna.
+
+Jag skriver inte ut hur. Jag skriver det för att det är sant. Jag skäms inte över det. Att överleva en stroke betyder inte automatiskt att man får tillbaka ett liv man orkar leva.
+
+För mig hänger depressionerna ihop med allt stroken tog: arbetet, huset, självständigheten, vännerna, framtidstron och förmågan att göra det som tidigare gav livet mening. Det är också en del av konsekvenserna. Om jag ska berätta ärligt kan jag inte lämna bort det.
+
+{{< kallruta typ="journal" kalla="Min neuropsykologs sammanfattning" tid="7 juli 2026" >}}
+I rehabiliteringens anteckning beskrivs hur mitt mående har varierat. När jag har insett att jag inte fungerar som förut har jag gått in i perioder av depression, haft svårt att hålla grundläggande rutiner och periodvis haft suicidtankar. Anteckningen beskriver suicidtankarna. Att jag också har haft konkreta planer är en del av min egen erfarenhet och berättelse.
+{{< /kallruta >}}
+
+{{< alert >}}
+**Om du själv har självmordstankar:** bär dem inte ensam. Ring 1177 för råd om var du kan söka vård. Om situationen känns outhärdlig eller om du har planer på att ta ditt liv, sök psykiatrisk akutmottagning eller ring 112. [Läs mer hos 1177](https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/sjalvmordstankar/).
+{{< /alert >}}
+
 ## De som stannade kvar
 
 De flesta av mina vänner har försvunnit. Men två vänner finns fortfarande kvar. De ringer, vi träffas och umgås. De trodde på mig från början, även när andra valde att tro på polisens bild.
@@ -118,10 +142,12 @@ Då har det varit värt att berätta.
 
 Men det förändrar inte mitt liv.
 
-Det svåraste att acceptera är att situationen hade kunnat vara helt annorlunda om jag hade fått rätt vård i tid. Min hjärnskada blev enormt mycket större än den hade behövt bli.
+Det svåraste att acceptera är att jag aldrig fick den akuta prövning som kunde ha begränsat skadan. Ingen kan i efterhand säga exakt vilken behandling jag hade fått eller hur mycket hjärnvävnad som hade kunnat räddas. Men chansen att göra den bedömningen togs ifrån mig medan tiden fortfarande var avgörande.
 
 Jag kommer antagligen aldrig att kunna arbeta igen. Jag lever isolerad med stora kognitiva nedsättningar och ser inte att jag har någon framtid.
 
 Jag är arg och besviken på Polis T och Polis S. När jag var i akut behov av vård såg ni en misstänkt brottsling i stället för en människa med en stor stroke.
+
+Ni låste er vid er teori om att jag var tydligt narkotikapåverkad. Era egna dokumenterade uppgifter pekade samtidigt på ett akut neurologiskt tillstånd, men den samlade bilden finns inte i ambulansens beslutsunderlag. Den förlorade tiden går genom allt som mitt liv har blivit efteråt.
 
 Ni förstörde mitt liv.

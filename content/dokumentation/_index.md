@@ -9,7 +9,7 @@ Bakom berättelsen finns journaler, protokoll, polishandlingar, myndighetsärend
 
 Journalerna, polisakterna och de fullständiga myndighetsskrivelserna publiceras inte på webbplatsen. Översikten beskriver vilket material som finns och vad det belyser. Ett fotografi ur JO-underlaget visas i berättelsen eftersom motivet inte innehåller några identifierbara personer.
 
-Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatpersoner är anonymiserade med beteckningar eller funktionsbeskrivningar. Syftet är inte att hänga ut enskilda personer, utan att göra berättelsens underlag tydligt och möjligt att förstå.
+Vårdpersonal tas bara med när de är relevanta för berättelsen. Anna och Magnus kan benämnas med förnamn. Personal inom rehabiliteringen benämns genom sin yrkesroll, till exempel *min neuropsykolog* och *min arbetsterapeut*. Personal inom psykiatrin tas inte med. Övriga vårdanställda, vittnen och privatpersoner anonymiseras med beteckningar eller funktionsbeskrivningar. Polis T och Polis S benämns genom sina anonymiserade beteckningar.
 
 ## Vård och rehabilitering
 
@@ -48,6 +48,12 @@ Alla namn på poliser, ambulanspersonal, sjukvårdspersonal, vittnen och privatp
 
 - **Period:** Sedan utskrivningen
 - **Belyser:** Kontakt med flera instanser inom vård och rehabilitering. Rehabiliteringsarbetet pågår.
+- **Status:** Inte publicerat på webbplatsen.
+
+### Kognitiv kartläggning och rehabiliteringens sammanfattning
+
+- **Period:** Kartläggning den 26 februari 2025, sammanfattad den 7 juli 2026.
+- **Belyser:** Nedsättningar inom inlärning, minne, kognitiv processhastighet, uppmärksamhet och koncentration samt påtagliga svårigheter att starta och avsluta aktiviteter. Sammanfattningen beskriver även återkommande perioder av depression, svårigheter att upprätthålla grundläggande rutiner och perioder med suicidtankar.
 - **Status:** Inte publicerat på webbplatsen.
 
 ### Digitala spår

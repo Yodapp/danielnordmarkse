@@ -1,28 +1,16 @@
 ---
 title: "Daniel Nordmark"
-description: "En personlig berättelse om en stroke som missades av ambulans och polis, och kampen som följt."
+description: "Jag fick en stor stroke. Polisen hade uppgifterna som skulle ha lett vården vidare till strokelarm, men jag behandlades som narkotikapåverkad."
 ---
 
-Den 25 juni 2024 var jag på väg för att träffa kompisar och bada. I centrala Falun krockade jag med en stillastående bil i motsatt körfält.
+## Varför jag berättar
 
-Det var ingen vanlig bilolycka. Jag körde inte för fort. Jag körde inte vårdslöst.
+Jag minns inte allt från den 25 juni 2024. En stor del av dagen har jag fått lägga ihop i efterhand genom journaler, polishandlingar, vittnesförhör och data från min telefon och klocka. Men jag minns hur rädd jag blev när polisen stod bredvid ambulansen. Jag minns att jag trodde att jag skulle få vård när de körde mig till akuten. Och jag minns hur det kändes att senare vara ensam, förvirrad och inte längre kunna hitta i staden där jag vuxit upp.
 
-Polisen kom till platsen och uppfattade mig som narkotikapåverkad. Ambulansen kom en stund senare och dokumenterade bland annat nytillkommet avvikande beteende, minneslucka och sluddrigt tal. Ändå tog polisen med mig till akuten för drogscreening. Blodprovet tog tre minuter. Jag registrerades aldrig som patient och någon medicinsk bedömning finns inte dokumenterad. Jag minns att polisen sedan lämnade mig vid tågstationen med uppmaningen att gå och nyktra till.
+Mina känslor och upplevelser är en del av det som hände. Dokumenten ersätter dem inte. Dokumenten visar vad andra visste och gjorde medan jag själv inte kunde förstå hur sjuk jag var.
 
-Men jag var inte påverkad.
-
-Jag hade drabbats av en stor stroke.
-
-Det skulle dröja sju dygn innan jag kom tillbaka till akuten. Då visade en akut hjärnröntgen en stor förändring i höger hjärnhalva. Läkarna i Falun kontaktade Neurokirurgen i Uppsala — först misstänktes en hjärntumör. Jag blev inlagd med övervakning dygnet runt på avdelning 26, Falu Lasarett.
-
-## Vad den här sajten handlar om
-
-Det här är min berättelse om när jag fick en stroke, hur jag upplevde det och vad konsekvenserna har blivit. Den är baserad på journaler, polisrapporter, ambulansprotokoll och mina egna minnen och känslor.
-
-Jag berättar den av flera skäl. För att andra strokedrabbade ska kunna känna igen sig. För att anhöriga, polis och ambulanspersonal ska förstå hur ett förlopp som detta kan se ut inifrån. Och för att det som hände mig inte ska hända någon annan.
-
-En stroke syns inte alltid. Ibland ser den ut som berusning, som förvirring, som ett underligt beteende vid en trafikolycka. Det är därför det är otroligt viktigt att poliser och allmänheten utbildas i hur en stroke kan yttra sig och att det är kritiskt att den drabbade snabbt får vård.
+Jag vill att andra ska kunna känna igen en stroke som inte ser ut som den förväntade. Jag vill att poliser och vårdpersonal ska förstå vad deras val kan kosta. Framför allt vill jag berätta vad som hände med mig utan att min röst försvinner bakom ett ärendenummer.
 
 **[Läs berättelsen från början →](/min-berattelse/dagen-det-hande/)**
 
-Vill du hellre börja med fakta? [Om stroke](/om-stroke/) förklarar vad stroke är, hur man känner igen den — och varför varje minut räknas.
+Vill du börja med medicinen bakom händelsen finns en separat sida om [stroke, neglekt och varför varje minut räknas](/om-stroke/).
