@@ -46,10 +46,10 @@ Klockan 14:18 hölls ett vittnesförhör på platsen med Vittne A. Han berättad
 
 Vittnets bild var tydlig: jag var inte kontaktbar. Det tolkades som berusning. Ingenting i dokumentationen tyder på att någon — varken SOS-operatören, polisen eller ambulansen — övervägde att det kunde handla om ett livshotande tillstånd.
 
-Polisens RLC-logg visar samtidigt att den vingliga körningen hade dokumenterats i realtid redan före patrullens och ambulansens ankomst. Medan ambulansen fortfarande var kvar på platsen höll Polis S sedan tre förhör och fick själv del av vittnenas uppgifter:
+Polisens logg från ledningscentralen visar samtidigt att den vingliga körningen hade dokumenterats i realtid redan före patrullens och ambulansens ankomst. Medan ambulansen fortfarande var kvar på platsen höll Polis S sedan tre förhör och fick själv del av vittnenas uppgifter:
 
 {{< tidslinje >}}
-{{< tidpunkt tid="13:42–13:46" >}}RLC-loggen antecknar *"VINGLIG BIL"*, *"KÖRT UPP PÅ TROTTOAR"* och *"ÄVEN ANDRA SIDAN VÄGEN"*.{{< /tidpunkt >}}
+{{< tidpunkt tid="13:42–13:46" >}}I polisens logg antecknas *"VINGLIG BIL"*, *"KÖRT UPP PÅ TROTTOAR"* och *"ÄVEN ANDRA SIDAN VÄGEN"*.{{< /tidpunkt >}}
 {{< tidpunkt tid="13:59" >}}Ambulansen anländer till olycksplatsen.{{< /tidpunkt >}}
 {{< tidpunkt tid="14:08–14:16" >}}Polis S förhör Vittne B, som beskriver hur bilen körts vingligt på flera platser och ut på fel sida av vägen.{{< /tidpunkt >}}
 {{< tidpunkt tid="14:18–14:23" >}}Polis S förhör Vittne A, som beskriver mig som *"helt borta"* och säger att han inte fick riktig kontakt med mig.{{< /tidpunkt >}}
@@ -71,15 +71,19 @@ Jag uppfattade att ambulanspersonalen pratade om akuten och att polisen sa att d
 
 Jag förstod inte att polisen misstänkte mig för allvarliga brott. Jag förstod inte heller att deras avsikt med akutbesöket var en drogscreening, inte att jag skulle undersökas av en läkare. Och jag förstod inte att ambulansen klockan 14:43 skulle avsluta sitt uppdrag med hänvisningen att polisen tog med mig.
 
-I polisrapporten beskrivs jag som slö, förvirrad och sluddrig i talet. Jag hade svårt att lämna en sammanhängande redogörelse för vart jag hade kört. Det var min skadade hjärna som visade sig. Att Polis T enligt min upplevelse mötte det med ilska gjorde mig rädd.
+I polisrapporten beskrivs jag som slö, förvirrad och sluddrig i talet. Jag hade svårt att lämna en sammanhängande redogörelse för vart jag hade kört. Det var min skadade hjärna som visade sig. Att Polis T mötte det med ilska gjorde mig rädd.
 
-{{< kallruta typ="minne" kalla="Min upplevelse i ambulansen" >}}
+{{< kallruta typ="minne" kalla="I ambulansen" >}}
 Jag försökte förstå ambulanspersonalen samtidigt som Polis T pratade bredvid mig. Situationen kändes surrealistisk. Jag började ana att något var allvarligt fel och trodde att jag nu skulle få komma till akuten för att få hjälp.
 {{< /kallruta >}}
 
 ## Vad polisen visste
 
-Polis T och Polis S hade inte bara en allmän känsla av att jag betedde mig konstigt. De hade konkreta uppgifter, insamlade medan ambulansen fortfarande var kvar.
+Den röda tråden börjar redan i SOS-samtalet klockan 13:43. Vittne A försökte få kontakt med mig och sa: *"...han är inte med i matchen, jag vet inte om han kan vara sjuk."* Mot slutet av samtalet tillade han: *"Jag vet inte, det kanske är bra att kolla upp honom."*
+
+Klockan 14:18 förhörde Polis S samma vittne medan ambulansen fortfarande var kvar. Han berättade åter att han inte hade fått riktig kontakt med mig och att jag var *"helt borta"*. Möjligheten att jag var sjuk hade alltså uttalats redan i larmsamtalet. När Polis S sedan talade direkt med vittnet fick hon den observation som låg bakom oron: jag var inte kontaktbar.
+
+Trots det finns ingenting i Polis S:s dokumentation som visar att hon berättade för ambulansen att vittnet hade sagt att jag kunde vara sjuk. Uppgifterna användes i stället i brottsutredningen. Polis T och Polis S hade inte bara en allmän känsla av att jag betedde mig konstigt. De hade konkreta varningstecken, insamlade medan ambulansen fortfarande var kvar.
 
 {{< kallruta typ="polis" kalla="Polis T:s PM" tid="Upprättat 15:51" >}}
 Jag *"upplevdes som väldigt förvirrad, stirrig, slö och sluddrig i talet"* och lämnade *"olika uppgifter om vart han kört och vilken väg han åkt"*.
@@ -183,7 +187,7 @@ Poliserna pekade utmed järnvägen och sa: *"Det blir bra för dig med en promen
 
 {{< perspektiv typ="handlingar" >}}
 
-Polisens dokumentation lämnar ett hål just där ansvaret för mig upphörde. RLC-loggen registrerar mig som frihetsberövad klockan 14:52:26 och på nytt klockan 15:31:49. Tio sekunder senare rapporterar patrullen *"klar på plats"* och klockan 15:32:02 går den över till avrapportering.
+Polisens dokumentation lämnar ett hål just där ansvaret för mig upphörde. Polisens logg registrerar mig som frihetsberövad klockan 14:52:26 och på nytt klockan 15:31:49. Tio sekunder senare rapporterar patrullen *"klar på plats"* och klockan 15:32:02 går den över till avrapportering.
 
 Men ingen handling anger när frihetsberövandet faktiskt upphörde, var jag försattes på fri fot, hur det gick till eller vilken bedömning som gjordes av mitt tillstånd. Det går därför inte att fastställa ens ur polisens egna handlingar hur länge jag var frihetsberövad.
 
@@ -243,14 +247,14 @@ Under de timmarna gick dyrbar tid förlorad. Trombolys ges inom ett kort tidsfö
 
 {{< tidslinje >}}
 {{< tidpunkt tid="Efter 17:00" >}}Telefonen registrerar ingen ytterligare gångaktivitet.{{< /tidpunkt >}}
-{{< tidpunkt tid="22:33:38" >}}Polisen påträffar mig vid Källviksbadet. RLC-loggen registrerar: ”FÖRVIRRAD DANIEL NORDMARK”.{{< /tidpunkt >}}
+{{< tidpunkt tid="22:33:38" >}}Polisen påträffar mig vid Källviksbadet. I polisens logg registreras: ”FÖRVIRRAD DANIEL NORDMARK”.{{< /tidpunkt >}}
 {{< /tidslinje >}}
 
 ## När polisen påträffar mig
 
 När det hade börjat mörkna vaknade jag till. Jag visste inte var jag var, varför jag låg på marken eller vad som hade hänt.
 
-Jag påträffades först klockan 22:33:38. Från den plats där jag uppger att polisen lämnade mig är gångvägen till Källviksbadet minst 5,3 kilometer. RLC-loggen registrerar då: *"FÖRVIRRAD DANIEL NORDMARK"*. Klockan 22:34:44 skrev polisen: *"UPPLEVS VÄLDIGT FÖRVIRRAD AV PTRL. SÄGER ATT HAN LETAR EFTER SIN FLICKVÄN"*. Det hade då gått omkring sju timmar sedan den första patrullens registrerade statusövergång från frihetsberövad till klar på plats. Hennes bostad låg bara några hundra meter från platsen där jag påträffades. Trots att jag är uppvuxen i Falun kunde jag inte hitta dit.
+Jag påträffades först klockan 22:33:38. Från den plats där jag uppger att polisen lämnade mig är gångvägen till Källviksbadet minst 5,3 kilometer. I polisens logg registreras då: *"FÖRVIRRAD DANIEL NORDMARK"*. Klockan 22:34:44 skrev polisen: *"UPPLEVS VÄLDIGT FÖRVIRRAD AV PTRL. SÄGER ATT HAN LETAR EFTER SIN FLICKVÄN"*. Det hade då gått omkring sju timmar sedan den första patrullens registrerade statusövergång från frihetsberövad till klar på plats. Hennes bostad låg bara några hundra meter från platsen där jag påträffades. Trots att jag är uppvuxen i Falun kunde jag inte hitta dit.
 
 Jag hade beskrivits av polisen som väldigt förvirrad redan vid trafikolyckan. Omkring sju timmar senare dök jag upp igen i polisens system, fortfarande väldigt förvirrad och vilsen. Det framgår inte vilken information den senare patrullen hade om dagens tidigare händelser. Det finns inte heller någon dokumenterad bedömning av om mitt tillstånd kunde bero på sjukdom eller om jag behövde vård.
 

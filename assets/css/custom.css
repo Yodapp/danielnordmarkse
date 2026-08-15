@@ -552,15 +552,75 @@
   color: rgb(var(--color-neutral-300));
 }
 
+.dn-police-roles {
+  display: grid;
+  gap: 0.8rem;
+  margin: 1.5rem 0;
+}
+
+.dn-police-roles article {
+  padding: 1.25rem;
+  border: 1px solid rgb(var(--color-neutral-200));
+  border-radius: 0.75rem;
+  background: rgb(var(--color-neutral-50));
+}
+
+.dark .dn-police-roles article {
+  border-color: rgb(var(--color-neutral-700));
+  background: rgb(var(--color-neutral-800));
+}
+
+.dn-police-roles span,
+.dn-police-roles strong {
+  display: block;
+}
+
+.dn-police-roles span {
+  margin-bottom: 0.35rem;
+  color: rgb(var(--dn-accent));
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.dn-police-roles strong {
+  margin-bottom: 0.55rem;
+  color: rgb(var(--color-neutral-900));
+  font-size: 1.05rem;
+}
+
+.dark .dn-police-roles strong {
+  color: rgb(var(--color-neutral-50));
+}
+
+.dn-police-roles p {
+  font-size: 0.95rem !important;
+  line-height: 1.55 !important;
+}
+
+.dn-police-intro__accountability {
+  padding-left: 1rem;
+  border-left: 3px solid rgb(var(--dn-accent));
+  color: rgb(var(--color-neutral-900)) !important;
+  font-weight: 700;
+}
+
+.dark .dn-police-intro__accountability {
+  color: rgb(var(--color-neutral-100)) !important;
+}
+
 .dn-accusation {
   margin: 0 0 5rem;
-  padding: clamp(1.4rem, 4vw, 2.4rem);
-  border-left: 5px solid rgb(var(--dn-accent));
-  background: rgb(254 242 242);
+  padding: 2rem 0;
+  border-top: 4px solid rgb(var(--dn-accent));
+  border-bottom: 1px solid rgb(var(--color-neutral-200));
+  background: transparent;
 }
 
 .dark .dn-accusation {
-  background: rgb(69 10 10 / 0.28);
+  border-bottom-color: rgb(var(--color-neutral-700));
+  background: transparent;
 }
 
 .dn-accusation__eyebrow {
@@ -597,8 +657,31 @@
   margin-top: 0.9rem;
 }
 
+.dn-accusation__lead {
+  font-size: 1.15rem !important;
+  font-weight: 700;
+}
+
+.dn-accusation__end {
+  margin-top: 1.3rem !important;
+  padding: 1rem 1.1rem;
+  border-left: 4px solid rgb(var(--dn-accent));
+  background: rgb(254 242 242);
+  font-weight: 750;
+}
+
+.dark .dn-accusation__end {
+  background: rgb(69 10 10 / 0.3);
+}
+
 .dark .dn-accusation p:not(.dn-accusation__eyebrow) {
   color: rgb(var(--color-neutral-200));
+}
+
+@media (min-width: 700px) {
+  .dn-police-roles {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 .dn-case > h2,
@@ -1474,8 +1557,47 @@
 }
 
 @media (max-width: 640px) {
+  .dn-hero {
+    margin-bottom: 2.5rem;
+  }
+
   .dn-hero__label {
     line-height: 1.6;
+  }
+
+  .dn-hero__headline {
+    font-size: 2rem;
+    line-height: 1.08;
+  }
+
+  .dn-hero__intro {
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .dn-police-intro,
+  .dn-accusation,
+  .dn-case {
+    margin-bottom: 3.25rem;
+  }
+
+  .dn-police-intro h2,
+  .dn-accusation h2,
+  .dn-case > h2 {
+    font-size: 1.85rem;
+    line-height: 1.12;
+  }
+
+  .dn-police-intro p:not(.dn-section-label),
+  .dn-accusation p:not(.dn-accusation__eyebrow),
+  .dn-case__lead {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .dn-case__lead {
+    margin: 1.25rem 0 1.6rem;
   }
 
   .dn-hero__meta,

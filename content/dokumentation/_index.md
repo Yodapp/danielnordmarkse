@@ -70,10 +70,10 @@ Vårdpersonal tas bara med när de är relevanta för berättelsen. Anna och Mag
 - **Belyser:** Polisens dokumentation av förvirring, stirrighet, slöhet, sluddrigt tal och svårigheter att lämna en sammanhängande redogörelse. PM:et upprättades klockan 15:51 av Polis T och anger att inget förhör hölls, utan att ange varför.
 - **Status:** Inte publicerat på webbplatsen.
 
-### SOS-samtal, vittnesförhör och RLC-logg
+### SOS-samtal, vittnesförhör och polisens logg
 
 - **Datum:** 25 juni 2024
-- **Belyser:** SOS-samtalet klockan 13:43, där inringaren både talar om berusning och frågar om Daniel kan vara sjuk; RLC:s realtidsnoteringar om vinglig körning, körning på trottoar och på fel sida av vägen; samt de tre förhör som Polis S höll på olycksplatsen klockan 14:08–14:29 medan ambulansen fortfarande var kvar.
+- **Belyser:** SOS-samtalet klockan 13:43, där inringaren både talar om berusning och frågar om Daniel kan vara sjuk; realtidsnoteringarna i polisens logg om vinglig körning, körning på trottoar och på fel sida av vägen; samt de tre förhör som Polis S höll på olycksplatsen klockan 14:08–14:29 medan ambulansen fortfarande var kvar.
 - **Status:** Inte publicerat på webbplatsen.
 
 ### Neurologförhör och medicinskt samband
@@ -85,14 +85,14 @@ Vårdpersonal tas bara med när de är relevanta för berättelsen. Anna och Mag
 ### Kroppsbesiktning och systemhistorik
 
 - **Datum:** 25 juni 2024
-- **Belyser:** RLC:s notering klockan 14:50:49 om att Polis T fattade beslutet klockan 14:43; blodprovet klockan 15:03–15:06; den första systemregistreringen klockan 15:13 med Polis T som beslutsfattare; Polis T:s ändring till JFUL H L klockan 15:38; signeringen klockan 15:39; samt H L:s systemmeddelande klockan 15:40:43 om att hans ändringar inte kunde sparas.
+- **Belyser:** Polisens logg antecknar klockan 14:50:49 att Polis T fattade beslutet klockan 14:43; blodprovet klockan 15:03–15:06; den första systemregistreringen klockan 15:13 med Polis T som beslutsfattare; Polis T:s ändring till JFUL H L klockan 15:38; signeringen klockan 15:39; samt H L:s systemmeddelande klockan 15:40:43 om att hans ändringar inte kunde sparas.
 - **Fortsatt kedja:** Det färdiga kroppsbesiktningsprotokollet och sidan 6 i förundersökningsprotokollet anger i stället H L som beslutsfattare klockan 14:43. Den uppgiften ingick i det förundersökningsmaterial som gick vidare till åklagare, Falu tingsrätt och Svea hovrätt.
 - **Status:** Inte publicerat på webbplatsen.
 
 ### Frisläppandet
 
 - **Datum:** 25 juni 2024
-- **Belyser:** RLC registrerar Daniel som frihetsberövad klockan 14:52:26 och på nytt klockan 15:31:49. Patrullen rapporterar *"klar på plats"* klockan 15:31:59 och går över till avrapportering klockan 15:32:02.
+- **Belyser:** Polisens logg registrerar Daniel som frihetsberövad klockan 14:52:26 och på nytt klockan 15:31:49. Patrullen rapporterar *"klar på plats"* klockan 15:31:59 och går över till avrapportering klockan 15:32:02.
 - **Saknas:** Polisens handlingar anger inte när frihetsberövandet upphörde, var Daniel försattes på fri fot, hur frisläppandet gick till eller vilken bedömning som gjordes av hans tillstånd och förmåga att ta sig vidare på ett säkert sätt.
 - **Status:** Inte publicerat på webbplatsen.
 

@@ -91,11 +91,11 @@ Kompletteringen lyfter fram tre centrala frågor: hur en gul-triagerad person ku
 
 ### Beslutet som bytte beslutsfattare
 
-Polisens egna handlingar ger två oförenliga besked om vem som fattade beslutet om kroppsbesiktning. RLC-loggen pekar ut Polis T. Det färdiga protokollet och förundersökningsprotokollet pekar i stället ut JFUL H L. Mellan dessa versioner finns en systemhistorik som visar att Polis T själv gick in i efterhand och ändrade den registrerade beslutsfattaren från sig själv till H L.
+Polisens egna handlingar ger två oförenliga besked om vem som fattade beslutet om kroppsbesiktning. Polisens logg pekar ut Polis T. Det färdiga protokollet och förundersökningsprotokollet pekar i stället ut JFUL H L. Mellan dessa versioner finns en systemhistorik som visar att Polis T själv gick in i efterhand och ändrade den registrerade beslutsfattaren från sig själv till H L.
 
 {{< tidslinje >}}
 {{< tidpunkt tid="14:43" >}}Den tidpunkt som senare anges som beslutstid. Exakt samma minut avslutar ambulansen sitt uppdrag med hänvisningsorsaken *"Polis tar med patient"*.{{< /tidpunkt >}}
-{{< tidpunkt tid="14:50:49" >}}RLC antecknar i realtid att beslutet om kroppsbesiktning togs av Polis T klockan 14:43.{{< /tidpunkt >}}
+{{< tidpunkt tid="14:50:49" >}}Polisens ledningscentral antecknar i realtid att beslutet om kroppsbesiktning togs av Polis T klockan 14:43.{{< /tidpunkt >}}
 {{< tidpunkt tid="15:03–15:06" >}}Blodprovet verkställs av en sjuksköterska på Falu Lasarett.{{< /tidpunkt >}}
 {{< tidpunkt tid="15:13" >}}Beslutet registreras för första gången i systemet, med Polis T angiven som beslutsfattare.{{< /tidpunkt >}}
 {{< tidpunkt tid="15:38" >}}Polis T ändrar själv den registrerade beslutsfattaren från sig själv till JFUL H L.{{< /tidpunkt >}}
@@ -104,9 +104,9 @@ Polisens egna handlingar ger två oförenliga besked om vem som fattade beslutet
 {{< tidpunkt tid="Därefter" >}}Det färdiga kroppsbesiktningsprotokollet och sidan 6 i förundersökningsprotokollet anger H L som beslutsfattare klockan 14:43.{{< /tidpunkt >}}
 {{< /tidslinje >}}
 
-Ett eventuellt muntligt beslut via radio går inte längre att kontrollera. Polismyndigheten har uppgett att RAKEL-materialet gallrades efter ett år. Det som finns kvar är den samtida RLC-noteringen, systemhistoriken och den i efterhand ändrade versionen.
+Ett eventuellt muntligt beslut via radio går inte längre att kontrollera. Polismyndigheten har uppgett att RAKEL-materialet gallrades efter ett år. Det som finns kvar är den samtida noteringen i polisens logg, systemhistoriken och den i efterhand ändrade versionen.
 
-Det absurda är inte bara motsägelsen. Polis T gick in efter att blodprovet redan hade tagits och ändrade en registrerad uppgift som redan hade kommunicerats till RLC. Systemhistoriken ger ingen förklaring till ändringen. För mig framstår den därför som godtycklig. Den nya versionen fördes sedan in i förundersökningsprotokollet — det material som skickades vidare till åklagaren, Falu tingsrätt och slutligen Svea hovrätt.
+Det absurda är inte bara motsägelsen. Polis T gick in efter att blodprovet redan hade tagits och ändrade en registrerad uppgift som redan hade kommunicerats till polisens ledningscentral. Systemhistoriken ger ingen förklaring till ändringen. För mig framstår den därför som godtycklig. Den nya versionen fördes sedan in i förundersökningsprotokollet — det material som skickades vidare till åklagaren, Falu tingsrätt och slutligen Svea hovrätt.
 
 En uppgift om vem som fattade ett tvångsmedelsbeslut kunde alltså ändras i efterhand av den polis som först stod registrerad som beslutsfattare. Den ändrade uppgiften följde sedan med genom hela rättsprocessen och användes i ett åtal som prövades i två instanser.
 
