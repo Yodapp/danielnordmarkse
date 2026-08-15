@@ -511,6 +511,47 @@
   margin: 0 0 5rem;
 }
 
+.dn-police-intro {
+  margin: 0 0 3rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark .dn-police-intro {
+  border-bottom-color: rgb(var(--color-neutral-700));
+}
+
+.dn-police-intro h2 {
+  max-width: 48rem;
+  margin: 0 0 1.4rem;
+  color: rgb(var(--color-neutral-900));
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    sans-serif;
+  font-size: clamp(1.7rem, 4vw, 2.7rem);
+  font-weight: 800;
+  line-height: 1.15;
+}
+
+.dark .dn-police-intro h2 {
+  color: rgb(var(--color-neutral-50));
+}
+
+.dn-police-intro p:not(.dn-section-label) {
+  max-width: 48rem;
+  margin: 0;
+  color: rgb(var(--color-neutral-700));
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.dn-police-intro p + p {
+  margin-top: 1rem;
+}
+
+.dark .dn-police-intro p:not(.dn-section-label) {
+  color: rgb(var(--color-neutral-300));
+}
+
 .dn-accusation {
   margin: 0 0 5rem;
   padding: clamp(1.4rem, 4vw, 2.4rem);

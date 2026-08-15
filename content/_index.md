@@ -5,12 +5,18 @@ description: "Jag fick en stor stroke. Polisen hade uppgifterna som skulle ha le
 
 ## Varför jag berättar
 
-Jag minns inte allt från den 25 juni 2024. En stor del av dagen har jag fått lägga ihop i efterhand genom journaler, polishandlingar, vittnesförhör och data från min telefon och klocka. Men jag minns hur rädd jag blev när polisen stod bredvid ambulansen. Jag minns att jag trodde att jag skulle få vård när de körde mig till akuten. Och jag minns hur det kändes att senare vara ensam, förvirrad och inte längre kunna hitta i staden där jag vuxit upp.
+Jag minns det mesta från den 25 juni 2024. Jag minns hur rädd jag blev när polisen stod bredvid ambulansen. Jag minns att jag trodde att jag skulle få vård när de körde mig till akuten. Och jag minns hur det kändes att senare vara ensam, förvirrad och inte längre kunna hitta i staden där jag vuxit upp.
 
-Mina känslor och upplevelser är en del av det som hände. Dokumenten ersätter dem inte. Dokumenten visar vad andra visste och gjorde medan jag själv inte kunde förstå hur sjuk jag var.
+Journaler, polishandlingar, vittnesförhör och data från min telefon och klocka har i efterhand bekräftat mina minnen och hjälpt mig att tidsätta händelserna. Materialet ersätter inte det jag minns. Det visar också vad andra visste och gjorde medan jag själv inte kunde förstå hur sjuk jag var.
 
 Jag vill att andra ska kunna känna igen en stroke som inte ser ut som den förväntade. Jag vill att poliser och vårdpersonal ska förstå vad deras val kan kosta. Framför allt vill jag berätta vad som hände med mig utan att min röst försvinner bakom ett ärendenummer.
 
+Jag vill också sprida kunskap om stroke. Det kan drabba vem som helst, när som helst. Ett bra första steg är att lära sig [AKUT-testet](/om-stroke/#hur-känner-man-igen-stroke).
+
+Samtidigt kan stroke yttra sig på många olika sätt. Förvirring, avvikande beteende, sluddrigt tal, balansproblem och svårigheter att orientera sig kan också vara tecken. Ett normalt AKUT-test utesluter inte stroke.
+
+Misstänker du att någon i din omgivning har drabbats: tveka inte. Ring 112 direkt. Varje minut räknas.
+
 **[Läs berättelsen från början →](/min-berattelse/dagen-det-hande/)**
 
-Vill du börja med medicinen bakom händelsen finns en separat sida om [stroke, neglekt och varför varje minut räknas](/om-stroke/).
+Vill du förstå mer om vad som hände i min hjärna finns en separat sida om [stroke, neglekt och varför varje minut räknas](/om-stroke/).
