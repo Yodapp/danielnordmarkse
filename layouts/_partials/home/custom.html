@@ -18,6 +18,46 @@
   </div>
 </div>
 
+<section class="dn-opening" aria-labelledby="dn-opening-title">
+  {{ with resources.Get "img/bilder/daniel.jpg" }}
+    {{ $portrait := .Resize "480x webp q82" }}
+    <img
+      class="dn-opening__portrait"
+      src="{{ $portrait.RelPermalink }}"
+      width="{{ $portrait.Width }}"
+      height="{{ $portrait.Height }}"
+      alt="Daniel Nordmark"
+      loading="eager"
+    >
+  {{ end }}
+  <div class="dn-opening__text">
+    <h2 id="dn-opening-title" class="dn-opening__lead">
+      Den 25 juni 2024 var jag en frisk 44-åring.
+    </h2>
+    <p>Det var en solig och varm sommardag. Jag var på väg för att träffa vänner, bada och njuta av en härlig dag vid en sjö. Men så blev det inte. Hela mitt liv vändes upp och ner den dagen.</p>
+    <p>Utan förvarning började det flimra för ögonen. Jag saktade ner, drack några klunkar läsk och ansträngde mig för att kunna se klart. Jag förstod inte alls vad som hände. Nu i efterhand vet jag att jag började köra väldigt avvikande. Jag körde upp på en gräsmatta, stannade, vände om och började köra åt motsatt håll från dit jag var på väg.</p>
+    <p>Plötsligt small det till på vänster sida av min bil. Jag var säker på att någon hade kört in i min bil. Jag stod stilla och ansträngde mig för att fokusera blicken och förstå vad som hade hänt. Jag vet nu att vittnen försökte få kontakt med mig utan att lyckas. Ena vittnet sa i sitt samtal till SOS att han trodde att jag kanske var sjuk och behövde kollas.</p>
+    <p>En stund senare kom en polispatrull till platsen. De såg att något var allvarligt fel, baserat på det som de själva skrev — men deras slutsats blev förödande: de tog för givet att jag var <em>"tydligt narkotikapåverkad"</em>. Istället för att ta reda på hur jag mådde, varför jag pratade sluddrigt, var slö och förvirrad, inledde de en brottsutredning. Från den sekunden fokuserade de enbart på att jag var en misstänkt för grov vårdslöshet i trafik och grovt drograttfylleri.</p>
+    <p>Det här är min berättelse om vad som faktiskt hände den dagen. Berättad av den enda som var med hela den dagen.</p>
+  </div>
+</section>
+
+<section class="dn-before-after" aria-labelledby="dn-before-after-title">
+  <p class="dn-section-label">Mitt liv</p>
+  <h2 id="dn-before-after-title">Det här är inte bara ett ärende. Det är mitt liv.</h2>
+  <div class="dn-before-after__grid">
+    <div>
+      <span>Före stroken</span>
+      <p>Jag var systemutvecklare och systemarkitekt, drev företag, ledde tekniska projekt och renoverade mitt hus. Programmering var både mitt arbete och min passion.</p>
+    </div>
+    <div>
+      <span>Efter stroken</span>
+      <p>Jag kan inte längre programmera eller arbeta. Jag behövde sälja huset och lever ensam med nedsatt minne, koncentration och processhastighet, svårigheter att starta och avsluta aktiviteter samt ständig trötthet.</p>
+    </div>
+  </div>
+  <p class="dn-before-after__end">Jag berättar för att det som hände mig inte ska reduceras till rader i en akt. Bakom varje missad signal fanns en människa som trodde att han skulle få hjälp.</p>
+</section>
+
 <section class="dn-police-intro" aria-labelledby="dn-police-intro-title">
   <p class="dn-section-label">Den första polispatrullen</p>
   <h2 id="dn-police-intro-title">Patrullen som missade alla varningstecken</h2>
@@ -109,25 +149,17 @@
     <p>När jag kom tillbaka till akuten den 2 juli visade undersökningarna en stor ischemisk stroke i höger hjärnhalva. Jag hade också svår hjärtsvikt och en stor propp i hjärtat.</p>
     <p>Jag överlevde. Men jag har inte arbetat en dag sedan stroken. Jag lever med omfattande kognitiva nedsättningar, hjärntrötthet och isolering. Jag har flera gånger hamnat i djupa depressioner och haft konkreta planer på att avsluta mitt liv.</p>
   </div>
+  <p class="dn-support-note">
+    <strong>Om du själv har självmordstankar:</strong> bär dem inte ensam. Ring 1177 för råd om var du kan söka vård, eller 112 om situationen känns outhärdlig. <a href="https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/sjalvmordstankar/">Läs mer hos 1177</a>.
+  </p>
   <a class="dn-injury__link" href="/min-berattelse/livet-efterat/">Så ser mitt liv ut i dag <span aria-hidden="true">&rarr;</span></a>
-</section>
-
-<section class="dn-before-after" aria-labelledby="dn-before-after-title">
-  <p class="dn-section-label">Mitt liv</p>
-  <h2 id="dn-before-after-title">Det här är inte bara ett ärende. Det är mitt liv.</h2>
-  <div class="dn-before-after__grid">
-    <div>
-      <span>Före stroken</span>
-      <p>Jag var systemutvecklare och systemarkitekt, drev företag, ledde tekniska projekt och renoverade mitt hus. Programmering var både mitt arbete och min passion.</p>
-    </div>
-    <div>
-      <span>Efter stroken</span>
-      <p>Jag kan inte längre programmera eller arbeta. Jag behövde sälja huset och lever ensam med nedsatt minne, koncentration och processhastighet, svårigheter att starta och avsluta aktiviteter samt ständig trötthet.</p>
-    </div>
-  </div>
-  <p class="dn-before-after__end">Jag berättar för att det som hände mig inte ska reduceras till rader i en akt. Bakom varje missad signal fanns en människa som trodde att han skulle få hjälp.</p>
 </section>
 
 <article class="prose dn-home-story dark:prose-invert">
   {{ .Content | emojify }}
 </article>
+
+<div class="dn-final-cta">
+  <a href="/min-berattelse/dagen-det-hande/" class="dn-hero__cta">Läs berättelsen från början <span aria-hidden="true">&rarr;</span></a>
+  <a href="/om-stroke/" class="dn-hero__secondary">Lär dig känna igen en stroke</a>
+</div>

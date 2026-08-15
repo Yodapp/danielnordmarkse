@@ -420,8 +420,12 @@
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  color: rgb(var(--dn-accent));
+  color: rgb(var(--color-neutral-500));
   margin-bottom: 1.25rem;
+}
+
+.dark .dn-hero__label {
+  color: rgb(var(--color-neutral-400));
 }
 
 .dn-hero__context::before {
@@ -498,13 +502,17 @@
 
 .dn-section-label {
   margin: 0 0 0.9rem;
-  color: rgb(var(--dn-accent));
+  color: rgb(var(--color-neutral-500));
   font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
   font-size: 0.72rem;
   font-weight: 800;
   letter-spacing: 0.11em;
   text-transform: uppercase;
+}
+
+.dark .dn-section-label {
+  color: rgb(var(--color-neutral-400));
 }
 
 .dn-case {
@@ -577,11 +585,15 @@
 
 .dn-police-roles span {
   margin-bottom: 0.35rem;
-  color: rgb(var(--dn-accent));
+  color: rgb(var(--color-neutral-500));
   font-size: 0.7rem;
   font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
+}
+
+.dark .dn-police-roles span {
+  color: rgb(var(--color-neutral-400));
 }
 
 .dn-police-roles strong {
@@ -1227,7 +1239,7 @@
 .dn-before-after__grid span {
   display: block;
   margin-bottom: 0.75rem;
-  color: rgb(var(--dn-accent));
+  color: rgb(var(--color-neutral-500));
   font-size: 0.72rem;
   font-weight: 800;
   letter-spacing: 0.09em;
@@ -1328,7 +1340,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: rgb(var(--dn-accent));
+  color: rgb(var(--color-neutral-500));
   margin: 0 0 1.5rem;
 }
 
@@ -1967,6 +1979,167 @@
     content: "Sök";
     margin-left: 0.75rem;
   }
+}
+
+/* --- Home: human opening --- */
+
+.dn-opening {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 0 0 4rem;
+}
+
+.dn-opening__portrait {
+  width: 7rem;
+  height: 7rem;
+  flex: 0 0 auto;
+  object-fit: cover;
+  border-radius: 9999px;
+  border: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark .dn-opening__portrait {
+  border-color: rgb(var(--color-neutral-700));
+}
+
+.dn-opening__lead {
+  margin: 0 0 1rem;
+  color: rgb(var(--color-neutral-900));
+  font-size: clamp(1.35rem, 3vw, 1.9rem);
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+}
+
+.dark .dn-opening__lead {
+  color: rgb(var(--color-neutral-50));
+}
+
+.dn-opening__text p {
+  max-width: 42rem;
+  margin: 0 0 1rem;
+  color: rgb(var(--color-neutral-700));
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.dn-opening__text p:last-child {
+  margin-bottom: 0;
+}
+
+.dark .dn-opening__text p {
+  color: rgb(var(--color-neutral-300));
+}
+
+@media (min-width: 700px) {
+  .dn-opening {
+    gap: 1.75rem;
+  }
+
+  .dn-opening__portrait {
+    width: 7.5rem;
+    height: 7.5rem;
+  }
+}
+
+/* --- Support note (crisis resources, always on dark panel) --- */
+
+.dn-support-note {
+  margin: 1.5rem 0 0;
+  padding: 1rem 1.15rem;
+  border-left: 3px solid rgb(248 113 113);
+  border-radius: 0.35rem;
+  background: rgb(255 255 255 / 0.07);
+  color: rgb(229 231 235);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.dn-support-note strong {
+  color: white;
+}
+
+.dn-support-note a {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: rgb(248 113 113);
+  text-underline-offset: 0.2em;
+}
+
+/* --- Home: final call to action --- */
+
+.dn-final-cta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem 1.5rem;
+  margin-top: 3rem;
+  padding-top: 2.5rem;
+  border-top: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark .dn-final-cta {
+  border-top-color: rgb(var(--color-neutral-700));
+}
+
+/* --- 404 --- */
+
+.dn-404 {
+  max-width: 40rem;
+  margin: 4rem 0;
+}
+
+.dn-404__code {
+  margin: 0 0 0.75rem;
+  color: rgb(var(--dn-accent));
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.dn-404__title {
+  margin: 0 0 1rem;
+  color: rgb(var(--color-neutral-900));
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+.dark .dn-404__title {
+  color: rgb(var(--color-neutral-50));
+}
+
+.dn-404__lead {
+  margin: 0 0 2rem;
+  color: rgb(var(--color-neutral-600));
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.dark .dn-404__lead {
+  color: rgb(var(--color-neutral-400));
+}
+
+.dn-404__links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.6rem;
+}
+
+.dn-404__links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: rgb(var(--dn-accent));
+  font-weight: 700;
+  text-decoration-thickness: 0.12em;
+  text-underline-offset: 0.25em;
 }
 
 /* --- Print --- */
