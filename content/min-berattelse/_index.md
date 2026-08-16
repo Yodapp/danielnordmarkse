@@ -6,6 +6,7 @@ cascade:
   invertPagination: true
   showDate: false
   showAuthor: false
+  showTableOfContents: false
 ---
 
 Den 25 juni 2024 drabbades jag av en stroke. Det tog sju dygn innan jag fick diagnos.
