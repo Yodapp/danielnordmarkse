@@ -20,6 +20,12 @@ Jag minns inte kraschen.
 
 Men jag minns att det smällde till på vänster fram på min bil. Jag trodde att jag hade blivit påkörd.
 
+Det var tvärtom. Det jag inte visste då, men vet i dag, är att stroken redan hade slagit ut min vänstra sida. En vänstersidig neglekt gjorde att jag aldrig uppfattade den stillastående bilen framför mig. Jag körde rakt in i den. Neglekten finns dokumenterad i min journal, och läkaren skrev att den sannolikt varit en bidragande orsak till olyckan.
+
+{{< kallruta typ="journal" kalla="Min ansvariga läkare på avdelning 26" tid="5 juli 2024" >}}
+*"Neglekt vänster som sannolikt varit bidragande orsak till bilolycka."*
+{{< /kallruta >}}
+
 Nästa minne börjar med ett högt bankande mot bilrutan. Det kändes som att jag vaknade till. Utanför stod en polis som med hög röst beordrade mig att veva ner rutan.
 
 Jag förstod inte att jag hade krockat. Jag visste ungefär vilken väg jag var på.
@@ -67,9 +73,13 @@ Efter att polisen bankat på rutan fick jag visa mitt körkort och blåsa i en a
 
 I ambulansen ställde personalen korta frågor: om tidigare sjukdomar, hur jag bodde och om jag hade ont. De testade också om jag kunde greppa deras händer med båda mina händer.
 
-Dörren till ambulansen stod öppen. Polis T stod precis bredvid mig på min högra sida. Framför mig hade jag en ambulanssjuksköterska och på min vänstra sida ytterligare en ambulanspersonal.
+Jag satt inne i ambulansen, på sätet bakom förarplatsen och vänd bakåt. Sidodörren intill mig stod öppen. En ur ambulanspersonalen ställde frågor och testade mitt grepp; en annan fanns strax intill och var delaktig i samma samtal. Vid dörröppningen stod Polis T.
 
-Polis T la sig i precis hela tiden, och jag hade svårt att veta vem jag skulle lyssna på — ambulanspersonalen eller honom. Situationen kändes surrealistisk. Jag var inte rädd, men pressad, stressad och förvirrad.
+Jag försökte fokusera för att svara på frågorna och göra det jag blev ombedd — som att klämma om deras händer med mina — utan att förstå varför. Synen var fortfarande suddig. Inne i ambulansen var det mörkt, som jag minns det, medan solen genom den öppna dörren stod rakt på Polis T. Kontrasten mellan det mörka i kupén och det bländande ljuset utanför var väldig, och svår för mina ögon.
+
+Det jag minns starkast är hur rörigt allt var. Jag hade precis krockat. Jag var förvirrad, trött och yr och förstod inte riktigt varför jag satt i en ambulans. Samtidigt pratade flera personer i mun på varandra: ambulanspersonalen med mig, ambulanspersonalen med varandra, och alldeles bredvid mig Polis T — i telefon eller radio och gång på gång vänd mot ambulanspersonalen. Han hörde allt de sa och allt jag sa, och han la sig i titt som tätt.
+
+Jag hade svårt att veta vem jag skulle lyssna på. Än i dag, med min hjärnskada, tappar jag greppet direkt när två personer pratar samtidigt — jag zoomar ut. Så var det redan där, i ambulansen. Jag var inte rädd, men pressad, stressad och förvirrad, och Polis T:s ständiga inpass gjorde en redan omöjlig situation värre.
 
 Jag uppfattade att ambulanspersonalen pratade om akuten och att polisen sa att de skulle köra mig dit. I min värld spelade det ingen roll vem som körde mig. Jag började förstå att något var allvarligt fel och var bara nöjd över att få komma till akuten.
 
@@ -140,6 +150,18 @@ Det går inte att få ihop: total triagefärg GUL, minneslucka, nytillkommet avv
 I och med det tog polisen över ansvaret för en gul-triagerad patient — därför att polisen valde att prioritera sin drogscreening. Och när polisen tar med sig en person som inte är fri att gå, har myndigheten ett långtgående ansvar för den personens liv och hälsa.
 
 Den dokumenterade följden blev att brottsutredningen fortsatte medan någon akut strokeprocess inte kom till stånd.
+
+## Stroken de vände emot mig
+
+Allt började tidigare än poliserna någonsin lät det börja. Mina första symtom kom runt klockan 13:35 — flimret framför ögonen, det plötsliga synbortfallet, yrseln och den explosiva huvudvärken. Där debuterade stroken, och där började klockan ticka.
+
+Det som hände sedan var ingen berusad förares dåliga omdöme. Det var en hjärna som slogs ut i realtid. Neglekten gjorde att jag inte uppfattade vänster sida av vägen — jag hamnade på fel sida, uppe på trottoaren, och körde till sist rakt in i en stillastående bil utan att se den. Den vingliga körning som polisen loggade som bevis var stroken, dokumenterad meter för meter.
+
+Det betyder att det aldrig fanns någon frisk Daniel på Sturegatan att gripa. Från första sekunden polis och ambulans var på plats var jag en pågående strokepatient — inte en berusad, inte en drogpåverkad förare.
+
+Sedan vändes min egen sjukdom emot mig. De exakta tecknen på stroken — det sluddriga talet, slöheten, förvirringen, det stirriga beteendet — tog poliserna som bevis för att jag var narkotikapåverkad. De använde min livshotande hjärnskada som grund för att göra mig till brottsmisstänkt och tvinga fram en kroppsbesiktning. Det som skrek akut stroke läste de som narkotika, och lät den tolkningen styra varje beslut som följde.
+
+Medan de utredde ett brott fortsatte proppen att blockera blodflödet i min hjärna. Den stroke som i tid hade kunnat mötas med propplösande behandling tilläts i stället växa till en bestående hjärnskada på 10,6 × 6,5 × 3,3 centimeter.
 
 ## På akuten — tre minuter
 
