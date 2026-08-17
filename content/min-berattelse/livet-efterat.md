@@ -2,7 +2,7 @@
 title: "Livet efteråt"
 description: "De osynliga konsekvenserna av min stroke — kognitiva nedsättningar, hjärntrötthet, isolering, depression och ett liv som försvann."
 date: 2024-09-15
-weight: 5
+weight: 6
 ---
 
 

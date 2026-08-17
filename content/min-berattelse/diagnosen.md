@@ -2,7 +2,7 @@
 title: "Diagnosen"
 description: "2 juli 2024 — min mamma kör mig till akuten, och en stor stroke i höger hjärnhalva bekräftas."
 date: 2024-07-02
-weight: 3
+weight: 4
 ---
 
 

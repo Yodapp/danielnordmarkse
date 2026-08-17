@@ -18,7 +18,12 @@ Det här är berättelsen i den ordning jag själv har behövt lägga ihop den.
 ## [Dagen det hände](/min-berattelse/dagen-det-hande/)
 *25 juni 2024 · {{< lasningstid sida="/min-berattelse/dagen-det-hande/" >}}*
 
-Trafikolyckan. Ambulansen. Polisen som tar med mig till akuten för drogscreening. Ingen läkare som undersöker mig. Lämnad vid tågstationen. Kollapsen vid Källviksbadet.
+Trafikolyckan. Ambulansen. Polisen som tar med mig till akuten för drogscreening. Ingen läkare som undersöker mig. Rätt ställe, rätt tid — men av fel anledning.
+
+## [Lämnad](/min-berattelse/lamnad/)
+*25 juni 2024 · {{< lasningstid sida="/min-berattelse/lamnad/" >}}*
+
+Samtalet i polisbilen. Frisläppningen vid tågstationen. De 5,3 kilometerna genom Falun. Kollapsen vid Källviksbadet. Patrullen som hittar mig.
 
 ## [En vecka utan vård](/min-berattelse/en-vecka-utan-vard/)
 *25 juni – 2 juli 2024 · {{< lasningstid sida="/min-berattelse/en-vecka-utan-vard/" >}}*
