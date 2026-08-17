@@ -20,9 +20,11 @@ Jag minns inte kraschen.
 
 Men jag minns att det smällde till på vänster fram på min bil. Jag trodde att jag hade blivit påkörd.
 
-Nästa minne börjar med ett högt bankande mot bilrutan. Det kändes som att jag vaknade till. Utanför stod en polis som med hög och nästan hotfull röst beordrade mig att veva ner rutan.
+Nästa minne börjar med ett högt bankande mot bilrutan. Det kändes som att jag vaknade till. Utanför stod en polis som med hög röst beordrade mig att veva ner rutan.
 
-Jag förstod inte att jag hade krockat. Jag visste att jag befann mig i Falun, men trodde att jag var ungefär 400 meter närmare centrum. I själva verket hade jag kört åt fel håll — både i förhållande till stranden och mitt hem.
+Jag förstod inte att jag hade krockat. Jag visste ungefär vilken väg jag var på.
+
+Det jag minns är att jag tyckte att det var mycket bilar och trångt. Jag körde sakta och försökte medvetet välja rätt fil för att ta mig framåt. Så gott jag minns la jag mig i det jag uppfattade som vänsterfilen — den såg tom ut.
 
 Polisen lät arg. Jag minns inte hans ansiktsuttryck, men kroppsspråket uppfattade jag som ett sätt att visa att det var han som bestämde.
 
@@ -65,15 +67,15 @@ Efter att polisen bankat på rutan fick jag visa mitt körkort och blåsa i en a
 
 I ambulansen ställde personalen korta frågor: om tidigare sjukdomar, hur jag bodde och om jag hade ont. De testade också om jag kunde greppa deras händer med båda mina händer.
 
-Dörren till ambulansen stod öppen. Polis T — den polis som jag uppfattade som mest arg och hotfull — stod precis bredvid mig på min högra sida. Framför mig hade jag en ambulanssjuksköterska och på min vänstra sida ytterligare en ambulanspersonal.
+Dörren till ambulansen stod öppen. Polis T stod precis bredvid mig på min högra sida. Framför mig hade jag en ambulanssjuksköterska och på min vänstra sida ytterligare en ambulanspersonal.
 
-Polis T pratade hela tiden med ambulanspersonalen. Jag hade svårt att veta vem jag skulle lyssna på. Situationen kändes surrealistisk, och Polis T:s agerande och ilska gjorde mig rädd.
+Polis T la sig i precis hela tiden, och jag hade svårt att veta vem jag skulle lyssna på — ambulanspersonalen eller honom. Situationen kändes surrealistisk. Jag var inte rädd, men pressad, stressad och förvirrad.
 
 Jag uppfattade att ambulanspersonalen pratade om akuten och att polisen sa att de skulle köra mig dit. I min värld spelade det ingen roll vem som körde mig. Jag började förstå att något var allvarligt fel och var bara nöjd över att få komma till akuten.
 
 Jag förstod inte att polisen misstänkte mig för allvarliga brott. Jag förstod inte heller att deras avsikt med akutbesöket var en drogscreening, inte att jag skulle undersökas av en läkare. Och jag förstod inte att ambulansen klockan 14:43 skulle avsluta sitt uppdrag med hänvisningen att polisen tog med mig.
 
-I polisrapporten beskrivs jag som slö, förvirrad och sluddrig i talet. Jag hade svårt att lämna en sammanhängande redogörelse för vart jag hade kört. Det var min skadade hjärna som visade sig. Att Polis T mötte det med ilska gjorde mig rädd.
+I polisrapporten beskrivs jag som slö, förvirrad och sluddrig i talet. Jag hade svårt att lämna en sammanhängande redogörelse för vart jag hade kört. Det var min skadade hjärna som visade sig.
 
 {{< kallruta typ="minne" kalla="I ambulansen" >}}
 Jag försökte förstå ambulanspersonalen samtidigt som Polis T pratade bredvid mig. Situationen kändes surrealistisk. Jag började ana att något var allvarligt fel och trodde att jag nu skulle få komma till akuten för att få hjälp.
