@@ -14,9 +14,7 @@ Sedan kom symtomen. Utan förvarning.
 
 Först blev jag väldigt yr. Sedan slutade synen fungera som den skulle — jag kisade och försökte se med ett öga i taget. Samtidigt kom en extrem huvudvärk.
 
-Det var egentligen inte alls som migrän. Men migrän var det enda jag hade att jämföra med, så det fick bli min förklaring.
-
-Tanken på att bada försvann. Jag ville bara hem och lägga mig. Jag saktade ner och körde vidare.
+Jag förstod inte vad som hände. Tanken på att bada försvann. Jag ville bara hem och lägga mig. Jag saktade ner och körde vidare.
 
 Rädd blev jag inte. Jag var ju frisk. Att det kunde vara något farligt kändes helt främmande.
 
