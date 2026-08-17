@@ -6,6 +6,12 @@ weight: 2
 ---
 
 
+Jag trodde att det värsta var över. Jag hade varit på akuten. Snart, tänkte jag, skulle jag få åka hem och vila.
+
+Jag hade fel. Det värsta hade knappt börjat.
+
+Under de närmaste timmarna skulle polisen lämna mig ensam i en stad jag bott i hela mitt liv — och jag skulle inte hitta hem.
+
 ## "Samtalet"
 
 Det här minns jag.
@@ -128,24 +134,6 @@ Jag kunde inte ge henne någon förklaring. Jag var trött, mådde fruktansvärt
 Jag minns inte om jag åt, drack, duschade eller pratade mer den natten. Klockan 03:20 tog jag ett foto av en vägg med min iPad. Jag minns varken att jag tog fotot eller varför. GPS-datan visar att jag befann mig inomhus hos henne, medan min telefon fortfarande låg kvar i skogsdungen vid Källviksbadet.
 
 Det jag själv inte kunde uppfatta beskrev min dåvarande flickvän senare för vårdpersonalen: jag hade varit ostadig, saknat tidsuppfattning och behövt hjälp med allt. Det hör till [nästa del av berättelsen](/min-berattelse/en-vecka-utan-vard/).
-
-## Polisens fel – punkt för punkt
-
-När hela dagen läggs samman framträder inte ett enstaka missförstånd. Det är en kedja av dokumenterade fel, motsägelser och luckor:
-
-1. Möjligheten att jag var sjuk nämndes redan i 112-samtalet, men misstanken om berusning fick styra.
-2. Mitt uppgivna negativa utandningsprov finns inte dokumenterat i det polismaterial jag fått ut.
-3. Misstanken skiftade till narkotika med hänvisning till symtom som samtidigt kunde tyda på stroke.
-4. Polisens uppgift om mycket små pupiller motsägs av ambulansens samtidiga undersökning av normala pupiller och normal ljusreaktion.
-5. Polis T dokumenterade förvirring, slöhet och sluddrigt tal. Polis S hade vittnesuppgifter om den avvikande körningen och att jag var helt borta. Den samlade bilden finns inte i ambulansens dokumenterade beslutsunderlag.
-6. Polisen tog över en gultriagerad patient för drogscreening. Något strokelarm finns inte dokumenterat.
-7. Jag fördes frihetsberövad till en akutmottagning för ett polisiärt blodprov, men någon medicinsk läkarbedömning den 25 juni finns inte dokumenterad.
-8. Polisens *"samtal"*, tidpunkten för misstankedelgivningen och informationen om mina rättigheter går inte att följa i handlingarna.
-9. Polisens egna system ger motstridiga uppgifter om vem som fattade beslutet om kroppsbesiktning.
-10. Handlingarna anger inte när, var eller hur frihetsberövandet upphörde och innehåller ingen dokumenterad bedömning av mitt tillstånd inför frisläppandet.
-11. När en senare patrull registrerade mig som *"väldigt förvirrad"* finns ingen uppgift om att ambulans tillkallades eller att sjukvård övervägdes.
-
-Det här är vad dokumentationen visar. Där något bara finns i mitt minne säger jag det. Där handlingarna är tysta säger jag att uppgiften saknas. Men tystnaden kan inte användas som bevis för att en fullständig muntlig överlämning ändå skedde.
 
 Fotot är nästan allt jag vet om den natten. Därefter sov jag sammanlagt uppskattningsvis ett och ett halvt dygn. När det förlängda tidsfönstret för trombektomi — som i vissa fall kan användas upp till 24 timmar efter symtomdebut — passerade, visste jag fortfarande inte att jag hade haft en stroke. Jag uppfattade inte att något sådant hade hänt.
 

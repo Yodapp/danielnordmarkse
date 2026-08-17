@@ -155,6 +155,24 @@ Vårdpersonal tas bara med när de är relevanta för berättelsen. Anna och Mag
 - **Referens:** Ärendenummer LOF-1586-7604-8487.
 - **Status:** Omprövning pågår; underlaget är inte publicerat på webbplatsen.
 
+## Polisens fel – punkt för punkt
+
+När hela dagen läggs samman framträder inte ett enstaka missförstånd. Det är en kedja av dokumenterade fel, motsägelser och luckor:
+
+1. Möjligheten att jag var sjuk nämndes redan i 112-samtalet, men misstanken om berusning fick styra.
+2. Mitt uppgivna negativa utandningsprov finns inte dokumenterat i det polismaterial jag fått ut.
+3. Misstanken skiftade till narkotika med hänvisning till symtom som samtidigt kunde tyda på stroke.
+4. Polisens uppgift om mycket små pupiller motsägs av ambulansens samtidiga undersökning av normala pupiller och normal ljusreaktion.
+5. Polis T dokumenterade förvirring, slöhet och sluddrigt tal. Polis S hade vittnesuppgifter om den avvikande körningen och att jag var helt borta. Den samlade bilden finns inte i ambulansens dokumenterade beslutsunderlag.
+6. Polisen tog över en gultriagerad patient för drogscreening. Något strokelarm finns inte dokumenterat.
+7. Jag fördes frihetsberövad till en akutmottagning för ett polisiärt blodprov, men någon medicinsk läkarbedömning den 25 juni finns inte dokumenterad.
+8. Polisens *"samtal"*, tidpunkten för misstankedelgivningen och informationen om mina rättigheter går inte att följa i handlingarna.
+9. Polisens egna system ger motstridiga uppgifter om vem som fattade beslutet om kroppsbesiktning.
+10. Handlingarna anger inte när, var eller hur frihetsberövandet upphörde och innehåller ingen dokumenterad bedömning av mitt tillstånd inför frisläppandet.
+11. När en senare patrull registrerade mig som *"väldigt förvirrad"* finns ingen uppgift om att ambulans tillkallades eller att sjukvård övervägdes.
+
+Det här är vad dokumentationen visar. Där något bara finns i mitt minne säger jag det. Där handlingarna är tysta säger jag att uppgiften saknas. Men tystnaden kan inte användas som bevis för att en fullständig muntlig överlämning ändå skedde.
+
 ## Frågor om underlaget
 
 Underlag kan delas med journalister efter kontakt.
