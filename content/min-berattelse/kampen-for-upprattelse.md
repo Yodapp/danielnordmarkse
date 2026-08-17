@@ -27,7 +27,7 @@ Löfs initiala beslut gick emot mig. Bedömningen var att ambulansen hade agerat
 
 Jag begärde omprövning. Ärendenumret är LOF-1586-7604-8487. Omprövningen pågår.
 
-I mina kompletteringar till Löf har jag dokumenterat vad ambulansens egna noteringar visar: gul triagering, nytillkommet avvikande beteende, minneslucka, sluddrigt tal — och trots det, en utfallskod som innebär "egenvård eller inget kvarstående vårdbehov." Fyra oberoende svenska ambulansorganisationers riktlinjer visar samstämmigt att det finns två tillåtna vägar när en patient inte transporteras till sjukhus. Ingen av dem följdes.
+I mina kompletteringar till Löf har jag dokumenterat vad ambulansens egna noteringar visar: gul triagering, nytillkommet avvikande beteende, minneslucka — och trots det, en utfallskod som innebär "egenvård eller inget kvarstående vårdbehov." Fyra oberoende svenska ambulansorganisationers riktlinjer visar samstämmigt att det finns två tillåtna vägar när en patient inte transporteras till sjukhus. Ingen av dem följdes.
 
 Jag väntar på svar.
 

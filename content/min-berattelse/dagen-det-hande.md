@@ -98,7 +98,7 @@ Vittne B beskrev körning på gräs, mycket vinglig körning, stopp och start oc
 {{< /kallruta >}}
 
 {{< kallruta typ="ambulans" kalla="Ambulansjournalen" tid="14:15–14:43" >}}
-Ambulansen dokumenterade RLS 1, minneslucka, sluddrigt tal, flimmer för ögonen och nytillkommet avvikande beteende. Den totala triagefärgen var GUL.
+Ambulansen dokumenterade RLS 1, minneslucka, flimmer för ögonen och nytillkommet avvikande beteende. Den totala triagefärgen var GUL.
 {{< /kallruta >}}
 
 Poliserna satt alltså på den del av helhetsbilden som saknas i ambulansens dokumenterade beslutsunderlag: deras egna iakttagelser av förvirring, slöhet och sluddrigt tal samt vittnenas mer utförliga beskrivning av det plötsligt avvikande körförloppet och min bristande kontaktbarhet. Ambulansen hade samtidigt de övriga uppgifterna som checklistan krävde.

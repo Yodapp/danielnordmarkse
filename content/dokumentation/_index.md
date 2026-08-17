@@ -16,7 +16,7 @@ Vårdpersonal tas bara med när de är relevanta för berättelsen. Anna och Mag
 ### Ambulansjournal
 
 - **Datum:** 25 juni 2024
-- **Belyser:** RETTS-bedömningen gul, ESS 53 (nytillkommet avvikande beteende), minneslucka, sluddrigt tal, flimmer och noteringen att polisen tar med patienten för drogscreening.
+- **Belyser:** RETTS-bedömningen gul, ESS 53 (nytillkommet avvikande beteende), minneslucka, flimmer och noteringen att polisen tar med patienten för drogscreening.
 - **Referens:** Uppdragsnummer 6347670.
 - **Status:** Inte publicerat på webbplatsen.
 
