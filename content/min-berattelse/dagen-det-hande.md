@@ -6,21 +6,19 @@ weight: 1
 ---
 
 
-Jag mådde bra den dagen. Jag var 44 år och frisk, på gott humör, och hade inga planer utöver att träffa några vänner och svalka mig i vattnet. Ingenting kändes ovanligt.
+Jag såg fram emot en härlig dag. Allt kändes som en perfekt sommardag. Jag var på bra humör. Jag var på väg för att träffa några vänner, bada och tillbringa dagen vid stranden. Jag hade inte känt något ovanligt.
 
-Jag hade ingen aning om vad som höll på att hända i min kropp.
+Det började plötsligt flimra framför ögonen. Jag har alltid haft perfekt syn, men nu blev allt extremt suddigt och grumligt, och just där jag försökte fokusera blicken gick det inte att se annat än diffusa former och färger. Jag kisade och tittade med ett öga i taget för att rensa synen, men det suddiga låg kvar på exakt det ställe jag försökte se. För att komma förbi det vred jag på huvudet och använde periferiseendet i stället.
 
-Sedan kom symtomen. Utan förvarning.
+Samtidigt blev jag väldigt yr, och jag fick en extrem huvudvärk.
 
-Först blev jag väldigt yr. Sedan slutade synen fungera som den skulle — jag kisade och försökte se med ett öga i taget. Samtidigt kom en extrem huvudvärk.
+Tanken på att bada försvann. Jag körde sakta och ville bara ta mig hem, lägga mig ner och vila.
 
-Jag förstod inte vad som hände. Tanken på att bada försvann. Jag ville bara hem och lägga mig. Jag saktade ner och körde vidare.
+Jag blev inte rädd. Jag var en frisk 44-åring. Att det skulle bero på något farligt kändes väldigt avlägset.
 
-Rädd blev jag inte. Jag var ju frisk. Att det kunde vara något farligt kändes helt främmande.
+Jag minns inte kraschen.
 
-Jag minns inte själva kraschen.
-
-Men jag minns smällen — det small till på vänster framsida av bilen. Jag var säker på att någon hade kört in i mig.
+Men jag minns att det smällde till på vänster fram på min bil. Jag trodde att jag hade blivit påkörd.
 
 Nästa minne börjar med ett högt bankande mot bilrutan. Det kändes som att jag vaknade till. Utanför stod en polis som med hög och nästan hotfull röst beordrade mig att veva ner rutan.
 
