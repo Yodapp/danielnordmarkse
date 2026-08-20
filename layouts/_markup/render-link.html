@@ -1,0 +1,28 @@
+{{- /*
+  danielnordmark.se — link render hook.
+  Bygger på Congo v2:s render-link (intern .md-upplösning bevaras) och lägger till:
+  - target/rel + extern-ikon + skärmläsartext för ÄKTA externa länkar
+  - egna domänen (danielnordmark.se) räknas som intern även med absolut https-URL
+*/ -}}
+{{- $link := .Destination -}}
+{{- $isRemote := strings.HasPrefix $link "http" -}}
+{{- if not $isRemote }}
+  {{- $url := urls.Parse .Destination -}}
+  {{- if $url.Path }}
+    {{- $fragment := "" }}
+    {{- with $url.Fragment }}{{ $fragment = printf "#%s" . }}{{ end -}}
+    {{- with .Page.GetPage $url.Path }}
+      {{ $link = printf "%s%s" .Permalink $fragment }}
+    {{ else }}
+      {{- if hasSuffix $url.Path ".md" }}
+        {{ warnf "[CONGO] Can't resolve: %s" .Destination }}
+      {{ end -}}
+    {{ end -}}
+  {{ end -}}
+{{ end -}}
+{{- $isExternal := false -}}
+{{- if $isRemote -}}
+  {{- $host := (urls.Parse .Destination).Host -}}
+  {{- $isExternal = and $host (not (in (slice "danielnordmark.se" "www.danielnordmark.se") $host)) -}}
+{{- end -}}
+<!-- prettier-ignore --><a href="{{ $link | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $isExternal }} target="_blank" rel="noopener noreferrer" class="dn-external"{{ end }}>{{- .Text | safeHTML -}}{{- if $isExternal }}<svg class="dn-external-icon" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg><span class="dn-external-note"> (öppnas i ny flik)</span>{{- end }}</a>

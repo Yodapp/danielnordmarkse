@@ -111,13 +111,33 @@ Vittne B beskrev körning på gräs, mycket vinglig körning, stopp och start oc
 Ambulansen dokumenterade RLS 1, minneslucka, flimmer för ögonen och nytillkommet avvikande beteende. Den totala triagefärgen var GUL.
 {{< /kallruta >}}
 
-Poliserna satt alltså på den del av helhetsbilden som saknas i ambulansens dokumenterade beslutsunderlag: deras egna iakttagelser av förvirring, slöhet och sluddrigt tal samt vittnenas mer utförliga beskrivning av det plötsligt avvikande körförloppet och min bristande kontaktbarhet. Ambulansen hade samtidigt de övriga uppgifterna som checklistan krävde.
+Poliserna visste det kritiska som saknades i ambulansens beslutsunderlag: förvirringen, slöheten, det sluddriga talet, den vingliga körningen och att jag inte var kontaktbar. Ambulansen hade en mycket begränsad bild av händelsen. Men lägger man ihop det polisen visste med ambulansens journal, var det utan tvekan en misstänkt stroke som skulle ha triggat ett strokelarm.
 
 {{< strokejamforelse >}}
 
-Poliserna behövde inte diagnostisera stroke. De behövde föra vidare den samlade information de hade så att sjukvården kunde bedöma den. Det som kan kontrolleras i efterhand är dokumentationen. Där finns drogscreeningen och polisens övertagande. Den neurologiska helhetsbild som poliserna själva hade finns inte i ambulansens beslutsunderlag.
+### Polisens eget uppdrag
 
-Om polisen senare skulle hävda att allt ändå sades muntligt måste den uppgiften kunna prövas mot vad polis och ambulans var skyldiga att dokumentera. Vem fick informationen? Vilka uppgifter lämnades? När skedde det? Inget av det går att följa i handlingarna. Ett odokumenterat påstående kan inte ersätta en dokumenterad överlämning när konsekvenserna blev så allvarliga.
+Polisen gör ett viktigt jobb, precis som all blåljuspersonal.
+
+I mitt fall var de först på plats, och de fick snabbt ihop den kritiska informationen: mina symtom och vittnenas beskrivning av körningen. De hade allt som behövdes.
+
+De behövde inte ställa diagnos. På en olycksplats har varje blåljustjänst sin roll — polisen utreder brott, ambulansen ansvarar för vården. Polisens del var att lämna över det de sett och det vittnena sagt, och låta vården bedöma det. Ordningen står i deras egen beskrivning:
+
+> **Polisen om sitt uppdrag vid trafikolyckor**
+> *"Vid trafikolyckor biträder polisen räddningstjänsten i arbetet med att rädda liv och begränsa skador, samt utreder om det är ett brott som ligger bakom olyckan."* — [polisen.se](https://polisen.se/om-polisen/polisens-arbete/trafikolyckor/)
+
+Rädda liv först. Utreda brott sist.
+
+Men i stället för att föra vidare det de visste gav poliserna sin egen tolkning. Då saknade ambulansens checklista för misstänkt stroke kritiska pusselbitar.
+
+Samma sida ger till och med råd till förbipasserande:
+
+> **Polisens råd till allmänheten**
+> *"Chockade människor har en tendens att vandra iväg in i skogen eller ut på vägen."* — [polisen.se](https://polisen.se/om-polisen/polisens-arbete/trafikolyckor/)
+
+Ingen vet det bättre än polisen. Ändå släppte de mig, dokumenterat förvirrad, att gå ensam. Jag vandrade 5,3 kilometer och kollapsade i en skogsdunge. Precis det de varnar andra för.
+
+Poliser ska sköta sitt jobb. Det gör dem inte till hjältar — det är deras skyldighet. Här gjorde de inte det, och priset blev en förvärrad hjärnskada och en sjukvård som aldrig fick chansen att bedöma mig rätt.
 
 Det föreskrivna nästa steget var strokelarm. Vad röntgen därefter hade visat och vilken behandling jag hade fått går inte att fastställa i efterhand. Men möjligheten till en akut läkarbedömning, bilddiagnostik och individuell prövning av trombolys eller trombektomi gick förlorad.
 
