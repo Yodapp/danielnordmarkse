@@ -37,9 +37,37 @@ Jag hade ett enda mål på sjukhuset: att komma därifrån så snabbt som möjli
 
 Jag visste logiskt att jag låg på ett sjukhus. Men känslan var en annan — att jag var inlåst mot min vilja. Jag delade sal med två andra patienter, båda betydligt äldre än jag. De klarade inte att äta själva, inte att gå på toaletten själva. Det stärkte känslan av att jag måste ha hamnat på fel ställe.
 
-Så jag bestämde mig för att visa vårdpersonalen att jag var fysiskt pigg och frisk. På dagarna gjorde jag chins vid ribbstolen — redskapet som används för att träna strokedrabbade att kunna resa sig upp. Jag gjorde dips i barren som strokedrabbade använder för att träna på att gå. Rehabutrustning för människor som jag, använd som gym av en man som inte förstod att han var en av dem.
+Första kvällen frågade personalen om jag kunde gå på toaletten själv. Jag förstod inte ens frågan. I mitt huvud var jag en frisk 44-årig man i förhållandevis bra form — det är väl självklart att jag vet hur man använder en toalett? Att de noterade att jag var vinglig och skrev *"fallrisk"* i journalen märkte jag ingenting av.
 
-Min säng stod närmast fönstret, med utsikt över Falun. Jag låg där och väntade på att någon skulle upptäcka misstaget.
+Jag var övertygad om att de blandat ihop mig med någon annan, och jag tänkte bevisa det. Det står i journalen att jag gick på toaletten väldigt många gånger på nätterna. Där inne, när jag trodde att ingen såg, gjorde jag så många armhävningar jag orkade och sköljde ansiktet i iskallt vatten. Sedan smög jag tillbaka till sängen och försökte dölja att jag inte fick en blund — jag var ju pigg som helst.
+
+Men det var ingen vanlig sjukhussäng. Jag låg på avdelning 26 — strokeavdelningen på Falu lasarett, Dalarnas största sjukhus — på en övervakningssal med personal dygnet runt. Dit läggs man inte in för att vila.
+
+Skälen var flera. De hade sett en stor förändring i min högra hjärnhalva och visste ännu inte vad det var — en tumör eller en stroke — och den måste utredas och hållas under ständig uppsikt. Mitt hjärta pumpade dessutom alldeles för svagt, bara runt 20 procent, och en stor blodpropp satt fast på insidan av hjärtats vänstra kammare. Blodförtunningen var precis insatt, och de var livrädda att en ny bit av proppen skulle lossna och ge mig ännu en stroke.
+
+De gjorde täta neurologiska kontroller dygnet runt — NIHSS, testet som mäter hur en stroke slår mot hjärnan — och frågade om och om igen om jag hade ont någonstans, särskilt i huvudet. Samtidigt var jag ständigt inkopplad till apparater som bevakade hjärtat: puls, rytm, syresättning. Jag lärde mig deras rutiner och tajmade mina pass efter dem, så gott jag kunde. På dagarna körde jag chins och dips vid rehabredskapen, två gånger i timmen från morgon till kväll — redskapen som är till för strokedrabbade, använda som gym av en man som inte förstod att han var en av dem.
+
+En natt hittade personalen min hjärtmätare — Holtern — på golvet, avplockad. Jag sa att jag inte tagit av den. Sanningen var att jag säkert hade gjort det, men jag mindes det inte. Så mitt svar var ärligt, ord för ord.
+
+{{< kallruta typ="journal" kalla="Sjuksköterska Michaela, avd 26" tid="3 juli 2024" >}}
+*"Vid tillsyn kl 05 hittas Holtern på golvet avplockad. Patienten uppger att han själv inte tagit av den."*
+{{< /kallruta >}}
+
+Mest av allt låg jag och väntade på att det skulle bli morgon — frukost, och några att prata med igen.
+
+En annan natt fick jag en briljant idé: jag skulle smyga ut i korridoren och vrida fram klockan. Då skulle frukosten komma tidigare. Att personalens hela uppgift var att bevaka varenda rörelse vi gjorde bekymrade mig inte det minsta — jag var övertygad om att jag skulle glida förbi obemärkt.
+
+Jag tog mig tappert och "diskret" mot dörren. Sjuksköterskan Michaela frågade vänligt: *"Daniel, vart ska du?"*
+
+"Jag ska bara fixa en sak."
+
+"Men är det inte bättre att du lägger dig och försöker vila?"
+
+{{< kallruta typ="journal" kalla="Sjuksköterska Michaela, avd 26" tid="4 juli 2024, 00:43" >}}
+*"Vrider och vänder sig i sängen, är upp på toaletten x flera. Är vid ett tillfälle på väg ut från salen, uppger att han inte känner sig trött. Nekar till oro eller andra besvär."*
+{{< /kallruta >}}
+
+Jag kände mig normal, så jag bara körde på. I efterhand tror jag att det på sätt och vis räddade mig — att jag inte förstod hur nära döden jag varit. Jag levde i min egen lilla bubbla, pratglad och lite flörtig med sjuksköterskorna, utan att fatta att jag var en av patienterna.
 
 Personalen på sjukhuset var bra. Det var inte deras bemötande som fick mig att känna mig inlåst.
 

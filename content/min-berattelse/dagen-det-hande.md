@@ -139,8 +139,6 @@ Ingen vet det bättre än polisen. Ändå släppte de mig, dokumenterat förvirr
 
 Poliser ska sköta sitt jobb. Det gör dem inte till hjältar — det är deras skyldighet. Här gjorde de inte det, och priset blev en förvärrad hjärnskada och en sjukvård som aldrig fick chansen att bedöma mig rätt.
 
-Det föreskrivna nästa steget var strokelarm. Vad röntgen därefter hade visat och vilken behandling jag hade fått går inte att fastställa i efterhand. Men möjligheten till en akut läkarbedömning, bilddiagnostik och individuell prövning av trombolys eller trombektomi gick förlorad.
-
 ### Min anklagelse mot Polis T och Polis S
 
 Min anklagelse är rak: ni fick tunnelseende. Ni såg mig enbart som brottsmisstänkt och låste er vid teorin att jag var *"tydligt narkotikapåverkad"*. Sedan lät ni den teorin styra trots att era egna anteckningar och förhör beskrev något helt annat: förvirring, slöhet, sluddrigt tal, desorientering, en bil som vinglade och körde på fel sida och ett vittne som inte fick kontakt med mig.
