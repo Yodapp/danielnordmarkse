@@ -44,6 +44,14 @@ Det kan se ut som berusning. Det kan se ut som psykisk påverkan. Det kan se ut 
 
 Det kan vara stroke. Chansa inte. Ring 112.
 
+## NIHSS — så mäter vården en stroke
+
+[NIHSS](https://www.gu.se/neurovetenskap-fysiologi/nih-strokeskala-nihss) (*National Institutes of Health Stroke Scale*) är den skala vården använder för att bedöma hur allvarlig en stroke är. Sjukvårdaren går igenom en fast checklista — medvetande, blick, synfält, ansikte, arm- och benstyrka, känsel, tal och språk — och sätter poäng. Noll betyder inga strokesymtom; ju högre poäng, desto svårare stroke.
+
+En av punkterna på skalan är **neglekt**. Skalan är alltså byggd för att fånga precis den sortens symtom som är lätta att missa och lätta att förväxla med annat.
+
+Poängen hjälper vården att snabbt bestämma behandling och att följa hur tillståndet förändras. Men skalan kan bara användas av den som får chansen att göra bedömningen.
+
 ## Post-stroke fatigue
 
 Post-stroke fatigue, som också kallas hjärntrötthet efter stroke, är en stark trötthet som kan uppstå även efter liten fysisk eller mental ansträngning. Den skiljer sig från vanlig trötthet genom att vila inte alltid hjälper på samma sätt och att återhämtningen kan ta lång tid.
@@ -93,5 +101,6 @@ Du behöver inte vara sjukvårdare för att göra skillnad.
 
 - [Socialstyrelsens nationella riktlinjer för vård vid stroke](https://www.socialstyrelsen.se/kunskapsstod-och-regler/regler-och-riktlinjer/nationella-riktlinjer/riktlinjer-och-utvarderingar/stroke/)
 - [Nationell arbetsgrupp (NAG) Stroke — Riktlinje för handläggning av reperfusionsbehandling vid ischemisk stroke, version 4, 2024-02-27](https://vardpersonal.1177.se/globalassets/nkk/nationell/media/dokument/kunskapsstod/vardriktlinjer/riktlinje-for-handlaggning-av-reperfusionsbehandling-vid-ischemisk-stroke.pdf)
+- [NIH strokeskala (NIHSS) — Göteborgs universitet](https://www.gu.se/neurovetenskap-fysiologi/nih-strokeskala-nihss)
 - [Strokeförbundet](https://www.strokeforbundet.se/)
 - [1177 — Stroke](https://www.1177.se/sjukdomar--besvar/hjarna-och-nerver/stroke-och-tia/stroke/)
