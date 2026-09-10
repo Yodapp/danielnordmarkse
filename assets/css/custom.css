@@ -220,8 +220,8 @@
 .dn-register__item {
   position: relative;
   margin: 0;
-  padding: 0 0 1.5rem 1.75rem;
-  border-left: 2px solid rgb(var(--color-neutral-300));
+  padding: 0 0 1.85rem 2rem;
+  border-left: 2px solid rgb(var(--color-neutral-200));
 }
 
 .dark .dn-register__item {
@@ -235,34 +235,42 @@
 .dn-register__item::before {
   content: "";
   position: absolute;
-  left: -6px;
-  top: 0.35rem;
-  width: 10px;
-  height: 10px;
+  left: -7px;
+  top: 0.3rem;
+  width: 12px;
+  height: 12px;
   border-radius: 9999px;
-  background: rgb(var(--color-neutral-400));
+  background: rgb(var(--dn-accent));
+  box-shadow: 0 0 0 4px rgb(var(--color-neutral-50));
 }
 
 .dark .dn-register__item::before {
-  background: rgb(var(--color-neutral-500));
+  box-shadow: 0 0 0 4px rgb(var(--color-neutral-900));
 }
 
 .dn-register__time {
-  display: block;
+  display: inline-block;
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas,
     "Liberation Mono", monospace;
-  font-size: 0.8125rem;
+  font-size: 0.8rem;
   font-weight: 700;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.06em;
   color: rgb(var(--dn-accent));
-  margin-bottom: 0.25rem;
+  background: rgb(var(--color-neutral-100));
+  padding: 0.18rem 0.55rem;
+  border-radius: 7px;
+  margin-bottom: 0.55rem;
+}
+
+.dark .dn-register__time {
+  background: rgb(var(--color-neutral-800));
 }
 
 .dn-register__text {
   display: block;
   margin: 0;
-  font-size: 0.95em;
-  line-height: 1.65;
+  font-size: 1rem;
+  line-height: 1.7;
   color: rgb(var(--color-neutral-700));
 }
 

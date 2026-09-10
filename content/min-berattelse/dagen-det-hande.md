@@ -181,8 +181,6 @@ Sedan vändes min egen sjukdom emot mig. De exakta tecknen på stroken — det s
 
 Medan de utredde ett brott fortsatte proppen att blockera blodflödet i min hjärna. Den stroke som i tid hade kunnat mötas med propplösande behandling tilläts i stället växa till en bestående hjärnskada på 10,6 × 6,5 × 3,3 centimeter.
 
-{{< behandlingsfonster >}}
-
 ## På akuten — tre minuter
 
 {{< bild src="img/bilder/karta-sturegatan-akuten.png" alt="Karta som visar vägen från olycksplatsen på Sturegatan till Falu Lasarett." bildtext="Vägen från Sturegatan till Falu Lasarett." >}}
