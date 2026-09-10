@@ -149,7 +149,7 @@ Genom att låta brottsmisstanken gå före den medicinska helhetsbilden gjorde n
 
 ## Beslutet klockan 14:43
 
-I 112-samtalet hade Vittne A upprepade gånger sagt att jag verkade full. Polisen anlände med den bilden.
+I 112-samtalet gissade den andra föraren först att jag var full. Men det var inte det han fastnade vid. Genom samtalet återkom han i stället till att något var allvarligt fel med mig: *"jag tror inte att den andra mådde bra"*, *"han är inte med i matchen, jag vet inte om han kan vara sjuk"*, *"jag vet inte vad det är med den andra"* — och han frågade *"kunde det komma någon fort?"*. Det vittnet bar med sig var oro för min hälsa. Det polisen tog med sig var ordet "full".
 
 Enligt mitt minne fick jag blåsa för alkohol och resultatet var noll. Något provresultat finns inte i de polisiära handlingar jag har fått ut. I stället skiftade misstanken från alkohol till narkotika.
 
