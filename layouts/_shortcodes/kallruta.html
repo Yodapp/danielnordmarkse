@@ -11,8 +11,10 @@
 <aside class="dn-source-card dn-source-card--{{ $typ }} not-prose" aria-label="{{ $etikett }}">
   <div class="dn-source-card__meta">
     <span class="dn-source-card__type">{{ $etikett }}</span>
-    {{- with .Get "kalla" }}<span class="dn-source-card__source">{{ . }}</span>{{ end -}}
-    {{- with .Get "tid" }}<time class="dn-source-card__time">{{ . }}</time>{{ end -}}
+    <span class="dn-source-card__details">
+      {{- with .Get "kalla" }}<span class="dn-source-card__source">{{ . }}</span>{{ end -}}
+      {{- with .Get "tid" }}<time class="dn-source-card__time">{{ . }}</time>{{ end -}}
+    </span>
   </div>
   <div class="dn-source-card__body">{{ .Page.RenderString (strings.TrimSpace .Inner) }}</div>
 </aside>

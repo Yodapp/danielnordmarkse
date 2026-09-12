@@ -6,7 +6,11 @@
   {{- $stories = $stories.ByWeight }}
   {{- $total := len $stories }}
   {{- $part := 0 }}
+  {{- $previous := false }}
+  {{- $next := false }}
   {{- range $i, $s := $stories }}{{ if eq $s.RelPermalink $.RelPermalink }}{{ $part = add $i 1 }}{{ end }}{{- end }}
+  {{- if gt $part 1 }}{{ $previous = index $stories (sub $part 2) }}{{ end }}
+  {{- if and (gt $part 0) (lt $part $total) }}{{ $next = index $stories $part }}{{ end }}
   <article class="dn-chapter">
     <header class="dn-chapter__header max-w-prose">
       <div class="dn-chapter__eyebrow print:hidden">
@@ -54,24 +58,29 @@
         {{ .Content | emojify }}
       </div>
     </section>
-    <footer class="max-w-prose pt-8 print:hidden">
-      <nav class="dn-chapter-nav" aria-label="Fler delar av berättelsen">
-        <details>
-          <summary>Fler delar av berättelsen</summary>
-          <ol>
-            {{ range $stories }}
-              <li>
-                <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $.RelPermalink }} aria-current="page"{{ end }}>
-                  {{ .Title }}
-                </a>
-              </li>
-            {{ end }}
-          </ol>
-        </details>
+    <footer class="dn-chapter__footer pt-8 print:hidden">
+      <nav class="dn-chapter-steps" aria-label="Fortsätt läsa berättelsen">
+        <p class="dn-section-label">Fortsätt berättelsen</p>
+        <div class="dn-chapter-steps__grid">
+          {{ with $previous }}
+            <a class="dn-chapter-step dn-chapter-step--previous" href="{{ .RelPermalink }}">
+              <span class="dn-chapter-step__direction"><span aria-hidden="true">←</span> Föregående del</span>
+              <strong>{{ .Title }}</strong>
+              <span>{{ .Params.period }}</span>
+            </a>
+          {{ end }}
+          {{ with $next }}
+            <a class="dn-chapter-step dn-chapter-step--next" href="{{ .RelPermalink }}">
+              <span class="dn-chapter-step__direction">Nästa del <span aria-hidden="true">→</span></span>
+              <strong>{{ .Title }}</strong>
+              <span>{{ .Params.period }}</span>
+            </a>
+          {{ end }}
+        </div>
+        <a class="dn-chapter-steps__overview" href="{{ "/min-berattelse/" | relLangURL }}">Se alla sju kapitel</a>
       </nav>
       {{ partial "author.html" . }}
       {{ partial "sharing-links.html" . }}
-      {{ partial "article-pagination.html" . }}
       {{ if .Params.showComments | default (.Site.Params.article.showComments | default false) }}
         {{ if templates.Exists "_partials/comments.html" }}
           <div class="pt-3">

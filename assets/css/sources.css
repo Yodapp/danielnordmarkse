@@ -1,0 +1,63 @@
+/* Shared visual grammar for evidence excerpts and sourced quotations. */
+.dn-source-card,
+.dn-quote-card {
+  --dn-source-accent: rgb(var(--color-neutral-500));
+  border-left-color: var(--dn-source-accent);
+  border-radius: 3px;
+}
+
+.dn-source-card--polis { --dn-source-accent: rgb(var(--dn-accent)); }
+.dn-source-card--ambulans { --dn-source-accent: #2563a6; }
+.dn-source-card--journal { --dn-source-accent: #6d4aa0; }
+.dn-source-card--minne { --dn-source-accent: #9a6505; }
+.dn-source-card--rekonstruktion { --dn-source-accent: #177258; }
+.dn-source-card__meta {
+  display: grid;
+  grid-template-columns: minmax(9rem, auto) minmax(0, 1fr);
+  align-items: start;
+  gap: .45rem 1rem;
+  padding: .9rem 1.1rem;
+}
+
+.dn-source-card__type { color: var(--dn-source-accent); font-size: .75rem; }
+.dn-source-card__details { display: flex; flex-wrap: wrap; gap: .25rem .9rem; }
+.dn-source-card__source,
+.dn-source-card__time { font-size: .78rem; line-height: 1.45; }
+.dn-source-card__time::before { content: "·"; margin-right: .9rem; color: rgb(var(--color-neutral-400)); }
+
+.dn-source-card__body { padding: 1.25rem 1.35rem; font-size: 1.08rem; line-height: 1.7; }
+.dn-quote-card {
+  margin: clamp(2.25rem, 5vw, 3.75rem) 0;
+  overflow: hidden;
+  border: 1px solid rgb(var(--color-neutral-200));
+  border-left: 4px solid var(--dn-source-accent);
+  background: rgb(var(--color-neutral-50));
+}
+
+.dark .dn-quote-card { border-color: rgb(var(--color-neutral-700)); border-left-color: var(--dn-source-accent); background: rgb(var(--color-neutral-800)); }
+.dn-quote-card blockquote {
+  margin: 0;
+  padding: 1.35rem;
+  border: 0;
+  color: rgb(var(--color-neutral-900));
+  font-family: var(--dn-serif);
+  font-size: clamp(1.25rem, 3vw, 1.6rem);
+  font-style: italic;
+  font-weight: 500;
+  line-height: 1.5;
+  quotes: none;
+}
+
+.dark .dn-quote-card blockquote { color: rgb(var(--color-neutral-100)); }
+.dn-quote-card blockquote::before,
+.dn-quote-card blockquote::after { content: none; }
+.dn-quote-card blockquote > :first-child { margin-top: 0; }
+.dn-quote-card blockquote > :last-child { margin-bottom: 0; }
+
+@media (max-width: 639px) {
+  .dn-source-card__meta { grid-template-columns: 1fr; }
+  .dn-source-card__time { display: block; width: 100%; }
+  .dn-source-card__time::before { content: none; margin: 0; }
+  .dn-source-card__body,
+  .dn-quote-card blockquote { padding: 1.1rem; }
+}

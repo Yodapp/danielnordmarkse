@@ -1,1 +1,22 @@
-<blockquote class="dn-citat">{{ .Page.RenderString (strings.TrimSpace .Inner) }}</blockquote>
+{{- $typ := .Get "typ" -}}
+{{- if $typ -}}
+  {{- $etiketter := dict
+    "polis" "Polisens dokumentation"
+    "ambulans" "Ambulansjournalen"
+    "journal" "I journalen"
+    "dokument" "I handlingarna"
+  -}}
+  {{- $etikett := index $etiketter $typ | default "I handlingarna" -}}
+  <figure class="dn-quote-card dn-source-card--{{ $typ }} not-prose">
+    <figcaption class="dn-source-card__meta">
+      <span class="dn-source-card__type">{{ $etikett }}</span>
+      <span class="dn-source-card__details">
+        {{- with .Get "kalla" }}<span class="dn-source-card__source">{{ . }}</span>{{ end -}}
+        {{- with .Get "tid" }}<time class="dn-source-card__time">{{ . }}</time>{{ end -}}
+      </span>
+    </figcaption>
+    <blockquote>{{ .Page.RenderString (strings.TrimSpace .Inner) }}</blockquote>
+  </figure>
+{{- else -}}
+  <blockquote class="dn-citat">{{ .Page.RenderString (strings.TrimSpace .Inner) }}</blockquote>
+{{- end -}}
