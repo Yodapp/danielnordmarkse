@@ -460,8 +460,8 @@
 
 .dn-hero__intro {
   font-size: 1.25rem;
-  line-height: 1.75;
-  max-width: 38rem;
+  line-height: 1.7;
+  max-width: 44rem;
   margin: 0 0 2.5rem;
   color: rgb(var(--color-neutral-900));
 }
