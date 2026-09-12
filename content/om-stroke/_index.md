@@ -1,6 +1,7 @@
 ---
 title: "Om stroke"
 description: "Faktainformation om stroke — vad det är, hur man känner igen det, och varför varje minut räknas."
+showTableOfContents: true
 ---
 
 Det här är inte min berättelse. Det här är faktainformation om stroke — vad det är, hur man känner igen det, och varför varje minut räknas. Den är skriven för alla som möter stroke: drabbade, anhöriga, sjukvårdspersonal, polis, räddningstjänst — och alla andra.

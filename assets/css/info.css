@@ -1,0 +1,90 @@
+.dn-info-page { max-width: 1080px; margin-inline: auto; }
+.dn-info-header { max-width: 48rem; padding-top: clamp(1rem, 4vw, 3rem); }
+.dn-info-header h1 {
+  margin: .55rem 0 1rem;
+  font-family: var(--dn-serif);
+  font-size: clamp(2.8rem, 7vw, 5.25rem);
+  font-weight: 600;
+  letter-spacing: -.04em;
+  line-height: 1.02;
+}
+
+.dn-info-header__dek {
+  max-width: 42rem;
+  margin: 0;
+  color: rgb(var(--color-neutral-600));
+  font-family: var(--dn-serif);
+  font-size: clamp(1.15rem, 2.4vw, 1.45rem);
+  line-height: 1.55;
+  text-wrap: pretty;
+}
+
+.dark .dn-info-header__dek { color: rgb(var(--color-neutral-300)); }
+.dn-info-body { margin-top: clamp(2.5rem, 6vw, 4.5rem); }
+.dn-info-body__content { max-width: 68ch; }
+.dn-info-body__content > p:first-child { margin-top: 0; }
+.dn-info-body__content > h2 {
+  margin-top: 2.75em;
+  padding-top: .65em;
+  border-top: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark .dn-info-body__content > h2 { border-color: rgb(var(--color-neutral-700)); }
+
+/* The journalist summary is a factual event sequence. */
+.dn-info-page--for-journalister .dn-info-body__content > h2:first-of-type + ul {
+  margin-block: 1.75rem 2.5rem;
+  padding: 0;
+  border-top: 1px solid rgb(var(--color-neutral-300));
+  list-style: none;
+}
+
+.dn-info-page--for-journalister .dn-info-body__content > h2:first-of-type + ul li {
+  margin: 0;
+  padding: .85rem 0 .85rem 1.25rem;
+  border-bottom: 1px solid rgb(var(--color-neutral-300));
+  border-left: 3px solid rgb(var(--dn-accent));
+}
+
+.dark .dn-info-page--for-journalister .dn-info-body__content > h2:first-of-type + ul,
+.dark .dn-info-page--for-journalister .dn-info-body__content > h2:first-of-type + ul li { border-color: rgb(var(--color-neutral-700)); }
+
+/* Contact portrait and form. */
+.dn-info-page--kontakt .dn-figure--contact {
+  float: right;
+  width: min(15rem, 38%);
+  margin: 0 0 2rem 2.5rem;
+}
+
+.dn-info-page--kontakt .dn-figure--contact img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: 50% 69%;
+}
+
+.dn-info-page--kontakt hr { clear: both; margin-top: 3rem; }
+.dn-contact-form {
+  clear: both;
+  max-width: 38rem;
+  padding: clamp(1.25rem, 4vw, 2rem);
+  border: 1px solid rgb(var(--color-neutral-300));
+  background: rgb(var(--color-neutral-100));
+}
+
+.dark .dn-contact-form { border-color: rgb(var(--color-neutral-700)); background: rgb(var(--color-neutral-800)); }
+.dn-contact-form :is(input, textarea) {
+  min-height: 3rem;
+  border-radius: 3px;
+  background: rgb(var(--color-neutral-50));
+}
+
+.dark .dn-contact-form :is(input, textarea) { background: rgb(var(--color-neutral-900)); }
+.dn-contact-form textarea { min-height: 10rem; }
+.dn-contact-form button { min-height: 3rem; border-radius: 3px; padding-inline: 1.4rem; font-weight: 700; }
+
+@media (max-width: 639px) {
+  .dn-info-page--kontakt .dn-figure--contact { float: none; width: 100%; max-width: none; margin: 0 0 2rem; }
+  .dn-info-page--kontakt .dn-figure--contact img { aspect-ratio: 5 / 4; }
+  .dn-contact-form { padding: 1rem; }
+}

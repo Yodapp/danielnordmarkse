@@ -1,6 +1,7 @@
 ---
 title: "För journalister"
 description: "Det här hände Daniel Nordmark den 25 juni 2024 — kort sammanfattning, dokumenterade fakta och kontakt för journalister."
+showTableOfContents: true
 ---
 
 Jag heter Daniel Nordmark. Den 25 juni 2024 fick jag en stor stroke mitt i en trafikolycka i Falun. Polisen tolkade min stroke som narkotikapåverkan, förde mig till akuten för ett polisiärt blodprov — inte för vård — och lämnade mig sedan ensam. Jag fick diagnos först sju dygn senare.

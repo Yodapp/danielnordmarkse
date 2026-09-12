@@ -1,23 +1,27 @@
 {{ define "main" }}
   {{ $toc := and (.Params.showTableOfContents | default (.Site.Params.list.showTableOfContents | default false)) (in .TableOfContents "<ul") }}
-  <header>
-    {{ if .Params.showBreadcrumbs | default (.Site.Params.list.showBreadcrumbs | default false) }}
-      {{ partial "breadcrumbs.html" . }}
-    {{ end }}
-    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
-  </header>
-  <section class="{{ if $toc }}mt-12{{ else }}mt-0{{ end }} prose flex max-w-full flex-col dark:prose-invert lg:flex-row">
-    {{ if $toc }}
-      <div class="order-first px-0 lg:order-last lg:max-w-xs lg:ps-8">
-        <div class="toc ps-5 lg:sticky lg:top-10">
-          {{ partial "toc.html" . }}
+  <article class="dn-info-page dn-info-page--{{ .Section }}">
+    <header class="dn-info-header">
+      {{ if .Params.showBreadcrumbs | default (.Site.Params.list.showBreadcrumbs | default false) }}
+        {{ partial "breadcrumbs.html" . }}
+      {{ end }}
+      <p class="dn-section-label">{{ if eq .Section "om-stroke" }}Kunskap som kan rädda liv{{ else if eq .Section "for-journalister" }}Bakgrund och underlag{{ else if eq .Section "kontakt" }}Kontakta Daniel Nordmark{{ else }}{{ .Title }}{{ end }}</p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="dn-info-header__dek">{{ . }}</p>{{ end }}
+    </header>
+    <section class="dn-info-body {{ if $toc }}mt-12{{ else }}mt-0{{ end }} prose flex max-w-full flex-col dark:prose-invert lg:flex-row">
+      {{ if $toc }}
+        <div class="order-first px-0 lg:order-last lg:max-w-xs lg:ps-8">
+          <div class="toc ps-5 lg:sticky lg:top-10">
+            {{ partial "toc.html" . }}
+          </div>
         </div>
+      {{ end }}
+      <div class="dn-info-body__content min-h-0 min-w-0 max-w-prose grow">
+        {{ .Content | emojify }}
       </div>
-    {{ end }}
-    <div class="min-h-0 min-w-0 max-w-prose grow">
-      {{ .Content | emojify }}
-    </div>
-  </section>
+    </section>
+  </article>
   {{ with .Data.Pages }}
     <section>
       {{ if $.Params.groupByYear | default ($.Site.Params.list.groupByYear | default true) }}
