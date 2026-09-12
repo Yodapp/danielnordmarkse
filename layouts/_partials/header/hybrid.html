@@ -1,0 +1,29 @@
+<header class="dn-header print:hidden">
+  <div class="dn-header__bar">
+    {{ partial "logo.html" . }}
+    <div class="dn-header__tools">
+      {{ if .Site.Params.enableSearch }}
+        <button id="search-button-m1" class="dn-tool" type="button" aria-label="Sök på sajten" title="Sök (/)">
+          {{ partial "icon.html" "search" }}
+        </button>
+      {{ end }}
+      <button id="appearance-switcher-header" class="dn-tool" type="button" aria-label="Mörkt läge" aria-pressed="false" title="Mörkt läge">
+        <span class="dn-theme-moon">{{ partial "icon.html" "moon" }}</span>
+        <span class="dn-theme-sun">{{ partial "icon.html" "sun" }}</span>
+      </button>
+      <button id="dn-menu-toggle" class="dn-menu-toggle" type="button" aria-controls="dn-navigation" aria-expanded="false" hidden>
+        <span class="dn-menu-label">Meny</span>
+        <span class="dn-menu-glyph" aria-hidden="true"></span>
+      </button>
+    </div>
+  </div>
+  <nav id="dn-navigation" class="dn-navigation" aria-label="Huvudmeny">
+    <ul>
+      {{ range .Site.Menus.main }}
+        {{ $current := or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }}
+        {{ if and .Page (ne .Page.RelPermalink "/") (strings.HasPrefix $.RelPermalink .Page.RelPermalink) }}{{ $current = true }}{{ end }}
+        <li><a href="{{ .URL }}"{{ if $current }} aria-current="{{ if eq $.RelPermalink .URL }}page{{ else }}location{{ end }}"{{ end }}>{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+</header>

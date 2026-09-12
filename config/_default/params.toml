@@ -1,7 +1,7 @@
 colorScheme = "danielnordmark"
 enableSearch = true
 defaultAppearance = "light"
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 showAuthor = false
 showDate = false

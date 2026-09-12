@@ -1,0 +1,45 @@
+/* Shared reading surface. Component-specific styles remain in custom.css. */
+:root {
+  --dn-accent: 153, 38, 43;
+  --dn-serif: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+  --dn-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+.dark { --dn-accent: 243, 143, 139; }
+html { border-top: 4px solid rgb(var(--dn-accent)); scroll-padding-top: 1.5rem; }
+html body.flex { width: 100%; max-width: 1280px; padding-inline: clamp(1.25rem, 4vw, 3.5rem); font-family: var(--dn-sans); }
+body, .prose { -webkit-font-smoothing: antialiased; }
+.prose { font-family: var(--dn-serif); font-size: 1.1875rem; line-height: 1.75; }
+.prose h2 { margin-top: 2em; }
+.prose h3 { margin-top: 1.6em; }
+.prose :is(h1,h2,h3,h4) { font-family: var(--dn-sans); letter-spacing: -.025em; }
+.prose p { margin-block: 1.15em; }
+.max-w-prose { max-width: 66ch; }
+.dn-chapter { max-width: 1080px; margin-inline: auto; }
+#main-content > header, #main-content > section { max-width: 1080px; margin-inline: auto; }
+#main-content > header > h1, .dn-chapter__title { font-family: var(--dn-serif); font-size: clamp(2.3rem, 5vw, 3.75rem); font-weight: 600; letter-spacing: -.035em; line-height: 1.1; }
+.dn-chapter__header { margin-bottom: 2rem; }
+.dn-chapter__meta { margin-top: .8rem; font-size: .875rem; }
+.dn-hero { padding: 1.7rem 0 3rem; margin-bottom: 3rem; }
+.dn-hero__headline { max-width: 19ch; font-family: var(--dn-serif); font-size: clamp(2.7rem, 6.6vw, 5.3rem); font-weight: 600; letter-spacing: -.04em; line-height: 1.04; text-wrap: pretty; }
+.dn-hero__headline span { font-style: italic; }
+.dn-hero__intro { max-width: 40rem; color: rgb(var(--color-neutral-600)); font-size: 1.125rem; line-height: 1.7; }
+.dark .dn-hero__intro { color: rgb(var(--color-neutral-300)); }
+.dn-hero__cta { border-radius: 3px; font-weight: 650; }
+.dn-hero__label, .dn-section-label, .dn-accusation__eyebrow { font-size: .8125rem; font-weight: 650; letter-spacing: .08em; }
+.dn-case > h2, .dn-injury h2, .dn-before-after > h2, .dn-police-intro h2, .dn-accusation h2 { font-family: var(--dn-serif); font-size: clamp(1.9rem, 3.7vw, 2.8rem); font-weight: 600; line-height: 1.15; letter-spacing: -.03em; }
+.dn-before-after__grid, .dn-police-roles article, .dn-evidence__item, .dn-akut__card, .dn-toc { border-radius: 3px; }
+.dn-evidence__source, .dn-police-roles span, .dn-figure__caption { font-size: .875rem; }
+.dn-toc #TableOfContents a { font-size: .875rem; line-height: 1.5; }
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid rgb(var(--dn-accent)); outline-offset: 5px; }
+::selection { background: rgb(var(--dn-accent) / .18); }
+@media (max-width: 639px) {
+  .dn-header { margin-bottom: 1.8rem; }
+  .dn-hero { padding-top: .5rem; }
+  .dn-hero__headline { font-size: clamp(2.5rem, 10vw, 3.8rem); }
+  .prose { font-size: 1.125rem; }
+  .dn-hero__label { font-size: .75rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition-duration: 0s !important; }
+}
