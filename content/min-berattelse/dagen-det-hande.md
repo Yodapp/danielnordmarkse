@@ -8,31 +8,35 @@ showTableOfContents: true
 ---
 
 
-Jag såg fram emot en härlig dag. Allt kändes som en perfekt sommardag. Jag var på bra humör. Jag var på väg för att träffa några vänner, bada och tillbringa dagen vid stranden. Jag hade inte känt något ovanligt.
+Jag var på väg för att träffa några vänner, bada och tillbringa dagen vid stranden. Det var en varm och solig sommardag. Jag var på bra humör och hade inte känt något ovanligt.
 
-Det började plötsligt flimra framför ögonen. Jag har alltid haft perfekt syn, men nu blev allt extremt suddigt och grumligt, och just där jag försökte fokusera blicken gick det inte att se annat än diffusa former och färger. Jag kisade och tittade med ett öga i taget för att rensa synen, men det suddiga låg kvar på exakt det ställe jag försökte se. För att komma förbi det vred jag på huvudet och använde periferiseendet i stället.
+Sedan började det flimra framför ögonen.
 
-Samtidigt blev jag väldigt yr, och jag fick en extrem huvudvärk.
+Jag har alltid haft perfekt syn. Nu blev allt extremt suddigt och grumligt. Just där jag försökte fästa blicken såg jag bara diffusa former och färger. Jag kisade och tittade med ett öga i taget, men det suddiga låg kvar på exakt samma ställe. För att se förbi det vred jag på huvudet och använde periferiseendet.
+
+Samtidigt blev jag väldigt yr. Sedan kom en extrem huvudvärk.
 
 Tanken på att bada försvann. Jag körde sakta och ville bara ta mig hem, lägga mig ner och vila.
 
-Jag blev inte rädd. Jag var en frisk 44-åring. Att det skulle bero på något farligt kändes väldigt avlägset.
+Jag blev inte rädd. Jag var 44 år och såg mig som frisk. Tanken att något farligt höll på att hända kändes avlägsen.
 
-Jag minns inte kraschen.
+Sedan försvinner mitt sammanhängande minne.
 
-Men jag minns att det smällde till på vänster fram på min bil. Jag trodde att jag hade blivit påkörd.
+Nästa minnesbild är en smäll mot bilens vänstra framdel. Jag trodde att någon hade kört in i mig.
 
-Det var tvärtom. Det jag inte visste då, men vet i dag, är att stroken redan hade slagit ut min vänstra sida. En vänstersidig neglekt gjorde att jag aldrig uppfattade den stillastående bilen framför mig. Jag körde rakt in i den. Neglekten finns dokumenterad i min journal, och läkaren skrev att den sannolikt varit en bidragande orsak till olyckan.
+Det var tvärtom.
+
+Det jag inte visste då, men vet i dag, är att stroken redan hade slagit ut min vänstra sida. En vänstersidig neglekt gjorde att jag aldrig uppfattade den stillastående bilen framför mig. Jag körde rakt in i den. Neglekten finns dokumenterad i min journal, och läkaren skrev att den sannolikt varit en bidragande orsak till olyckan.
 
 {{< kallruta typ="journal" kalla="Min ansvariga läkare på avdelning 26" tid="5 juli 2024" >}}
 *"Neglekt vänster som sannolikt varit bidragande orsak till bilolycka."*
 {{< /kallruta >}}
 
-Nästa minne börjar med ett högt bankande mot bilrutan. Det kändes som att jag vaknade till. Utanför stod en polis som med hög röst beordrade mig att veva ner rutan.
+Sedan bankade det hårt mot bilrutan. Det kändes som att jag vaknade till. Utanför stod en polis som med hög röst beordrade mig att veva ner rutan.
 
 Jag förstod inte att jag hade krockat. Jag visste ungefär vilken väg jag var på.
 
-Det jag minns är att jag tyckte att det var mycket bilar och trångt. Jag körde sakta och försökte medvetet välja rätt fil för att ta mig framåt. Så gott jag minns la jag mig i det jag uppfattade som vänsterfilen — den såg tom ut.
+Jag tyckte att det var mycket bilar och trångt. Jag hade kört sakta och medvetet försökt välja rätt fil för att ta mig framåt. Så gott jag minns la jag mig i det jag uppfattade som vänsterfilen — den såg tom ut.
 
 Polisen lät arg. Jag minns inte hans ansiktsuttryck, men kroppsspråket uppfattade jag som ett sätt att visa att det var han som bestämde.
 
