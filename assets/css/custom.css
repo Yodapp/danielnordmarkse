@@ -459,15 +459,15 @@
 }
 
 .dn-hero__intro {
-  font-size: 1.25rem;
-  line-height: 1.7;
-  max-width: 44rem;
+  font-size: 1.1rem;
+  line-height: 1.75;
+  max-width: 38rem;
   margin: 0 0 2.5rem;
-  color: rgb(var(--color-neutral-900));
+  color: rgb(var(--color-neutral-500));
 }
 
 .dark .dn-hero__intro {
-  color: rgb(var(--color-neutral-50));
+  color: rgb(var(--color-neutral-400));
 }
 
 .dn-hero__cta {
