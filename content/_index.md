@@ -15,8 +15,6 @@ Jag vill också sprida kunskap om stroke. Det kan drabba vem som helst, när som
 
 Samtidigt kan stroke yttra sig på många olika sätt. Förvirring, avvikande beteende, sluddrigt tal, balansproblem och svårigheter att orientera sig kan också vara tecken. Ett normalt AKUT-test utesluter inte stroke.
 
-Misstänker du att någon i din omgivning har drabbats: tveka inte. Ring 112 direkt. Varje minut räknas.
-
 **[Läs berättelsen från början →](/min-berattelse/dagen-det-hande/)**
 
 Vill du förstå mer om vad som hände i min hjärna finns en separat sida om [stroke, neglekt och varför varje minut räknas](/om-stroke/).
