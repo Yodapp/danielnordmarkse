@@ -46,7 +46,8 @@
   {{ if .Site.Params.enableSearch | default false }}
     {{ $jsFuse := resources.Get "lib/fuse/fuse.min.js" }}
     {{ $jsSearch := resources.Get "js/search.js" }}
-    {{ $assets.Add "js" (slice $jsFuse $jsSearch) }}
+    {{ $jsSearchAccessibility := resources.Get "js/search-accessibility.js" }}
+    {{ $assets.Add "js" (slice $jsFuse $jsSearch $jsSearchAccessibility) }}
   {{ end }}
   {{ if .Site.Params.enableQuicklink | default false }}
     {{ $jsQuicklink := resources.Get "lib/quicklink/quicklink.umd.js" }}
