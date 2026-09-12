@@ -3,6 +3,7 @@ title: "Lämnad"
 description: "25 juni 2024 — samtalet i polisbilen, frisläppningen vid tågstationen och de 5,3 kilometerna genom Falun fram till kollapsen vid Källviksbadet."
 date: 2024-06-25
 weight: 2
+period: "25 juni 2024"
 ---
 
 

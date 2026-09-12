@@ -3,6 +3,7 @@ title: "Sjukhustiden"
 description: "Juli 2024 — neurologavdelningen, de kognitiva konsekvenserna, blodförtunningen och hemgången."
 date: 2024-07-03
 weight: 5
+period: "Juli 2024"
 ---
 
 Sjukhuset var det första stället på länge där någon faktiskt tittade på mig.

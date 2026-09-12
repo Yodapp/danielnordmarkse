@@ -15,6 +15,9 @@
         <span>{{ if gt $part 0 }}Del {{ $part }} av {{ $total }}{{ else }}Berättelsen{{ end }}</span>
       </div>
       <h1 class="dn-chapter__title">{{ .Title | emojify }}</h1>
+      {{ with .Description }}
+        <p class="dn-chapter__dek">{{ . }}</p>
+      {{ end }}
       {{ if or
         (.Params.showDate | default (.Site.Params.article.showDate | default true))
         (and (.Params.showDateUpdated | default (.Site.Params.article.showDateUpdated | default false)) (ne (partial "functions/date.html" .Date) (partial "functions/date.html" .Lastmod)))
@@ -47,7 +50,7 @@
           </div>
         </div>
       {{ end }}
-      <div class="min-h-0 min-w-0 max-w-prose grow">
+      <div class="dn-chapter__body min-h-0 min-w-0 max-w-prose grow">
         {{ .Content | emojify }}
       </div>
     </section>

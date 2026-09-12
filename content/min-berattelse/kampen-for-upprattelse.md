@@ -3,6 +3,7 @@ title: "Kampen för upprättelse"
 description: "Löf, IVO, JO, den färdiga SU-anmälan och arbetet för upprättelse."
 date: 2026-02-19
 weight: 7
+period: "Arbetet pågår"
 showTableOfContents: true
 aliases: ["/min-berattelse/kampen-for-upprattelseelse/"]
 ---

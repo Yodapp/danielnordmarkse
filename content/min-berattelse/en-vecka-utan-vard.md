@@ -3,6 +3,7 @@ title: "En vecka utan vård"
 description: "25 juni – 2 juli 2024 — dagarna efter olyckan, minnesluckorna och att inte veta att man är sjuk."
 date: 2024-06-25
 weight: 3
+period: "25 juni–2 juli 2024"
 ---
 
 
