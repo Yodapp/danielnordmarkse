@@ -463,11 +463,11 @@
   line-height: 1.75;
   max-width: 38rem;
   margin: 0 0 2.5rem;
-  color: rgb(var(--color-neutral-500));
+  color: rgb(var(--color-neutral-700));
 }
 
 .dark .dn-hero__intro {
-  color: rgb(var(--color-neutral-400));
+  color: rgb(var(--color-neutral-300));
 }
 
 .dn-hero__cta {
