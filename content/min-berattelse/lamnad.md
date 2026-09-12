@@ -84,7 +84,7 @@ De digitala spåren och kartunderlaget stöder att jag gick minst 5,3 kilometer 
 Efter polisens statusövergång till *"klar på plats"* registrerades 6&nbsp;916 steg före klockan 17. GPS-positionerade fotografier placerar mig vid Järnet klockan 16:02 och på Källviksvägen klockan 16:37. Jag gick åt motsatt håll från den adress jag försökte hitta.
 {{< /kallruta >}}
 
-{{< bild src="img/bilder/centralstation-källviksbadet-gång.png" alt="Karta som visar gångvägen från Falu centralstation till Källviksbadet." bildtext="Från den uppgivna frisläppningsplatsen vid centralstationen till Källviksbadet — minst 5,3 kilometer till fots." >}}
+{{< bild src="img/bilder/centralstation-källviksbadet-gång.png" zoom="true" alt="Karta som visar gångvägen från Falu centralstation till Källviksbadet." bildtext="Från den uppgivna frisläppningsplatsen vid centralstationen till Källviksbadet — minst 5,3 kilometer till fots." >}}
 
 ## Källviksbadet
 

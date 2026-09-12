@@ -184,7 +184,7 @@ Medan de utredde ett brott fortsatte proppen att blockera blodflödet i min hjä
 
 ## På akuten — tre minuter
 
-{{< bild src="img/bilder/karta-sturegatan-akuten.png" alt="Karta som visar vägen från olycksplatsen på Sturegatan till Falu Lasarett." bildtext="Vägen från Sturegatan till Falu Lasarett." >}}
+{{< bild src="img/bilder/karta-sturegatan-akuten.png" zoom="true" alt="Karta som visar vägen från olycksplatsen på Sturegatan till Falu Lasarett." bildtext="Vägen från Sturegatan till Falu Lasarett." >}}
 
 Jag minns att jag blev tillsagd att följa med poliserna från ambulansen till en polisbil. Jag minns bilfärden till Falu Lasarett, hur vi körde in genom ambulansintaget och hur två poliser eskorterade mig till ett undersökningsrum. Klockan 15:03 togs ett blodprov av en sjuksköterska. Klockan 15:06 var provtagningen klar och jag satte mig i polisbilen igen. Tre minuter. Ändamålet stod i polisens protokoll: *"Utröna omständigheter som kan ha betydelse för utredningen."*
 

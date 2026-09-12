@@ -1,4 +1,5 @@
-<div class="dn-hero">
+<div class="dn-hero dn-home-hero">
+ <div class="dn-home-hero__copy">
   <span class="dn-hero__label">
     <span class="dn-hero__meta">Min berättelse &middot; Daniel Nordmark</span>
     <span class="dn-hero__context">25 juni 2024 &middot; Falun</span>
@@ -15,30 +16,51 @@
   <div class="dn-hero__actions">
     <a href="/min-berattelse/dagen-det-hande/" class="dn-hero__cta">Läs från början <span aria-hidden="true">&rarr;</span></a>
   </div>
+ </div>
+  <figure class="dn-home-hero__portrait">
+    {{ with resources.Get "img/bilder/daniel-portratt.jpg" }}
+      {{ $small := .Resize "480x webp q82" }}
+      {{ $medium := .Resize "800x webp q85" }}
+      {{ $large := .Resize "1200x webp q85" }}
+      <img src="{{ $medium.RelPermalink }}" srcset="{{ $small.RelPermalink }} 480w, {{ $medium.RelPermalink }} 800w, {{ $large.RelPermalink }} 1200w" sizes="(min-width: 1200px) 440px, (min-width: 900px) 38vw, (min-width: 600px) 480px, 90vw" width="{{ $medium.Width }}" height="{{ $medium.Height }}" alt="Daniel Nordmark" fetchpriority="high">
+    {{ end }}
+    <figcaption>Daniel Nordmark · Min berättelse</figcaption>
+  </figure>
 </div>
 
-<section class="dn-opening" aria-labelledby="dn-opening-title">
-  {{ with resources.Get "img/bilder/daniel.jpg" }}
-    {{ $portrait := .Resize "480x webp q82" }}
-    <img
-      class="dn-opening__portrait"
-      src="{{ $portrait.RelPermalink }}"
-      width="{{ $portrait.Width }}"
-      height="{{ $portrait.Height }}"
-      alt="Daniel Nordmark"
-      loading="eager"
-    >
-  {{ end }}
-  <div class="dn-opening__text">
-    <h2 id="dn-opening-title" class="dn-opening__lead">
-      Den 25 juni 2024 var jag en frisk 44-åring.
-    </h2>
-    <p>Det var en solig och varm sommardag. Jag var på väg för att träffa vänner, bada och njuta av en härlig dag vid en sjö. Men så blev det inte. Hela mitt liv vändes upp och ner den dagen.</p>
-    <p>Utan förvarning började det flimra för ögonen. Jag saktade ner, drack några klunkar läsk och ansträngde mig för att kunna se klart. Jag förstod inte alls vad som hände. Nu i efterhand vet jag att jag började köra väldigt avvikande. Jag körde upp på en gräsmatta, stannade, vände om och började köra åt motsatt håll från dit jag var på väg.</p>
-    <p>Plötsligt small det till på vänster sida av min bil. Jag var säker på att någon hade kört in i min bil. Jag stod stilla och ansträngde mig för att fokusera blicken och förstå vad som hade hänt. Jag vet nu att vittnen försökte få kontakt med mig utan att lyckas. Ena vittnet sa i sitt samtal till SOS att han trodde att jag kanske var sjuk och behövde kollas.</p>
-    <p>En stund senare kom en polispatrull till platsen. De såg att något var allvarligt fel, baserat på det som de själva skrev — men deras slutsats blev förödande: de tog för givet att jag var <em>"tydligt narkotikapåverkad"</em>. Istället för att ta reda på hur jag mådde, varför jag pratade sluddrigt, var slö och förvirrad, inledde de en brottsutredning. Från den sekunden fokuserade de enbart på att jag var en misstänkt för grov vårdslöshet i trafik och grovt drograttfylleri.</p>
-    <p>Det här är min berättelse om vad som faktiskt hände den dagen. Berättad av den enda som var med hela den dagen.</p>
+<section class="dn-home-scene" aria-labelledby="dn-scene-title">
+  <div>
+    <p class="dn-section-label">Dagen som förändrade allt</p>
+    <h2 id="dn-scene-title">Jag skulle bara träffa vänner och bada.</h2>
+    <p>Den 25 juni 2024 var jag 44 år. Det var en solig och varm sommardag. Utan förvarning började det flimra för ögonen. Jag saktade ner och ansträngde mig för att kunna se klart. Jag förstod inte alls vad som hände.</p>
+    <p>Plötsligt small det till på vänster sida av min bil. Vittnen försökte få kontakt med mig utan att lyckas. En av dem sa till SOS att han trodde att jag kanske var sjuk och behövde kollas.</p>
+    <a class="dn-text-link" href="/min-berattelse/dagen-det-hande/">Det här hände den dagen <span aria-hidden="true">→</span></a>
   </div>
+  <figure>
+    {{ with resources.Get "img/bilder/olycksplatsen-25-juni-2024.jpg" }}
+      {{ $photo := .Resize "1000x webp q85" }}
+      <img src="{{ $photo.RelPermalink }}" width="{{ $photo.Width }}" height="{{ $photo.Height }}" alt="Daniel sitter i den krockade bilen. Ambulans och polis är på plats." loading="lazy">
+    {{ end }}
+    <figcaption>Sturegatan i Falun, 25 juni 2024. Jag sitter kvar i bilen.</figcaption>
+  </figure>
+</section>
+
+<section id="vad-polisen-visste" class="dn-accusation" aria-labelledby="dn-accusation-title">
+  <p class="dn-accusation__eyebrow">Polis T och Polis S</p>
+  <h2 id="dn-accusation-title">Polisernas tunnelseende</h2>
+  <p class="dn-accusation__lead">De låste sig vid teorin att jag var <em>"tydligt narkotikapåverkad"</em>. Strokesymtomen blev bevis för brott. Jag anser att deras tunnelseende förhindrade ett strokelarm och förvärrade min hjärnskada.</p>
+  <a class="dn-text-link" href="/min-berattelse/dagen-det-hande/#min-anklagelse-mot-polis-t-och-polis-s">Därför håller jag dem ansvariga <span aria-hidden="true">&rarr;</span></a>
+</section>
+
+
+<section class="dn-home-sequence" aria-labelledby="dn-sequence-title">
+  <p class="dn-section-label">Från ambulansen till diagnosen</p>
+  <h2 id="dn-sequence-title">Sju dygn utan diagnos</h2>
+  <ol>
+    <li><span>25 juni · 14:43</span><h3>Ambulansuppdraget avslutades</h3><p>Polisens beslut om blodprov och ambulansens avslut registrerades samma minut. I journalens fält ”Orsak till hänvisning” står bara: ”Polis tar med patient.”</p><a href="/min-berattelse/dagen-det-hande/">Läs om ambulansen och polisen →</a></li>
+    <li><span>25 juni · Efter akuten</span><h3>Ensam och förvirrad</h3><p>Efter blodprovet blev jag ensam. Digitala spår visar minst 5,3 kilometer till fots innan jag föll ihop vid Källviksbadet.</p><a href="/min-berattelse/lamnad/">Läs om timmarna efteråt →</a></li>
+    <li><span>2 juli</span><h3>Stroken upptäcktes</h3><p>När jag kom tillbaka till akuten visade undersökningarna en stor stroke i höger hjärnhalva. Jag hade också svår hjärtsvikt och en stor propp i hjärtat.</p><a href="/min-berattelse/diagnosen/">Läs om diagnosen →</a></li>
+  </ol>
 </section>
 
 <section class="dn-before-after" aria-labelledby="dn-before-after-title">
@@ -55,110 +77,16 @@
     </div>
   </div>
   <p class="dn-before-after__end">Jag berättar för att det som hände mig inte ska reduceras till rader i en akt. Bakom varje missad signal fanns en människa som trodde att han skulle få hjälp.</p>
+<a class="dn-text-link" href="/min-berattelse/livet-efterat/">Läs om livet efter stroken <span aria-hidden="true">→</span></a>
 </section>
 
-<section class="dn-police-intro" aria-labelledby="dn-police-intro-title">
-  <p class="dn-section-label">Den första polispatrullen</p>
-  <h2 id="dn-police-intro-title">Patrullen som missade alla varningstecken</h2>
-  <p class="dn-police-intro__lead">Polis S, en kvinna runt 30–40 år, och Polis T, en man i ungefär samma ålder, kom före ambulansen. Jag använder beteckningarna eftersom deras namn inte publiceras här.</p>
-
-  <div class="dn-police-roles">
-    <article>
-      <span>Polis T</span>
-      <strong>Såg symtomen</strong>
-      <p>Han dokumenterade att jag var <em>"väldigt förvirrad, stirrig, slö och sluddrig i talet"</em>.</p>
-    </article>
-    <article>
-      <span>Polis S</span>
-      <strong>Fick vittnesuppgifterna</strong>
-      <p>Hon fick veta att bilen hade vinglat, kört på fel sida och att det inte gick att få kontakt med mig efter krocken.</p>
-    </article>
-  </div>
-
-  <p class="dn-police-intro__accountability">Tillsammans hade de varningstecknen. Den samlade bilden finns inte i ambulansens beslutsunderlag.</p>
-</section>
-
-<section class="dn-accusation" aria-labelledby="dn-accusation-title">
-  <p class="dn-accusation__eyebrow">Polis T och Polis S</p>
-  <h2 id="dn-accusation-title">Polisernas tunnelseende</h2>
-  <p class="dn-accusation__lead">De låste sig vid teorin att jag var <em>"tydligt narkotikapåverkad"</em>. Strokesymtomen blev bevis för brott. Jag anser att deras tunnelseende förhindrade ett strokelarm och förvärrade min hjärnskada.</p>
-  <a class="dn-text-link" href="/min-berattelse/dagen-det-hande/#min-anklagelse-mot-polis-t-och-polis-s">Därför håller jag dem ansvariga <span aria-hidden="true">&rarr;</span></a>
-</section>
-
-<section class="dn-case" id="vad-polisen-visste" aria-labelledby="dn-case-title">
-  <p class="dn-section-label">Det avgörande</p>
-  <h2 id="dn-case-title">Polisen hade informationen för ett strokelarm</h2>
-  <p class="dn-case__lead">
-    Polis T dokumenterade symtomen. Polis S fick vittnesuppgifterna. Tillsammans med ambulansens egna fynd uppfyllde informationen checklistans tre kriterier.
-  </p>
-
-  <div class="dn-evidence" aria-label="Tre centrala uppgifter ur polisens dokumentation">
-    <article class="dn-evidence__item">
-      <span class="dn-evidence__source">Polis T:s PM &middot; 15:51</span>
-      <strong>"Väldigt förvirrad, stirrig, slö och sluddrig i talet."</strong>
-    </article>
-    <article class="dn-evidence__item">
-      <span class="dn-evidence__source">Förhör hållet av Polis S &middot; 14:18</span>
-      <strong>"Han var helt borta." Vittnet fick ingen riktig kontakt med mig.</strong>
-    </article>
-    <article class="dn-evidence__item">
-      <span class="dn-evidence__source">Polisens logg &middot; 13:42-13:46</span>
-      <strong>Vinglig bil. Upp på trottoaren. Över på andra sidan vägen.</strong>
-    </article>
-  </div>
-
-  {{ partial "home/stroke-comparison.html" . }}
-
-  <p class="dn-case__conclusion">
-    Poliserna behövde inte diagnostisera min stroke. De behövde ge vården den samlade information de hade, så att vården kunde göra sitt jobb. I det dokumenterade beslutsunderlaget finns drogscreeningen och polisens övertagande. Den neurologiska helhetsbild som Polis T och Polis S själva hade finns inte.
-  </p>
-  <a class="dn-text-link" href="/min-berattelse/dagen-det-hande/#vad-polisen-visste">Läs hela jämförelsen <span aria-hidden="true">&rarr;</span></a>
-</section>
-
-<section class="dn-decision" aria-labelledby="dn-decision-title">
-  <p class="dn-section-label">Vad som hände i stället</p>
-  <h2 id="dn-decision-title">Från patient till brottsmisstänkt</h2>
-  <ol class="dn-decision__list">
-    <li>
-      <span class="dn-decision__number">1</span>
-      <div><strong>Ambulansen bedömde mig som gul.</strong><p>Det betydde ett brådskande behov av undersökning på akutmottagning. Journalen anger nytillkommet avvikande beteende, minneslucka och sluddrigt tal.</p></div>
-    </li>
-    <li>
-      <span class="dn-decision__number">2</span>
-      <div><strong>Polis T beslutade om blodprov.</strong><p>Klockan 14:43 fattade Polis T beslut om kroppsbesiktning genom blodprov och meddelade ambulansen att polisen skulle ta med mig. Samma minut avslutade ambulansen sitt uppdrag och skrev i journalen: "Polis tar med patient". Det var en av ambulansens motiveringar till att avsluta uppdraget.</p></div>
-    </li>
-    <li>
-      <span class="dn-decision__number">3</span>
-      <div><strong>På akuten togs bara ett polisiärt blodprov.</strong><p>Det tog tre minuter. Ingen medicinsk läkarbedömning den 25 juni finns dokumenterad.</p></div>
-    </li>
-    <li>
-      <span class="dn-decision__number">4</span>
-      <div><strong>Jag blev ensam och gick åt fel håll.</strong><p>Digitala spår visar minst 5,3 kilometer till fots innan jag föll ihop vid Källviksbadet.</p></div>
-    </li>
-  </ol>
-</section>
-
-<section class="dn-injury" aria-labelledby="dn-injury-title">
-  <div class="dn-injury__header">
-    <p class="dn-section-label">Konsekvensen</p>
-    <h2 id="dn-injury-title">Sju dygn utan diagnos</h2>
-    <p>Den akuta prövning som kunde ha lett till strokelarm, bilddiagnostik och ställningstagande till behandling gjordes aldrig den 25 juni.</p>
-  </div>
-  <div class="dn-injury__body">
-    <p>När jag kom tillbaka till akuten den 2 juli visade undersökningarna en stor ischemisk stroke i höger hjärnhalva. Jag hade också svår hjärtsvikt och en stor propp i hjärtat.</p>
-    <p>Jag överlevde. Men jag har inte arbetat en dag sedan stroken. Jag lever med omfattande kognitiva nedsättningar, hjärntrötthet och isolering. Jag har flera gånger hamnat i djupa depressioner och haft konkreta planer på att avsluta mitt liv.</p>
-  </div>
-  <p class="dn-support-note">
-    <strong>Om du själv har självmordstankar:</strong> bär dem inte ensam. Ring 1177 för råd om var du kan söka vård, eller 112 om situationen känns outhärdlig. <a href="https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/sjalvmordstankar/">Läs mer hos 1177</a>.
-  </p>
-  <a class="dn-injury__link" href="/min-berattelse/livet-efterat/">Så ser mitt liv ut i dag <span aria-hidden="true">&rarr;</span></a>
-</section>
 
 <article class="prose dn-home-story dark:prose-invert">
-  {{ .Content | emojify }}
+  {{ .Content }}
 </article>
 
-<div class="dn-final-cta">
-  <a href="/min-berattelse/dagen-det-hande/" class="dn-hero__cta">Läs berättelsen från början <span aria-hidden="true">&rarr;</span></a>
-  <a href="/om-stroke/" class="dn-hero__secondary">Lär dig känna igen en stroke</a>
+<div class="dn-home-next">
+  <a href="/min-berattelse/dagen-det-hande/" class="dn-hero__cta">Läs berättelsen från början <span aria-hidden="true">→</span></a>
+  <a class="dn-text-link" href="/min-berattelse/">Se alla kapitel →</a>
+  <a class="dn-text-link" href="/om-stroke/">Lär dig känna igen stroke →</a>
 </div>

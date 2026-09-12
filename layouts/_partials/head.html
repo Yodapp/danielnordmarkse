@@ -31,7 +31,7 @@
   {{ if $cssCustom }}
     {{ $assets.Add "css" (slice $cssCustom) }}
   {{ end }}
-  {{ range slice "css/foundation.css" "css/navigation.css" }}
+  {{ range slice "css/foundation.css" "css/navigation.css" "css/home.css" }}
     {{ with resources.Get . }}{{ $assets.Add "css" (slice .) }}{{ end }}
   {{ end }}
   {{ $bundleCSS := $assets.Get "css" | resources.Concat "css/main.bundle.css" | resources.Minify | resources.Fingerprint $algorithm }}

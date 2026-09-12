@@ -8,6 +8,7 @@
     {{ $processed = .Resize (printf "%dx webp q82" .Width) }}
   {{ end }}
   <figure class="dn-figure{{ with $.Get "class" }} {{ . }}{{ end }}">
+    {{ if $.Get "zoom" }}<a class="dn-figure__zoom" href="{{ .RelPermalink }}" target="_blank" rel="noopener" aria-label="Förstora kartan (öppnas i ny flik)">{{ end }}
     <img
       src="{{ $processed.RelPermalink }}"
       width="{{ $processed.Width }}"
@@ -16,6 +17,7 @@
       loading="lazy"
       class="dn-figure__img"
     >
+    {{ if $.Get "zoom" }}<span>Förstora kartan <span aria-hidden="true">↗</span><span class="sr-only"> (öppnas i ny flik)</span></span></a>{{ end }}
     {{ with $.Get "bildtext" }}<figcaption class="dn-figure__caption">{{ . | markdownify }}</figcaption>{{ end }}
   </figure>
 {{ end }}
