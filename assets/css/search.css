@@ -1,0 +1,73 @@
+/* Compact search results with plain, bounded summaries. */
+#search-modal {
+  max-width: 46rem;
+  overflow: hidden;
+  border-radius: 3px;
+}
+
+#search-modal > header {
+  min-height: 3.75rem;
+  padding-inline: .75rem;
+  border-bottom: 1px solid rgb(var(--color-neutral-200));
+}
+
+.dark #search-modal > header { border-color: rgb(var(--color-neutral-700)); }
+#search-query { min-width: 0; font-family: var(--dn-sans); font-size: 1rem; }
+#close-search-button { width: 2.75rem; height: 2.75rem; flex: 0 0 auto; }
+#search-modal > section { padding: .75rem; }
+#search-results { display: grid; gap: .5rem; margin: 0; padding: 0; }
+#search-results > li { margin: 0; }
+#search-results > li > a {
+  min-height: 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  background: rgb(var(--color-neutral-100));
+  color: rgb(var(--color-neutral-900));
+}
+
+.dark #search-results > li > a { background: rgb(var(--color-neutral-800)); color: rgb(var(--color-neutral-100)); }
+#search-results > li > a:is(:hover, :focus-visible) {
+  border-color: rgb(var(--dn-accent));
+  background: rgb(var(--dn-accent) / .055);
+  outline: none;
+}
+
+#search-results .grow { min-width: 0; }
+#search-results .grow > div:first-child {
+  margin: 0;
+  font-family: var(--dn-serif);
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+#search-results .grow > div:nth-child(2) {
+  margin-top: .25rem;
+  color: rgb(var(--dn-accent));
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .055em;
+  text-transform: uppercase;
+}
+
+#search-results .grow > div:nth-child(3) {
+  display: -webkit-box;
+  margin-top: .55rem;
+  overflow: hidden;
+  color: rgb(var(--color-neutral-600));
+  font-size: .875rem;
+  font-style: normal;
+  line-height: 1.5;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.dark #search-results .grow > div:nth-child(3) { color: rgb(var(--color-neutral-300)); }
+#search-results > li > a > div:last-child { flex: 0 0 auto; color: rgb(var(--dn-accent)); }
+
+@media (max-width: 639px) {
+  #search-wrapper { padding: .75rem; }
+  #search-modal { max-height: calc(100dvh - 1.5rem); }
+  #search-results > li > a { padding: .9rem; }
+}

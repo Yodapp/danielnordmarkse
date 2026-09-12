@@ -1,0 +1,19 @@
+{{- $index := slice -}}
+{{- range .Site.Pages -}}
+  {{- $section := .Site.GetPage "section" .Section -}}
+  {{- $sectionTitle := .Site.Title -}}
+  {{- with $section }}{{ $sectionTitle = .Title }}{{ end -}}
+  {{- $summary := .Description -}}
+  {{- if not $summary }}{{ $summary = .Summary | plainify | htmlUnescape }}{{ end -}}
+  {{- $summary = $summary | plainify | htmlUnescape | strings.TrimSpace | truncate 190 -}}
+  {{- $index = $index | append (dict
+    "date" nil
+    "title" (.Title | plainify)
+    "section" ($sectionTitle | plainify)
+    "summary" $summary
+    "content" (.Plain | emojify)
+    "permalink" .Permalink
+    )
+  -}}
+{{- end -}}
+{{- $index | jsonify -}}
