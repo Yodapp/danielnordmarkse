@@ -172,43 +172,6 @@
   content: none;
 }
 
-/* --- Chapter overview --- */
-
-.dn-chapter-nav {
-  margin-bottom: 2rem;
-  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif;
-}
-
-.dn-chapter-nav details {
-  border: 1px solid rgb(var(--color-neutral-300));
-  border-radius: 0.5rem;
-}
-
-.dark .dn-chapter-nav details {
-  border-color: rgb(var(--color-neutral-700));
-}
-
-.dn-chapter-nav summary {
-  padding: 0.75rem 1rem;
-  cursor: pointer;
-  font-weight: 700;
-}
-
-.dn-chapter-nav ol {
-  margin: 0;
-  padding: 0 1rem 1rem 2.75rem;
-}
-
-.dn-chapter-nav li {
-  margin-top: 0.5rem;
-}
-
-.dn-chapter-nav a[aria-current="page"] {
-  font-weight: 700;
-  text-decoration-thickness: 0.15em;
-}
-
 /* --- Evidence register (shortcodes: tidslinje / tidpunkt) --- */
 
 .dn-register {
@@ -1903,69 +1866,6 @@
     min-height: 0;
     padding: 0.3rem 0;
     font-size: 0.8rem;
-  }
-}
-
-/* --- Home: human opening --- */
-
-.dn-opening {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  margin: 0 0 4rem;
-}
-
-.dn-opening__portrait {
-  width: 7rem;
-  height: 7rem;
-  flex: 0 0 auto;
-  object-fit: cover;
-  border-radius: 9999px;
-  border: 1px solid rgb(var(--color-neutral-200));
-}
-
-.dark .dn-opening__portrait {
-  border-color: rgb(var(--color-neutral-700));
-}
-
-.dn-opening__lead {
-  margin: 0 0 1rem;
-  color: rgb(var(--color-neutral-900));
-  font-size: clamp(1.35rem, 3vw, 1.9rem);
-  font-weight: 800;
-  line-height: 1.2;
-  letter-spacing: -0.02em;
-  text-wrap: balance;
-}
-
-.dark .dn-opening__lead {
-  color: rgb(var(--color-neutral-50));
-}
-
-.dn-opening__text p {
-  max-width: 42rem;
-  margin: 0 0 1rem;
-  color: rgb(var(--color-neutral-700));
-  font-size: 1.1rem;
-  line-height: 1.7;
-}
-
-.dn-opening__text p:last-child {
-  margin-bottom: 0;
-}
-
-.dark .dn-opening__text p {
-  color: rgb(var(--color-neutral-300));
-}
-
-@media (min-width: 700px) {
-  .dn-opening {
-    gap: 1.75rem;
-  }
-
-  .dn-opening__portrait {
-    width: 7.5rem;
-    height: 7.5rem;
   }
 }
 

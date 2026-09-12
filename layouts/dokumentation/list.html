@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <header class="dn-documentation__header">
+    <p class="dn-section-label">Källor, handlingar och ärenden</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </header>
+
+  <nav class="dn-documentation__jump" aria-label="Gå direkt till ett område">
+    <span>Gå direkt till</span>
+    <a href="#vård-och-rehabilitering">Vård och rehabilitering</a>
+    <a href="#polismaterial-och-domstol">Polismaterial och domstol</a>
+    <a href="#jo">JO</a>
+    <a href="#su">SU</a>
+    <a href="#ivo">IVO</a>
+    <a href="#löf">Löf</a>
+    <a href="#polisens-fel--punkt-för-punkt">Polisens fel – punkt för punkt</a>
+  </nav>
+
+  <section class="prose dn-documentation__body dark:prose-invert">
+    {{ .Content | emojify }}
+  </section>
+{{ end }}
