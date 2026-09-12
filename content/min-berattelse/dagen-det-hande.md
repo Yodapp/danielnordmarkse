@@ -79,17 +79,23 @@ Efter att polisen bankat på rutan fick jag visa mitt körkort och blåsa i en a
 
 I ambulansen ställde personalen korta frågor: om tidigare sjukdomar, hur jag bodde och om jag hade ont. De testade också om jag kunde greppa deras händer med båda mina händer.
 
-Jag satt inne i ambulansen, på sätet bakom förarplatsen och vänd bakåt. Sidodörren intill mig stod öppen. En ur ambulanspersonalen ställde frågor och testade mitt grepp; en annan fanns strax intill och var delaktig i samma samtal. Vid dörröppningen stod Polis T.
+Jag satt på sätet bakom förarplatsen, vänd bakåt. Sidodörren intill mig stod öppen. En ur ambulanspersonalen ställde frågor och testade mitt grepp. En annan fanns strax intill och deltog i samtalet.
 
-Jag försökte fokusera för att svara på frågorna och göra det jag blev ombedd — som att klämma om deras händer med mina — utan att förstå varför. Synen var fortfarande suddig. Inne i ambulansen var det mörkt, som jag minns det, medan solen genom den öppna dörren stod rakt på Polis T. Kontrasten mellan det mörka i kupén och det bländande ljuset utanför var väldig, och svår för mina ögon.
+I dörröppningen stod Polis T.
 
-Det jag minns starkast är hur rörigt allt var. Jag hade precis krockat. Jag var förvirrad, trött och yr och förstod inte riktigt varför jag satt i en ambulans. Samtidigt pratade flera personer i mun på varandra: ambulanspersonalen med mig, ambulanspersonalen med varandra, och alldeles bredvid mig Polis T — i telefon eller radio och gång på gång vänd mot ambulanspersonalen. Han hörde allt de sa och allt jag sa, och han la sig i titt som tätt.
+Jag försökte fokusera på frågorna och göra det jag blev ombedd att göra, utan att förstå varför. Synen var fortfarande suddig. Inne i ambulansen var det mörkt, som jag minns det. Genom den öppna dörren stod solen rakt på Polis T. Kontrasten mellan den mörka kupén och det bländande ljuset utanför var väldig och svår för mina ögon.
 
-Jag hade svårt att veta vem jag skulle lyssna på. Än i dag, med min hjärnskada, tappar jag greppet direkt när två personer pratar samtidigt — jag zoomar ut. Så var det redan där, i ambulansen. Jag var inte rädd, men pressad, stressad och förvirrad, och Polis T:s ständiga inpass gjorde en redan omöjlig situation värre.
+Det jag minns starkast är hur rörigt allt var. Jag hade precis krockat. Jag var förvirrad, trött och yr. Ändå pratade flera personer i mun på varandra: ambulanspersonalen med mig, ambulanspersonalen med varandra och Polis T i telefon eller radio. Gång på gång vände han sig mot ambulanspersonalen och lade sig i samtalet. Han hörde allt de sa och allt jag sa.
 
-Jag uppfattade att ambulanspersonalen pratade om akuten och att polisen sa att de skulle köra mig dit. I min värld spelade det ingen roll vem som körde mig. Jag började förstå att något var allvarligt fel och var bara nöjd över att få komma till akuten.
+Jag visste inte vem jag skulle lyssna på. Än i dag, med min hjärnskada, tappar jag greppet direkt när två personer pratar samtidigt — jag zoomar ut. Så var det redan där. Jag var pressad, stressad och förvirrad. Polis T:s ständiga inpass gjorde en redan omöjlig situation värre.
 
-Jag förstod inte att polisen misstänkte mig för allvarliga brott. Jag förstod inte heller att deras avsikt med akutbesöket var en drogscreening, inte att jag skulle undersökas av en läkare. Och jag förstod inte att ambulansen klockan 14:43 skulle avsluta sitt uppdrag med hänvisningen att polisen tog med mig.
+Mitt i allt detta uppfattade jag att ambulanspersonalen pratade om akuten. Polisen sa att de skulle köra mig dit. I min värld spelade det ingen roll vem som körde. Jag började förstå att något var allvarligt fel och var lättad över att få komma till akuten.
+
+Jag trodde att jag skulle dit som patient.
+
+Medan jag satt i ambulansen frihetsberövade polisen mig. Jag förstod inte att de misstänkte mig för allvarliga brott. Jag förstod inte heller att deras avsikt med akutbesöket var en drogscreening, inte en läkarundersökning.
+
+Klockan 14:43 avslutades ambulansens uppdrag med hänvisningen: *"Polis tar med patient"*.
 
 I polisrapporten beskrivs jag som slö, förvirrad och sluddrig i talet. Jag hade svårt att lämna en sammanhängande redogörelse för vart jag hade kört. Det var min skadade hjärna som visade sig.
 
@@ -155,25 +161,33 @@ Genom att låta brottsmisstanken gå före den medicinska helhetsbilden gjorde n
 
 ## Beslutet klockan 14:43
 
-I 112-samtalet gissade den andra föraren först att jag var full. Men det var inte det han fastnade vid. Genom samtalet återkom han i stället till att något var allvarligt fel med mig: *"jag tror inte att den andra mådde bra"*, *"han är inte med i matchen, jag vet inte om han kan vara sjuk"*, *"jag vet inte vad det är med den andra"* — och han frågade *"kunde det komma någon fort?"*. Det vittnet bar med sig var oro för min hälsa. Det polisen tog med sig var ordet "full".
+Tre noteringar under tre minuter visar hur vårdspåret tog slut.
 
-Enligt mitt minne fick jag blåsa för alkohol och resultatet var noll. Något provresultat finns inte i de polisiära handlingar jag har fått ut. I stället skiftade misstanken från alkohol till narkotika.
+Klockan 14:41 skrev ambulansen: *"Polisen tar med patienten för drogscreening."*
+
+Klockan 14:42 registrerades *"nytillkommet avvikande beteende"*. Den totala triagefärgen blev GUL — ett brådskande behov av undersökning på akutmottagning.
+
+Klockan 14:43 avslutades uppdraget. Resultatet registrerades som *"Egenvård eller inget kvarstående vårdbehov"*. Som enda orsak till hänvisningen står: *"Polis tar med patient"*.
+
+Samma minut fattades polisens beslut om kroppsbesiktning — beslutet som gav dem rätt att ta blodprovet.
+
+Två handlingar. Samma klockslag. Ambulansens vårdspår stängdes när polisens brottsutredning tog över.
+
+Misstanken hade börjat med alkohol. Enligt mitt minne fick jag blåsa och resultatet var noll. Något utandningsprov eller provresultat finns inte i de polisiära handlingar jag har fått ut. I stället skiftade misstanken till narkotika.
 
 I polisens sammanfattning beskrivs jag som *tydligt narkotikapåverkad*. Som stöd anges att jag var förvirrad, slö och sluddrig i talet — samma tecken som ingick i den neurologiskt alarmerande bilden — samt att jag hade väldigt små pupiller.
 
-Ambulansens samtidiga undersökning klockan 14:15 dokumenterade däremot normala pupiller med normal ljusreaktion i båda ögonen. Polisens och ambulansens uppgifter går inte ihop.
+Ambulansens undersökning klockan 14:15 dokumenterade däremot normala pupiller med normal ljusreaktion i båda ögonen. Polisens och ambulansens uppgifter går inte ihop.
 
 {{< kallruta typ="ambulans" kalla="Ambulansjournalen" tid="14:15" >}}
 Pupiller: normala. Ljusreaktion: normal i båda ögonen.
 {{< /kallruta >}}
 
-Klockan 14:43 dokumenterade ambulansen: *"Polisen tar med patienten för drogscreening."* Samma minut avslutades uppdraget. Utfallet registrerades som egenvård eller inget kvarstående vårdbehov och hänvisningsorsaken som *"Polis tar med patient"*.
-
-Det går inte att få ihop: total triagefärg GUL, minneslucka, nytillkommet avvikande beteende — och ett utfall som blev egenvård, med motiveringen att polisen tog med patienten. Ingen dokumenterad teori om vad som hade gjort mig okontaktbar, vad som fick mig att köra rakt in i en stillastående bil, eller vad som förklarade det sluddriga talet och förvirringen.
+Det går inte att få ihop: gul triage, minneslucka och nytillkommet avvikande beteende — men ett utfall som blev egenvård därför att polisen tog med patienten. Ingen dokumenterad teori förklarar varför jag hade varit okontaktbar, varför jag körde rakt in i en stillastående bil eller varför jag var sluddrig och förvirrad.
 
 I och med det tog polisen över ansvaret för en gul-triagerad patient — därför att polisen valde att prioritera sin drogscreening. Och när polisen tar med sig en person som inte är fri att gå, har myndigheten ett långtgående ansvar för den personens liv och hälsa.
 
-Den dokumenterade följden blev att brottsutredningen fortsatte medan någon akut strokeprocess inte kom till stånd.
+Brottsutredningen fortsatte. Någon akut strokeprocess kom aldrig i gång.
 
 ## Stroken de vände emot mig
 
