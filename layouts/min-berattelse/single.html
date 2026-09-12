@@ -4,12 +4,15 @@
   {{- $feature := $images.GetMatch (.Params.feature | default "*feature*") | default $cover }}
   {{- $stories := where .CurrentSection.RegularPages "Params.weight" "ne" nil }}
   {{- $stories = $stories.ByWeight }}
+  {{- $total := len $stories }}
+  {{- $part := 0 }}
+  {{- range $i, $s := $stories }}{{ if eq $s.RelPermalink $.RelPermalink }}{{ $part = add $i 1 }}{{ end }}{{- end }}
   <article class="dn-chapter">
     <header class="dn-chapter__header max-w-prose">
       <div class="dn-chapter__eyebrow print:hidden">
         <a href="{{ "/min-berattelse/" | relLangURL }}">Min berättelse</a>
         <span aria-hidden="true">/</span>
-        <span>Berättelsen</span>
+        <span>{{ if gt $part 0 }}Del {{ $part }} av {{ $total }}{{ else }}Berättelsen{{ end }}</span>
       </div>
       <h1 class="dn-chapter__title">{{ .Title | emojify }}</h1>
       {{ if or

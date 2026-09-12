@@ -7,7 +7,7 @@ description: "Kontakta Daniel Nordmark — för journalister, strokedrabbade, an
 
 Jag välkomnar kontakt från:
 
-- Journalister och redaktioner som vill veta mer om det som hände.
+- Journalister och redaktioner som vill veta mer om det som hände. Se sidan [För journalister](/for-journalister/).
 - Strokedrabbade och anhöriga som känner igen sig i berättelsen och vill dela erfarenheter.
 - Forskare, myndigheter eller yrkesverksamma inom sjukvård, polis eller räddningstjänst som har frågor eller synpunkter.
 - Jurister och organisationer som arbetar med patientsäkerhet eller rättigheter.
@@ -23,6 +23,8 @@ Jag svarar inte på kränkande meddelanden. Jag tar inte emot råd om att ge upp
 Jag svarar så snart jag kan. Stroke påverkar energi och koncentration på sätt som inte alltid syns utifrån — det händer att svar dröjer. Det är inte ointresse.
 
 Skicka inte känsliga personuppgifter eller journalhandlingar via formuläret. Om du vill dela underlag kan vi komma överens om en lämplig och säker väg efter första kontakten.
+
+**För känsligt material:** skicka krypterat till [nordmark.daniel@proton.me](mailto:nordmark.daniel@proton.me) (ProtonMail).
 
 ---
 

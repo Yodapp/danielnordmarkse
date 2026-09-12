@@ -3,6 +3,8 @@ title: "Dokumentation"
 description: "En dokumentationsöversikt över vård-, polis- och myndighetsmaterial som belyser berättelsen."
 ---
 
+**Är du journalist eller vill gå rakt på det viktigaste?** Börja med [Polisens fel – punkt för punkt](#polisens-fel--punkt-för-punkt) — en sammanställning av de dokumenterade felen, motsägelserna och luckorna. Resten av sidan beskriver vilket underlag som finns bakom berättelsen. Se även sidan [För journalister](/for-journalister/).
+
 ## Om dokumentationen
 
 Bakom berättelsen finns journaler, protokoll, polishandlingar, myndighetsärenden och digitala spår. De belyser både det som hände och sådant som saknas i dokumentationen, som journalanteckningen från akutbesöket den 25 juni 2024.

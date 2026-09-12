@@ -3,6 +3,7 @@ title: "Dagen det hände"
 description: "25 juni 2024 — trafikolyckan i Falun, ambulansen, polisen och kollapsen vid Källviksbadet."
 date: 2024-06-25
 weight: 1
+showTableOfContents: true
 ---
 
 
