@@ -118,8 +118,6 @@ Jag hade beskrivits av polisen som väldigt förvirrad redan vid trafikolyckan. 
 
 I visitationsprotokollet anges att Polis V fattade beslut om kroppsvisitation klockan 22:41. Jag frihetsberövades en andra gång den dagen och placerades i en polisbuss som jag inte fick lämna. Inget olagligt hittades.
 
-På min nyckelknippa satt däremot ett litet verktyg. När jag inte kunde svara på vad jag använde det till beslagtog de det: enligt polisen gick det inte att utesluta att det kunde användas till något olagligt.
-
 Poliserna frågade vad jag gjorde vid Källviksbadet, varför min tröja var blöt och vart jag var på väg. Jag berättade att jag hade varit så varm att jag försökt svalka mig med vatten. Jag berättade också om akutbesöket tidigare under dagen.
 
 Nu mötte polisen mig igen: fortfarande väldigt förvirrad och fortfarande oförmögen att hitta till min dåvarande flickvän, bara några hundra meter bort, i den stad där jag vuxit upp.

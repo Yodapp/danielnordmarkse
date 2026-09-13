@@ -21,7 +21,7 @@ Fotot föreställer en vägg och min bärbara dator. Jag vet inte varför jag to
 
 Det var fortfarande mycket varmt i Falun. Dagen innan hade jag, mitt under en pågående stroke, gått minst 5,3 kilometer i stark värme. Efteråt var jag extremt trött och kände mig väldigt varm, som om jag hade feber.
 
-Min dåvarande flickvän har senare berättat att jag var vinglig och inte ville äta. Hon gav mig glass, men hon fick mata mig. Jag ville bara sova och sov i princip hela den 26 juni.
+Min dåvarande flickvän har senare berättat att jag var vinglig och inte ville äta. Det enda jag åt var glass, och hon fick mata mig. Jag ville bara sova och sov i princip hela den 26 juni.
 
 Det var så illa att jag inte klarade grundläggande saker själv.
 
