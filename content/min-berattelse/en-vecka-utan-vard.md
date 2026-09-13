@@ -9,21 +9,19 @@ period: "25 juni–2 juli 2024"
 
 Sju dygn med stora minnesluckor. Under större delen av tiden sov jag. Det var inte vanlig trötthet och det var inte återhämtning. Jag var i extremt dåligt skick och behövde akutvård — både för min stroke och för det allvarliga tillståndet i mitt hjärta som ännu inte hade upptäckts.
 
-Polisen dokumenterade mig återigen som väldigt förvirrad men någon kontakt med sjukvården finns inte dokumenterad. Det förlängda fönstret för trombektomi kan i vissa fall sträcka sig upp till 24 timmar; bara en akut bedömning och bilddiagnostik hade kunnat visa om det fortfarande var öppet för mig. Den prövningen gjordes inte. Min mamma blev den som till slut agerade.
+Jag förstod inte hur sjuk jag var. Min mamma blev den som till slut agerade.
 
 ## Natten och dagarna
 
-När patrullen grep och kroppsvisiterade mig hittade de inget olagligt. På min nyckelknippa satt däremot ett litet verktyg. När jag inte kunde svara på vad jag använde det till beslagtog de det: enligt polisen gick det inte att utesluta att det kunde användas till något olagligt.
-
-En man som just hade kollapsat av en stroke — gripen, visiterad och misstänkliggjord. Den 17 juli 2026 fick jag efter lång väntan ut delar av polisens övriga material. Det använde jag i kompletteringen som skickades till JO den 7 augusti och i den SU-anmälan som nu är färdig. Vissa begärda uppgifter har fortfarande inte lämnats ut.
-
 När patrullen lämnade mig hos min dåvarande flickvän berättade de ingenting för henne om bilolyckan, akutbesöket eller uppgifterna i sina register. En av poliserna hade ändå läst huvudanmälan om olyckan.
 
-Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus med min iPad — min telefon ligger kvar i skogsdungen vid Källviksbadet. Fotot föreställer en vägg och min bärbara dator. Jag vet inte varför jag tog det. Men GPS-data och tidsstämpel finns kvar i bilden — det är det enda konkreta spåret från den natten.
+Klockan 03:20 på natten mot den 26 juni tar jag ett foto inomhus med min iPad. Min telefon ligger kvar i skogsdungen vid Källviksbadet.
+
+Fotot föreställer en vägg och min bärbara dator. Jag vet inte varför jag tog det. Men GPS-data och tidsstämpel finns kvar i bilden. Det är det enda konkreta spåret från den natten.
 
 Det var fortfarande mycket varmt i Falun. Dagen innan hade jag, mitt under en pågående stroke, gått minst 5,3 kilometer i stark värme. Efteråt var jag extremt trött och kände mig väldigt varm, som om jag hade feber.
 
-Min dåvarande flickvän har senare berättat att jag var vinglig och inte ville äta. Hon gav mig glass — snabb energi som samtidigt svalkade — men hon fick mata mig. Jag ville bara sova och sov i princip hela den 26 juni.
+Min dåvarande flickvän har senare berättat att jag var vinglig och inte ville äta. Hon gav mig glass, men hon fick mata mig. Jag ville bara sova och sov i princip hela den 26 juni.
 
 Det var så illa att jag inte klarade grundläggande saker själv.
 
