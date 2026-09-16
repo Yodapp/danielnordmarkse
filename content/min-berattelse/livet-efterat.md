@@ -1,15 +1,15 @@
 ---
 title: "Livet efteråt"
-description: "De osynliga konsekvenserna av min stroke — kognitiva nedsättningar, hjärntrötthet, isolering, depression och ett liv som försvann."
+description: "De osynliga konsekvenserna av min stroke — kognitiva nedsättningar, varierande energi, isolering, depression och ett liv som förändrades."
 date: 2024-09-15
 weight: 6
 period: "Livet efter stroken"
 ---
 
 
-En vanlig dag börjar med att jag vaknar trött. Om jag går och handlar är det allt jag orkar den dagen. Om jag träffar en vän är det allt jag orkar den dagen. Lägenheten är liten, men efter mer än ett år har jag fortfarande inte lyckats få ordning i den.
+Vissa dagar fungerar jag som de flesta andra. Jag har mycket energi och kan vara social och aktiv en hel dag. De flesta märker inte att jag har haft en stroke. Andra dagar är jag tröttare och har mindre ork. Jag behöver ändå aldrig vila mitt på dagen.
 
-Utifrån ser jag ut att ha återhämtat mig. Jag kan gå, prata och sköta det mest grundläggande. Det som försvann sitter i förmågan att planera, minnas, koncentrera mig och lösa problem. Det var de förmågorna jag byggde både mitt arbete och mitt liv på.
+Jag har ännu inte lärt mig att balansera det här särskilt bra. Under bra perioder vill jag träffa människor och göra saker. Ofta kör jag på för hårt, och det brukar leda till bakslag.
 
 Det här är mitt liv efter stroken.
 
@@ -77,17 +77,13 @@ Före stroken älskade jag att renovera huset, grilla och hitta på spontana sak
 
 Jag förlorade inte bara min arbetsförmåga. Jag förlorade mitt yrke, mitt hus, min ekonomiska trygghet och nästan allt jag tidigare tyckte var roligt.
 
-## Tröttheten och isoleringen
+## Att träffa andra
 
-Vården kallar min ständiga trötthet för [hjärntrötthet](/om-stroke/#post-stroke-fatigue). Rådet jag har fått är att hushålla med den energi jag har. Problemet är att jag nästan aldrig känner att jag har någon energi att hushålla med. Jag är trött när jag vaknar och fortsätter att vara trött tills jag går och lägger mig.
+Jag har ett muntligt körförbud från vården och jag följer det. Det gör det svårare att träffa andra. Jag kan inte hälsa på min mamma så ofta som jag önskar och jag kan inte enkelt ta mig till mina vänner.
 
-Om jag går och handlar är det allt jag orkar den dagen. Om jag träffar en vän är det allt jag orkar den dagen.
+Att åka buss är inte ett fungerande alternativ. Resan kräver mycket planering och många saker att hålla reda på, vilket gör den ansträngande för mig.
 
-Jag har ett muntligt körförbud från vården och jag följer det. Konsekvensen är att jag blir ännu mer isolerad. Jag kan inte hälsa på min mamma så ofta som jag önskar och jag kan inte enkelt ta mig till mina vänner.
-
-Att åka buss är inte ett fungerande alternativ. Resan kräver så mycket planering och så många saker att hålla reda på att jag är helt slut redan när jag kommer fram.
-
-De allra flesta dagar lever jag helt isolerad i min lägenhet. Lägenheten känns mer som ett fängelse än ett hem.
+Det gör att det ibland blir långt mellan gångerna jag kan träffa andra, och då känner jag mig isolerad i min lägenhet.
 
 ## Depressionen och viljan att dö
 
@@ -145,7 +141,7 @@ Men det förändrar inte mitt liv.
 
 Det svåraste att acceptera är att jag aldrig fick den akuta prövning som kunde ha begränsat skadan. Ingen kan i efterhand säga exakt vilken behandling jag hade fått eller hur mycket hjärnvävnad som hade kunnat räddas. Men chansen att göra den bedömningen togs ifrån mig medan tiden fortfarande var avgörande.
 
-Jag kommer antagligen aldrig att kunna arbeta igen. Jag lever isolerad med stora kognitiva nedsättningar och ser inte att jag har någon framtid.
+Jag kommer antagligen aldrig att kunna arbeta igen. Jag har stora kognitiva nedsättningar, lever periodvis isolerad och ser inte att jag har någon framtid.
 
 Jag är arg och besviken på Polis T och Polis S. När jag var i akut behov av vård såg ni en misstänkt brottsling i stället för en människa med en stor stroke.
 
