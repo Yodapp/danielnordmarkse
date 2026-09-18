@@ -91,8 +91,6 @@ Det finns en gräns för hur länge man orkar förlora saker och ändå tänka a
 
 Det har alltså inte stannat vid att jag har *mått psykiskt dåligt* eller haft en vag önskan om att slippa vakna.
 
-Jag skriver inte ut hur. Jag skriver det för att det är sant. Jag skäms inte över det. Att överleva en stroke betyder inte automatiskt att man får tillbaka ett liv man orkar leva.
-
 För mig hänger depressionerna ihop med allt stroken tog: arbetet, huset, självständigheten, vännerna, framtidstron och förmågan att göra det som tidigare gav livet mening. Det är också en del av konsekvenserna. Om jag ska berätta ärligt kan jag inte lämna bort det.
 
 {{< kallruta typ="journal" kalla="Min neuropsykologs sammanfattning" tid="7 juli 2026" >}}
