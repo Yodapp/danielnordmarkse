@@ -125,8 +125,6 @@ Det är därför det är så viktigt för mig att få berätta vad som faktiskt 
 
 ## Varför jag berättar
 
-Jag berättar inte för att vara ett offer. Jag berättar för att det jag gick igenom inte var oundvikligt.
-
 En stroke som inte upptäcktes av ambulansen. En person med tydliga neurologiska symtom som enligt sitt eget minne lämnas vid en tågstation och sedan går minst 5,3 kilometer i stark värme. En vecka utan diagnos och utan skydd mot en ny propp.
 
 Det hände mig. Det kan hända igen. Det kanske händer just nu, någon annanstans, för att systemet inte fångade upp signalerna.
