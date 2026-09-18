@@ -1,17 +1,14 @@
 ---
 title: "Livet efteråt"
-description: "De osynliga konsekvenserna av min stroke — kognitiva nedsättningar, varierande energi, isolering, depression och ett liv som förändrades."
+description: "Om livet efter min stroke: kognitiva svårigheter, arbete, ekonomi, relationer och min ilska över polisens agerande."
 date: 2024-09-15
 weight: 6
 period: "Livet efter stroken"
 ---
 
+Efter stroken ser jag ut att fungera. Jag går, pratar och sköter det mest grundläggande. Det som är sönder syns inte.
 
-Vissa dagar fungerar jag som de flesta andra. Jag har mycket energi och kan vara social och aktiv en hel dag. De flesta märker inte att jag har haft en stroke. Andra dagar är jag tröttare och har mindre ork. Jag behöver ändå aldrig vila mitt på dagen.
-
-Jag har ännu inte lärt mig att balansera det här särskilt bra. Under bra perioder vill jag träffa människor och göra saker. Ofta kör jag på för hårt, och det brukar leda till bakslag.
-
-Det här är mitt liv efter stroken.
+Vissa dagar har jag energi. Jag kan vara social och aktiv hela dagen. De flesta märker då inte att jag haft en stroke. Andra dagar är jag tröttare och har mindre ork. Jag vilar aldrig mitt på dagen — men jag kör ofta på för hårt under bra perioder, och det ger bakslag.
 
 {{< kallruta typ="journal" kalla="Min arbetsterapeuts bedömning under sjukhusvistelsen" tid="4–5 juli 2024" >}}
 Redan på avdelningen dokumenterades personlighetsförändring, förvirring, nedsatt uppmärksamhet och svårigheter att upprätthålla vardagsrutiner. I köket höll jag på att gå in i dörrkarmen på vänster sida, dukade för fyra trots att vi var tre och lämnade kaffekokaren, timern och skåpdörrar öppna. Samtidigt tyckte jag själv att jag kände mig som vanligt.
@@ -19,128 +16,110 @@ Redan på avdelningen dokumenterades personlighetsförändring, förvirring, ned
 
 ## Den första tiden hemma
 
-Jag skrevs ut till mitt hus. Under den första tiden fick jag mycket hjälp. Min mamma höll reda på mina mediciner, körde mig till rehabiliteringen och hjälpte mig med mycket annat. En vän hjälpte mig med ekonomin och min syster med praktiska saker i huset.
+Jag skrevs ut till mitt hus. Min mamma höll reda på medicinerna, körde mig till rehabiliteringen och hjälpte med mycket annat. En vän skötte ekonomin. Min syster tog det praktiska i huset.
 
-Hjälpen fortsatte fram tills huset hade packats ihop och sålts. Därefter har jag bott ensam i min lägenhet utan hjälp i snart ett och ett halvt år.
+Hjälpen fanns kvar tills huset var packat och sålt. Sedan dess har jag bott ensam i lägenheten utan hjälp i snart ett och ett halvt år.
 
-Jag klarar mig själv. Men livet har blivit mycket begränsat.
+Jag klarar mig. Livet är begränsat.
 
 ## Det som inte syns
 
-Kognitiva nedsättningar syns inte utanpå. De är också svåra att själv upptäcka.
+Det som framför allt är skadat är förmågan att planera och organisera. Mediciner och tider. Ekonomin. Myndighetskontakter. Sådant som tidigare gick av sig självt.
 
-Det som framför allt har förändrats är min förmåga att planera och organisera. Sådant som tidigare var självklart — att hålla ordning på mediciner och tider, sköta ekonomin eller kontakta myndigheter — har blivit svårt.
+Under det andra året försökte jag igen med datorn till saker som tidigare varit enkla. Det gick inte. Efter mer än ett år har jag fortfarande inte fått ordning i den lilla ettan. Jag vill. Jag klarar inte att planera och organisera arbetet som krävs.
 
-Under det andra året försökte jag åter använda en dator för att göra sådant som tidigare hade varit enkelt för mig. Det fungerade inte längre. Jag har fortfarande, efter mer än ett år, inte lyckats få ordning i den lilla etta där jag nu bor. Det handlar inte om att jag inte vill. Jag klarar inte längre att planera och organisera arbetet som krävs.
-
-En kognitiv kartläggning visade nedsättningar inom inlärning, minne, kognitiv processhastighet, uppmärksamhet och koncentration. Min neuropsykolog har också beskrivit mina påtagliga svårigheter att starta och avsluta aktiviteter. Saker tar längre tid, även när jag under bättre perioder kan ta till mig stora mängder skriftlig information.
-
-{{< kallruta typ="journal" kalla="Min neuropsykologs sammanfattning av den kognitiva kartläggningen" tid="Kartläggning 26 februari 2025, sammanfattad 7 juli 2026" >}}
-Bedömningen beskriver nedsättningar inom inlärning, minne, kognitiv processhastighet, uppmärksamhet och koncentration. Den beskriver också påtagliga svårigheter att initiera och avbryta aktiviteter. Jag kan periodvis bearbeta stora mängder skriftlig information, men det tar längre tid och jag behöver ofta en yttre påminnelse för att avsluta en aktivitet.
-{{< /kallruta >}}
+En kognitiv kartläggning visade nedsättningar inom inlärning, minne, kognitiv processhastighet, uppmärksamhet och koncentration. Min neuropsykolog har beskrivit påtagliga svårigheter att starta och avsluta aktiviteter. Saker tar längre tid — även när jag under bättre perioder kan ta till mig stora mängder text.
 
 ## Rehabiliteringen som inte finns
 
-Jag har träffat en fysioterapeut, men den kontakten gjorde varken till eller från. Jag har träffat en neuropsykolog som undersökt hur stroken påverkat mig och även varit ett samtalsstöd. En arbetsterapeut ska hjälpa mig att undersöka om någon form av sysselsättning kan vara möjlig framöver.
+Jag har träffat en fysioterapeut. Det gjorde varken till eller från. Jag har träffat en neuropsykolog som undersökt hur stroken påverkat mig och varit samtalsstöd.
 
-Men den rehabilitering jag behöver existerar inte.
+Den rehabilitering jag behöver existerar inte.
 
-Den som drabbas av afasi eller fysiska funktionsnedsättningar kan få konkreta övningar för att träna det som skadats. Med mina omfattande kognitiva nedsättningar har jag i stället mest fått höra att jag måste lära mig att leva med dem. Att det inte finns något att göra.
+Vid afasi eller fysiska skador finns övningar. Vid mina kognitiva nedsättningar har jag mest fått höra att jag ska lära mig leva med dem. Att det inte finns något att göra.
 
-Jag upplever inte att något jag fått genom rehabiliteringen har hjälpt. De strategier som hjälper mig mest har jag hittat själv.
+Inget jag fått genom rehabiliteringen har hjälpt. Strategierna som fungerar har jag hittat själv. Jag använder AI i vardagen. Vårdtider ligger i iPhone-kalendern och syns på Apple Watch. Medicinerna registrerar jag i Apple Hälsa och bockar av i mobilen eller klockan.
 
-Min bakgrund inom IT har gjort det naturligt att använda tekniken som ett kognitivt stöd. Jag använder AI för olika uppgifter i vardagen. Vårdtider lägger jag in i kalendern på min iPhone så att de också visas på min Apple Watch. Jag registrerar mina mediciner i Apple Hälsa och markerar i mobilen eller klockan när jag har tagit dem.
+Jag fungerar för bra för att vården ska ha konkreta insatser. Jag är inte i närheten av att klara ett arbete.
 
-Jag befinner mig i ett vakuum. Jag fungerar för bra för att vården ska ha konkreta rehabiliteringsinsatser att erbjuda. Samtidigt är jag inte i närheten av att klara ett arbete.
+## Arbetet som försvann
 
-## Arbetet och passionen som försvann
+Före stroken var jag systemutvecklare och systemarkitekt. Delägare och teknikansvarig i en större e-handel. Konsultuppdrag genom mitt bolag. Handledare och mentor åt studenter som ville bli utvecklare.
 
-Före stroken var jag en erfaren systemutvecklare och systemarkitekt. Jag var delägare och teknikansvarig i en större e-handel och tog konsultuppdrag genom mitt eget bolag. Jag engagerade mig också som handledare och mentor åt studenter som ville bli systemutvecklare.
-
-Jag kunde ansvara för stora projekt, planera arbetet och leda flera systemutvecklare. Jag kunde hålla komplexa tekniska samband i huvudet, lösa problem och skriva kod.
+Jag ansvarade för stora projekt, planerade arbetet och ledde flera utvecklare. Jag höll komplexa tekniska samband i huvudet, löste problem och skrev kod.
 
 Det kan jag inte längre.
 
-Programmering ställer stora krav på arbetsminne, koncentration och problemlösningsförmåga. Det är precis de funktioner som är kraftigt nedsatta hos mig. Jag kan inte programmera längre.
+Arbetsminne, koncentration och problemlösning — det stroken slog ut — är det programmering kräver. Jag kan inte programmera längre. Det var jobbet. Det var också det jag byggde identitet på. Stroken tog båda.
 
-Programmering var inte bara mitt arbete. Det var min passion och en stor del av min identitet. Min stroke tog även det ifrån mig.
-
-Jag har inte arbetat en enda dag sedan den 25 juni 2024. Efter drygt två år bedömer rehabiliteringen fortfarande att det är tveksamt om jag någonsin kommer att kunna arbeta igen.
+Jag har inte arbetat en enda dag sedan den 25 juni 2024. Efter drygt två år bedömer rehabiliteringen fortfarande att det är tveksamt om jag någonsin kan arbeta igen.
 
 ## Huset och ekonomin
 
-Stroken gjorde att jag behövde sälja mitt hus. Som egenföretagare hade jag haft en relativt god ekonomi, men jag hade inte tagit ut tillräckligt mycket lön från mitt bolag för att få sjukpenning. Jag får därför ingen sjukpenning eller några andra ekonomiska bidrag.
+Stroken tvingade fram försäljning av huset. Som egenföretagare hade jag haft relativt god ekonomi, men jag hade inte tagit ut tillräcklig lön från bolaget för sjukpenning. Jag får ingen sjukpenning och inga andra bidrag.
 
-En vän och min syster hjälpte mig att packa ihop huset, sälja det och köpa den lilla etta där jag bor i dag. Pengarna från husförsäljningen räckte till lägenheten. Det som blev över är det jag nu lever på.
+En vän och min syster hjälpte till att packa, sälja och köpa den lilla etta där jag bor nu. Pengarna från huset räckte till lägenheten. Resten lever jag på.
 
-Före stroken älskade jag att renovera huset, grilla och hitta på spontana saker. Jag kunde hoppa in i bilen och åka och bada. Jag tyckte om att spela tv-spel. Inget av det fungerar längre.
+Före stroken renoverade jag huset, grillade, åkte och badade spontant, spelade tv-spel. Det fungerar inte längre.
 
-Jag förlorade inte bara min arbetsförmåga. Jag förlorade mitt yrke, mitt hus, min ekonomiska trygghet och nästan allt jag tidigare tyckte var roligt.
+Yrket. Huset. Den ekonomiska tryggheten. Nästan allt som tidigare var roligt. Borta.
 
 ## Att träffa andra
 
-Jag har ett muntligt körförbud från vården och jag följer det. Det gör det svårare att träffa andra. Jag kan inte hälsa på min mamma så ofta som jag önskar och jag kan inte enkelt ta mig till mina vänner.
+Jag har muntligt körförbud från vården. Jag följer det. Det gör det svårare att träffa folk. Jag kommer inte till mamma så ofta som jag vill. Jag tar mig inte enkelt till vänner.
 
-Att åka buss är inte ett fungerande alternativ. Resan kräver mycket planering och många saker att hålla reda på, vilket gör den ansträngande för mig.
+Buss funkar dåligt. Resan kräver för mycket planering och för många saker att hålla reda på. Jag är slut innan jag kommit fram.
 
-Det gör att det ibland blir långt mellan gångerna jag kan träffa andra, och då känner jag mig isolerad i min lägenhet.
+Ibland blir det långt mellan gångerna. Då sitter jag isolerad i lägenheten.
 
 ## Depressionen och viljan att dö
 
-Det finns en gräns för hur länge man orkar förlora saker och ändå tänka att livet ska bli bättre. Efter stroken har jag flera gånger hamnat i djupa depressioner och haft konkreta planer på att avsluta mitt liv.
+Efter stroken har jag flera gånger hamnat i djupa depressioner och haft konkreta planer på att avsluta mitt liv.
 
-Det har alltså inte stannat vid att jag har *mått psykiskt dåligt* eller haft en vag önskan om att slippa vakna.
+Inte bara dåligt mående. Inte bara en vag önskan om att slippa vakna. Konkreta planer.
 
-För mig hänger depressionerna ihop med allt stroken tog: arbetet, huset, självständigheten, vännerna, framtidstron och förmågan att göra det som tidigare gav livet mening. Det är också en del av konsekvenserna. Om jag ska berätta ärligt kan jag inte lämna bort det.
-
-{{< kallruta typ="journal" kalla="Min neuropsykologs sammanfattning" tid="7 juli 2026" >}}
-I rehabiliteringens anteckning beskrivs hur mitt mående har varierat. När jag har insett att jag inte fungerar som förut har jag gått in i perioder av depression, haft svårt att hålla grundläggande rutiner och periodvis haft suicidtankar. Anteckningen beskriver suicidtankarna. Att jag också har haft konkreta planer är en del av min egen erfarenhet och berättelse.
-{{< /kallruta >}}
+Det hänger ihop med det stroken tog: arbetet, huset, självständigheten, vännerna, framtidstron och förmågan att göra det som tidigare gav mening. Det är en del av konsekvenserna. Jag utelämnar det inte.
 
 {{< alert >}}
-**Om du själv har självmordstankar:** bär dem inte ensam. Ring 1177 för råd om var du kan söka vård. Om situationen känns outhärdlig eller om du har planer på att ta ditt liv, sök psykiatrisk akutmottagning eller ring 112. [Läs mer hos 1177](https://www.1177.se/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/sjalvmordstankar/).
+**Om du har självmordstankar:** sök vård. 1177 kan vägleda. Vid akut fara — psykiatrisk akutmottagning.
 {{< /alert >}}
 
 ## De som stannade kvar
 
-De flesta av mina vänner har försvunnit. Men två vänner finns fortfarande kvar. De ringer, vi träffas och umgås. De trodde på mig från början, även när andra valde att tro på polisens bild.
+De flesta vännerna försvann. Två finns kvar. De ringer. Vi träffas. De trodde på mig från början, även när andra valde polisens bild.
 
-Jag behöver inte mycket. Men jag behöver ibland få träffa andra människor, komma hemifrån och för en stund känna mig normal. Att inte alltid sitta ensam i min lägenhet.
+Jag behöver inte mycket. Ibland behöver jag träffa någon, komma hemifrån och vara normal en stund — inte bara sitta ensam i lägenheten.
 
-De två vännerna betyder väldigt mycket för mig. Att de har stannat kvar visar vilka som är ens verkliga vänner.
+De två betyder mycket.
 
-Min mamma trodde också på mig. Det var hon som körde mig till akuten och räddade mitt liv när polisen och ambulansen hade svikit mig. Hon hjälpte mig mycket under den första tiden efter stroken och är fortfarande en av de viktigaste personerna i mitt liv.
+Min mamma trodde också på mig. Hon körde mig till akuten den 2 juli. Utan henne hade polisen och ambulansens svek den 25 juni fått stå. Hon hjälpte mycket den första tiden. Hon är fortfarande en av de viktigaste personerna i mitt liv.
 
 ## Vad misstankarna kostade
 
-Konsekvenserna av polisens agerande stannade inte vid den uteblivna vården.
+Polisens agerande slutade inte med den uteblivna vården.
 
-När polisen formellt misstänker någon för att ha kört vårdslöst under tydlig narkotikapåverkan sätter det spår i människors bild av en. Flera vänner har helt tagit avstånd från mig. Det gemensamma för dem är tilliten till polisen: svensk polis skulle inte ljuga, alla poliser är goda — och om de säger att bilolyckan orsakades av att jag var tydligt narkotikapåverkad och körde vårdslöst, då är det så.
+När polisen formellt misstänker någon för vårdslöshet i trafik under tydlig narkotikapåverkan sätter det spår. Flera vänner tog helt avstånd. Det gemensamma: tilliten till polisen. Svensk polis skulle inte ljuga. Alla poliser är goda. Om de säger att olyckan berodde på att jag var tydligt narkotikapåverkad och körde vårdslöst — då är det så.
 
-En vän hjälpte mig med ekonomin och med det praktiska kring husförsäljningen. Det är jag tacksam för. Men han gjorde också tydligt att han inte trodde på min berättelse om vad som hade hänt.
+En vän hjälpte med ekonomin och husförsäljningen. Det är jag tacksam för. Han gjorde också tydligt att han inte trodde på min berättelse.
 
-Jag har flera gånger föreslagit att vi ska träffas och jag har bjudit hem honom på middag. Trots det har kontakten försvunnit. Han finns inte längre i mitt liv och det känns inte som att han bryr sig.
+Jag har föreslagit att vi ska träffas. Jag har bjudit hem honom på middag. Kontakten är borta. Han finns inte i mitt liv. Det känns inte som att han bryr sig.
 
-Det är därför det är så viktigt för mig att få berätta vad som faktiskt hände. Jag har själv gått igenom omkring 1 000 sidor från sjukvården och Polismyndigheten, trots att hjärnskadan gör det svårt för mig att hålla en röd tråd. Jag har inte gjort något fel. Jag körde inte vårdslöst. Det polisen tolkade som drogpåverkan var en stor stroke.
+Jag har gått igenom omkring 1 000 sidor från sjukvården och Polismyndigheten, trots att hjärnskadan gör det svårt att hålla en röd tråd. Jag har inte gjort något fel. Jag körde inte vårdslöst. Det polisen tolkade som drogpåverkan var en stor stroke.
 
-## Varför jag berättar
+## Vad som hände — och vem som bar ansvaret
 
-En stroke som inte upptäcktes av ambulansen. En person med tydliga neurologiska symtom som enligt sitt eget minne lämnas vid en tågstation och sedan går minst 5,3 kilometer i stark värme. En vecka utan diagnos och utan skydd mot en ny propp.
+Ambulansen upptäckte inte stroken. Jag hade tydliga neurologiska symtom. Enligt mitt minne lämnades jag vid tågstationen och gick minst 5,3 kilometer i stark värme. En vecka utan diagnos. En vecka utan skydd mot en ny propp.
 
-Det hände mig. Det kan hända igen. Det kanske händer just nu, någon annanstans, för att systemet inte fångade upp signalerna.
+Det hände. Det kan hända igen.
 
-Om den här berättelsen gör att en person i ambulansen tänker ett extra varv. Om den gör att en polis i liknande situation ringer en ambulans istället för att köra iväg. Om den gör att en anhörig som ser förändringen törs ringa 112.
+Det förändrar inte mitt liv.
 
-Då har det varit värt att berätta.
+Det svåraste: jag fick aldrig den akuta prövning som kunde ha begränsat skadan. Ingen kan i efterhand säga exakt vilken behandling jag hade fått. Chansen togs ifrån mig medan tiden fortfarande var avgörande.
 
-Men det förändrar inte mitt liv.
+Jag kommer antagligen aldrig att kunna arbeta igen. Jag har stora kognitiva nedsättningar. Jag lever periodvis isolerad. Jag ser ingen framtid.
 
-Det svåraste att acceptera är att jag aldrig fick den akuta prövning som kunde ha begränsat skadan. Ingen kan i efterhand säga exakt vilken behandling jag hade fått eller hur mycket hjärnvävnad som hade kunnat räddas. Men chansen att göra den bedömningen togs ifrån mig medan tiden fortfarande var avgörande.
+Jag är rasande på Polis T och Polis S. När jag behövde vård såg ni en misstänkt brottsling — inte en människa med en stor stroke.
 
-Jag kommer antagligen aldrig att kunna arbeta igen. Jag har stora kognitiva nedsättningar, lever periodvis isolerad och ser inte att jag har någon framtid.
-
-Jag är arg och besviken på Polis T och Polis S. När jag var i akut behov av vård såg ni en misstänkt brottsling i stället för en människa med en stor stroke.
-
-Ni låste er vid er teori om att jag var tydligt narkotikapåverkad. Era egna dokumenterade uppgifter pekade samtidigt på ett akut neurologiskt tillstånd, men den samlade bilden finns inte i ambulansens beslutsunderlag. Den förlorade tiden går genom allt som mitt liv har blivit efteråt.
+Ni låste er vid teorin att jag var tydligt narkotikapåverkad. Era egna dokumenterade uppgifter pekade samtidigt på ett akut neurologiskt tillstånd. Den samlade bilden finns inte i ambulansens beslutsunderlag. Jag fick ingen akut bedömning för stroke den dagen. Jag får leva med följderna.
 
 Ni förstörde mitt liv.
