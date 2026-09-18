@@ -68,8 +68,6 @@ Yrket. Huset. Den ekonomiska tryggheten. Nästan allt som tidigare var roligt. B
 
 Jag har muntligt körförbud från vården. Jag följer det. Det gör det svårare att träffa folk. Jag kommer inte till mamma så ofta som jag vill. Jag tar mig inte enkelt till vänner.
 
-Buss funkar dåligt. Resan kräver för mycket planering och för många saker att hålla reda på. Jag är slut innan jag kommit fram.
-
 Ibland blir det långt mellan gångerna. Då sitter jag isolerad i lägenheten.
 
 ## Depressionen och viljan att dö
