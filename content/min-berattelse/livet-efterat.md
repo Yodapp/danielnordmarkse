@@ -6,7 +6,7 @@ weight: 6
 period: "Livet efter stroken"
 ---
 
-Efter stroken ser jag ut att fungera. Jag går, pratar och sköter allt själv. Ingen hjälper mig. Det som är skadat syns inte.
+Efter stroken ser jag ut som vanligt. Jag går, pratar och sköter hela min vardag själv. Jag får ingen hjälp. Mina kognitiva skador syns inte.
 
 Vissa dagar har jag mycket energi. Jag kan vara social och aktiv hela dagen. De flesta märker då inte att jag haft en stroke. Andra dagar är jag tröttare och har mindre ork. Jag vilar aldrig mitt på dagen. Under bra perioder kör jag ofta på för hårt, och det brukar leda till bakslag.
 
