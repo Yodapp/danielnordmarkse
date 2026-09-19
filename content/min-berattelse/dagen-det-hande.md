@@ -127,7 +127,7 @@ Polisen behövde inte ställa någon diagnos. De behövde berätta för ambulans
 
 Senare släppte de mig att gå ensam trots att de själva hade dokumenterat att jag var förvirrad, slö och sluddrig. Jag gick 5,3 kilometer och kollapsade i en skogsdunge.
 
-### Mina anklagelser mot Polis T och Polis S {#min-anklagelse-mot-polis-t-och-polis-s}
+### Polis T:s och Polis S:s ansvar {#min-anklagelse-mot-polis-t-och-polis-s}
 
 Ni fick tunnelseende. Ni såg en brottsmisstänkt och låste er vid teorin att jag var *"tydligt narkotikapåverkad"*. Era egna anteckningar och förhör beskrev förvirring, slöhet, sluddrigt tal, desorientering, vinglig körning på fel sida av vägen och ett vittne som inte fick kontakt med mig.
 
