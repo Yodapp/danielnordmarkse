@@ -6,7 +6,7 @@ weight: 6
 period: "Livet efter stroken"
 ---
 
-Jag bor ensam och sköter hela min vardag utan hjälp. Utifrån syns det sällan vilka skador stroken lämnade.
+Jag bor ensam och sköter min vardag utan hjälp. Utifrån syns det sällan vilka skador stroken lämnade.
 
 Vissa dagar har jag mycket energi. Jag kan vara social och aktiv hela dagen. De flesta märker då inte att jag haft en stroke. Andra dagar är jag tröttare och har mindre ork. Jag vilar aldrig mitt på dagen. Under bra perioder kör jag ofta på för hårt, och det brukar leda till bakslag.
 
