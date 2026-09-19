@@ -38,8 +38,6 @@ Polisen lät arg. Jag minns inte hans ansiktsuttryck, men kroppsspråket uppfatt
 
 Jag berättade att jag hade extrem huvudvärk och problem med synen. Själv trodde jag fortfarande att jag skulle kunna åka hem och vila.
 
-Från tiden efter krocken minns jag nästan ingenting. Det som hände på olycksplatsen återger jag från vittnesuppgifter och polisrapporter.
-
 {{< bild src="img/bilder/olycksplatsen-25-juni-2024.jpg" alt="Daniel sitter i förarsätet i den krockade bilen. En ambulans står intill bilen och en polisbil syns bakom." bildtext="**25 juni 2024.** Jag sitter kvar i bilen medan den stroke som senare bekräftades pågår. Ambulansen och polisen är på plats. Ändå sätts ingen strokekedja i gång." >}}
 
 {{< perspektiv typ="handlingar" >}}
