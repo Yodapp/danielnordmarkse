@@ -99,7 +99,7 @@ I polisrapporten beskrivs jag som slö, förvirrad och sluddrig i talet. Jag had
 Jag försökte förstå ambulanspersonalen samtidigt som Polis T pratade bredvid mig. Jag trodde att jag skulle till akuten för att få hjälp.
 {{< /kallruta >}}
 
-## Vad polisen visste
+## Vad polisen visste {#min-anklagelse-mot-polis-t-och-polis-s}
 
 I larmsamtalet klockan 13:43 sa Vittne A: *"...han är inte med i matchen, jag vet inte om han kan vara sjuk."* Mot slutet tillade han: *"Jag vet inte, det kanske är bra att kolla upp honom."*
 
@@ -126,8 +126,6 @@ Polisen hade uppgifter om förvirring, slöhet, sluddrigt tal, vinglig körning 
 Polisen behövde inte ställa någon diagnos. De behövde berätta för ambulansen vad de själva hade sett och vad vittnena hade sagt. Det gjorde de inte. De förde fram misstanken om narkotikapåverkan och undanhöll den samlade information som pekade på ett akut neurologiskt tillstånd.
 
 Senare släppte de mig att gå ensam trots att de själva hade dokumenterat att jag var förvirrad, slö och sluddrig. Jag gick 5,3 kilometer och kollapsade i en skogsdunge.
-
-### Polis T:s och Polis S:s ansvar {#min-anklagelse-mot-polis-t-och-polis-s}
 
 Ni fick tunnelseende. Ni såg en brottsmisstänkt och låste er vid teorin att jag var *"tydligt narkotikapåverkad"*. Era egna anteckningar och förhör beskrev förvirring, slöhet, sluddrigt tal, desorientering, vinglig körning på fel sida av vägen och ett vittne som inte fick kontakt med mig.
 
