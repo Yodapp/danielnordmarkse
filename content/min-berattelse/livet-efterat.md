@@ -106,16 +106,36 @@ Jag har gått igenom omkring 1 000 sidor från sjukvården och Polismyndigheten,
 
 ## Vad som hände — och vem som bar ansvaret
 
-Ambulansen upptäckte inte stroken. Jag hade tydliga neurologiska symtom. Enligt mitt minne lämnades jag vid tågstationen och gick minst 5,3 kilometer i stark värme. En vecka utan diagnos. En vecka utan skydd mot en ny propp.
+Ambulansen upptäckte inte stroken. Jag hade tydliga neurologiska symtom som polisen och vittnen observerade. Polis T och Polis S undanhöll kritisk information från ambulansen. Den samlade bilden — vittnenas uppgifter och era egna iakttagelser — finns inte i ambulansens dokumenterade beslutsunderlag.
 
-Det hände. Det kan hända igen.
+Jag fick aldrig den akuta bedömning som kunde ha begränsat skadan. Vid den typ av stroke jag hade kan propplösande behandling och mekaniskt avlägsnande av proppen bli aktuella inom snäva tidsfönster. Den prövningen fick jag aldrig.
 
-Det svåraste: jag fick aldrig den akuta prövning som kunde ha begränsat skadan. Ingen kan i efterhand säga exakt vilken behandling jag hade fått. Chansen togs ifrån mig medan tiden fortfarande var avgörande.
+Ni förde mig till akuten. Jag skrevs aldrig in som patient. Det medicinska beslutet togs ifrån vården.
 
-Jag kommer antagligen aldrig att kunna arbeta igen. Jag har stora kognitiva nedsättningar. Jag lever periodvis isolerad. Jag ser ingen framtid.
+Jag kommer antagligen aldrig att kunna arbeta igen. Jag har kognitiva nedsättningar. Jag lever periodvis isolerad. Jag har svårt att se någon framtid.
 
-Jag är rasande på Polis T och Polis S. När jag behövde vård såg ni en misstänkt brottsling — inte en människa med en stor stroke.
+Jag är rasande på Polis T och Polis S.
 
-Ni låste er vid teorin att jag var tydligt narkotikapåverkad. Era egna dokumenterade uppgifter pekade samtidigt på ett akut neurologiskt tillstånd. Den samlade bilden finns inte i ambulansens beslutsunderlag. Jag fick ingen akut bedömning för stroke den dagen.
+När jag behövde akutsjukvård använde ni min sjukdomsbild som bevis för narkotikapåverkan. Ni skrev att jag hade väldigt små pupiller. Ambulansen dokumenterade samtidigt normala pupiller med normal ljusreaktion. Era egna anteckningar beskriver förvirring, slöhet och sluddrigt tal — samma tecken som pekar på stroke. Ni undanhöll den kritiska bilden från ambulansen.
+
+Ni låste er vid teorin att jag var tydligt narkotikapåverkad. Era egna dokumenterade uppgifter pekade samtidigt på ett akut neurologiskt tillstånd.
+
+Jag fick ingen akut bedömning för stroke den dagen. Vittne A sa att jag var helt okontaktbar. Ni dokumenterade sluddrigt tal. Ni undanhöll från ambulansen det den behövde veta.
+
+Ni var noga med att berätta att ni misstänkte mig för grovt drograttfylleri och grov vårdslöshet i trafik. Ni var inte noga med att föra vidare det som pekade på sjukdom.
+
+Polisens logg visar den vingliga körningen längs vägen. Ni hade mer än «precis innan olyckan».
+
+T: i ditt PM uttalar du dig om min status. Du beskriver symtom som talar för akut behov av läkarundersökning. Ändå fortsatte brottsspåret. Handlingarna visar luckor kring när misstankarna delgavs och varför inget formellt förhör hölls trots att svaren dokumenterades.
+
+Varför gick du in i efterhand och ändrade uppgifter i polisens register om vem som fattade beslutet om kroppsbesiktning?
+
+Varför står det ingenting om var, när eller under vilka omständigheter frihetsberövandet upphörde?
+
+Jag blev aldrig åtalad för vårdslöshet i trafik. Jag blev inte dömd för grovt drograttfylleri.
+
+T och S: ni anklagade mig för allvarliga brott medan jag hade en stroke.
+
+Trots månader av förundersökning och åtal blev jag inte dömd för de allvarliga brott ni anklagade mig för.
 
 Ni förstörde mitt liv.
